@@ -12,6 +12,6 @@ Batman spent millions of dollars for a suit with a cape, i made one that brings 
 
 I'm possibly the only comic book character who didn't make his sad life story to gain sympathy from the audience. I did it by getting shot in the asshole. Roses are red. Violets are blue. Fuck you Francis!!! Look at me and you’ll know why you should always use shitloads of sunscreen on a beach in Australia. I'm a smart ass with a great ass. Beat that Superman. I'm possibly the only comic book character who didn't make his sad life story to gain sympathy from the audience. I did it by getting shot in the asshole.
 
-![null](/assets/img/posts/dog revolution.jpg)
+![dog](/assets/img/posts/dog revolution.jpg)
 
 I went to a Victoria’s secret fashion show once…let’s just say I know all her secrets now. Everyone said it was impossible. Everyone doubted me. But I did it, I defeated Ajax being high on 50 pounds of cocaine. People ask me why Spidey also wears red, that's because he's my bitch. Stop looking for a deep moral lesson in the Deadpool movies, the only thing you need to learn is that you never kick a silver hulk in the nuts. I believe all my enemies can fly, that's why I throw them in the air.
