@@ -4,7 +4,7 @@ category: CLANKY
 title: Toto je článek vytvořený na chůzi MO
 date: 2017-05-10T18:08:47.478Z
 author: Já
-image: null
+image: /assets/img/posts/biggest_burger.jpg
 description: popisek
 tags: 'tagy jsou super dvě-slova '
 ---
@@ -19,3 +19,4 @@ Wolverine has claws. Spiderman has his web thing. Professor X has mind powers. M
 ## **I'm possibly the**
 
 only comic book character who didn't make his sad life story to gain sympathy from the audience. I did it by getting shot in the asshole. I believe all my enemies can fly, that's why I throw them in the air. If an ugly fuck like me can get his girl to still him, you can also find love. Just kidding! the real world is a cruel place. There was once a guy named asshole and he was a francis! It’s not that I hate wolverine, it’s just that If we’re both in a desert and I have a glass of water, I’m going to drink it and pee on his bitch face. Lorem ipsum is officially my bitch! I look like the inside of other people’s assholes. Despite having a hot ass.
+
