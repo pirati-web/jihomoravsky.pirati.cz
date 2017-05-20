@@ -1,23 +1,23 @@
 ---
-uid: robert.cuma
-name:     Róbert Čuma  	# běžně používáné jméno
-fullname: Róbert Čuma  	# jméno s tituly etc.
+uid: jaroslav.kupcik
+name:     Jaroslav Kupčík  	# běžně používáné jméno
+fullname: Ing. Jaroslav Kupčík  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
-- pks
-img: people/robert-cuma.jpg   # 165 x 220
-description: Předseda krajského sdružení Jihomoravského kraje a člen dozorčí rady společnosti STAREZ-SPORT a.s.          	# kratký popis, max 160 znaků
+img: people/jaroslav-kupcik.jpg   # 165 x 220
+description: Webový a herní vývojář a vedoucí mediálního odboru Jihomoravského kraje          	# kratký popis, max 160 znaků
 mail:
 - robert.cuma@pirati.cz
 mob:			  
 profiles:
-  github:                 
-  facebook: 		  https://www.facebook.com/robert.cuma.39
-  twitter: 		  
+  github: https://github.com/jerrylabs                
+  facebook: https://www.facebook.com/jerrylabs
+  twitter: https://twitter.com/pirat_jerry		  
   flickr:    
-  wiki: https://wiki.pirati.cz/lide/robert_cuma
-ordpsp: 5 	
-ordpks: 1	  
+  wiki: https://wiki.pirati.cz/lide/jaroslav-kupcik
+  instagrram: https://www.instagram.com/jerrousz/
+
+ordpsp: 7		  
 ---
 
 Róbert Čuma (* 19. ledna 1977) je předseda krajského sdružení Jihomoravského kraje a člen dozorčí rady společnosti STAREZ-SPORT a.s.

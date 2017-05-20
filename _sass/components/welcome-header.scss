@@ -1,7 +1,7 @@
 .c-welcome-header {
   height: 350px;
   position: relative;
-  background: url('../img/header/boat.jpg') no-repeat;
+  background: url('../img/header/nejmenovany_kopec.jpg') no-repeat;
   background-size: cover;
   background-position: center 70%;
   overflow: hidden;
@@ -12,12 +12,10 @@
 
   @include breakpoint(medium down) {
     height: 390px;
-    background-size: 150%;
     background-position: 20% 70%;
   }
 
   @include breakpoint(640px down) {
-    background-size: 190%;
     background-position: 27% 85%;
   }
 
@@ -65,9 +63,9 @@
 
       &:before {
         display: block;
-        width: 177px;
-        height: 130px;
-        bottom: -2rem;
+        width: 300px;
+        height: 175px;
+        bottom: 0;
         left: 50%;
         transform: translateX(-50%);
       }
@@ -146,6 +144,7 @@
   border: 0;
   font-size: 1rem;
   color: #e1e1e1;
+  text-shadow: 0 0 5px black, 0 0 5px black;
 
   br {
     display: none;
