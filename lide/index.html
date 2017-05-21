@@ -10,12 +10,33 @@ layout: default
         <main class="o-section-block">
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
+              <h1>Naši kandidáti</h1>
+              {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
+              {% for item in team limit:6 %}
+                {% assign loopindex = forloop.index | modulo: 2 %}
+                {% if loopindex == 1 %}
+                <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                {% endif %}
+                {% include people/item.html param='item' %}
+                {% if loopindex == 0 %}
+                </div>
+                {% endif %}
+              {% endfor %}
               <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                 <li class="c-simple-accordion-item" data-accordion-item="">
-                  <a href="#psp" class="c-simple-accordion-title">Naši kandidáti</a>
+                  <a href="#psp" class="c-simple-accordion-title">Další kandidáti</a>
                   <div id="psp" class="c-simple-accordion-content" data-tab-content="">
                     {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
-                    {% include people/list-2col.html param=team %}
+                    {% for item in team offset:6 %}
+                      {% assign loopindex = forloop.index | modulo: 2 %}
+                      {% if loopindex == 1 %}
+                      <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                      {% endif %}
+                      {% include people/item.html param='item' %}
+                      {% if loopindex == 0 %}
+                      </div>
+                      {% endif %}
+                    {% endfor %}
                   </div>
                 </li>
               </ul>

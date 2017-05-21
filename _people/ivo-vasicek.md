@@ -14,6 +14,7 @@ profiles:
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ivo%20va%C5%A1%C3%AD%C4%8Dek
   wiki: https://wiki.pirati.cz/lide/ivo_vasicek
   wikipedia: https://cs.wikipedia.org/wiki/Ivo_Va%C5%A1%C3%AD%C4%8Dek
+  linkedin: https://www.linkedin.com/in/ivo-vasicek-68b3661a/
 ordpsp: 4
 ordzast: 1
 ---
