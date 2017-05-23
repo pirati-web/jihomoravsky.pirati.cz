@@ -6,7 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 - pks
 img: people/tomas-vymazal.jpg   # 165 x 220
-description: Tomáš Vymazal je informatik, zahrádkář, majitel malé 3D tiskárny          	# kratký popis, max 160 znaků
+description: Tomáš Vymazal je softwarový analytik, zahrádkář a propágator 3D tisku          	# kratký popis, max 160 znaků
 mail:
 - tomas.vymazal@pirati.cz
 mob:			  +420 774 363 736

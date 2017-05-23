@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/patrik-dolezal.jpg   # 165 x 220
 description: Nezávislý kandidát, aktivní občan, podnikatel a manažer v IT          	# kratký popis, max 160 znaků
 mail:
-- robert.cuma@pirati.cz
+- patrik.dolezal@pirati.cz
 mob:			  
 profiles:              
   facebook: https://www.facebook.com/patrik.dolezal

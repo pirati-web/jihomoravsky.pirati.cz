@@ -6,7 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 - pks
 img: people/radek-holomcik.jpg   # 165 x 220
-description: Lídr jihomoravské kandidátky do Poslanecké sněmovny             	# kratký popis, max 160 znaků
+description: Lídr jihomoravské kandidátky do Poslanecké sněmovny, textař, marketér a místopředseda krajského sdružení            	# kratký popis, max 160 znaků
 mail:
 - radek.holomcik@pirati.cz
 mob:			  +420 728 034 460

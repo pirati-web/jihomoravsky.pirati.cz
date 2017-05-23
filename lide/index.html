@@ -12,6 +12,9 @@ layout: default
             <div class="c-BasicPage-content">
               <div class="jmk-candidates">
                 <h1>Naši kandidáti</h1>
+                <p>
+                  Volte normální lidi, ne psychopaty nebo reptiliány. Všichni naši kandidáti jsou vítězové <a href="https://forum.pirati.cz/krajske-forum-jihomoravsky-kraj-f411/primarni-volby-pro-volby-do-psp-2017-t36031.html">veřejných vnitrostranických primárních voleb</a>. Přímou demokracii a transparentnost myslíme opravdu vážně, chceme je aplikovat na stát a začínáme od sebe.
+                </p>
                 {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
                 {% for item in team limit:6 %}
                   {% assign loopindex = forloop.index | modulo: 2 %}
@@ -30,11 +33,11 @@ layout: default
                   <div id="psp" class="c-simple-accordion-content" data-tab-content="">
                     {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
                     {% for item in team offset:6 %}
-                      {% assign loopindex = forloop.index | modulo: 2 %}
+                      {% assign loopindex = forloop.index | modulo: 3 %}
                       {% if loopindex == 1 %}
                       <div class="row u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
                       {% endif %}
-                      {% include people/item.html param='item' %}
+                      {% include people/item-small.html param='item' %}
                       {% if loopindex == 0 %}
                       </div>
                       {% endif %}

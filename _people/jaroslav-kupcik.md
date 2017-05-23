@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jaroslav-kupcik.jpg   # 165 x 220
 description: Webový a herní vývojář a vedoucí mediálního odboru Jihomoravského kraje          	# kratký popis, max 160 znaků
 mail:
-- robert.cuma@pirati.cz
+- jaroslav.kupcik@pirati.cz
 mob:			  
 profiles:
   github: https://github.com/jerrylabs                
