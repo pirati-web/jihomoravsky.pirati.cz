@@ -7,8 +7,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 img: people/ales-kosina.jpg   # 165 x 220
 description: Auditor řízení kvality a chovatel koček       	# kratký popis, max 160 znaků
 mail:
-- radek.holomcik@pirati.cz
-mob:			  +420 728 034 460
+- ales.kosina@pirati.cz
 profiles:
   facebook: https://www.facebook.com/ales.kosina.73
   wiki: https://wiki.pirati.cz/lide/ales_kosina
