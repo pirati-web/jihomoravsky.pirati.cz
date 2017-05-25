@@ -6,7 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 - zast
 img: people/ivo-vasicek.jpg   # 165 x 220
-description: Absolvent radioelektroniky, manažer, pefagog a člen zastupitelstva Jihomoravského kraje     	# kratký popis, max 160 znaků
+description: Absolvent radioelektroniky, manažer, pedagog a člen zastupitelstva Jihomoravského kraje     	# kratký popis, max 160 znaků
 mail:
 - ivo.vasicek@pirati.cz
 profiles:
