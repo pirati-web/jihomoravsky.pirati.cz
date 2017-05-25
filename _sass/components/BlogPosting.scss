@@ -91,14 +91,16 @@ $bp-ns: '';
 .#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt-contentBox {
   max-width: calc(100% - 293px);
   min-height: 164px;
-  float: right;
+  float: left;
   padding: 10px 0 25px 0;
   position: relative;
+  margin-left: 30px;
 
   @include breakpoint(mobile down) {
     padding: 10px 0 30px 0;
     max-width: none;
     float: none;
+    margin: 0;
   }
 }
 

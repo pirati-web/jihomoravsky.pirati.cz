@@ -32,7 +32,7 @@
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Piráti: {{page.title}}" />
     <meta property="og:description"   content="{{page.excerpt | strip_html }}" />
-    <meta property="og:image"         content="{{page.img | prepend: '/assets/img/articles/' | relative_url}}" />
+    <meta property="og:image"         content="{{page.img | relative_url}}" />
     {% endif %}
     <!-- Fonts -->
     {% if page.layout != 'blank' %}

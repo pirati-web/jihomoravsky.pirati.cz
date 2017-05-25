@@ -191,7 +191,7 @@ $dropdownmenu-border-width: nth($dropdownmenu-border, 1);
     top: 0;
     #{$global-left}: 100%;
     min-width: $dropdownmenu-min-width;
-    z-index: 1;
+    z-index: 10;
     background: $dropdownmenu-background;
     border: $dropdownmenu-border;
 
