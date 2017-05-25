@@ -1,7 +1,7 @@
 ---
 uid: ivo.vasicek
-name:     PaedDr. Ivo Vašíček  	# běžně používáné jméno
-fullname: Ivo Vašíček  	# jméno s tituly etc.
+name:     Ivo Vašíček  	# běžně používáné jméno
+fullname: PaedDr. Ivo Vašíček  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 - zast

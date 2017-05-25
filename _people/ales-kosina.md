@@ -5,7 +5,7 @@ fullname: Mgr. Aleš Kosina  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 img: people/ales-kosina.jpg   # 165 x 220
-description: Auditor řízení kvality a chovatel koček       	# kratký popis, max 160 znaků
+description: Auditor kvality v leteckém průmyslu, školitel a poradce systémů řízení organizací, ve volném čase chovatel britských koček       	# kratký popis, max 160 znaků
 mail:
 - ales.kosina@pirati.cz
 profiles:
