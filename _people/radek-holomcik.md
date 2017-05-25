@@ -15,7 +15,7 @@ profiles:
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=radek%20holom%C4%8D%C3%ADk
   wiki: https://wiki.pirati.cz/lide/radek_holomcik
 ordpsp: 1
-ordpks: 4
+ordpks: 5
 ---
 
 Radek Holomčík (narozen 31. 7. 1985 v Hodoníně) pochází ze Strážnice.
