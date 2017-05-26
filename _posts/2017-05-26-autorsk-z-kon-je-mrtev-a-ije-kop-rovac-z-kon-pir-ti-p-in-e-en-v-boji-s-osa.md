@@ -10,7 +10,7 @@ description: >-
   správci smí vybírat poplatky a udělovat licence i jménem autorů, které
   nezastupují. Pro každou zastupovanou skupinu může existovat jen jeden správce,
   tedy je uzákoněn monopol.
-tags: autorský-zákon kopírovací-monopol OSA Intergram
+tags: kopírovací-zákon autorský-zákon kopírovací-monopol OSA Intergram
 ---
 Možná se vám to už někdy stalo. Přistál vám ve schránce oficiálně vypadající dopis, plný právnických obratů o umožnění kolektivnímu správci vykonávat řádně kolektivní správu (ano, toto je citace z jednoho takového dopisu). Anebo vás rovnou poctil návštěvou neodbytný člověk mávající průkazem, smlouvami a pohrůžkou vysoké pokuty. Pokud patříte mezi drobné podnikatele s vlastní provozovnou – a je jedno, jestli máte kadeřnictví, hospodu, večerku či masážní salon – jistě víte, o kom je řeč. Ochranný svaz autorský, spíše známý jako OSA, ruku v ruce s Intergramem.
 
@@ -29,3 +29,4 @@ Samozřejmě kritika autorského zákona neleží jen na jedné části o kolekt
 Proto je třeba to od základu změnit. Na internetu je mnoho návodů a způsobů, jak se placení výpalného OSA a Intergramu vyhnout – já sama jsem se podílela na tvorbě [jednoho z nich](https://wiki.pirati.cz/hudba/start). A pokud vám kolektivní správci znepříjemňují život až moc, dostane se vám i [právní pomoci](https://wiki.pirati.cz/valkaskolektivnimispravci). Sebevíc je však obcházení špatně nastaveného systému rebelsky příjemné a zamknout pracovníkovi OSA před nosem musí být *velice* uspokojující, je na čase systém změnit. Nebo méně dramaticky, *změnit zákon*.
 
 A teď ta očekávaná politická agitka. Piráti chtějí autorský zákon komplet zrušit a nahradit ho příznačněji nazvaným [kopírovacím zákonem](https://wiki.pirati.cz/kci/zpuv), který reaguje na moderní technologie, ruší kolektivní správce a, ve stručnosti, nebuzeruje. Pokud nechcete trávit hodiny tahanicemi s OSA, vymýšlet alternativy k obyčejnému rádiu a celkově nepřidávat k běžnému stresu kolem živnosti i stres z jejich mafiánských praktik, pomozte nám protlačit kopírovací zákon. Dejte nám v podzimních volbách hlas – protože život nemá být za trest.
+
