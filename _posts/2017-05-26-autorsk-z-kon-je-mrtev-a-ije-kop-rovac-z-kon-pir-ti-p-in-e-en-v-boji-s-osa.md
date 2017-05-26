@@ -30,3 +30,4 @@ Proto je třeba to od základu změnit. Na internetu je mnoho návodů a způsob
 
 A teď ta očekávaná politická agitka. Piráti chtějí autorský zákon komplet zrušit a nahradit ho příznačněji nazvaným [kopírovacím zákonem](https://wiki.pirati.cz/kci/zpuv), který reaguje na moderní technologie, ruší kolektivní správce a, ve stručnosti, nebuzeruje. Pokud nechcete trávit hodiny tahanicemi s OSA, vymýšlet alternativy k obyčejnému rádiu a celkově nepřidávat k běžnému stresu kolem živnosti i stres z jejich mafiánských praktik, pomozte nám protlačit kopírovací zákon. Dejte nám v podzimních volbách hlas – protože život nemá být za trest.
 
+*Autorka je [kandidátka č. 3 na jihomoravské kandidátce](https://jihomoravsky.pirati.cz/lide/marketa-gregorova/) pro volby do PSP ČR 2017 a vedoucí Zahraničního odboru.*
