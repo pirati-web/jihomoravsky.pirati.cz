@@ -4,7 +4,6 @@ name:     Tomáš Vymazal  	# běžně používáné jméno
 fullname: Tomáš Vymazal  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
-- pks
 img: people/tomas-vymazal.jpg   # 165 x 220
 description: Tomáš Vymazal je softwarový analytik, zahrádkář a propágator 3D tisku          	# kratký popis, max 160 znaků
 mail:

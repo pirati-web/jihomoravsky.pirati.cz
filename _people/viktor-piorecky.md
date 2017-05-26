@@ -5,7 +5,7 @@ fullname: Viktor Piorecký  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 img: people/viktor-piorecky.jpg   # 165 x 220
-description: Sociolog, amatérský kytarista, naštvaný antifašista, soukromý vizionář, nadšený konzument současné nemainstreamové kulturya  milující otec a manžel      	# kratký popis, max 160 znaků
+description: Sociolog, amatérský kytarista, naštvaný antifašista, soukromý vizionář, nadšený konzument současné nemainstreamové kultury a milující otec a manžel      	# kratký popis, max 160 znaků
 mail:
 - viktor.piorecky@pirati.cz
 profiles:
