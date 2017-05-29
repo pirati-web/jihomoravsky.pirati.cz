@@ -36,9 +36,10 @@ Dalším důležitým prvkem je navracení přirozených krajinných prvků zadr
 
 ## Je to na nás
 
-Před časem napsal Martin Šmída, místopředseda Pirátské strany, článek s provokativním názvem “[Eroze půdy je větší problém než uprchlíci](http://www.piratskelisty.cz/clanek-1434-martin-smida-eroze-pudy-je-vetsi-problem-nez-uprchlici).” Mimo jiné v něm apeluje na veřejnost, aby k problému eroze půdy (jednoho z původců problémů se suchem) nebyla slepá. Píše zde i to, že by jej potěšilo vidět davy v ulicích s transparentny: “Erozi půdy v ČR nechceme!”
+Před časem napsal Martin Šmída, místopředseda Pirátské strany, článek s provokativním názvem “[Eroze půdy je větší problém než uprchlíci](http://www.piratskelisty.cz/clanek-1434-martin-smida-eroze-pudy-je-vetsi-problem-nez-uprchlici){:target="_blank"}.” Mimo jiné v něm apeluje na veřejnost, aby k problému eroze půdy (jednoho z původců problémů se suchem) nebyla slepá. Píše zde i to, že by jej potěšilo vidět davy v ulicích s transparentny: “Erozi půdy v ČR nechceme!”
 
 Já bych chtěl, aby bylo vidět i heslo “Sucho v ČR nechceme!” Aby si veřejnost i mimo nejvíce zasažené oblasti uvědomila, že je to problém, který se jí týká. A aby lidé hlasitě požadovali po státu řešení. Tedy to, že stát bude chránit zájmy svých občanů. Jen to je totiž cesta k budoucnosti, ve které budeme mít fungující zemědělství, krásnou a zdravou krajinu a hlavně to nejdůležitější - vodu.
 
-*Radek Holomčík je lídrem jihomoravské kandidátky Pirátské strany pro letošní volby do Poslanecké sněmovny. Text je se souhlasem autora převzatý z blogu: [holomcik.blog.idnes.cz](http://holomcik.blog.idnes.cz)**.***
+*Radek Holomčík je lídrem jihomoravské kandidátky Pirátské strany pro letošní volby do Poslanecké sněmovny. Text je se souhlasem autora převzatý z blogu: [holomcik.blog.idnes.cz](http://holomcik.blog.idnes.cz){:target="_blank"}.*
+
 
