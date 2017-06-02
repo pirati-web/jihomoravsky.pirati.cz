@@ -40,6 +40,7 @@ Před časem napsal Martin Šmída, místopředseda Pirátské strany, článek 
 
 Já bych chtěl, aby bylo vidět i heslo “Sucho v ČR nechceme!” Aby si veřejnost i mimo nejvíce zasažené oblasti uvědomila, že je to problém, který se jí týká. A aby lidé hlasitě požadovali po státu řešení. Tedy to, že stát bude chránit zájmy svých občanů. Jen to je totiž cesta k budoucnosti, ve které budeme mít fungující zemědělství, krásnou a zdravou krajinu a hlavně to nejdůležitější - vodu.
 
-*[Radek Holomčík](lide/radek-holomcik/) je lídrem jihomoravské kandidátky Pirátské strany pro letošní volby do Poslanecké sněmovny.*
+*[Radek Holomčík](/lide/radek-holomcik/) je lídrem jihomoravské kandidátky Pirátské strany pro letošní volby do Poslanecké sněmovny.*
+
 
 
