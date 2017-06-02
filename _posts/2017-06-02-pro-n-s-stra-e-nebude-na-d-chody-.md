@@ -15,7 +15,7 @@ V České republice i ve světě se poslední dobou objevují názory, že „ne
 
 Pokud se však podíváme na lidskou společnost a skutečná ekonomická data, zjistíme, že není žádný problém s důchody, ale se systémem, který vychází z chybných  předpokladů.
 
-Všechno, co lidé vyrobí je spotřebováno, spotřebovávají i důchodci. Kdyby důchodci nic nespotřebovávali, klesla by spotřeba a v důsledku i nezaměstnanost. Podívejme se trochu na čísla (zdroj ČSÚ a ČNB):
+Všechno, co lidé vyrobí je spotřebováno, spotřebovávají i důchodci. Kdyby důchodci nic nespotřebovávali, klesla by spotřeba a v důsledku i zaměstnanost. Podívejme se trochu na čísla (zdroj ČSÚ a ČNB):
 
 V roce 2016 byly v ČR pracujícími vytvořeny produkty v hodnotě 4 715 061 miliard Kč. Práci vykonávalo 4 063 200 pracujících. V průměru tedy v roce 2016 jeden pracující vyrobil produkty v hodnotě 1 170 000 Kč. V přepočtu na měsíc 1 170 000/12 = **97 441 Kč**.
 
@@ -43,6 +43,7 @@ Důchodová reforma „pro lidi“ proto musí řešit odpoutání příjmů do 
 Nesmíme připustit redukci člověka na pracovní sílu, kterou je možné „po užití zahodit“.   
 
 *[Ivo Vašíček]({{'/lide/ivo-vasicek/' | relative_url}}) je krajským zastupitelem a kandidátem č. 4 na jihomoravské kandidátce Pirátské strany pro letošní volby do Poslanecké sněmovny.*
+
 
 
 
