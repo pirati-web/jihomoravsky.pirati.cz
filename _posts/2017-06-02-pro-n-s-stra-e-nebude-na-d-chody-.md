@@ -23,6 +23,8 @@ Průměrná hrubá mzda ve stejném období byla 26 643,- Kč, průměrná čis
 
 Pokud by pracující utratili vše, co vydělají, nakoupili by produkty přibližně za 1 bilion Kč. Stát, jehož rozhodujícím příjmem jsou různé formy zdanění pracujících, utratil celkem 1,25 bilionu Kč. Firmy dosáhly hrubých zisků také téměř 1 bilion Kč, přitom přibližně 400 miliard Kč zisků odešlo do zahraničí. Většina naší produkce jde na export, samozřejmě zboží také dovážíme. Ve výsledku vyvezeme zboží v hodnotě o 400 miliard  Kč větší, než kolik dovezeme. Největší podíl na prodané produkci mají investoři inkasující úroky a splátky úvěrů. 
 
+---
+
 | nákupy pracujících - mzdy | 1 |
 | výdaje státu (včetně důchodců 0,52) | 1,25 |
 | zisky (z toho 0,4 do zahraničí) | 0,9 |
@@ -30,7 +32,9 @@ Pokud by pracující utratili vše, co vydělají, nakoupili by produkty přibli
 | kapitalizace a nákl. financování | 1,2 |
 | HDP | 4,75 |
 
-Čísla v bilionech Kč
+*Čísla v bilionech Kč*
+
+---
 
 Naše ekonomika tedy pohodlně uživí nejen pracující a důchodce. Největší užitek z naší práce mají zejména zahraniční investoři. Další investice do zvyšování produktivity budou dále snižovat podíl pracujících na produkci. Nákupem strojů a moderních technologií se zvyšuje produkce a mění struktura nákladů firem. Místo mzdových nákladů, které zahrnují i platby na důchody firmy splácejí úvěry na nákup technologií.
 
@@ -38,5 +42,6 @@ Důchodová reforma „pro lidi“ proto musí řešit odpoutání příjmů do 
 
 Nesmíme připustit redukci člověka na pracovní sílu, kterou je možné „po užití zahodit“.   
 
-*[Ivo Vašíček](/lide/ivo-vasicek/) je krajským zastupitelem a kandidátem č. 4 na jihomoravské kandidátce Pirátské strany pro letošní volby do Poslanecké sněmovny.*
+*[Ivo Vašíček]({{'/lide/ivo-vasicek/' | relative_url}}) je krajským zastupitelem a kandidátem č. 4 na jihomoravské kandidátce Pirátské strany pro letošní volby do Poslanecké sněmovny.*
+
 
