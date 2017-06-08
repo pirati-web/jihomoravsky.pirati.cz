@@ -23,7 +23,7 @@ Proto ignoruju chemii a snažím se v maximální míře používat tzv. statkov
 
 Je potřeba hledat odrůdy, které jsou vůči suchu a horku odolnější. Taky je důležité kombinovat druhy rostlin, které si pomáhají. Například mrkev a cibule - mrkev odpuzuje škůdce cibule a svou bujnou natí kryje půdu, takže zpomaluje odpar vody. Cibule zase odpuzuje škůdce mrkve. Obecně je dobré kombinovat nízké a plazivé rostliny, které pokrývají půdu s těmi, co rostou do výše. Zajímavé je taky používání mykorhizních hub, tedy podhoubí, které se naváže na kořenový systém rostlin a pomáhá mu získávat vodu. Nedávno vyšel [článek o novém způsobu pěstování brambor](http://havlickobrodsky.denik.cz/zpravy_region/novy-zpusob-sazeni-brambor-by-mel-zabranit-erozim-pudy-20170523.html){:target="_blank"}, který jednak zvyšuje výnosy, ale taky pomáhá chránit půdu před erozí. A dalo by se pokračovat dále, příkladů je fakt moc. Co je na tom nejsmutnější, tak celá řada těchto zdánlivě revolučních postupů byla našim předkům známá. To jen my jsme je v honbě za mamonem neustálého zvyšování produkce ad absurdum vytěsnili ze své paměti. Inspirovat se jimi dá a dost často mají tu výhodu, že nejsou nijak složité ani  finančně náročné.
 
-Snažím se prostě svým chováním se jednak smysluplně přizpůsobit, ale hlavně půdu neničit a pomáhat zlepšovat její vlastnosti. Cílem smysluplné zemědělské politiky by měla být podpora využívaní takovýchto postupů, zvláště tam, kde je to možné (a uznávám, že to má své limity) i při hospodaření ve větším.
+Snažím se prostě svým chováním se jednak přizpůsobit, ale hlavně půdu neničit a pomáhat zlepšovat její vlastnosti. Cílem smysluplné zemědělské politiky by měla být podpora využívaní takovýchto postupů, zvláště tam, kde je to možné (a uznávám, že to má své limity) i při hospodaření ve větším.
 
 ## Pomáhat a danit
 
@@ -48,5 +48,6 @@ Základ boje proti suchu je ve vytvoření podmínek, díky kterým to bude pro 
 Proto není boj proti suchu žádným “poroučením větru dešti”, ale jasně vyjádřený požadavek na jednoduchý, transparentní a fungující stát, který nebuzeruje své občany a řeší závažné problémy.
 
 *[Radek Holomčík](https://jihomoravsky.pirati.cz/lide/radek-holomcik/) je lídrem jihomoravské kandidátky Pirátské strany pro letošní volby do Poslanecké sněmovny.*
+
 
 
