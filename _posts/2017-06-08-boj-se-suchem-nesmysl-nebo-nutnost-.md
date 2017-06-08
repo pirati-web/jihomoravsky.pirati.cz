@@ -11,7 +11,7 @@ description: >-
   řeší závažné problémy.
 tags: sucho zemědělství životní-prostředí
 ---
-**Po vydání mého článku “[Sucho v ČR nechceme!](https://jihomoravsky.pirati.cz/tiskove-zpravy/sucho-v-r-nechceme.html)” se vyrojila řada reakcí, povětšinou souhlasných. Ozývaly se ale i hlasy, že jsme (neo)marxisti, kteří chtějí poroučet větru dešti a že máme zcestné myšlenky. S tímhle přístupem se potkávám i při diskuzích.  Jak to tedy je - je boj se suchem nesmysl?**
+Po vydání mého článku “[Sucho v ČR nechceme!](https://jihomoravsky.pirati.cz/tiskove-zpravy/sucho-v-r-nechceme.html)” se vyrojila řada reakcí, povětšinou souhlasných. Ozývaly se ale i hlasy, že jsme (neo)marxisti, kteří chtějí poroučet větru dešti a že máme zcestné myšlenky. S tímhle přístupem se potkávám i při diskuzích.  Jak to tedy je - je boj se suchem nesmysl?
 
 Často mi hlavě zní “modlitba”, která prosí o odvahu měnit věci, co měnit jdou, sílu přijmout ty, co změnit nejdou a moudrost je od sebe rozeznat. A zní mi v hlavě pokaždé, když o suchu přemýšlím. Na změnu klimatu i na to, že prší jinak (méně často, ale ve větším množství) si prostě musíme zvykat a tedy se přizpůsobit. Ale můžeme změnit náš přístup k půdě a krajině.
 
@@ -39,7 +39,7 @@ Co je trápí asi nejvíc je neskutečná buzerace od státu, který po nich chc
 
 A není to zdaleka jen problém zemědělců. Je krásné, že Ministerstvo životního prostředí podporuje například budování nových rybníků. Ale při diskuzi s lidmi, kteří se tomu věnují, zjistíte, že získat všechna potřebná razítka trvá i 2 roky. Prostě není možné, aby stát předstíral, že se snaží něco dělat, ale jakoukoliv snahu zabíjel požadavky na stohy úředních potvrzení. A pak ani nekontroloval, jestli peníze daňových poplatníků, které někomu pošle, jsou využity správně.
 
-**Boj proti suchu, nebo boj proti byrokracii?**
+## Boj proti suchu, nebo boj proti byrokracii?
 
 Snaha vlastní činností nezhoršovat situaci je důležitá. Ale asi to bohužel nestačí. Je třeba vysvětlovat veřejnosti, že se problém sucha týká nás všech. I to, že se dá ledacos dělat - když už ne sucho zcela vyřešit, tak aspoň výrazným způsobem redukovat škody a zastavit zhoršování. A pokud to stávající politická reprezentace nechápe, nebo ignoruje, tak se snažme ji vyměnit.
 
