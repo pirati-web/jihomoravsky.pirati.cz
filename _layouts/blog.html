@@ -91,6 +91,14 @@ layout: default
                 -->
               </div>
             </div>
+            <div class="o-section-inner">
+              <div class="medium-12 large-6 columns">
+                {% if page.authorId %}
+                  {% assign item =  site.people | where_exp:"item","item.uid contains page.authorId" | first %}
+                  {% include people/autor-clanku.html param=""%}
+                {% endif %}
+              </div>
+            </div>
           </div>
         </div>
       </div>

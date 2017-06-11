@@ -4,6 +4,7 @@ category: CLANKY
 title: 'Proč nás straší, že nebude na důchody?'
 date: 2017-06-02T12:06:00.032Z
 author: Ivo Vašíček
+authorId: ivo.vasicek
 image: /assets/img/posts/old-man-time-watch.jpg
 description: >
   Strašení, že nebude na důchody, je hlavně propagandou při prosazování zájmů
@@ -11,7 +12,7 @@ description: >
   kterou je možné „po užití zahodit“.   
 tags: 'ekonomika důchody HDP '
 ---
-V České republice i ve světě se poslední dobou objevují názory, že „nebude na důchody“ a proto se musí provádět důchodové reformy. Všechny navrhované reformy, které jsem měl možnost prostudovat, snižují výdaje na důchody, navrhují zvýšení věku odchodu do důchodu nebo snížení důchodů. 
+V České republice i ve světě se poslední dobou objevují názory, že „nebude na důchody“ a proto se musí provádět důchodové reformy. Všechny navrhované reformy, které jsem měl možnost prostudovat, snižují výdaje na důchody, navrhují zvýšení věku odchodu do důchodu nebo snížení důchodů.
 
 Pokud se však podíváme na lidskou společnost a skutečná ekonomická data, zjistíme, že není žádný problém s důchody, ale se systémem, který vychází z chybných  předpokladů.
 
@@ -21,7 +22,7 @@ V roce 2016 byly v ČR pracujícími vytvořeny produkty v hodnotě 4 715 0
 
 Průměrná hrubá mzda ve stejném období byla 26 643 Kč, průměrná čistá mzda byla **20 500 Kč**. Průměrný pracující si tedy prostřednictvím své výplaty může koupit přibližně 1/5 toho co v práci vytvoří. Daně ze mzdy jsou v ČR tvořeny čtyřmi částkami – zaměstnanec platí 15% daň a odvody 6,5 % na sociální pojištění a 4,5 % zdravotní pojištění, zaměstnavatel platí za zaměstnance 25 % a 9 %. Průměrný mzdový náklad na zaměstnance tedy byl **35 185 Kč**.
 
-Pokud by pracující utratili vše, co vydělají, nakoupili by produkty přibližně za 1 bilion Kč. Stát, jehož rozhodujícím příjmem jsou různé formy zdanění pracujících, utratil celkem 1,25 bilionu Kč. Firmy dosáhly hrubých zisků také téměř 1 bilion Kč, přitom přibližně 400 miliard Kč zisků odešlo do zahraničí. Většina naší produkce jde na export, samozřejmě zboží také dovážíme. Ve výsledku vyvezeme zboží v hodnotě o 400 miliard  Kč větší, než kolik dovezeme. Největší podíl na prodané produkci mají investoři inkasující úroky a splátky úvěrů. 
+Pokud by pracující utratili vše, co vydělají, nakoupili by produkty přibližně za 1 bilion Kč. Stát, jehož rozhodujícím příjmem jsou různé formy zdanění pracujících, utratil celkem 1,25 bilionu Kč. Firmy dosáhly hrubých zisků také téměř 1 bilion Kč, přitom přibližně 400 miliard Kč zisků odešlo do zahraničí. Většina naší produkce jde na export, samozřejmě zboží také dovážíme. Ve výsledku vyvezeme zboží v hodnotě o 400 miliard  Kč větší, než kolik dovezeme. Největší podíl na prodané produkci mají investoři inkasující úroky a splátky úvěrů.
 
 ---
 
@@ -43,7 +44,3 @@ Důchodová reforma „pro lidi“ proto musí řešit odpoutání příjmů do 
 Nesmíme připustit redukci člověka na pracovní sílu, kterou je možné „po užití zahodit“.   
 
 *[Ivo Vašíček]({{'/lide/ivo-vasicek/' | relative_url}}) je krajským zastupitelem a kandidátem č. 4 na jihomoravské kandidátce Pirátské strany pro letošní volby do Poslanecké sněmovny.*
-
-
-
-
