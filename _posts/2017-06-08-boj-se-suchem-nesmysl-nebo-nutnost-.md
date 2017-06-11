@@ -4,6 +4,7 @@ category: CLANKY
 title: 'Boj se suchem: nesmysl, nebo nutnost?'
 date: 2017-06-08T11:26:55.687Z
 author: Radek Holomčík
+authorId: radek.holomcik
 image: /assets/img/posts/2014_druoght (1).jpg
 description: >-
   Boj proti suchu není “poroučením větru dešti”, ale jasně vyjádřený požadavek
@@ -48,6 +49,3 @@ Základ boje proti suchu je ve vytvoření podmínek, díky kterým to bude pro 
 Proto není boj proti suchu žádným “poroučením větru dešti”, ale jasně vyjádřený požadavek na jednoduchý, transparentní a fungující stát, který nebuzeruje své občany a řeší závažné problémy.
 
 *[Radek Holomčík](https://jihomoravsky.pirati.cz/lide/radek-holomcik/) je lídrem jihomoravské kandidátky Pirátské strany pro letošní volby do Poslanecké sněmovny.*
-
-
-
