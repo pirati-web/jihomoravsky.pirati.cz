@@ -21,13 +21,13 @@ layout: default
                   {% if loopindex == 1 %}
                   <div class="row u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
                   {% endif %}
-                  {% include people/item.html param='item' %}
+                  {% include people/kandidat.html param='item' %}
                   {% if loopindex == 0 %}
                   </div>
                   {% endif %}
                 {% endfor %}
               </div>
-              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+              <ul class="c-simple-accordion jmk-candidates" data-accordion="" data-options="allowAllClosed: true">
                 <li class="c-simple-accordion-item" data-accordion-item="">
                   <a href="#psp" class="c-simple-accordion-title">Další kandidáti</a>
                   <div id="psp" class="c-simple-accordion-content" data-tab-content="">
@@ -37,7 +37,7 @@ layout: default
                       {% if loopindex == 1 %}
                       <div class="row u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
                       {% endif %}
-                      {% include people/item-small.html param='item' %}
+                      {% include people/kandidat-small.html param='item' %}
                       {% if loopindex == 0 %}
                       </div>
                       {% endif %}

@@ -68,6 +68,12 @@ layout: default
                   {{content}}
                 </div>
               </div>
+              <div class="medium-12 large-6 columns">
+                {% if page.authorId %}
+                  {% assign item =  site.people | where_exp:"item","item.uid contains page.authorId" | first %}
+                  {% include people/autor-clanku.html param=""%}
+                {% endif %}
+              </div>
               <div class="medium-12 large-4 columns">
                 <div class="c-widget-share-box c-widget-share-box--mediumstacked">
                   <div class="c-widget-share-box-headline">Sdílení je aktem lásky</div>
