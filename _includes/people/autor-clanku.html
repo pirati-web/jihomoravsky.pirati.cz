@@ -3,7 +3,8 @@
 {% endcomment %}
 
 {% assign start_index = item.name | size | minus: 1 %}
-{% if item.name | slice: start_index, 1  contains 'á' %}
+{% assign name_suffix = item.name | slice: start_index, 1 %}
+{% if name_suffix  contains 'á' %}
   <h2>Autorka článku</h2>
 {% else %}
   <h2>Autor článku</h2>
