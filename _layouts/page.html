@@ -22,6 +22,27 @@ layout: default
             </div>
           </article>
           <!-- /Article -->
+          {% assign articles = site.posts | where_exp: "item", "item.authorId == page.uid"  %}
+          {% assign articles_length = articles | size %}
+            {% if articles_length > 0 %}
+              {% assign start_index = page.fullname | size | minus: 1 %}
+              {% assign name_suffix = page.fullname | slice: start_index, 1 %}
+              {% if name_suffix  contains 'á' %}
+                <h2>Články autorky {{ page.fullname }}</h2>
+              {% else %}
+                <h2>Články autora {{ page.fullname }}</h2>
+              {% endif %}
+            {%endif%}
+          {% for article in articles %}
+            <li>
+              <a href="{{article.url | relative_url}}">
+                {{ article.title }}
+              </a>
+            </li>
+          {% endfor %}
+          {% if articles_length > 0 %}
+          </ul>
+          {%endif%}
         </main>
       </div>
     </div>
