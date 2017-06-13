@@ -28,9 +28,9 @@ layout: default
               {% assign start_index = page.fullname | size | minus: 1 %}
               {% assign name_suffix = page.fullname | slice: start_index, 1 %}
               {% if name_suffix  contains 'á' %}
-                <h2>Články autorky {{ page.fullname }}</h2>
+                <h2>Články autorky {{ page.name }}</h2>
               {% else %}
-                <h2>Články autora {{ page.fullname }}</h2>
+                <h2>Články autora {{ page.name }}</h2>
               {% endif %}
             {%endif%}
           {% for article in articles %}
