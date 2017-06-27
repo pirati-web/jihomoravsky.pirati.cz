@@ -51,7 +51,7 @@ defaults:   # defaults values for collection scope
     scope:
       path: "_people"
     values:
-      layout: "page"
+      layout: "member"
       rbar: "people, foto"
   -
     scope:
@@ -68,4 +68,3 @@ defaults:   # defaults values for collection scope
 
 emptyArray: []
 exclude: [vendor]
-

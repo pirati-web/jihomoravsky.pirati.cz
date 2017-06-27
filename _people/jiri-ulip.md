@@ -9,8 +9,7 @@ description: Překladatel, manažer a brněnský zastupitel  	# kratký popis, m
 mail:
 - jiri.ulip@pirati.cz
 mob:			  
-profiles:             
-  facebook:
+profiles:       
   wiki: https://wiki.pirati.cz/lide/jiri_ulip
   linkedin: https://www.linkedin.com/in/jiri-ulip-a9943a20
   twitter: https://twitter.com/JiriUlip

@@ -9,7 +9,6 @@ description:    	# kratký popis, max 160 znaků
 mail:
 - anna.loupova@pirati.cz
 profiles:
-  facebook:
   wiki: https://wiki.pirati.cz/lide/anna_loupova
 ordpsp: 11
 ---

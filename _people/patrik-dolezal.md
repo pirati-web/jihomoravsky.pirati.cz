@@ -10,9 +10,7 @@ mail:
 - patrik.dolezal@pirati.cz
 mob:			  
 profiles:              
-  facebook: https://www.facebook.com/patrik.dolezal
-  twitter: 	  
-  flickr:    
+  facebook: https://www.facebook.com/patrik.dolezal  
   wiki: https://wiki.pirati.cz/lide/patrik_dolezal
 
 ordpsp: 8		  

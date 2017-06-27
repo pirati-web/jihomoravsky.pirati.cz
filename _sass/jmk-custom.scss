@@ -13,3 +13,27 @@
     display: none;
   }
 }
+
+.member-profile {
+  .social-icons {
+    position: relative;
+    bottom: 15px;
+    font-size: 0;
+  }
+
+  .social-icon {
+    margin-right: 10px;
+  }
+
+  h2 {
+    margin-top: 10px;
+  }
+
+  .headline-support {
+    color: #0f9d58;
+  }
+
+  .headline-not-support {
+    color: #c60a12;
+  }
+}
