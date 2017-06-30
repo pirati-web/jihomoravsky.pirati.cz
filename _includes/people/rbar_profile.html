@@ -1,7 +1,7 @@
 <article itemtype="http://schema.org/Person" class="c-Person-preview" itemscope="">
   <a href="{{person.url | relative_url }}" itemprop="url" class="c-Person-preview__url">Profil &rsaquo;</a>
   <!-- Name -->
-  <h2 itemprop="name" class="c-Person-preview__name"> {{person.name}} </h2>
+  <a href="{{person.url | relative_url }}"><h2 itemprop="name" class="c-Person-preview__name"> {{person.name}} </h2></a>
   {% comment %}
   <!-- Birthdate -->
   <div class="c-Person-preview__birthdate"> 6. února 1989 </div>
