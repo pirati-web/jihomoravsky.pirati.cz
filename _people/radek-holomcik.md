@@ -17,10 +17,14 @@ profiles:
 ordpsp: 1
 ordpks: 5
 
-supporting:    Svobodnou společnost a transparentní a fungující stát zajišťující bezpečí a prostředí pro rozvoj a seberealizaci svých občanů
-notsupporting: Privatizaci veřejných statků a redukování lidských bytostí na pouhý prostředek k dosažení zisku
-reason:        Znepokojuje mě postupné ukrajování našich svobod salámovou metodou. Politika by měla být služba občanům, nikoliv soukromý byznys!
-motto:         Kdo se nezajímá o politiku, o toho se bohužel časem začne politika zajímat sama.
+supporting:
+- Stát, který hájí zájmy svých občanů
+- Progresivní politiky, kteří ve 21. století nejen žijí, ale i uvažují
+- Aby se se slovem byrokracie mé děti setkaly leda v dějepisu
+- Vodu. Což znamená bránit pokračujícímu suchu
+
+notsupporting: ["Absurditám a buzeraci ze strany státu", "Aby mě stát mohl šmírovat a přitom mi tajil, jak hospodaří s penězi od lidí", "2.000.000 zákonům a právních norem"]
+motto: ["Politikům se nevěří, politici se kontrolují.", "Karel Kryl"]
 
 ---
 

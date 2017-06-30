@@ -10,13 +10,27 @@ layout: default
   <div class="medium-12 {% if page.rbar == empty %}large-12{% else%}large-8{%endif%} columns">
     <div class="o-section o-section--spaceBot">
       <div class="o-section-inner">
-        <main class="o-section-block member-profile">
+        <main class="o-section-block member-profile c-BasicPage-content">
           <!-- Article -->
-          <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage c-BasicPage-content" itemscope="">
+          <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
             <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
             <h1 itemprop="headline" class="c-BasicPage__title">
                 {%if page.fullname%}{{page.fullname}}{%else%}{{page.title}}{%endif%}
             </h1>
+            {% if page.mail or page.mob %}
+              <div class="contact">
+                {% if page.mob %}
+                  <div class="contact__phone">
+                    <i class="fa fa-phone"></i> {{ page.mob }}
+                  </div>
+                {% endif %}
+                {% if page.mail %}
+                  <div class="contact__mail">
+                    <i class="fa fa-envelope"></i> {{ page.mail }}
+                  </div>
+                {% endif %}
+              </div>
+            {% endif %}
             {% assign profiles_size =  page.profiles | size %}
             {% if profiles_size > 0 %}
               <div class="social-icons">
@@ -90,23 +104,65 @@ layout: default
             {% if page.supporting %}
               <div class="row">
                 <div class="small-12 medium-6 columns">
-                  <h2 class="headline-support">Jsem PRO</h2>
-                  <p>{{ page.supporting }}</p>
+                  <h2>Jsem PRO</h2>
+                  {% if page.supporting.first %}
+                    <ul class="supporting">
+                      {% for item in page.supporting %}
+                        <li>{{ item }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% else %}
+                    <p>{{ page.supporting }}</p>
+                  {% endif %}
                 </div>
                 <div class="small-12 medium-6 columns">
-                  <h2 class="headline-not-support">Jsem PROTI</h2>
-                  <p>{{ page.notsupporting }}</p>
+                  <h2>Jsem PROTI</h2>
+                  {% if page.notsupporting.first %}
+                    <ul class="not-supporting">
+                      {% for item in page.notsupporting %}
+                        <li>{{ item }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% else %}
+                    <p>{{ page.notsupporting }}</p>
+                  {% endif %}
                 </div>
               </div>
             {% endif %}
-            {% if page.reason %}
+            {% if page.reason and page.motto %}
               <div class="row">
                 <div class="small-12 medium-6 columns">
                   <h2>Proč kandiduji</h2>
                   <p>{{ page.reason }}</p>
                 </div>
                 <div class="small-12 medium-6 columns">
-                  <p class="motto">{{ page.motto }}</p>
+                  <div class="motto-wrap">
+                    {% if page.motto.first %}
+                      <p class="motto">{{ page.motto[0] }}</p>
+                      <p class="motto-author">&mdash; {{ page.motto[1] }}
+                    {% else %}
+                      <p class="motto">{{ page.motto }}</p>
+                    {% endif %}
+                  </div>
+                </div>
+              </div>
+            {% else if page.reason or page.motto %}
+              <div class="row">
+                <div class="small-12 medium-8 medium-offset-2 columns">
+                  {% if page.reason %}
+                      <h2>Proč kandiduji</h2>
+                      <p>{{ page.reason }}</p>
+                  {% endif %}
+                  {% if page.motto %}
+                    <div class="motto-wrap">
+                      {% if page.motto.first %}
+                        <p class="motto">{{ page.motto[0] }}</p>
+                        <p class="motto-author">&mdash; {{ page.motto[1] }}
+                      {% else %}
+                        <p class="motto">{{ page.motto }}</p>
+                      {% endif %}
+                    </div>
+                  {% endif %}
                 </div>
               </div>
             {% endif %}

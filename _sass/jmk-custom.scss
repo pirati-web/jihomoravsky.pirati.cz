@@ -29,11 +29,54 @@
     margin-top: 10px;
   }
 
-  .headline-support {
+  .contact {
+    position: relative;
+    bottom: 30px;
+  }
+
+  .contact__mail, .contact__phone {
+    display: inline-block;
+  }
+
+  .contact__phone {
+    padding-right: 10px;
+  }
+
+  .supporting, .not-supporting {
+    margin-bottom: 0.8em;
+    li {
+      padding-left: 20px;
+      &:before {
+        position: absolute;
+        left: 0px;
+        font-size: 100%;
+      }
+    }
+  }
+
+  .supporting li:before {
+    content: '\f058';
     color: #0f9d58;
   }
 
-  .headline-not-support {
+  .not-supporting li:before {
+    content: '\f057';
     color: #c60a12;
   }
+
+  .motto-wrap {
+    background: transparent url('../img/miscellaneous/quotation-marks-right.png') top left no-repeat;
+    padding: 0px 0 10px 60px;
+    background-size: 50px;
+    margin-top: 20px;
+  }
+
+  .motto {
+    font-style: italic;
+  }
+
+  .motto-author {
+    text-align: right;
+  }
+
 }
