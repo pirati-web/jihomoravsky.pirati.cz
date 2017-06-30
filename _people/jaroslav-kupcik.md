@@ -25,11 +25,11 @@ supporting:
 - Transparentnost věcí veřejných a ochranu soukromí u věcí osobních
 - Stát zajišťující bezpečí a prostředí pro rozvoj a seberealizaci svých občanů
 notsupporting:
-- Privatizaci veřejných statků a veřejného prostoru
+- Rozkrádání veřejných statků a veřejného prostoru
 - Zneužívání politiky pro soukromé zisky
 - Redukci člověka na pouhý zdroj pracovní síly
-reason:        Znepokojuje mě postupné ukrajování našich svobod salámovou metodou. Politika by měla být služba občanům, nikoliv soukromý byznys!
-motto:         Kdo se nezajímá o politiku, o toho se bohužel časem začne politika zajímat sama.
+reason: Znepokojuje mě postupné ukrajování našich svobod salámovou metodou. Politika by měla být služba občanům, nikoliv soukromý byznys!
+motto: Kdo se nezajímá o politiku, o toho se bohužel časem začne politika zajímat sama.
 
 ---
 

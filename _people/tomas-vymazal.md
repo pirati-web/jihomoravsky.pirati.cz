@@ -17,7 +17,7 @@ profiles:
 ordpsp: 2
 ---
 
-Tomáš Vymazal (nar. 11. května 1990 v Brně) je členem Pirátské strany od roku 2010. Za tu dobu vystřídal několik stranických funkcí na krajské i celostátní úrovni, připomínkoval a také předkládal návrhy na změny vnitřních předpisů, reprezentoval Piráty na mezinárodních Pirátských konferencích a dokonce sám pořádal dosud nejúspěšnější1) konferenci organizace Pirate Parties International konanou v dubnu 2012 v Praze.
+Tomáš Vymazal (nar. 11. května 1990 v Brně) je členem Pirátské strany od roku 2010. Za tu dobu vystřídal několik stranických funkcí na krajské i celostátní úrovni, připomínkoval a také předkládal návrhy na změny vnitřních předpisů, reprezentoval Piráty na mezinárodních Pirátských konferencích a dokonce sám pořádal dosud nejúspěšnější konferenci organizace Pirate Parties International konanou v dubnu 2012 v Praze.
 
 Tomáš vystudoval brněnské gymnázium na třídě Kapitána Jaroše a pokračoval studiem Aplikované informatiky na Fakultě informatiky Masarykovy univerzity. Toto studium však v únoru 2013 neúspěšně ukončil a na základě čerstvě zavedených pravidel pro uznávání předmětů se rozhodl už se o dokončení studia na FI MUNI ani nepokoušet. Během následujících týdnů a měsíců ochutnal fungování klasického českého úřadů práce a vyzkoušel si i živoření s minimálními příjmy. Vybaven novými zkušenostmi a solidní dávkou motivace si Tomáš v květnu našel zaměstnání ve společnosti Acision (dnes Xura), kde pracuje dosud. Zastává zde pozici Senior support engineer (3. úroveň technické podpory).
 
