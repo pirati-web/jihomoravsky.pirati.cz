@@ -21,7 +21,7 @@ profiles:
 ordpsp: 7		  
 
 supporting:
-- Svobodnou a aktivní společnost
+- Svobodnou, informačně gramotnou a aktivní společnost
 - Transparentnost věcí veřejných a ochranu soukromí u věcí osobních
 - Stát zajišťující bezpečí a prostředí pro rozvoj a seberealizaci svých občanů
 notsupporting:
