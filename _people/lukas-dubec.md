@@ -9,7 +9,6 @@ description: Projektant interiérů, předseda místního sdružení Znojmo   	#
 mail:
 - lukas.dubec@pirati.cz
 profiles:
-  facebook:
   wiki: https://wiki.pirati.cz/lide/lukas_dubec
 ordpsp: 14
 ---

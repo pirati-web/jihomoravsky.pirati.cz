@@ -11,9 +11,6 @@ mail:
 mob:			  
 profiles:              
   facebook: https://www.facebook.com/michal.marciniszyn
-  twitter: 	  
-  flickr:    
-  wiki:
   linkedin: https://www.linkedin.com/in/michal-marciniszyn-9a418a6/
 
 ordpsp: 9

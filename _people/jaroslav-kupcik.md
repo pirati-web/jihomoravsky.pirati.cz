@@ -12,13 +12,18 @@ mob:
 profiles:
   github: https://github.com/jerrylabs                
   facebook: https://www.facebook.com/jerrylabs
-  twitter: https://twitter.com/pirat_jerry		  
-  flickr:    
+  twitter: https://twitter.com/pirat_jerry		
   wiki: https://wiki.pirati.cz/lide/jaroslav_kupcik
-  instagrram: https://www.instagram.com/jerrousz/
+  instagram: https://www.instagram.com/jerrousz/
   linkedin: https://www.linkedin.com/in/jerrylabs
 
 ordpsp: 7		  
+
+supporting:    Svobodnou společnost a transparentní a fungující stát zajišťující bezpečí a prostředí pro rozvoj a seberealizaci svých občanů
+notsupporting: Privatizaci veřejných statků a redukování lidských bytostí na pouhý prostředek k dosažení zisku
+reason:        Znepokojuje mě postupné ukrajování našich svobod salámovou metodou. Politika by měla být služba občanům, nikoliv soukromý byznys!
+motto:         Kdo se nezajímá o politiku, o toho se bohužel časem začne politika zajímat sama.
+
 ---
 
 Jaroslav Kupčík (* 4. června 1986) je členem Pirátské strany od roku 2016. Pochází z Orlové a od roku 2005 žije v Brně.

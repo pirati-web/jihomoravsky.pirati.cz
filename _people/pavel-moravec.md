@@ -9,7 +9,6 @@ description: Expert podpory v mezinárodní společnosti, která vyvíjí a podp
 mail:
 - pavel.moravec@pirati.cz
 profiles:
-  facebook:
   wiki: https://wiki.pirati.cz/lide/pavel_moravec
   twitter: https://twitter.com/piratzbrna
 ordpsp: 13

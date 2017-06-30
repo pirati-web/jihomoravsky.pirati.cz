@@ -10,11 +10,8 @@ description: Softwarový tester, automatizační specialista a člen předsednic
 mail:
 - ondrej.kotas@pirati.cz
 mob: +420 608 828 650		  
-profiles:
-  github:                 
+profiles:              
   facebook: https://www.facebook.com/KRtek.tm
-  twitter: 		  
-  flickr:    
   wiki: https://wiki.pirati.cz/lide/ondrej_kotas
 ordpsp: 6		
 ordpks: 2  

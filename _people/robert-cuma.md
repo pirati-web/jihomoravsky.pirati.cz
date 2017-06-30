@@ -10,11 +10,8 @@ description: Předseda krajského sdružení Jihomoravského kraje a předseda d
 mail:
 - robert.cuma@pirati.cz
 mob:			  
-profiles:
-  github:                 
+profiles:             
   facebook: 		  https://www.facebook.com/robert.cuma.39
-  twitter: 		  
-  flickr:    
   wiki: https://wiki.pirati.cz/lide/robert_cuma
 ordpsp: 5 	
 ordpks: 1	  

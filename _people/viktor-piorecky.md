@@ -9,7 +9,6 @@ description: Sociolog, amatérský kytarista, naštvaný antifašista, soukromý
 mail:
 - viktor.piorecky@pirati.cz
 profiles:
-  facebook:
   wiki: https://wiki.pirati.cz/lide/viktor_piorecky
 ordpsp: 12
 ---

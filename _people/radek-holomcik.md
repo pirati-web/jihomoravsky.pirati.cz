@@ -16,6 +16,16 @@ profiles:
   wiki: https://wiki.pirati.cz/lide/radek_holomcik
 ordpsp: 1
 ordpks: 5
+
+supporting:
+- Stát, který hájí zájmy svých občanů
+- Progresivní politiky, kteří ve 21. století nejen žijí, ale i uvažují
+- Aby se se slovem byrokracie mé děti setkaly leda v dějepisu
+- Vodu. Což znamená bránit pokračujícímu suchu
+
+notsupporting: ["Absurditám a buzeraci ze strany státu", "Aby mě stát mohl šmírovat a přitom mi tajil, jak hospodaří s penězi od lidí", "2.000.000 zákonům a právních norem"]
+motto: ["Politikům se nevěří, politici se kontrolují.", "Karel Kryl"]
+
 ---
 
 Radek Holomčík (narozen 31. 7. 1985 v Hodoníně) pochází ze Strážnice.
@@ -26,7 +36,6 @@ Vystudoval SPŠ v Uherském Hradišti, obor Elektrotechnika. Po střední škole
 
 Od roku 2006 se zabývá marketingem, pracoval v několika agenturách, věnoval se obchodu, produkci i PR. Vyzkoušel si také práci redaktora kulturního měsíčníku, vedl oddělení PR a fundraisingu v sociálních službách. V roce 2015 se naplno začal věnovat brandingu - pomáhá klientům budovat značky a lépe oslovit zákazníky. Pracuje se začínajícími firmami a společnostmi, které přistupují k podnikání inovativně. Díky tomu měl možnost poznat podnikatelské prostředí a problémy, které české podnikatele trápí.
 
-Od roku 2010 se pohybuje ve strážnické komunální politice. V rámci spolupráce s několika sdruženími pořádal (či spolupořádal) celou řadu kulturních a společenských akcí. Je předsedou strážnické kulturní komise a členem krajské komise pro cestovní ruch. Osobní motivace ho přivedla ke dvěma velkým tématům - sucho a finanční šmejdi. 
+Od roku 2010 se pohybuje ve strážnické komunální politice. V rámci spolupráce s několika sdruženími pořádal (či spolupořádal) celou řadu kulturních a společenských akcí. Je předsedou strážnické kulturní komise a členem krajské komise pro cestovní ruch. Osobní motivace ho přivedla ke dvěma velkým tématům - sucho a finanční šmejdi.
 
 Ve volném čase vaří, hraje na basu a píše.
-
