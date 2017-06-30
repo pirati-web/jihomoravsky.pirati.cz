@@ -13,6 +13,9 @@ profiles:
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=Mark%C3%A9ta%20Gregorov%C3%A1%20
   wiki: https://wiki.pirati.cz/lide/marketa_gregorova
   compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=-4.5&soc=-6.26
+  twitter: https://twitter.com/Srandistka
+  youtube: https://www.youtube.com/channel/UC9sCCCSH8NRsimvToKNZ-aw
+  linkedin: https://www.linkedin.com/in/mark%C3%A9ta-gregorov%C3%A1-30333b87/
 ordpsp: 3
 ---
 
