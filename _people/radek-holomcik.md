@@ -14,6 +14,7 @@ profiles:
   facebook: https://www.facebook.com/radek.holomcik
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=radek%20holom%C4%8D%C3%ADk
   wiki: https://wiki.pirati.cz/lide/radek_holomcik
+  linkedin: https://www.linkedin.com/in/radek-holom%C4%8D%C3%ADk-b0ab9391/?ppe=1
 ordpsp: 1
 ordpks: 5
 

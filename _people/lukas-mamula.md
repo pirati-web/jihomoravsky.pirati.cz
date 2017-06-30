@@ -9,6 +9,5 @@ description:    	# kratký popis, max 160 znaků
 mail:
 - lukas.mamula@pirati.cz
 profiles:
-  wiki: https://wiki.pirati.cz/lide/lukas_mamula
 ordpsp: 15
 ---

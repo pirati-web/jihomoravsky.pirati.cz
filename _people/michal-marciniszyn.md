@@ -12,6 +12,7 @@ mob:
 profiles:              
   facebook: https://www.facebook.com/michal.marciniszyn
   linkedin: https://www.linkedin.com/in/michal-marciniszyn-9a418a6/
+  wiki: https://wiki.pirati.cz/lide/michal_marciniszyn
 
 ordpsp: 9
 ---
