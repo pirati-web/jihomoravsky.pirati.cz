@@ -8,7 +8,7 @@ img: people/jaroslav-kupcik.jpg   # 165 x 220
 description: Webový a herní vývojář a vedoucí mediálního odboru Jihomoravského kraje          	# kratký popis, max 160 znaků
 mail:
 - jaroslav.kupcik@pirati.cz
-mob:			  
+mob: +420 608 552 333			  
 profiles:
   github: https://github.com/jerrylabs                
   facebook: https://www.facebook.com/jerrylabs
@@ -16,6 +16,7 @@ profiles:
   wiki: https://wiki.pirati.cz/lide/jaroslav_kupcik
   instagram: https://www.instagram.com/jerrousz/
   linkedin: https://www.linkedin.com/in/jerrylabs
+  compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=-7.25&soc=-5.54
 
 ordpsp: 7		  
 
