@@ -4,7 +4,8 @@ category: CLANKY
 title: Zapojte se do Pirátské kampaně!
 date: 2017-07-18T08:00:00.514Z
 author: Radek Holomčík
-description: Pokud je vám blízká otevřenosti a spolupráce, zajímá vás politika nebo státní správa a chcete zlepšit fungování státu, staňte se součástí Pirátského týmu.
+excerpt: >-
+  Pokud je vám blízká otevřenosti a spolupráce, zajímá vás politika nebo státní správa a chcete zlepšit fungování státu, staňte se součástí Pirátského týmu.
 
 ---
 
