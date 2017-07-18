@@ -28,6 +28,3 @@ V Pirátské straně působila v letech 2013 - 2015 jako vedoucí Zahraničního
 Pro volby do Evropského parlamentu v květnu 2014 byla zvolena jako číslo tři kandidátní listiny, od té doby kandidovala i v krajských volbách v JMK a plánuje pomoci i ve volbách do Poslanecké sněmovny PČR 2017, a to z třetího místa jihomoravské kandidátky.
 
 Aktivně se zajímá o politiku již několik let, zpívá v kapele [Definitivní Ententýk](http://www.ententyk.cz/){:target="_blank"}, předstírá [slavnou ukulelistku](https://www.youtube.com/channel/UC9sCCCSH8NRsimvToKNZ-aw){:target="_blank"}, je závislá na svojí kočce Kočce a při volbách by jí největší radost udělalo, kdyby lidé volili *informovaně*.
-
-Kontakt 
-E-mail: marketa.gregorova@pirati.cz
