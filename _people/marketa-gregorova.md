@@ -1,7 +1,7 @@
 ---
 uid: marketa.gregorova
 name:     Markéta Gregorová  	# běžně používáné jméno
-fullname: Markéta Gregorová  	# jméno s tituly etc.
+fullname: Bc. Markéta Gregorová  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 img: people/marketa-gregorova.jpg   # 165 x 220
