@@ -19,12 +19,15 @@ profiles:
 ordpsp: 3
 ---
 
-Markéta Gregorová (narozena 14. ledna 1993) je členem krajského sdružení Pirátů v Jihomoravském kraji. Pochází z Mostu a od září 2012 se vyskytuje především v Brně. Od prosince 2015 má trvalé bydliště v Tetčicích.
+Markéta Gregorová (\*14. ledna 1993) je členem krajského sdružení Pirátů v Jihomoravském kraji. Pochází z Mostu a od září 2012 se vyskytuje především v Brně. Od prosince 2015 má trvalé bydliště v Tetčicích.
 
-Markéta vystudovala Podkrušnohorské gymnázium v Mostě a v lednu 2016 získala bakalářský titul na Masarykově univerzitě v Brně v oborech Mezinárodní vztahy a Evropská studia. Pracuje nyní jako e-commerce specialista a tester webových aplikací v BizBoxu a v rámci koalice Pirátů a Zelených je členkou Komise Jihomoravského kraje pro meziregionální vztahy.
+Markéta vystudovala Podkrušnohorské gymnázium v Mostě a v lednu 2016 získala bakalářský titul na Masarykově univerzitě v Brně v oborech Mezinárodní vztahy a Evropská studia. Pracuje nyní jako e-commerce specialista a tester webových aplikací v [BizBoxu](http://www.bizbox.cz/){:target="_blank"} a v rámci koalice [Pirátů a Zelených](http://www.zeleniapiratijmk.cz/){:target="_blank"} je členkou Komise Jihomoravského kraje pro meziregionální vztahy.
 
-V Pirátské straně působila v letech 2013 - 2015 jako vedoucí zahraničního odboru, přičemž především v posledním roce mandátu její roli kvůli pracovnímu a studijnímu vytížení víceméně převzal současný vedoucí ZO, Mikuláš Peksa, ačkoli oficiálně roli zastupovala.
+V Pirátské straně působila v letech 2013 - 2015 jako vedoucí Zahraničního odboru, od května 2017 tuto pozici zastává znovu.
 
-Pro volby do Evropského parlamentu v květnu 2014 byla zvolena jako číslo tři kandidátní listiny, od té doby kandidovala i v krajských volbách v JMK a plánuje pomoci i ve volbách do Poslanecké sněmovny PČR 2017.
+Pro volby do Evropského parlamentu v květnu 2014 byla zvolena jako číslo tři kandidátní listiny, od té doby kandidovala i v krajských volbách v JMK a plánuje pomoci i ve volbách do Poslanecké sněmovny PČR 2017, a to z třetího místa jihomoravské kandidátky.
 
-Aktivně se zajímá o politiku již několik let, zpívá v kapele Definitivní Ententýk, předstírá slavnou ukulelistku, je závislá na svojí kočce Kočce a při volbách by jí největší radost udělalo, kdyby lidé volili informovaně.
+Aktivně se zajímá o politiku již několik let, zpívá v kapele [Definitivní Ententýk](http://www.ententyk.cz/){:target="_blank"}, předstírá [slavnou ukulelistku](https://www.youtube.com/channel/UC9sCCCSH8NRsimvToKNZ-aw){:target="_blank"}, je závislá na svojí kočce Kočce a při volbách by jí největší radost udělalo, kdyby lidé volili *informovaně*.
+
+Kontakt 
+E-mail: marketa.gregorova@pirati.cz
