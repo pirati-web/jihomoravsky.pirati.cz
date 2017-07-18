@@ -63,7 +63,7 @@
   .c-BasicPage__meta-filter-block {
     display: inline-block;
     vertical-align: middle;
-    
+
     @include breakpoint(mobile down) {
       display: block;
     }
@@ -310,7 +310,7 @@
 
   ul {
     position: relative;
-    margin-left: 0;
+    margin-left: 30px;
   }
 
   ol,
@@ -344,8 +344,10 @@
     font-family: 'FontAwesome';
     font-size: 0.75rem;
     vertical-align: middle;
-    padding-right: 1rem;
+    padding-top: 6px;
     color: #2785ce;
+    position: absolute;
+	  left: -30px;
   }
 
   h2 {
