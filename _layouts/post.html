@@ -25,8 +25,8 @@ layout: default
                       <i class="fa fa-user" aria-hidden="true"></i>
                       <span itemprop="name" class="c-BlogPosting-excerpt__author">{{page.author}}</span>
                     </span>
+                    {% if page.tags %}
                     <div class="c-BasicPage-tags">
-
                       <span class="c-BasicPage-tags__headline">Tagy</span>
                       <ul class="c-tag-list">
                         {% for tag in page.tags %}
@@ -36,6 +36,7 @@ layout: default
                         {% endfor %}
                       </ul>
                     </div>
+                    {% endif %}
                   </div>
                 </header>
               </div>
@@ -45,6 +46,7 @@ layout: default
       </div>
     </div>
   </div>
+  {% if page.image %}
   <div class="o-section-block o-section-block-fill">
     <div class="c-BasicPage-headline-img">
       <div class="c-BasicPage-headline-bg">
@@ -57,6 +59,7 @@ layout: default
       </div>
     </div>
   </div>
+  {% endif %}
   <div class="row o-section-block">
     <div class="small-12 columns">
       <div class="o-section o-section--noSpaceBottom">
