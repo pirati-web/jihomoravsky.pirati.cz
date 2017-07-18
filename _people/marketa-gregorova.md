@@ -9,7 +9,7 @@ description: Všestranně založená testerka, e-commerce specialistka a vedouc�
 mail:
 - marketa.gregorova@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/Srandistka
+  facebook: https://www.facebook.com/gregorova.marketka
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=Mark%C3%A9ta%20Gregorov%C3%A1%20
   wiki: https://wiki.pirati.cz/lide/marketa_gregorova
   compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=-4.5&soc=-6.26
