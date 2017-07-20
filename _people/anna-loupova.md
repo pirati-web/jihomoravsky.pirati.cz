@@ -9,9 +9,9 @@ description: Majitelka secondhandu, věčná studentka, milovnice přírody, kni
 mail:
 - anna.loupova@pirati.cz
 profiles:
-- wiki: https://wiki.pirati.cz/lide/anna_loupova
-- instagram: https://www.instagram.com/anpuol/
-- facebook: https://www.facebook.com/annaloup
+  wiki: https://wiki.pirati.cz/lide/anna_loupova
+  instagram: https://www.instagram.com/anpuol/
+  facebook: https://www.facebook.com/annaloup
 ordpsp: 11
 ---
 Anna Loupová se narodila v Brně v roce 1990 a zde také žije. Vystudovala gymnázium Slovanské náměstí a nedostudovala několik vysokých škol. Vystřídala všeliká zaměstnání i povolání a v současné době se zabývá komunitním obchodem se zbožím z druhé ruky. 
