@@ -11,3 +11,8 @@ mail:
 profiles:
 ordpsp: 11
 ---
+Anna Loupová se narodila v Brně v roce 1990 a zde také žije. Vystudovala gymnázium Slovanské náměstí a nedostudovala několik vysokých škol. Vystřídala všeliká zaměstnání i povolání a v současné době se zabývá komunitním obchodem se zbožím ze druhé ruky. 
+
+Členkou Pirátské strany se stala na podzim roku 2016, kam ji přitáhla touha měnit věci k lepšímu a shoda s pirátskými myšlenkami. Ráda se zaměřuje na témata jako je ekologie a práva zvířat.
+
+Ve volném čase se věnuje divadlu, zahradě, cyklistice, cestování, čtení a focení.
