@@ -80,5 +80,11 @@
   .motto-author {
     text-align: right;
   }
+}
 
+.c-widget-share-box--directions:before {
+  content: '\f277';
+  top: 20px;
+  right: 0px;
+  transform: rotate(-25deg);
 }
