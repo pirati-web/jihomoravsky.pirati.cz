@@ -1,3 +1,5 @@
+// This is deprecated file, Analytics was moved to Google Tag Manager
+
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-100555379-1']);
 _gaq.push(['_trackPageview']);
