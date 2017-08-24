@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Je opravdu hulení sociální parazitismus?'
+title: 'Je hulení opravdu sociální parazitismus?'
 date: 2017-08-24T10:30:55.687Z
 author: Tomáš Vymazal
 authorId: tomas.vymazal
