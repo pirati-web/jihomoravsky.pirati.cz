@@ -13,19 +13,35 @@ profiles:
   facebook: https://www.facebook.com/patrik.dolezal  
   wiki: https://wiki.pirati.cz/lide/patrik_dolezal
 
+supporting:
+- děti
+- stromy
+- pravdu
+- jednoduchost
+
+notsupporting:
+- blbům, kteří chtějí všechno řídit
+- politikaření
+- exekucím
+
 ordpsp: 8		  
 ---
 
-Patrik Doležal se narodil v lednu 1972, v Brně. Studoval na Střední průmyslové škole Sokolská 1 a na Masarykově univerzitě, dějiny umění na Filozofické fakultě, informatiku na Fakultě informatiky, geoinformatiku na Přírodovědecké fakultě, a právo na Právnické fakultě.
+Patrik Doležal se narodil ve znamení Vodnáře roku 1972 v Brně. Vystudoval dějiny umění na Filozofické fakultě a právo na Právnické fakultě Masarykovy univerzity.
 
-Většinu profesního života se pohyboval v IT oboru, jako soukromý podnikatel, obchodní manažer v nadnárodní společnosti , nebo správce serverů ve fakultní nemocnici. Od září 2013 je stážistou v senátní kanceláři Libora Michálka.
+Věnoval se malbě obrazů, umělecké fotografii (dvě samostatné výstavy), divadlu a modernímu baletu v TD Mimi Fortunae. Byl moderátorem studentského Rádia R.
 
-Ve volném čase se věnoval malbě obrazů, umělecké fotografii (dvě samostatné výstavy), divadlu a modernímu baletu v TD Mimi Fortunae. V současné době je moderátorem studentského Rádia R.
+Většinu profesního života se pohyboval v IT oboru. Později byl stážistou u senátora Libora Michálka a dnes pracuje v advokátní kanceláři. Je členem bezpečnostní komise RmB.
 
-Patrik je ženatý a má tři děti.
+Patrik si vzal dvakrát stejnou ženu, poprvé na lodi a o pár let později v kostele. Mají spolu čtyři děti.
 
-Aktivně se účastnil projektů a akcí občanských iniciativ již před pádem totality, dlouhou dobu se ale nestal členem žádné organizace. Za nejvýznamnější lze pokládat jeho působení při sociálním výboru Rady města Brna, v letech 2006 až 2007. V roce 2013 spoluzaložil tři občanská sdružení, zaměřená na omezení exekučního tlaku a pomáhající obětem exekucí. Účastní se pravidelně setkání Brněnských občanských iniciativ a workshopů watchdogových organizací.
+Aktivně se účastnil akcí občanských iniciativ už před pádem totality, dlouhou dobu se ale nestal členem žádné organizace. S politikou se poprvé potkal jako člen Sociálního výboru Rady města Brna, v letech 2006 a 2007. V létě 2009 vstoupil do právě vznikající České pirátské strany a za čtyři roky vystoupil. V roce 2013 spoluzaložil tři občanská sdružení zaměřená na omezení exekučního tlaku a pomáhající obětem exekucí. V posledních letech se věnuje konkrétním projektům ke zlepšení společenského a politického prostředí.
 
-Patrik vstoupil, v roce 2009, do právě vznikající České pirátské strany. Byl postupně členem Ekonomické a sociální komise, předsedou krajského sdružení, členem Republikového výboru, zakladatelem a vedoucím Personálního odboru pirátské strany.
+**Projekty:**
 
-Od roku 2010 kandidoval za Piráty v každých volbách (mimo prezidentských). Byl lídrem kandidátky v komunálních volbách na podzim 2010 a kandidátem na senátora v roce 2012. V září 2013 ukončil členství v pirátské straně, je nedále registrovaným příznivcem Pirátů. V předčasných volbách kandidoval na druhém místě kandidátky už jako nezávislý kandidát.
+- Festival alternativní kultury
+- Den přímé demokracie
+- Participativní rozpočet města Brna
+- Občanská deska
+- [Návrh zákona o celostátním referendu](http://www.funkcnireferendum.cz){:target="_blank"}
+- Strategie pro zeleň
