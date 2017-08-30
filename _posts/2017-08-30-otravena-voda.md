@@ -8,7 +8,7 @@ authorId: radek.holomcik
 image: /assets/img/posts/rape-blossom.jpg
 description: >-
   Česká republika je v Evropě výjimkou v pokračující podpoře biopaliv, které prokazatelně snižují kvalitu zemědělství. Střet zájmů ústí v brutální devastaci půdy.
-tags: sucho zemědělství životní-prostředí
+tags: zemědělství životní-prostředí poszemní-vody pesticidy
 ---
 
 Český hydrometeorologický ústav zveřejnil výsledky [tříletého výzkumu](http://www.nase-voda.cz/chmu-vetsina-podzemni-vody-cr-je-znecistena-pesticidy/){:target="_blank"}, ze kterého vyplývá, že většina podzemních vod je v ČR kontaminována pesticidy. Za viníky jsou označeny řepka a kukuřice, pěstované jako výchozí suroviny pro výrobu biopaliv. Dostáváme se tak do kritické situace, kdy náš stát podporuje zamoření vodních zdrojů jedy.
