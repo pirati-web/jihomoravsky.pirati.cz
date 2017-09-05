@@ -1,5 +1,5 @@
 ---
-uid: ales.kosina
+uid: tomas.kolacny
 name:     Tomáš Kolačný  	# běžně používáné jméno
 fullname: Bc. Tomáš Kolačný  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
