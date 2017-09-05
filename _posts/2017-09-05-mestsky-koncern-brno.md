@@ -8,7 +8,7 @@ authorId: tomas.kolacny
 image: /assets/img/posts/tomas_kolacny.jpg
 description: >-
   Na dnešním zasedání Zastupitelstva města Brna byl schválen materiál, kterým město souhlasí s řízením městských firem prostřednictvím koncernové struktury. Město tak může nařídit svým firmám, aby neupřednostňovaly své finanční zájmy před zájmy občanů.
-tags: volby poslanecká-sněmovna
+tags: městské-firmy brno
 ---
 Na dnešním zasedání Zastupitelstva města Brna byl schválen materiál, kterým město souhlasí s řízením městských firem prostřednictvím koncernové struktury. Z opozičních lavic k tomuto tématu zaznívá řada výroků, jejichž faktická správnost je při nejmenším pochybná a zaslouží si reakci. 
  
