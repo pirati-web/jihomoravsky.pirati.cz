@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: Ministerstvo zemědělství hájí zájmy lidí. Ale kterých?
-date: 2017-09-06T08:26:55.687Z
+date: 2017-09-06T01:26:55.687Z
 author: Radek Holomčík
 authorId: radek.holomcik
 image: /assets/img/posts/dry_land.jpg
