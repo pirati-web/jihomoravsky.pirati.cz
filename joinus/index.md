@@ -33,6 +33,6 @@ Tohle je asi nejlepší způsob, jak poznat přípravy předvolební kampaně na
 
 **Odborník**: pomáhá v odborných otázkách a využívá při tom svých odborných znalostí (právo, ekonomie, IT, doprava, živ. prostředí,…) k přípravě podkladů a konzultací pro mediální a marketingové výstupy. Buďte naším poradcem v oblasti, které rozumíte.
 
-Pokud pokud jste se v některé z rolí našli, ozvěte se Radku Holomčíkovi [radek.holomcik@pirati.cz](mailto:radek.holomcik@pirati.cz). Jestli vás z toho nic neoslovilo, ale chcete se zapojit, ozvěte se taky. Něco vymyslíme.
+Pokud jste se v některé z rolí našli, ozvěte se Radku Holomčíkovi [radek.holomcik@pirati.cz](mailto:radek.holomcik@pirati.cz). Jestli vás z toho nic neoslovilo, ale chcete se zapojit, ozvěte se taky. Něco vymyslíme.
 
 Těšíme se na setkání a spolupráci!
