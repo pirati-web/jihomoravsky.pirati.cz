@@ -18,7 +18,7 @@ Kde a kdy se můžete setkat s Pirátskou posádkou na plavbě do Poslanecké sn
 * **V pátek 8. a v sobotu 9. září** se budeme pohybovat na Jakubském náměstí v Brně. V sobotu navíc už ‚vypluje‘ naše skákací loď, na kterou jste přispěli drobnými dary i vy. Děkujeme ještě jednou, přijďte si to užít!
 * **V neděli 10. září** vyrazíme do Boskovic a Letovic. Chybět nebude skákací loď, čelo naší kandidátky a spousta informací. Více informací sledujte [na našem FB](https://www.facebook.com/CPS.JMK/){:target="_blank"}.
 * **Pondělí 11. září** zamíříme do Kyjova. Chcete se zapojit do rozdávání novin?  Ozvěte se na [martin.kostka@pirati.cz](mailto:martin.kostka@pirati.cz) a staňte se dobrovolníkem.
-* **Ve středu 13. září** navštívíme Hustopeče, **čtvrtek 14. září** bude patřit v naší tour Kuřimi a **páteční odpoledne 15. září** strávíme s naší skákací lodí v Tišnově.
+*  **V úterý 12. září** navštívíme Židlochovice, **ve středu 13. září** Hustopeče, **čtvrtek 14. září** bude patřit v naší tour Kuřimi a **páteční odpoledne 15. září** strávíme s naší skákací lodí v Tišnově.
 
 Další akce budeme postupně doplňovat, sledujte [náš Facebook](https://www.facebook.com/CPS.JMK/){:target="_blank"} nebo [Twitter](https://twitter.com/PiratiJMK){:target="_blank"}. O novinkách z kampaně také informuje [Radek Holomčík](https://www.facebook.com/holomcik){:target="_blank"}, lídr pirátské kandidátky na jižní Moravě.
 
