@@ -8,7 +8,7 @@ authorId: jaroslav.kupcik
 image: /assets/img/posts/bifling.jpg
 description: >-
   Evropská unie již nechce dotacemi podporovat velké zemědělské podniky, ale česká vláda a tvůrci zemědělské politiky to ignorují. Piráti to rozhodně řešit budou.
-tags: sucho zemědělství životní-prostředí dotace
+tags: školství vzdělávání
 ---
 Těšily se vaše děti v srpnu do školy? A pokud ano, jak dlouho jim to v září vydrželo?
 
@@ -18,15 +18,15 @@ Je již všeobecně uznávaný fakt, že platy českých učitelů i ostatních 
 
 Kdyby se vás někdo zeptal, jaký je smysl školství, možná by vás napadla odpověď: vzdělání. Bohužel, kromě nečetných výjimek ve skutečnosti současné školy vzdělání zajímá až téměř někde na posledním místě. Když jsem se během své krátké pedagogické kariéry ptal svých žáků, proč vlastně chodí do školy, odpověděli mi: "Abychom neměli absenci."
 
-Jak je možné, že národ z něhož pochází jeden z největších světových pedagogů Komenský, dopracoval svůj systém pro předávání znalostí a moudrosti budoucím generacím do tak žalostného a bezútěšného stavu? Odpověď se skrývá jak jinak než v minulosti.
+Jak je možné, že národ, z něhož pochází jeden z největších světových pedagogů Komenský, dopracoval svůj systém pro předávání znalostí a moudrosti budoucím generacím do tak žalostného a bezútěšného stavu? Odpověď se skrývá jak jinak než v minulosti.
 
-Když v roce 1774 zaváděla Marie Terezie povinnou školní docházku, její motivace byla zejména utlumit vliv církve na formování myšlení občanů monarchie. Šlo v první řadě o to, vychovávat občany tak, aby se utlumilo riziko rebelií či převratů, jinými slovy konzervace státního zřízení a aparátu. Bohužel se od té doby mnoho nezměnilo!
+Když v roce 1774 zaváděla Marie Terezie povinnou školní docházku, její motivace byla zejména utlumit vliv církve na formování myšlení občanů monarchie. Šlo v první řadě o to vychovávat občany tak, aby se utlumilo riziko rebelií či převratů, jinými slovy konzervace státního zřízení a aparátu. Bohužel se od té doby mnoho nezměnilo!
 
 Další políček svobodnému a efektivnímu školství byla dlouhá desetiletí komunistického režimu, kdy se přísně hlídalo, aby mezi pedagogy neproniknul podvratný živel a aby žáci byli poctivě očkováni státem propagovanou ideologií.
 
 Zatímco komunismus v ČR v roce 1989 skončil, školy se pořád snaží vychovávat poslušné členy stáda, pracovníky osmihodinových směn v manufakturách a uniformně přemýšlející dokonale průměrné členy teď už konzumní společnosti.
 
-Pokud se žák ve škole nudí, má otázky na jejichž řešení je intelekt pedagoga krátký, či ho soustavný dril a monotónnost ubíjí, je vyhodnocen jako problémový či drzý, nevhodný a chybný kus. Prakticky zde není prostor pro individuální přístup a donucovacími prostředky je nakonec nucen držet hubu a krok.
+Pokud se žák ve škole nudí, má otázky, na jejichž řešení je intelekt pedagoga krátký, či ho soustavný dril a monotónnost ubíjí, je vyhodnocen jako problémový či drzý, nevhodný a chybný kus. Prakticky zde není prostor pro individuální přístup a donucovacími prostředky je nakonec nucen držet hubu a krok.
 
 Není to problém jenom [českého školství](https://www.youtube.com/watch?v=7zhSneIZ4os){:target="_blank"}, kdy pokus o "sériovou výrobu" aplikovaný na lidské jedince selhává. Každý člověk oplývá jiným nadáním či talenty a současné školství bývá často úspěšné akorát v tom demonstrovat svým obětem, jaké všechny obory je nebudou bavit.
 
