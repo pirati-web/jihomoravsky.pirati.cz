@@ -20,7 +20,7 @@ ordzast: 1
 
 supporting:
 - Zapojení občanů do rozhodování -posílení přímé demokracie a přímou odpovědnost politiků.
-- Přizpůsobení daňových systémů nové technologické situací a snižování zdanění práce.
+- Přizpůsobení daňových systémů nové technologické situaci a snižování zdanění práce.
 - Maximální využití nových technologií pro zlepšení kvality života.
 notsupporting:
 - Omezování občanských svobod a přístupu k informacím.
