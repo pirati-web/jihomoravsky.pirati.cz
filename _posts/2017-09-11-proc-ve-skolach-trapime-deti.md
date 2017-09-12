@@ -28,7 +28,7 @@ Zatímco komunismus v ČR v roce 1989 skončil, školy se pořád snaží vychov
 
 Pokud se žák ve škole nudí, má otázky, na jejichž řešení je intelekt pedagoga krátký, či ho soustavný dril a monotónnost ubíjí, je vyhodnocen jako problémový či drzý, nevhodný a chybný kus. Prakticky zde není prostor pro individuální přístup a donucovacími prostředky je nakonec nucen držet hubu a krok.
 
-Není to problém jenom [českého školství](https://www.youtube.com/watch?v=7zhSneIZ4os){:target="_blank"}, kdy pokus o "sériovou výrobu" aplikovaný na lidské jedince selhává. Každý člověk oplývá jiným nadáním či talenty a současné školství bývá často úspěšné akorát v tom demonstrovat svým obětem, jaké všechny obory je nebudou bavit.
+Není to [problém jenom českého školství](https://www.youtube.com/watch?v=7zhSneIZ4os){:target="_blank"}, kdy pokus o "sériovou výrobu" aplikovaný na lidské jedince selhává. Každý člověk oplývá jiným nadáním či talenty a současné školství bývá často úspěšné akorát v tom demonstrovat svým obětem, jaké všechny obory je nebudou bavit.
 
 Jaké jsou možnosti jak aktuální trend zvrátit? Možná se budete divit, ale ve skutečnosti by stačilo dát některým tendencím ve společnosti volný průběh. Lidé totiž ve skutečnosti touží po vzdělání, jsou od přírody zvědaví, kreativní a zejména v mládí jsou fascinováni novými věcmi a rádi experimentují.
 
