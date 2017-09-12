@@ -12,11 +12,11 @@ tags: školství vzdělávání
 ---
 Těšily se vaše děti v srpnu do školy? A pokud ano, jak dlouho jim to v září vydrželo?
 
-České školství je jedno z častých témat veřejné diskuze. Ačkoliv se snadno ztrácí mezi kauzami typu další "vtipný výrok" pana prezidenta či kšefty čelních představitelů naší země, narozdíl od nich nezmizí za pár let v propadlišti dějin jako loňský sníh. S přibývajícím časem se bude problém špatné koncepce vzdělání zvětšovat a zvětšovat, až se jednoho dne probereme v [Absurdistánu](https://www.csfd.cz/film/185578-absurdistan/prehled/){:target="_blank"}. Neřešením tohoto problému si zaděláváme na [pořádný průšvih do budoucna](https://www.irozhlas.cz/komentare/cesko-si-zvolilo-nejjistejsi-cestu-k-chudobe-a-zaostalosti_1706290630_mos){:target="_blank"}.
+České školství je jedno z častých témat veřejné diskuze. Ačkoliv se snadno ztrácí mezi kauzami typu další „vtipný výrok“ pana prezidenta či kšefty čelních představitelů naší země, narozdíl od nich nezmizí za pár let v propadlišti dějin jako loňský sníh. S přibývajícím časem se bude problém špatné koncepce vzdělání zvětšovat a zvětšovat, až se jednoho dne probereme v [Absurdistánu](https://www.csfd.cz/film/185578-absurdistan/prehled/){:target="_blank"}. Neřešením tohoto problému si zaděláváme na [pořádný průšvih do budoucna](https://www.irozhlas.cz/komentare/cesko-si-zvolilo-nejjistejsi-cestu-k-chudobe-a-zaostalosti_1706290630_mos){:target="_blank"}.
 
 Je již všeobecně uznávaný fakt, že platy českých učitelů i ostatních pracovníků ve školství jsou neskutečně podhodnoceny. Na nutnosti jejich zvýšení se shodnou lidé prakticky [napříč celou společností](http://www.ceskatelevize.cz/ct24/domaci/2079777-poslanci-podporili-karierni-rad-ucitelu-pedagogum-prinese-vyssi-platy){:target="_blank"}. Kde na to vzít peníze je aktuálně řešený a ne úplně [jednoznačný problém](https://zpravy.aktualne.cz/domaci/ministerstva-nemohou-na-rust-platu-dat-zadne-usetrene-penize/r~ebe23f28949c11e7b4dc0025900fea04/?redirected=1505149820){:target="_blank"}. Rád bych se ale zaměřil na jinou, poměrně opomíjenou stránku věci, a to, jaký vliv má aktuální nastavení školství na jeho největší oběti: žáky a studenty.
 
-Kdyby se vás někdo zeptal, jaký je smysl školství, možná by vás napadla odpověď: vzdělání. Bohužel, kromě nečetných výjimek ve skutečnosti současné školy vzdělání zajímá až téměř někde na posledním místě. Když jsem se během své krátké pedagogické kariéry ptal svých žáků, proč vlastně chodí do školy, odpověděli mi: "Abychom neměli absenci."
+Kdyby se vás někdo zeptal, jaký je smysl školství, možná by vás napadla odpověď: vzdělání. Bohužel, kromě nečetných výjimek ve skutečnosti současné školy vzdělání zajímá až téměř někde na posledním místě. Když jsem se během své krátké pedagogické kariéry ptal svých žáků, proč vlastně chodí do školy, odpověděli mi: „Abychom neměli absenci.“
 
 Jak je možné, že národ, z něhož pochází jeden z největších světových pedagogů Komenský, dopracoval svůj systém pro předávání znalostí a moudrosti budoucím generacím do tak žalostného a bezútěšného stavu? Odpověď se skrývá jak jinak než v minulosti.
 
@@ -28,7 +28,7 @@ Zatímco komunismus v ČR v roce 1989 skončil, školy se pořád snaží vychov
 
 Pokud se žák ve škole nudí, má otázky, na jejichž řešení je intelekt pedagoga krátký, či ho soustavný dril a monotónnost ubíjí, je vyhodnocen jako problémový či drzý, nevhodný a chybný kus. Prakticky zde není prostor pro individuální přístup a donucovacími prostředky je nakonec nucen držet hubu a krok.
 
-Není to [problém jenom českého školství](https://www.youtube.com/watch?v=7zhSneIZ4os){:target="_blank"}, kdy pokus o "sériovou výrobu" aplikovaný na lidské jedince selhává. Každý člověk oplývá jiným nadáním či talenty a současné školství bývá často úspěšné akorát v tom demonstrovat svým obětem, jaké všechny obory je nebudou bavit.
+Není to [problém jenom českého školství](https://www.youtube.com/watch?v=7zhSneIZ4os){:target="_blank"}, kdy pokus o „sériovou výrobu“ aplikovaný na lidské jedince selhává. Každý člověk oplývá jiným nadáním či talenty a současné školství bývá často úspěšné akorát v tom demonstrovat svým obětem, jaké všechny obory je nebudou bavit.
 
 Jaké jsou možnosti jak aktuální trend zvrátit? Možná se budete divit, ale ve skutečnosti by stačilo dát některým tendencím ve společnosti volný průběh. Lidé totiž ve skutečnosti touží po vzdělání, jsou od přírody zvědaví, kreativní a zejména v mládí jsou fascinováni novými věcmi a rádi experimentují.
 
