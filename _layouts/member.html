@@ -116,9 +116,17 @@ layout: default
                   {% endif %}
                 </div>
                 <div class="small-12 medium-6 columns">
-                  <h2>Jsem PROTI</h2>
+                  {% if page.name == 'Mária Vašíčková' %}
+                    <h2>Nejsem PROTI ničemu</h2>
+                  {% else if %}
+                    <h2>Jsem PROTI</h2>
+                  {% endif %}
                   {% if page.notsupporting.first %}
-                    <ul class="not-supporting">
+                    {% if page.name == 'Mária Vašíčková' %}
+                      <ul class="supporting">
+                    {% else if %}
+                      <ul class="not-supporting">
+                    {% endif %}
                       {% for item in page.notsupporting %}
                         <li>{{ item }}</li>
                       {% endfor %}

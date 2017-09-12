@@ -8,6 +8,7 @@ img: people/marketa-gregorova.jpg   # 165 x 220
 description: Všestranně založená testerka, e-commerce specialistka a vedoucí zahraničního odboru Pirátské strany    	# kratký popis, max 160 znaků
 mail:
 - marketa.gregorova@pirati.cz
+mob: 728 700 937
 profiles:
   facebook: https://www.facebook.com/gregorova.marketka
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=Mark%C3%A9ta%20Gregorov%C3%A1%20
@@ -17,6 +18,16 @@ profiles:
   youtube: https://www.youtube.com/channel/UC9sCCCSH8NRsimvToKNZ-aw
   linkedin: https://www.linkedin.com/in/mark%C3%A9ta-gregorov%C3%A1-30333b87/
 ordpsp: 3
+supporting:
+- Elektronizaci státní správy.
+- Dál žít v míru.
+- Svobodnější život, i za cenu zvýšené zodpovědnosti.
+notsupporting:
+- OSA a dalším kolektivním správcům.
+- Zbytečnosti. Zbytečné byrokracii, zbytečným chybám.
+- Zakonzervovanosti, co brání v pokroku.
+reason: Není mi to jedno. Jsme vyspělá společnost ve skvělém čase - a vůbec svůj potenciál nevyužíváme tak, jak bychom mohli. Chci lepší přítomnost i budoucnost a chci se na tom podílet. Protože kdo jiný za mě vytvoří takovou budoucnost, jakou si já přeji?
+motto:  Největší radost by mi udělalo, kdyby lidé volili informovaně.
 ---
 
 Markéta Gregorová (\*14. ledna 1993) je členem krajského sdružení Pirátů v Jihomoravském kraji. Pochází z Mostu a od září 2012 se vyskytuje především v Brně. Od prosince 2015 má trvalé bydliště v Tetčicích.

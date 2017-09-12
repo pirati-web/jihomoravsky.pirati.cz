@@ -27,10 +27,7 @@ layout: default
                   {% endif %}
                 {% endfor %}
               </div>
-              <ul class="c-simple-accordion jmk-candidates" data-accordion="" data-options="allowAllClosed: true">
-                <li class="c-simple-accordion-item" data-accordion-item="">
-                  <a href="#psp" class="c-simple-accordion-title">Další kandidáti</a>
-                  <div id="psp" class="c-simple-accordion-content" data-tab-content="">
+            
                     {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
                     {% for item in team offset:6 %}
                       {% assign loopindex = forloop.index | modulo: 3 %}
@@ -42,9 +39,7 @@ layout: default
                       </div>
                       {% endif %}
                     {% endfor %}
-                  </div>
-                </li>
-              </ul>
+
               <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                 <li class="c-simple-accordion-item" data-accordion-item="">
                   <a href="#zast" class="c-simple-accordion-title">Naši zastupitelé</a>

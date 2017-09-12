@@ -15,10 +15,24 @@ profiles:
   wiki: https://wiki.pirati.cz/lide/robert_cuma
 ordpsp: 5 	
 ordpks: 1	  
+
+supporting:
+- svobodný život
+- nepodmíněný základní příjem
+- mír a lásku
+notsupporting:
+- zneužívání technologií k masovému sledování občanů
+- privatizaci zisků a socializaci ztrát
+- netolerantním náckům
+reason: 'Využívám své právo: podílet se aktivně na budoucnosti naší země je určitě lepší, než nadávat u piva.'
+motto: ["Veřejné záležitosti patří do veřejnosti. Co se všech týká stejnou měrou, měli by všichni řešit, nebo o tom přinejmenším vědět.", "Jan Amos Komenský"]
+
 ---
 
-Róbert Čuma (* 19. ledna 1977) je předseda krajského sdružení Jihomoravského kraje a člen dozorčí rady společnosti STAREZ-SPORT a.s.
+Róbert Čuma (* 19. ledna 1977), předseda krajského sdružení Pirátů Jihomoravského kraje, předseda dozorčí rady brněnské městské společnosti STAREZ-SPORT, a.s.
 
-Od roku 1989 žije v Brně. Je jednatelem společnosti AIR SHAPE production s.r.o, která vyrábí venkovní reklamu. Byl jedním z iniciátorů pomoci nespravedlivě stíhaným growshopům, v pilotní kauze Piráti uhradili část nákladů na soudní řízení majitelům brněnské společnosti Mazar. Bojuje za legalizaci marihuany, protože nechápe, jak může být konopí oficiálně uznaným léčivem a zároveň látkou, za jejíž držení/pěstování/prodej můžete být trestně stíháni.
+Posledních 10 let pracuje jako ředitel ve firmě AIR SHAPE production s.r.o., která vyrábí venkovní reklamu.
 
-Hraje tenis, plave a jezdí na kole. Hodně čte. Zbytek volného času tráví ve společnosti svých blízkých a hraním počítačových her.
+Inicioval finanční pomoc Pirátské strany nespravedlivě stíhaným growshopům, protože nesouhlasí s účelovou kriminalizací specializovaných prodejců pěstebních pomůcek, které lze běžně koupit v každém nadnárodním hobby marketu. Je přesvědčen, že konopí musí být v ČR co nejdříve legálně dostupné i pro rekreační účely, jako např. v Coloradu (USA).
+
+Je členem Mensa ČR, hraje tenis, plave a jezdí na kole. Hodně čte. Zbytek volného času tráví ve společnosti svých blízkých a hraním počítačových her.
