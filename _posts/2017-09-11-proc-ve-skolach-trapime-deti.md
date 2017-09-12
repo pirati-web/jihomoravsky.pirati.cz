@@ -36,12 +36,12 @@ Proč ministerstvo školství nepovoluje nové školy s alternativním způsobem
 
 O nutnosti individualizace výuky a rozšíření volitelných předmětů jsem rovněž došel ve své závěrečné práci v rámci doplňujícího pedagogického studia na UJAZ FEKT VUT.
 
-Bohužel pro politický estabilishment zleva zůstává školstvím stále pouze způsobem jak (mimochodem neefektivně) vychovávat občany ke spořádanému životu podle určených pravidel, protože v tomto myšlenkovém modelu ví údajně stát lépe než jeho občané, co je pro ně nejlepší.
+Bohužel pro politický estabilishment zleva zůstává školství stále pouze způsobem jak (mimochodem neefektivně) vychovávat občany ke spořádanému životu podle určených pravidel, protože v tomto myšlenkovém modelu ví údajně stát lépe než jeho občané, co je pro ně nejlepší.
 
 Závěrem bych ještě rád doplnil, že pro politiky z druhé části politického spektra představuje školství často akorát pouze další oblast, na které lze vydělávat peníze. Ačkoliv takový přístup může někdy zlepšit efektivitu školství, chtěl bych varovat před omezováním dostupnosti vzdělání pro široké vrstvy obyvatelstva. Vzdělání není zboží, stát nesmí nutit vystupovat své občany ze školy do života s hromadou dluhů na krku a jiným vzdělání odepírat úplně.
 
 Stát by měl své zásahy do vzdělání minimalizovat a definovat zejména to, co má žák v kterém roce zvládnout za učivo. Metody, jakými se toho docílí, by už pak měly být záležitostí jednotlivých škol a jejich svobodného výběru rodiči. Měla by být umožněna domácí výuka, soukromí lektoři a zakládání transparentních celků a skupin, které žákům vzdělání mohou poskytovat. Stát by měl zaručit kvalitní vzdělání všem občanům a nikoliv je vychovávat. Ačkoliv to některým vyhovovat může, měla by zde být dostupná možnost volby.
 
-Piráti jsou stranou, která si přeje vzdělanou a informovanou společnost a tyto myšlenky s námi sdílí i strana odborné veřejnosti [Pět procent pro vzdělávání](http://www.petprocent.cz/){:target="_blank"} s jejíž podporou letos kandidujeme do Poslanecké sněmovny. Více o pirátském programu v oblasti vzdělání si můžete [přečíst zde](https://www.pirati.cz/program/psp2017/vzdelavani-a-veda/){:target="_blank"}.
+Piráti jsou stranou, která si přeje vzdělanou a informovanou společnost a tyto myšlenky s námi sdílí i strana odborné veřejnosti [Pět procent pro vzdělávání](http://www.petprocent.cz/){:target="_blank"}, s jejíž podporou letos kandidujeme do Poslanecké sněmovny. Více o pirátském programu v oblasti vzdělání si můžete [přečíst zde](https://www.pirati.cz/program/psp2017/vzdelavani-a-veda/){:target="_blank"}.
 
 *Autor působil 3 roky jako pedagog na střední škole.*
