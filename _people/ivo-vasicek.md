@@ -17,6 +17,17 @@ profiles:
   linkedin: https://www.linkedin.com/in/ivo-vasicek-68b3661a/
 ordpsp: 4
 ordzast: 1
+
+supporting:
+- Zapojení občanů do rozhodování -posílení přímé demokracie a přímou odpovědnost politiků.
+- Přizpůsobení daňových systémů nové technologické situací a snižování zdanění práce.
+- Maximální využití nových technologií pro zlepšení kvality života.
+notsupporting:
+- Omezování občanských svobod a přístupu k informacím.
+- Využívání ČR jako zdroje levné pracovní síly.
+- Nadvládě finančních institucí a oligarchů nad politikou.
+reason: Chci zastavit omezování občanů dalšími restrikcemi, a zrušit současná přehnaná omezení a regulace.
+motto: Skutečná svoboda slova je právo říkat lidem to, co nechtějí slyšet.
 ---
 
 Ivo Vašíček (* 5. prosince 1961 Olomouc). Ivo vyrůstal a studoval v Brně (doktorát v roce 1986). Má čtyři děti a žije v Čejkovicích.
