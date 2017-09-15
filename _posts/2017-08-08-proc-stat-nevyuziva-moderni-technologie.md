@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Proč​ ​stát​ ​nevyužívá​ ​moderní​ ​technologie?' 
-date: 2017-09-15T12:06:00.032Z
+date: 2017-09-15T01:06:00.032Z
 author: Ivo Vašíček
 authorId: ivo.vasicek
 image: /assets/img/posts/Ivo_clanek.jpg
