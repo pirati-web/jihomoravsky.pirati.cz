@@ -7,10 +7,8 @@ author: Ivo Vašíček
 authorId: ivo.vasicek
 image: /assets/img/posts/Ivo_clanek.jpg
 description: >
-  Strašení, že nebude na důchody, je hlavně propagandou při prosazování zájmů
-  nadnárodních investorů. Nesmíme připustit redukci člověka na pracovní sílu,
-  kterou je možné „po užití zahodit“.   
-tags: 'ekonomika důchody HDP '
+  Proč Ministerstvo nevyužívá pro své výzkumy data a technologie 21. století? Piráti to chtějí změnit.  
+tags: 'doprava transparence digitalizace výzkum'
 ---
 
 Když jsem zjistil, ​že tento týden začíná první celostátní průzkum dopravního chování - „Česko v
