@@ -5,7 +5,7 @@ title: 'Proč​ ​stát​ ​nevyužívá​ ​moderní​ ​technologie?'
 date: 2017-06-02T12:06:00.032Z
 author: Ivo Vašíček
 authorId: ivo.vasicek
-image: /assets/img/posts/old-man-time-watch.jpg
+image: /assets/img/posts/Ivo_clanek.jpg
 description: >
   Strašení, že nebude na důchody, je hlavně propagandou při prosazování zájmů
   nadnárodních investorů. Nesmíme připustit redukci člověka na pracovní sílu,
