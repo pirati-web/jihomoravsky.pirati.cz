@@ -10,13 +10,6 @@ mail:
 - danpaw@seznam.cz
 mob: +420 724 311 362  
 profiles:
-  github: https://github.com/jerrylabs                
-  facebook: https://www.facebook.com/jerrylabs
-  twitter: https://twitter.com/pirat_jerry		
-  wiki: https://wiki.pirati.cz/lide/jaroslav_kupcik
-  instagram: https://www.instagram.com/jerrousz/
-  linkedin: https://www.linkedin.com/in/jerrylabs
-  compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=-7.25&soc=-5.54
 
 ordpsp: 26		  
 
