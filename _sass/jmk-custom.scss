@@ -14,6 +14,27 @@
   }
 }
 
+.jmk-candidates-rest .row {
+  padding-top: 2rem;
+  margin-top: 2rem;
+  position: relative;
+
+  &:before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 1.25rem;
+    right: 1.25rem;
+    top: 0rem;
+    height: 1px;
+    background: #f3f3f3;
+  }
+
+  &:after {
+    clear: both;
+  }
+}
+
 .member-profile {
   .social-icons {
     position: relative;

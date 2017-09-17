@@ -27,24 +27,22 @@ layout: default
                   {% endif %}
                 {% endfor %}
               </div>
-              <ul class="c-simple-accordion jmk-candidates" data-accordion="" data-options="allowAllClosed: true">
-                <li class="c-simple-accordion-item" data-accordion-item="">
-                  <a href="#psp" class="c-simple-accordion-title">Další kandidáti</a>
-                  <div id="psp" class="c-simple-accordion-content" data-tab-content="">
-                    {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
-                    {% for item in team offset:6 %}
-                      {% assign loopindex = forloop.index | modulo: 3 %}
-                      {% if loopindex == 1 %}
-                      <div class="row u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                      {% endif %}
-                      {% include people/kandidat-small.html param='item' %}
-                      {% if loopindex == 0 %}
-                      </div>
-                      {% endif %}
-                    {% endfor %}
-                  </div>
-                </li>
-              </ul>
+
+              <div class="jmk-candidates jmk-candidates-rest">
+                  {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
+                  {% assign lastItemIndex = site.people.size | minus: 7 %}
+                  {% for item in team offset:6 %}
+                    {% assign loopindex = forloop.index | modulo: 3 %}
+                    {% if loopindex == 1 %}
+                    <div class="row u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                    {% endif %}
+                    {% include people/kandidat-small.html param='item' %}
+                    {% if loopindex == 0 or forloop.index == lastItemIndex %}
+                    </div>
+                    {% endif %}
+                  {% endfor %}
+              <div>
+
               <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                 <li class="c-simple-accordion-item" data-accordion-item="">
                   <a href="#zast" class="c-simple-accordion-title">Naši zastupitelé</a>
