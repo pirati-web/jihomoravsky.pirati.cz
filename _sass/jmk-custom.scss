@@ -109,3 +109,18 @@
   right: 0px;
   transform: rotate(-25deg);
 }
+
+.bubble {
+  position: absolute;
+  top: 18px;
+  right: 190px;
+  background: transparent url(../img/miscellaneous/speech.png) center center no-repeat;
+  background-size: contain;
+  width: 118px;
+  height: 94px !important;
+  padding-top: 15px;
+  text-align: center;
+  @include breakpoint(medium down) {
+    display: none;
+  }
+}
