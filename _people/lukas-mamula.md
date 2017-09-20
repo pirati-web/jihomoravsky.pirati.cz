@@ -44,7 +44,8 @@ Svůj volný čas věnuje běhání, cyklistice, plavání, horské turistice a 
 
 Díky mnoha letům stráveným v prostředí českého školství si mohl udělat obrázek o tom, jak české školství funguje a co je potřeba upravit a naopak zanechat. Jako politik by chtěl řešit reformy ve školství, v oblasti životního prostředí, ale také například dlouho a mnoha lidmi očekávanou legalizaci konopí. Dále digitalizaci státní správy a s tím spojenou transparenci výběrových řízeních státních zakázek.
 
-**Články autora Lukáš Mamula**
+##Články autora Lukáš Mamula
+
 * [Koncept Hayekova stroje pro řízení robotů Khepera IV ve sborníku Kognícia a umelý život 2015](
 http://docplayer.net/2815863-Kognicia-a-umely-zivot-2015.html){:target="_blank"}.
 
