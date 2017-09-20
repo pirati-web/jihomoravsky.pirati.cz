@@ -8,7 +8,7 @@ mail:
 -  bernardova.d@gmail.com
 mob: 732 850 803
 img: people/denisa-bernardova.jpg   # 165 x 220
-description:   	# kratký popis, max 160 znaků
+description: Studentka, učitelka, aktivistka, věčný snílek o lepším vzdělávání.  	# kratký popis, max 160 znaků
 profiles:
   linkedin: https://www.linkedin.com/in/denisa-bernardova-06259896/
   facebook: https://www.facebook.com/denisa.eleanor.bernardova
