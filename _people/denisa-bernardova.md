@@ -7,7 +7,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 mail:
 -  bernardova.d@gmail.com
 mob: 732 850 803
-img: people/denisa-bernardova.png   # 165 x 220
+img: people/denisa-bernardova.jpg   # 165 x 220
 description:   	# kratký popis, max 160 znaků
 profiles:
   linkedin: https://www.linkedin.com/in/denisa-bernardova-06259896/
