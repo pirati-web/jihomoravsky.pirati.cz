@@ -11,9 +11,9 @@ mail:
 mob: 723 369 280
 
 profiles:
-  facebook:
-  linkedin:
-  wiki:
+  facebook: https://www.facebook.com/lukas.michal
+  linkedin: https://www.linkedin.com/in/luk%C3%A1%C5%A1-mamula-61785a20/
+  wiki: https://wiki.pirati.cz/lide/lukas_mamula
 ordpsp: 15
 
 supporting:
