@@ -17,16 +17,16 @@ profiles:
 ordpsp: 2
 
 supporting:
-– regulovanou legalizaci samopěstování a komerčního nakládání s konopím pro dospělé občany ČR
-– možnost zřídit si v hospodě dobře odvětrávanou místnost určenou ke kouření
-– povinnost zveřejňovat studijní materiály vytvořené za peníze daňových poplatníků
-– adopce dětí LGBT páry, důslednou odluku církve od státu a maximální svobodu slova
+- regulovanou legalizaci samopěstování a komerčního nakládání s konopím pro dospělé občany ČR
+- možnost zřídit si v hospodě dobře odvětrávanou místnost určenou ke kouření
+- povinnost zveřejňovat studijní materiály vytvořené za peníze daňových poplatníků
+- adopce dětí LGBT páry, důslednou odluku církve od státu a maximální svobodu slova
 
 notsupporting:
-– snahám bránit lidem v odpočinku a rekreaci pod zástěrkou ochrany jejich zdraví
-– suchu a nekonečným lánům plodin, které ničí naši krajinu
-– závislosti na jednom dodavateli a jinému plýtvání veřejnými prostředky
-– dojíždění na městský úřad kvůli každé maličkosti
+- snahám bránit lidem v odpočinku a rekreaci pod zástěrkou ochrany jejich zdraví
+- suchu a nekonečným lánům plodin, které ničí naši krajinu
+- závislosti na jednom dodavateli a jinému plýtvání veřejnými prostředky
+- dojíždění na městský úřad kvůli každé maličkosti
 reason: 'Do poslanecké sněmovny kandiduji protože chci změnit současnou represivní drogovou politiku tak, aby řešila skutečné problémy, chci pomoci vybudovat přívětivou elektronickou státní správu, abychom s ní mohli komunikovat z pohodlí domova, chci zabránit devastaci české krajiny současným systémem zemědělských dotací a trvám na tom, že dílo, které bylo vytvořeno pro stát nebo státním zaměstnancem, má být veřejné.'
 motto: 'Za padesát let prohibice konopí se nepodařilo prokázat žádný z argumentů, které k jejímu zavedení vedly. Od začátku za ní stálo jen pokrytectví a osobní zájem zainteresovaných podnikavých jedinců. Chci to napravit, chci regulovanou legalizaci pěstování a komerčního nakládání s konopím.'
 ---
