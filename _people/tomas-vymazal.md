@@ -27,12 +27,8 @@ notsupporting:
 – suchu a nekonečným lánům plodin, které ničí naši krajinu
 – závislosti na jednom dodavateli a jinému plýtvání veřejnými prostředky
 – dojíždění na městský úřad kvůli každé maličkosti
-
-reason: "Do poslanecké sněmovny kandiduji protože chci změnit současnou represivní drogovou politiku tak, aby řešila skutečné problémy, chci pomoci vybudovat přívětivou elektronickou státní správu, abychom s ní mohli komunikovat z pohodlí domova, chci zabránit devastaci české krajiny současným systémem zemědělských dotací a trvám na tom, že dílo, které bylo vytvořeno pro stát nebo státním zaměstnancem, má být veřejné."
-
-motto: "Za padesát let prohibice konopí se nepodařilo prokázat žádný z argumentů, které k jejímu zavedení vedly. Od začátku za ní stálo jen pokrytectví a osobní zájem zainteresovaných podnikavých jedinců. Chci to napravit, chci regulovanou legalizaci pěstování a komerčního nakládání s konopím."
-
-
+reason: 'Do poslanecké sněmovny kandiduji protože chci změnit současnou represivní drogovou politiku tak, aby řešila skutečné problémy, chci pomoci vybudovat přívětivou elektronickou státní správu, abychom s ní mohli komunikovat z pohodlí domova, chci zabránit devastaci české krajiny současným systémem zemědělských dotací a trvám na tom, že dílo, které bylo vytvořeno pro stát nebo státním zaměstnancem, má být veřejné.'
+motto: 'Za padesát let prohibice konopí se nepodařilo prokázat žádný z argumentů, které k jejímu zavedení vedly. Od začátku za ní stálo jen pokrytectví a osobní zájem zainteresovaných podnikavých jedinců. Chci to napravit, chci regulovanou legalizaci pěstování a komerčního nakládání s konopím.'
 ---
 
 Tomáš Vymazal je informatik, zahrádkář a nadšenec do robotiky. Členem Pirátské strany je od roku 2010. Žije v Brně a poslední čtyři roky je tam zaměstnán v softwarové společnosti zabývající se telekomunikacemi. Od září 2016 je členem Komise informatiky a otevřenosti radnice Rady města Brna, kde se zaměřuje na odstraňování závislosti na jednom dodavateli a prosazení používání svobodného software. V říjnu 2016 kandidoval na třetím místě koaliční kandidátky do krajského zastupitelstva jihomoravského kraje, avšak díky volebnímu výsledku 5.11% na mandát těsně nedosáhl.
