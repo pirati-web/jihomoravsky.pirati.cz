@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Proč​ ​stát​ ​nevyužívá​ ​moderní​ ​technologie?' 
+title: 'Proč​ ​stát​ ​nevyužívá​ ​moderní​ ​technologie?'
 date: 2017-09-15T01:06:00.032Z
 author: Ivo Vašíček
 authorId: ivo.vasicek
@@ -15,7 +15,7 @@ Když jsem zjistil, ​že tento týden začíná první celostátní průzkum d
 pohybu“, očekával jsem, ​že bude proveden dnes dostupnými technologickými prostředky. Mýlil jsem
 se. Průzkum budou provádět dotazníkovou metodou pomocí sčítacích komisařů. Do průzkumu byl
 zařazen vzorek [čtyřiceti tisíc náhodně vybraných českých domácností](https://ekonomika.idnes.cz/doprava-pruzkum-chovani-ministr-tok-dvu-/eko-doprava.aspx?c=A1709
-12_160039_eko-doprava_ane). Průzkum bude stát 13,7 milionu Kč.
+12_160039_eko-doprava_ane){:target="_blank"}. Průzkum bude stát 13,7 milionu Kč.
 
 Mít informace o pohybu obyvatel je z pohledu plánování a rozvoje dopravní infrastruktury velice
 přínosné. Dnes lze tyto informace poměrně snadno zjistit na základě dat od mobilních operátorů.
@@ -24,7 +24,7 @@ pohybují. Například O2 data anonymizuje a v základní „surové“ podobě 
 rozhraní Liberty API. K datům se mohou vývojáři dostat po registraci a podpisu smlouvy o používání
 platformy.
 
-Na hackathonu BrnoHack bylo mimo jiné vývojáři navrženo a předvedeno řešení Liberty​ ​–​ ​Open 
+Na hackathonu BrnoHack bylo mimo jiné vývojáři navrženo a předvedeno řešení Liberty​ ​–​ ​Open
 Demography,​ ​které sleduje, jak se lidé po městě pohybují, jak využívají veřejný prostor včetně
 oddychových zón, odkud kam nejvíce lidí dojíždí. Takové informace mohou velmi dobře posloužit
 jako podklad pro městské plánování a zapojení obyvatel města.
@@ -48,5 +48,5 @@ přitom srovnatelnou a mnohem kvalitnější aplikaci dokázal DPMB vytvořit a 
 1000x menších.
 
 Proto chceme my Piráti využití technologií zlepšit a především zefektivnit. Přečtěte si více o tom, [co
-chceme prosazovat v dopravě](https://www.pirati.cz/program/psp2017/doprava/) a [jak nahlížíme na
-moderní technologie](https://www.pirati.cz/program/psp2017/informatika/).
+chceme prosazovat v dopravě](https://www.pirati.cz/program/psp2017/doprava/){:target="_blank"} a [jak nahlížíme na
+moderní technologie](https://www.pirati.cz/program/psp2017/informatika/){:target="_blank"}.
