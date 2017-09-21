@@ -5,9 +5,9 @@ fullname: Patrik Doležal 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/patrik-dolezal.jpg   # 165 x 220
-description: Nezávislý kandidát, aktivní občan, podnikatel a manažer v IT          	# kratký popis, max 160 znaků
+description: Nezávislý kandidát, aktivní občan a právník          	# kratký popis, max 160 znaků
 mail:
-- patrik.dolezal@pirati.cz
+- patrick.dolezal@gmail.com
 mob:			  
 profiles:              
   facebook: https://www.facebook.com/patrik.dolezal  
