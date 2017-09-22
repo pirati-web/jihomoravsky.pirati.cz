@@ -8,7 +8,7 @@ img: people/piratska-strana.png   # 165 x 220
 description:   	# kratký popis, max 160 znaků
 
 profiles:
-  wiki:
+  wiki: https://wiki.pirati.cz/lide/marek_fiser
 ordpsp: 22
 
 ---
