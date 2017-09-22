@@ -1,0 +1,44 @@
+.fundraising {
+  text-align: center;
+
+  header {
+    max-width: 1200px;
+    margin: auto;
+
+    .logo, .image, .social {
+      display: inline-block;
+      width: 100%;
+    }
+  }
+
+  content {
+    max-width: 1000px;
+    margin: auto;
+
+    .col1, .col2, .col3 {
+      display: inline-block;
+      width: 100%;
+    }
+  }
+
+  footer {
+    color: white;
+    backgorund: black;
+  }
+
+
+  @media (min-width: 800px) {
+    header {
+      .logo, .image, .social {
+        display: inline-block;
+        width: 33%;
+      }
+    }
+
+    content {
+      .col1, .col2, .col3 {
+        width: 33%;
+      }
+    }
+  }
+}
