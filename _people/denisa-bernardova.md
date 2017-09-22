@@ -12,6 +12,7 @@ description: Studentka, učitelka, aktivistka, věčný snílek o lepším vzdě
 profiles:
   linkedin: https://www.linkedin.com/in/denisa-bernardova-06259896/
   facebook: https://www.facebook.com/denisa.eleanor.bernardova
+  wiki: https://wiki.pirati.cz/lide/denisa_bernardova
 ordpsp: 24
 
 supporting:
