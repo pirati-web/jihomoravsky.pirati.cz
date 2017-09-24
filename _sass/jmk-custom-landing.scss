@@ -81,8 +81,12 @@
   }
 
   .button {
-    font-size: 32px;
     text-transform: uppercase;
+    font-weight: bold;
+  }
+
+  .button--bigger {
+    font-size: 32px;
   }
 
   footer {
