@@ -12,6 +12,7 @@ profiles:
   facebook: https://www.facebook.com/jurasek.vit
   linkedin: https://linkedin.com/in/vít-jurásek-17a48257
   compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=-5.63&soc=-2.15
+  wiki: https://wiki.pirati.cz/lide/vit_jurasek
 ordpsp: 16
 
 supporting:

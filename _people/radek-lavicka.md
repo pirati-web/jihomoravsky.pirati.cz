@@ -11,6 +11,7 @@ mail:
 mob: 608 581 408
 profiles:
   linkedin: https://www.linkedin.com/in/radek-l%C3%A1vi%C4%8Dka-884451a7/
+  wiki: https://wiki.pirati.cz/lide/radek_lavicka
 
 ordpsp: 29
 supporting:

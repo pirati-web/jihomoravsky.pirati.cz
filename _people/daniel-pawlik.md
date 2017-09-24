@@ -10,6 +10,7 @@ mail:
 - danpaw@seznam.cz
 mob: +420 724 311 362  
 profiles:
+  wiki: https://wiki.pirati.cz/lide/daniel_pawlik
 
 ordpsp: 26		  
 
