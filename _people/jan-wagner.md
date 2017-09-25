@@ -8,7 +8,7 @@ img: people/jan-wagner.jpg # 165 x 220
 description:   	# kratký popis, max 160 znaků
 
 profiles:
-  wiki:
+  facebook: https://www.facebook.com/jan.wagner.88
 ordpsp: 25
 supporting:
 - svobodu informované volby
