@@ -37,7 +37,7 @@ Jaroslav Kupčík (* 4. června 1986) je členem Pirátské strany od roku 2016.
 
 Vystudoval osmileté všeobecné gymnázium a poté obor Informační systémy na Fakultě informačních technologií Vysokého učení technického v Brně, kde získal titul Ing.
 
-Pracoval jako učitel informačních technologií na ISŠA Brno, poté jako web developer a produktový manažer v marketingovém oddělení společnosti Kentico software vyvíjející systémy pro správu webu. Aktuálně pracuje jako web developer v brněnském herním studiu Madfinger Games.
+Pracoval jako středoškolský učitel informačních technologií, poté jako web developer a produktový manažer v marketingovém oddělení společnosti vyvíjející systémy pro správu webu. Aktuálně pracuje jako web developer v brněnském herním studiu.
 
 Vadí mu plýtvání veřejnými prostředky, degradace veřejného prostoru a omezování osobních svobod. Chtěl by, aby moderní technologie život lidem usnadňovaly a nikoliv ztěžovaly. Byl by rád za větší transparenci ve státní správě a aktivní občanskou společnost podílející se na rozhodnutích, které se jí týkají.
 
@@ -45,4 +45,4 @@ Nelíbí se mu, když politici místo služby občanům upřednostňují své so
 
 Silně podporuje myšlenku nepodmíněného základního příjmu, který chápe jako efektivní prostředek k udržení fungující ekonomiky. Myslí si, že je pro stát výhodnější podporovat raději přímo své občany než nadnárodní korporace, kterým jsou pro vytváření pracovních míst přidělovány mohutné dotace a odpouštěny daně. Věří, že by tak nepodmíněný základní příjem kromě zjednodušení sociálního systému a zaručení důstojného života občanům rovněž pomohl omezit odtok peněz do zahraničí a daňových rájů.
 
-Ve svém volném čase podniká výlety do přírody na kole i pěšky. Má rád sci-fi a fantasy literaturu a filmy a hraje deskové, karetní a počítačové hry.
+Ve svém volném čase podniká výlety do přírody na kole i pěšky. Má rád sci-fi a fantasy literaturu a filmy a hraje a tvoří deskové, karetní a počítačové hry.
