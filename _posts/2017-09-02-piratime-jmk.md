@@ -14,11 +14,10 @@ Pirátská kampaň vždy stála na pomoci dobrovolníků a nikdy tomu nebude jin
 
 Kde a kdy se můžete setkat s Pirátskou posádkou na plavbě do Poslanecké sněmovny?
 
-* **Ve středu 6. a ve čtvrtek 7. září** nás mezi 10 a 18 hodinou najdete na Moravském náměstí. Chcete se zapojit do kampaně a pomoct nám šířit Pirátské Listy a pirátské myšlenky? Ozvěte se na [martin.kostka@pirati.cz](mailto:martin.kostka@pirati.cz) a staňte se dobrovolníkem.
-* **V pátek 8. a v sobotu 9. září** se budeme pohybovat na Jakubském náměstí v Brně. V sobotu navíc už ‚vypluje‘ naše skákací loď, na kterou jste přispěli drobnými dary i vy. Děkujeme ještě jednou, přijďte si to užít!
-* **V neděli 10. září** vyrazíme do Boskovic a Letovic. Chybět nebude skákací loď, čelo naší kandidátky a spousta informací. Více informací sledujte [na našem FB](https://www.facebook.com/CPS.JMK/){:target="_blank"}.
-* **Pondělí 11. září** zamíříme do Kyjova. Chcete se zapojit do rozdávání novin?  Ozvěte se na [martin.kostka@pirati.cz](mailto:martin.kostka@pirati.cz) a staňte se dobrovolníkem.
-*  **V úterý 12. září** navštívíme Židlochovice, **ve středu 13. září** Hustopeče, **čtvrtek 14. září** bude patřit v naší tour Kuřimi a **páteční odpoledne 15. září** strávíme s naší skákací lodí v Tišnově.
+* **V pondělí 2. října** pirátíme Brno, potkáte nás na Moravském náměstí.
+* **Úterý 3. října** vyrážíme směr Slavkov – mezi 14 a 17 hodinou nás najdete u kašny na Palackého náměstí. Zároveň si v úterý můžete přijít vyřídit voličské průkazy v Brně. [Více infa najdete na FB](https://www.facebook.com/events/175329816349703/?acontext=%7B%22source%22%3A3%2C%22source_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22%5b%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A%5b%5d%7D%5d%22%2C%22has_source%22%3Atrue%7D&source=3&source_newsfeed_story_type=regular&action_history=%5b%7B%22surface%22%3A%22newsfeed%22%2C%22mechanism%22%3A%22feed_story%22%2C%22extra_data%22%3A%5b%5d%7D%5d&has_source=1&hc_ref=ARQxz_9LfX3sxwdfrGuoslnWnYAUkq0-qqX02aXvZU-O5fV_IKdwDW3yi0Vf2E5l-UE){:target="_blank"}.
+* **Ve čtvrtek 5. října** budeme opět v Brně a v pátek 6. října vyrážíme směr Břeclav!
+* Chybět byste neměli na **nedělní brněnské akci na náměstí Svobody**, kde vystoupí lídr Radek Holomčík spolu s předsedou Pirátů Ivanem Bartošem!
 
 Další akce budeme postupně doplňovat, sledujte [náš Facebook](https://www.facebook.com/CPS.JMK/){:target="_blank"} nebo [Twitter](https://twitter.com/PiratiJMK){:target="_blank"}. O novinkách z kampaně také informuje [Radek Holomčík](https://www.facebook.com/holomcik){:target="_blank"}, lídr pirátské kandidátky na jižní Moravě.
 
