@@ -41,7 +41,7 @@ layout: default
                     </div>
                     {% endif %}
                   {% endfor %}
-              <div>
+              </div>
 
               <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                 <li class="c-simple-accordion-item" data-accordion-item="">
@@ -58,6 +58,7 @@ layout: default
                   <div id="pks" class="c-simple-accordion-content" data-tab-content="">
                     {% assign team = site.people | where_exp:"item","item.categories contains 'pks'" | sort:"ordpks" %}
                     {% include people/list-2col.html param=team %}
+                  </div>  
                 </li>
               </ul>
               <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
