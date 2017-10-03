@@ -7,7 +7,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - zast
 - psp
 img: people/tomas-kolacny.jpg   # 165 x 220
-description: Zastupitel v Brně za Piráty, 3. místopředseda Pirátů Jihomoravského kraje a pracovník Mediálního odboru       	# kratký popis, max 160 znaků
+description: Radní města Brna, milovník psytrance a "vlastizrádce"	# kratký popis, max 160 znaků
 mail:
 - tomas.kolacny@pirati.cz
 profiles:
