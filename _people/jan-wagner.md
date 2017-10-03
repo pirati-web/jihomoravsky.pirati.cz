@@ -5,7 +5,7 @@ fullname: Jan Wagner  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 img: people/jan-wagner.jpg # 165 x 220
-description:   	# kratký popis, max 160 znaků
+description: Nezávislý kandidát, elektromechanik v technologické firmě na výrobu elektronových mikroskopů  	# kratký popis, max 160 znaků
 
 profiles:
   facebook: https://www.facebook.com/jan.wagner.88
