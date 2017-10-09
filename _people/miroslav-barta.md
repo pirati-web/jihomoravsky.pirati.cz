@@ -24,7 +24,7 @@ supporting:
 - Lásku, pravdu, spokojenost pro všechny
  
 notsupporting:
-- Šikanování občana i podnikatle státem
+- Šikanování občana i podnikatele státem
 - Dotacím
 - Zneužívání moci
 - Neustálému omezování lidských svobod mocnými ( např. plošný zákaz kouření apod.)
