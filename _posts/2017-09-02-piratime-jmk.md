@@ -19,7 +19,7 @@ Kde a kdy se můžete setkat s Pirátskou posádkou na plavbě do Poslanecké sn
 * Zároveň budeme **v úterý i ve středu** pirátit v Brně, takže se můžete zastavit pro Pirátské Listy, optat se na dotazy a popovídat si s kandidáty.
 * **Ve čtvrtek 12. října** vyrazíme do Rosic, **v pátek 13. 10.** do Znojma. 
 * **V sobotu 14. října** nás potkáte v Brně na Jakubáku.
-* A *celý týden před volbami* bude silnice a ulice Jihomoravského kraje brouzdat legendární vězeňský autobus.
+* A **celý týden před volbami** bude silnice a ulice Jihomoravského kraje brouzdat legendární vězeňský autobus.
 
 
 Další akce budeme postupně doplňovat, sledujte [náš Facebook](https://www.facebook.com/CPS.JMK/){:target="_blank"} nebo [Twitter](https://twitter.com/PiratiJMK){:target="_blank"}. O novinkách z kampaně také informuje [Radek Holomčík](https://www.facebook.com/holomcik){:target="_blank"}, lídr pirátské kandidátky na jižní Moravě.
