@@ -6,7 +6,9 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 img: people/miroslav-barta.jpg   # 165 x 220
 description: Ředitel, jednatel ve společnosti HT Reality s.r.o.  	# kratký popis, max 160 znaků
-
+mail: 
+- miroslav.barta@pirati.cz
+mob: 730 896 278
 profiles:
   wiki: https://wiki.pirati.cz/lide/miroslav_barta
   facebook: https://www.facebook.com/miroslav.barta.9
