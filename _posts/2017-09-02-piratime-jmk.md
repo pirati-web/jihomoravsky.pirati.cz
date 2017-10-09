@@ -18,7 +18,7 @@ Kde a kdy se můžete setkat s Pirátskou posádkou na plavbě do Poslanecké sn
 * **V úterý 10. října** můžete dopoledne sledovat přímý přenos z předvolební debaty lídrů z Jihomoravského kraje, ve které nebude chybět ani Radek Holomčík. 
 * Zároveň budeme **v úterý i ve středu** pirátit v Brně, takže se můžete zastavit pro Pirátské Listy, optat se na dotazy a popovídat si s kandidáty.
 * **Ve čtvrtek 12. října** vyrazíme do Rosic, v pátek 13. 10. do Znojma. 
-* **V sobotu 14. října* nás potkáte v Brně na Jakubáku.
+* **V sobotu 14. října** nás potkáte v Brně na Jakubáku.
 * A *celý týden před volbami* bude silnice a ulice Jihomoravského kraje brouzdat legendární vězeňský autobus.
 
 
