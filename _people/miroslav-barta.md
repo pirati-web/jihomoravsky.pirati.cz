@@ -33,7 +33,7 @@ notsupporting:
 motto: ["Demokracie je vláda lidu, prostřednictvím lidu a pro lidi.", "Abraham Lincoln"]
 ---
 
-Miroslav Báta se narodil v Karviné - Ráji 20.4.1973. Přes Ostravu, Kopřivnici, Opavu, Olomouc a Prahu se usadil roku 1999 v Brně, kde žije do dnes. Studoval VGJŽ (vojenské gymnázium) v Opavě.
+Miroslav Bárta se narodil v Karviné - Ráji 20.4.1973. Přes Ostravu, Kopřivnici, Opavu, Olomouc a Prahu se usadil roku 1999 v Brně, kde žije do dnes. Studoval VGJŽ (vojenské gymnázium) v Opavě.
  
 Většinu profesního života strávil v obchodní oblasti, a to jako OSVČ. Posledních cca 15 let se věnuje podnikání souvisejícímu s nemovitostmi, jejich nákupem, prodej a výstavbou. Je ředitelem ve své splečnosti HT NEMOVITOSTI, s.r.o.
  
