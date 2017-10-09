@@ -38,6 +38,6 @@ Znamená to dialog, pochopení motivací a potřeb i oponentů, uvědomění si,
 
 Je vlastně dobře, že aktuální stav politiky je na tom tak špatně, jak je, protože je tady prostor, aby tyto myšlenky zazněly, dostaly podporu a mohly být prosazovány.
 
-Na závěr si uvědomme že dostat se do parlamentu není cíl, ale začátek, že je třeba hlídat, nejenom ostatní politiky, ale i nás Piráty. Proto se s námi bavte a konzultujte. Není třeba se stávat rovnou členem, stačí se zaregistrovat jako příznivec a můžete se pak účastnit všech vnitrostranických diskuzí na [fóru](forum.pirati.cz){:target="_blank"} a pomáhat nám tak nezapomínat ani na úhly pohledu, které neznáme, protože jsme všichni pořád jenom lidi.
+Na závěr si uvědomme že dostat se do parlamentu není cíl, ale začátek, že je třeba hlídat, nejenom ostatní politiky, ale i nás Piráty. Proto se s námi bavte a konzultujte. Není třeba se stávat rovnou členem, stačí se zaregistrovat jako příznivec a můžete se pak účastnit všech vnitrostranických diskuzí na [fóru](https://forum.pirati.cz){:target="_blank"} a pomáhat nám tak nezapomínat ani na úhly pohledu, které neznáme, protože jsme všichni pořád jenom lidi.
 
 Děkuji za pozornost.
