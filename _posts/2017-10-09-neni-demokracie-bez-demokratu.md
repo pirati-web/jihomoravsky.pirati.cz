@@ -16,7 +16,7 @@ Zveřejňuji zde přepis mého projevu ze včerejšího pirátského happeningu 
 
 Dobré odpoledne, jsem rád že jsme se tady sešli a že jsem dostal možnost sdílet s vámi několik myšlenek ohledně demokratického systému.
 
-Žijeme v demokracii, kde každý může říkat svůj názor, a i to že tady stojím na pódiu před vámi je důkaz. Ne všude ve světě však mají lidé takovou možnost často jsou vystaveni i fyzické perzekuci. Není demokracie bez demokratů. O demokracii je třeba se starat a hlídat ji. Kdo spí v demokracii, probudí se v diktatuře.
+Žijeme v demokracii, kde každý může říkat svůj názor, a i to že tady stojím na pódiu před vámi je důkaz. Ne všude ve světě však mají lidé takovou možnost a často jsou vystaveni i fyzické perzekuci. Není demokracie bez demokratů. O demokracii je třeba se starat a hlídat ji. Kdo spí v demokracii, probudí se v diktatuře.
 
 Jsem rád, že tady dnes vidím, že lidem není jedno, kam náš stát směřuje. Sám jsem vstoupil do Pirátské strany kvůli deprimaci ze stavu politiky a veřejného života. Ve svém životě se snažím řídit tím, že když mám nějaký problém nebo mi něco vadí, jsou dvě možnosti. Pokud s tím nic dělat nejde, smířím se s tím nebo to přejdu. Ale pokud s tím něco provézt lze, tak to udělám a problém vyřeším. Demokracie znamená, že se můžu podílet na tom změnit stav věcí k lepšímu.
 
