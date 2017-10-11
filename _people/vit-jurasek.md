@@ -5,7 +5,7 @@ fullname: Vít Jurásek  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 img: people/vit-jurasek.jpg   # 165 x 220
-description: Živnostník, programátor, SW architekt, vizionář a filozof  	# kratký popis, max 160 znaků
+description: Živnostník, programátor a softwarový architekt  	# kratký popis, max 160 znaků
 mail:
 - vit.jurasek@pirati.cz
 profiles:  
