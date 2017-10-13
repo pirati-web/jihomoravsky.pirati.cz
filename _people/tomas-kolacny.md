@@ -7,7 +7,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - zast
 - psp
 img: people/tomas-kolacny.jpg   # 165 x 220
-description: Radní města Brna, milovník psytrance a "vlastizrádce"	# kratký popis, max 160 znaků
+description: Radní města Brna a milovník psytrance # kratký popis, max 160 znaků
 mail:
 - tomas.kolacny@pirati.cz
 profiles:
