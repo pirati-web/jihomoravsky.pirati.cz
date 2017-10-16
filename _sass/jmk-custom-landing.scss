@@ -209,6 +209,15 @@ footer {
     position: relative;
   }
 
+  @media (max-width: 1000px) {
+    .left-col {
+      width: 100%;
+    }
+    .right-col {
+      display: none;
+    }
+  }
+
   .social {
     text-align: right;
     padding: 30px;
