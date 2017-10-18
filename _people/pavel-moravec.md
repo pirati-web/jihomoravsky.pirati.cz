@@ -15,7 +15,7 @@ ordpsp: 13
 supporting:
 - transparentnost státní správy
 - svobodu projevu a informací
-- právo na soukrom
+- právo na soukromí
 notsupporting:
 - paternalistickému státu
 - byrokracii
