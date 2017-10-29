@@ -3,14 +3,13 @@ uid: jiri.kaderavek
 name:     Jiří Kadeřávek  	# běžně používáné jméno
 fullname: Jiří Kadeřávek  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+
 img: people/jiri-kaderavek.jpg   # 165 x 220
 description: Zakladatel Pirátské strany, programátor a analytik     	# kratký popis, max 160 znaků
 mail:
 - jiri.kaderavek@pirati.cz
 profiles:
   wiki: https://wiki.pirati.cz/lide/jiri_kaderavek
-ordpsp: 20
 
 ---
 

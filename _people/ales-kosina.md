@@ -3,7 +3,7 @@ uid: ales.kosina
 name:     Aleš Kosina  	# běžně používáné jméno
 fullname: Mgr. Aleš Kosina  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+
 img: people/ales-kosina.jpg   # 165 x 220
 description: Auditor kvality v leteckém průmyslu, školitel a poradce systémů řízení organizací, ve volném čase chovatel britských koček       	# kratký popis, max 160 znaků
 mail:
@@ -13,7 +13,6 @@ profiles:
   facebook: https://www.facebook.com/ales.kosina.73
   wiki: https://wiki.pirati.cz/lide/ales_kosina
   linkedin:  https://www.linkedin.com/in/ales-kosina-80718325/
-ordpsp: 10
 supporting:
 - Spravedlivý přístup dětí k oběma rodičům v rozvedených párech
 - Svobodný život a osobní volby bez zbytečných omezení státu

@@ -3,7 +3,7 @@ uid: petr.balaz
 name:     Petr Baláž  	# běžně používáné jméno
 fullname: Petr Baláž  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+
 img: people/petr-balaz.jpg   # 165 x 220
 description: Operátor linky v logistickém centru    	# kratký popis, max 160 znaků
 mail:
@@ -11,7 +11,6 @@ mail:
 mob: +420 723 123 562
 profiles:
   wiki: https://wiki.pirati.cz/lide/petr_balaz
-ordpsp: 27
 
 ---
 

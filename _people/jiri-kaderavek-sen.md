@@ -3,7 +3,7 @@ uid: jiri.kaderavek.sen
 name:  Jiří Kadeřávek sen.  	# běžně používáné jméno
 fullname: Jiří Kadeřávek sen.  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+
 img: people/jiri-kaderavek-sen.jpg   # 165 x 220
 description: Technická podpora open-source software     	# kratký popis, max 160 znaků
 mail:
@@ -11,7 +11,6 @@ mail:
 mob: 775 335 227
 profiles:
   wiki: https://wiki.pirati.cz/lide/jiri_kaderavek_sen
-ordpsp: 21
 supporting:
 - Kontrolované přijímání imigrantů hlavně z nám blízkých národů (Slovensko, Ukrajina, Rusko, Vietnam, atd.) kteří přicházejí pracovat.
 - Svobodu slova, svobodné podnikání.

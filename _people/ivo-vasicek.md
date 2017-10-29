@@ -3,7 +3,7 @@ uid: ivo.vasicek
 name:     Ivo Vašíček  	# běžně používáné jméno
 fullname: PaedDr. Ivo Vašíček  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+
 - zast
 img: people/ivo-vasicek.jpg   # 165 x 220
 description: Ekonom, manažer, pedagog a člen zastupitelstva Jihomoravského kraje     	# kratký popis, max 160 znaků
@@ -15,7 +15,6 @@ profiles:
   wiki: https://wiki.pirati.cz/lide/ivo_vasicek
   wikipedia: https://cs.wikipedia.org/wiki/Ivo_Va%C5%A1%C3%AD%C4%8Dek
   linkedin: https://www.linkedin.com/in/ivo-vasicek-68b3661a/
-ordpsp: 4
 ordzast: 1
 
 supporting:

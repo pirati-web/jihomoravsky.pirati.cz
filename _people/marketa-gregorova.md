@@ -3,7 +3,7 @@ uid: marketa.gregorova
 name:     Markéta Gregorová  	# běžně používáné jméno
 fullname: Bc. Markéta Gregorová  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+
 img: people/marketa-gregorova.jpg   # 165 x 220
 description: Všestranně založená testerka, e-commerce specialistka a vedoucí zahraničního odboru Pirátské strany    	# kratký popis, max 160 znaků
 mail:
@@ -17,7 +17,6 @@ profiles:
   twitter: https://twitter.com/Srandistka
   youtube: https://www.youtube.com/channel/UC9sCCCSH8NRsimvToKNZ-aw
   linkedin: https://www.linkedin.com/in/mark%C3%A9ta-gregorov%C3%A1-30333b87/
-ordpsp: 3
 supporting:
 - Elektronizaci státní správy.
 - Dál žít v míru.

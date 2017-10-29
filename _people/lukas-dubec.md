@@ -3,14 +3,15 @@ uid: lukas.dubec
 name:     Lukáš Dubec  	# běžně používáné jméno
 fullname: Lukáš Dubec  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+- pms
 img: people/lukas-dubec.jpg   # 165 x 220
-description: Projektant interiérů, předseda místního sdružení Znojmo   	# kratký popis, max 160 znaků
+description: Projektant interiérů a předseda místního sdružení Znojmo   	# kratký popis, max 160 znaků
 mail:
 - lukas.dubec@pirati.cz
 profiles:
   wiki: https://wiki.pirati.cz/lide/lukas_dubec
-ordpsp: 14
+
+ordpms: 2
 ---
 
 Narodil jsem se 22.5.1984 ve městě Most.

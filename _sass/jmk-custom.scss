@@ -12,6 +12,17 @@
   .pagination-previous, .pagination-previous {
     display: none;
   }
+
+  .c-simple-accordion-title:before {
+    content: '\f054';
+    font-family: 'FontAwesome';
+    line-height: 22px !important;
+    font-size: 1rem !important;
+  }
+
+  .c-simple-accordion-item.is-active .c-simple-accordion-title:before {
+    content: '\f078';
+  }
 }
 
 .jmk-candidates-rest .row {

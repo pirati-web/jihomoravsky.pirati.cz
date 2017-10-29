@@ -4,7 +4,7 @@ name:     Ondřej Kotas  	# běžně používáné jméno
 fullname: Ondřej Kotas  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
-- psp
+
 img: people/ondrej-kotas.jpg   # 165 x 220
 description: Softwarový tester, automatizační specialista a člen předsednictva krajského sdružení        	# kratký popis, max 160 znaků
 mail:
@@ -12,8 +12,7 @@ mail:
 mob: +420 608 828 650		  
 profiles:              
   facebook: https://www.facebook.com/KRtek.tm
-  wiki: https://wiki.pirati.cz/lide/ondrej_kotas
-ordpsp: 6		
+  wiki: https://wiki.pirati.cz/lide/ondrej_kotas	
 ordpks: 2  
 ---
 

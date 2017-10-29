@@ -11,63 +11,52 @@ layout: default
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
               <div class="jmk-candidates">
-                <h1>Naši kandidáti</h1>
-                <p>
-                  Všichni nekradou! Naši kandidáti byli zvoleni v rámci <a href="https://forum.pirati.cz/krajske-forum-jihomoravsky-kraj-f411/primarni-volby-pro-volby-do-psp-2017-t36031.html">veřejných vnitrostranických primárních voleb</a> a <a href="https://forum.pirati.cz/krajske-forum-jihomoravsky-kraj-f411/krajska-kandidatka-pro-volby-do-psp-cr-2017-t37421.html" target="_blank">hlasování</a>. Přímou demokracii a transparentnost myslíme opravdu vážně, chceme je aplikovat na stát a začínáme od sebe.
-                </p>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
-                {% for item in team limit:6 %}
-                  {% assign loopindex = forloop.index | modulo: 2 %}
-                  {% if loopindex == 1 %}
-                  <div class="row u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                  {% endif %}
-                  {% include people/kandidat.html param='item' %}
-                  {% if loopindex == 0 %}
-                  </div>
-                  {% endif %}
-                {% endfor %}
-              </div>
-
-              <div class="jmk-candidates jmk-candidates-rest">
-                  {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
-                  {% assign lastItemIndex = site.people.size | minus: 7 %}
-                  {% for item in team offset:6 %}
-                    {% assign loopindex = forloop.index | modulo: 3 %}
-                    {% if loopindex == 1 %}
-                    <div class="row u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                    {% endif %}
-                    {% include people/kandidat-small.html param='item' %}
-                    {% if loopindex == 0 or forloop.index == lastItemIndex %}
+                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#psp" class="c-simple-accordion-title">Naši poslanci</a>
+                    <div id="psp" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
+                      {% include people/list-2col.html param=team %}
                     </div>
-                    {% endif %}
-                  {% endfor %}
-              <div>
+                  </li>
+                </ul>
+                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#zast" class="c-simple-accordion-title">Další zastupitelé</a>
+                    <div id="zast" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'zast'" | sort:"ordzast" %}
+                      {% include people/list-2col.html param=team %}
+                    </div>
+                  </li>
+                </ul>
+                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#pks" class="c-simple-accordion-title is-active">Předsednictvo krajského sdružení</a>
+                    <div id="pks" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'pks'" | sort:"ordpks" %}
+                      {% include people/list-2col.html param=team %}
+                    </div>
+                  </li>
+                </ul>
+                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#pms" class="c-simple-accordion-title is-active">Předsedové místních sdružení</a>
+                    <div id="pms" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'pms'" | sort:"ordpms" %}
+                      {% include people/list-2col.html param=team %}
+                    </div>
+                  </li>
+                </ul>
+                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#clenove" class="c-simple-accordion-title">Naši členové</a>
+                    <div id="clenove" class="c-simple-accordion-content" data-tab-content="">
+                      <a href="https://forum.pirati.cz/ks-jihomoravsky-kraj-g36.html">Seznam členů Krajského sdružení Jihomoravského kraje na Fóru Pirátské strany</a>
+                    </div>
+                  </li>
+                </ul>
 
-              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                <li class="c-simple-accordion-item" data-accordion-item="">
-                  <a href="#zast" class="c-simple-accordion-title">Naši zastupitelé</a>
-                  <div id="zast" class="c-simple-accordion-content" data-tab-content="">
-                    {% assign team = site.people | where_exp:"item","item.categories contains 'zast'" | sort:"ordzast" %}
-                    {% include people/list-2col.html param=team %}
-                  </div>
-                </li>
-              </ul>
-              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                <li class="c-simple-accordion-item" data-accordion-item="">
-                  <a href="#pks" class="c-simple-accordion-title">Předsednictvo krajského sdružení</a>
-                  <div id="pks" class="c-simple-accordion-content" data-tab-content="">
-                    {% assign team = site.people | where_exp:"item","item.categories contains 'pks'" | sort:"ordpks" %}
-                    {% include people/list-2col.html param=team %}
-                </li>
-              </ul>
-              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                <li class="c-simple-accordion-item" data-accordion-item="">
-                  <a href="#senat" class="c-simple-accordion-title">Naši členové</a>
-                  <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                    <a href="https://forum.pirati.cz/ks-jihomoravsky-kraj-g36.html">Seznam členů Krajského sdružení Jihomoravského kraje na Fóru Pirátské strany</a>
-                  </div>
-                </li>
-              </ul>
+              </div>
             </div>
           </div>
         </main>

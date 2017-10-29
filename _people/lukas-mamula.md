@@ -3,7 +3,7 @@ uid: lukas.mamula
 name:     Lukáš Mamula  	# běžně používáné jméno
 fullname: Lukáš Mamula  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+
 img: people/lukas-mamula.jpg   # 165 x 220
 description: Java developer se zájmem o robotiku a umělou inteligenci, milovník přírody   	# kratký popis, max 160 znaků
 mail:
@@ -14,12 +14,11 @@ profiles:
   facebook: https://www.facebook.com/lukas.michal
   linkedin: https://www.linkedin.com/in/luk%C3%A1%C5%A1-mamula-61785a20/
   wiki: https://wiki.pirati.cz/lide/lukas_mamula
-ordpsp: 15
 
 supporting:
 - transparenci zakázek státu
 - školství 21 století
-- šetrné zemědělství 
+- šetrné zemědělství
 - digitalizaci státní správy
 - legalizaci konopí
 
@@ -27,7 +26,7 @@ notsupporting:
 - lobbingu na úkor obyvatel ČR
 - netransparentnímu fungování státu
 - omezování svobod a práv lidí
-- populismu 
+- populismu
 
 reason: 'Kandiduji proto, protože nechci jen tiše přihlížet, jak se naše republika vrací do rukou lidí, kteří nic měnit nechtějí a naopak nás vedou do historické propasti zapomnění.'
 
@@ -48,5 +47,3 @@ Díky mnoha letům stráveným v prostředí českého školství si mohl uděla
 
 * [Koncept Hayekova stroje pro řízení robotů Khepera IV ve sborníku Kognícia a umelý život 2015](
 http://docplayer.net/2815863-Kognicia-a-umely-zivot-2015.html){:target="_blank"}.
-
-

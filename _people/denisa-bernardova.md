@@ -3,7 +3,7 @@ uid: denisa.bernardova
 name:     Denisa Bernardová  	# běžně používáné jméno
 fullname: BSc. Denisa Bernardová  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+
 mail:
 -  bernardova.d@gmail.com
 mob: 732 850 803
@@ -13,7 +13,6 @@ profiles:
   linkedin: https://www.linkedin.com/in/denisa-bernardova-06259896/
   facebook: https://www.facebook.com/denisa.eleanor.bernardova
   wiki: https://wiki.pirati.cz/lide/denisa_bernardova
-ordpsp: 24
 
 supporting:
 - Revoluci ve vzdělávání učitelů s cílem zvýšit jeho prestiž.

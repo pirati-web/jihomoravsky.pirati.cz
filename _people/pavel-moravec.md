@@ -3,7 +3,7 @@ uid: pavel.moravec
 name:     Pavel Moravec  	# běžně používáné jméno
 fullname: Mgr. Pavel Moravec, Ph.D.  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+
 img: people/pavel-moravec.jpg   # 165 x 220
 description: Technická podpora open-source software     	# kratký popis, max 160 znaků
 mail:
@@ -11,7 +11,6 @@ mail:
 profiles:
   wiki: https://wiki.pirati.cz/lide/pavel_moravec
   twitter: https://twitter.com/piratzbrna
-ordpsp: 13
 supporting:
 - transparentnost státní správy
 - svobodu projevu a informací

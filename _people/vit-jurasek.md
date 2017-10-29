@@ -3,7 +3,7 @@ uid: vit.jurasek
 name:     Vít Jurásek  	# běžně používáné jméno
 fullname: Vít Jurásek  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+
 img: people/vit-jurasek.jpg   # 165 x 220
 description: Živnostník, programátor a softwarový architekt  	# kratký popis, max 160 znaků
 mail:
@@ -13,7 +13,6 @@ profiles:
   linkedin: https://linkedin.com/in/vít-jurásek-17a48257
   compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=-5.63&soc=-2.15
   wiki: https://wiki.pirati.cz/lide/vit_jurasek
-ordpsp: 16
 
 supporting:
 - průhledný rozhodovací proces

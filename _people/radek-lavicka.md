@@ -3,7 +3,7 @@ uid: radek.lavicka
 name:  Radek Lávička  	# běžně používáné jméno
 fullname: Radek Lávička  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+
 img: people/radek-lavicka.jpg   # 165 x 220
 description: Manažer nákupu, milující otec a věrný manžel, celoživotní filozof bojující proti elitám a nesmyslnostem systému     	# kratký popis, max 160 znaků
 mail:
@@ -13,7 +13,6 @@ profiles:
   linkedin: https://www.linkedin.com/in/radek-l%C3%A1vi%C4%8Dka-884451a7/
   wiki: https://wiki.pirati.cz/lide/radek_lavicka
 
-ordpsp: 29
 supporting:
 - Změnu politické kultury a up-date politického systému v České republice.
 - Minimalizaci počtu nesmyslných zákonů a norem a vyzdvihnutí principu zdravého rozumu.

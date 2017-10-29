@@ -3,16 +3,14 @@ uid: daniel.pawlik
 name:     Daniel Pawlik  	# běžně používáné jméno
 fullname: Daniel Pawlik  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- psp
+
 img: people/daniel-pawlik.jpg   # 165 x 220
 description: Profesionální hasič a člen aktivních záloh Armády České Republiky, ve volném čase se věnuje turistice, cyklistice a dobrovolným hasičům         	# kratký popis, max 160 znaků
 mail:
 - danpaw@seznam.cz
 mob: +420 724 311 362  
 profiles:
-  wiki: https://wiki.pirati.cz/lide/daniel_pawlik
-
-ordpsp: 26		  
+  wiki: https://wiki.pirati.cz/lide/daniel_pawlik	  
 
 motto: Zvolený zástupce občanů má zastupovat zájmy občanů, ne zájmy své nebo zájmy korporací.
 

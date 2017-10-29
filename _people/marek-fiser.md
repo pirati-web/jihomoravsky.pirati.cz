@@ -3,13 +3,12 @@ uid: miroslav.barta
 name:     Marek Fišer  	# běžně používáné jméno
 fullname: Marek Fišer  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+
 img: people/marek-fiser.jpg   # 165 x 220
 description: Borec ze štatlu, (nejen sportovní) aktivista a ambasador Pubquizu  	# kratký popis, max 160 znaků
 
 profiles:
   wiki: https://wiki.pirati.cz/lide/marek_fiser
-ordpsp: 22
 
 ---
 
