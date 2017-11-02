@@ -6,12 +6,12 @@ date: 2017-11-02T01:26:55.687Z
 author: Jana Leitnerová
 image: /assets/img/posts/openalt-foto.jpg
 description: >-
-  "Málokdo si uvědomuje jak křehká je svoboda a soukromí v digitální éře," říká Ladislav Nešněra, organizátor konference OpenAlt
+  "Málokdo si uvědomuje jak křehká je svoboda a soukromí v digitální éře," říká Ladislav Nešněra, organizátor konference OpenAlt.
   
 tags: otevřenost transparence open-source
 ---
 
-„Málokdo si uvědomuje jak křehká je svoboda a soukromí v digitální éře,“ říká Ladislav Nešněra, organizátor konference OpenAlt
+„Málokdo si uvědomuje jak křehká je svoboda a soukromí v digitální éře,“ říká Ladislav Nešněra, organizátor konference OpenAlt.
 
 První listopadový víkend se v Brně koná další ročník [konference OpenAlt](https://openalt.cz/2017/){:target="_blank"}. V budovách Fakulty informačních technologií VUT Brno se během 4. a 5. listopadu bude mluvit o tématech jako otevřená společnost, komunity a data, bezpečnost a soukromí nebo alternativy ve vzdělávání. O tom, jak konference vznikla, pro koho je určena a co vše se na ní dozvíte jsme mluvili s jedním z pořadatelů, pirátským příznivcem Ladislavem Nešněrou.
 
