@@ -26,7 +26,7 @@ Přesně tak, odtud byl už jen krůček k až paradigmatickému pojetí jako pr
 **Pro koho je konference OpenAlt určena? Je jen pro odborníky nebo i širokou veřejnost?**
 
 Je to tak půl na půl. Široké veřejnosti chceme ukázat praktické příklady otevřeného přístupu. Velmi názorným příkladem je Wikipedie, která je o způsobu spolupráce, svobodném licencování, software i v pozadí stále více se uplatňujících strukturovaných datech. Na své si u nás přijdou jak "náhodní" kolemjdoucí, tak špičkoví specialisté, protože dáváme prostor jak informativnímu seznámení s tématy, tak prezentacím top dění. To vychází z cíle propojovat obory, navazovat komunikaci a spolupráci mezi nimi, protože v dnešním komplexním světě nikdo nemůže obsáhnout vše.
-*
+
 **Můžeš vypíchnout třeba 3 nejpodstatnější nebo nejzajímavější přednášky, na které bys pozval?**
 
 Určitě bych upozornil na [přednášku o digitalizaci vzdělávání od Ondry Neumajera](https://openalt.cz/2017/program_detail.php#event_318){:target="_blank"}, která je právě o tom, jak moderní a opensource technologie ovlivní příští generace. Pak bych doporučil [přednášku od Petra Hodače o stříhání videa](https://openalt.cz/2017/program_detail.php#event_275){:target="_blank"}, která ukazuje, že to v Linuxu jde a zvládne to každý doma. A do třetice na [přednášku od doc. Hanáčka o Hackingteamu](https://openalt.cz/2017/program_detail.php#event_233){:target="_blank"}.
