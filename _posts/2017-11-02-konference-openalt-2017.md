@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: Konference OpenAlt na FIT VUT v Brně
+title: Pozvánka na konferenci OpenAlt na FIT VUT v Brně
 date: 2017-11-02T01:26:55.687Z
 author: Jana Leitnerová
 image: /assets/img/posts/openalt-foto.jpg
