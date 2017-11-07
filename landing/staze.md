@@ -4,6 +4,7 @@ category: CLANKY
 title: Pojďte na stáž k Pirátům!
 date: 2017-07-18T08:00:00.514Z
 author: Radek Holomčík
+permalink: /staze/
 excerpt: >-
   Pokud je vám blízká otevřenosti a spolupráce, zajímá vás politika nebo státní správa a chcete zlepšit fungování státu, Jihomoravští Piráti mezi sebe rádi přijmou aktivní mladé studenty na některou z nabízených pozic.
 
