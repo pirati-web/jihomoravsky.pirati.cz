@@ -72,6 +72,7 @@ Vítejte v návodu pro administraci krajského webu jihomoravského sdružení P
 * V těle článků lze kromě Markdownu (viz níže) využívat i rovnou HTML.
 * Celý web je zkopírován z webu celostátního, jehož administrace stylů je dost šílená. Všechny úpravy stylu pro krajský web se nachází v souborech `/_sass/jmk-custom.scss` a `/_sass/jmk-custom-landing.scss`
 * Úpravy webu lze navrhovat i bez příslušných práv vytvořením pull requestu - [screenshot]({{ "/assets/img/articles/admin/07-pull-request.png" | relative_url }}){:target="_blank"}
+* Web je možné rozjet na lokální instanci ve vašem počítači, je k tomu třeba `Ruby` a `Jekyll` (ideálně v Linuxu, dá se to ale rozjet i ve Windows 10 díky Ubuntu konzoli). Úpravy pak můžete testovat přímo u sebe před commitnutím do branche.
 
 # Kramdown syntax
 
