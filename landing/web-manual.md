@@ -37,7 +37,12 @@ Vítejte v návodu pro administraci krajského webu jihomoravského sdružení P
 5. dole popište vaše změny a potvrďte `Commit changes` - [screenshot]({{ "/assets/img/articles/admin/05-commit.png" | relative_url }}){:target="_blank"}
 6. Počkejte cca 20 sekund, než GitHub zkompiluje vaše změny do statického HTML
 7. Ověřte na [bit.ly/piratijmk](http://bit.ly/piratijmk){:target="_blank"}, jak se vaše změny v branchi `gh-pages` odrazily na podobě webu, v případě chyb je opravte
-8. Pokud je upravený web v `gh-pages` branchi v pořádku, přepněte se do `master` branche a proveďte `merge` `gh-pages` do `mastera` - [screenshot]({{ "/assets/img/articles/admin/06-merge.png" | relative_url }}){:target="_blank"}
+8. Pokud je upravený web v `gh-pages` branchi v pořádku, přepněte se do `master` branche a proveďte `merge` `gh-pages` do `mastera` - [screenshoty]({{ "/assets/img/articles/admin/06-merge.png" | relative_url }}){:target="_blank"}:
+  * V GitHubu klikneme na `New pull request`
+  * Na `Compare changes` stránce vybereme `base: master` a `compare: gh-pages`
+  * Klikneme na `Create pull request`
+  * Klikneme na `Merge pull request`
+  * Klikneme na `Confirm merge`
 
 # Struktura článků
 
