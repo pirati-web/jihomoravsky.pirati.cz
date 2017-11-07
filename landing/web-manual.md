@@ -43,21 +43,22 @@ Vítejte v návodu pro administraci krajského webu jihomoravského sdružení P
 
 * Snažte se využívat kopírování a úpravy existujících stránek
 * článek v sekci _posts *musí* obsahovat hlavičku:
-      ---
-      layout: blog
-      category: CLANKY
-      title: "Titulek v uvozovkách"
-      date: 2017-05-26T01:00:00.000Z # datum MUSÍ být ve formátu YYYY-MM-DDT01:00:00.000Z
-      author: Markéta Gregorová # jméno, které se zobrazí pod titulkem
-      authorId: marketa.gregorova # ID osoby s profilem ve formátu jmeno.prijmeni (tento řádek je nepovinný)
-      image: /assets/img/posts/market-u-vodotrysku-g.jpg # odkaz na obrázek ideálně s výškou 420px
-      description: >-
-        Autorský zákon nejen nepomáhá, ale šikanuje i všechny ostatní. Kolektivní
-        správci smí vybírat poplatky a udělovat licence i jménem autorů, které
-        nezastupují. Pro každou zastupovanou skupinu může existovat jen jeden správce,
-        tedy je uzákoněn monopol.
-      tags: kopírovací-zákon autorský-zákon kopírovací-monopol OSA Intergram # tagy jsou oddělěny mezerou
-      ---
+
+        ---
+        layout: blog
+        category: CLANKY
+        title: "Titulek v uvozovkách"
+        date: 2017-05-26T01:00:00.000Z # datum MUSÍ být ve formátu YYYY-MM-DDT01:00:00.000Z
+        author: Markéta Gregorová # jméno, které se zobrazí pod titulkem
+        authorId: marketa.gregorova # ID osoby s profilem ve formátu jmeno.prijmeni (tento řádek je nepovinný)
+        image: /assets/img/posts/market-u-vodotrysku-g.jpg # odkaz na obrázek ideálně s výškou 420px
+        description: >-
+          Autorský zákon nejen nepomáhá, ale šikanuje i všechny ostatní. Kolektivní
+          správci smí vybírat poplatky a udělovat licence i jménem autorů, které
+          nezastupují. Pro každou zastupovanou skupinu může existovat jen jeden správce,
+          tedy je uzákoněn monopol.
+        tags: kopírovací-zákon autorský-zákon kopírovací-monopol OSA Intergram # tagy jsou oddělěny mezerou
+        ---
 
 # Tipy pro pokročilé:
 
@@ -73,7 +74,7 @@ Vítejte v návodu pro administraci krajského webu jihomoravského sdružení P
 * Oficiální dokumentace: [https://daringfireball.net/projects/markdown/syntax](https://daringfireball.net/projects/markdown/syntax){:target="_blank"}
 * Pískoviště pro experimenty: [http://markdownlivepreview.com/](http://markdownlivepreview.com/){:target="_blank"}
 
-Níže následuje nekompletní seznam prvků, které je možné v těle článků využít a jejich zápis v Mardownu.
+Níže následuje nekompletní seznam prvků, které je možné v těle článků využít a jejich zápis v Markdownu.
 
 # Hlavní nadpis
 
@@ -131,7 +132,7 @@ Další odstavec.
 
         * Položka nečíslovaného seznamu
         * Druhá položka nečíslovaného seznam  
-             
+
           Další odstavec druhé položky
         * Třetí položka nečíslovaného seznamu
 
