@@ -111,7 +111,7 @@ Odstavec s **tučným textem** a *kurzívou*.
 Další odstavec.
 
 
-    Odstavec s *tučným textem* a _kurzívou_.
+    Odstavec s **tučným textem** a *kurzívou*.
 
     Další odstavec.
 
