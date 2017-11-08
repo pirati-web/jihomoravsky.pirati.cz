@@ -31,7 +31,7 @@ motto: Kdo se nezajímá o politiku, o toho se bohužel časem začne politika z
 
 ---
 
-Jaroslav Kupčík (* 4. června 1986) je členem Pirátské strany od roku 2016. Pochází z Orlové a od roku 2005 žije v Brně.
+Jaroslav Kupčík (* 4. června 1986) je členem Pirátské strany od roku 2016.
 
 Vystudoval osmileté všeobecné gymnázium a poté obor Informační systémy na Fakultě informačních technologií Vysokého učení technického v Brně, kde získal titul Ing.
 
