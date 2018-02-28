@@ -3,7 +3,6 @@ uid: maria.vasickova
 name:     Mária Vašíčková  	# běžně používáné jméno
 fullname: Mária Vašíčková  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- pks
 
 img: people/maria-vasickova.jpg   # 165 x 220
 description: Lektor dalšího vzdělávání, terapeut energetické psychologie a místopředsedkyně předsednictva JMK 	# kratký popis, max 160 znaků
@@ -13,8 +12,6 @@ mob:
 profiles:             
   facebook: https://www.facebook.com/maja.wuschi.vasickova
   wiki: https://wiki.pirati.cz/lide/maria_vasickova
-
-ordpks: 4
 
 supporting:
 - otevřenost

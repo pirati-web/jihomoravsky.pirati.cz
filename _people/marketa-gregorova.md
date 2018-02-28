@@ -3,6 +3,7 @@ uid: marketa.gregorova
 name:     Markéta Gregorová  	# běžně používáné jméno
 fullname: Bc. Markéta Gregorová  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
+- pks
 
 img: people/marketa-gregorova.jpg   # 165 x 220
 description: Všestranně založená testerka, e-commerce specialistka a vedoucí zahraničního odboru Pirátské strany    	# kratký popis, max 160 znaků
@@ -27,6 +28,8 @@ notsupporting:
 - Zakonzervovanosti, co brání v pokroku.
 reason: Není mi to jedno. Jsme vyspělá společnost ve skvělém čase - a vůbec svůj potenciál nevyužíváme tak, jak bychom mohli. Chci lepší přítomnost i budoucnost a chci se na tom podílet. Protože kdo jiný za mě vytvoří takovou budoucnost, jakou si já přeji?
 motto:  Největší radost by mi udělalo, kdyby lidé volili informovaně.
+
+ordpks: 2  
 ---
 
 Markéta Gregorová (\*14. ledna 1993) je členem krajského sdružení Pirátů v Jihomoravském kraji. Pochází z Mostu a od září 2012 se vyskytuje především v Brně. Od prosince 2015 má trvalé bydliště v Tetčicích.

@@ -4,7 +4,6 @@ name:     Radek Holomčík  	# běžně používáné jméno
 fullname: Mgr. Radek Holomčík  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
-- pks
 - pms
 img: people/radek-holomcik.jpg   # 165 x 220
 description: Poslanec, textař, marketér, místopředseda krajského sdružení a předseda místního sdružení Slovácko          	# kratký popis, max 160 znaků
@@ -17,7 +16,6 @@ profiles:
   wiki: https://wiki.pirati.cz/lide/radek_holomcik
   linkedin: https://www.linkedin.com/in/radek-holom%C4%8D%C3%ADk-b0ab9391/?ppe=1
 ordpsp: 1
-ordpks: 5
 ordpms: 1
 
 supporting:
