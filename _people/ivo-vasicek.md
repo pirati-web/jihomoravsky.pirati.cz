@@ -3,7 +3,7 @@ uid: ivo.vasicek
 name:     Ivo Vašíček  	# běžně používáné jméno
 fullname: PaedDr. Ivo Vašíček  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-
+- pks
 - zast
 img: people/ivo-vasicek.jpg   # 165 x 220
 description: Ekonom, manažer, pedagog a člen zastupitelstva Jihomoravského kraje     	# kratký popis, max 160 znaků
@@ -27,6 +27,8 @@ notsupporting:
 - Nadvládě finančních institucí a oligarchů nad politikou.
 reason: Chci zastavit omezování občanů dalšími restrikcemi, a zrušit současná přehnaná omezení a regulace.
 motto: Skutečná svoboda slova je právo říkat lidem to, co nechtějí slyšet.
+
+ordpks: 3
 ---
 
 Ivo Vašíček (* 5. prosince 1961 Olomouc). Ivo vyrůstal a studoval v Brně (doktorát v roce 1986). Má čtyři děti a žije v Čejkovicích.

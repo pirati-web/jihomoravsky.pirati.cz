@@ -3,17 +3,17 @@ uid: tomas.kolacny
 name:     Tomáš Kolačný  	# běžně používáné jméno
 fullname: Bc. Tomáš Kolačný  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- pks
+- pms
 - zast
 
 img: people/tomas-kolacny.jpg   # 165 x 220
-description: Radní města Brna a milovník psytrance # kratký popis, max 160 znaků
+description: Radní města Brna a předseda brněnského sdružení # kratký popis, max 160 znaků
 mail:
 - tomas.kolacny@pirati.cz
 profiles:
   facebook: https://www.facebook.com/kolacnyt23
   wiki: https://wiki.pirati.cz/lide/tomas_kolacny
-ordpks: 3
+ordpms: 3
 ordzast: 2
 ---
 
