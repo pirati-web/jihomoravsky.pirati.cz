@@ -1,5 +1,5 @@
 ---
-uid: miroslav.barta
+uid: marek.fiser
 name:     Marek Fišer  	# běžně používáné jméno
 fullname: Marek Fišer  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
