@@ -26,7 +26,7 @@ Bylo vytvořeno datové uložiště a datový katalog. Vše bude fungovat na tř
 
 Cílem projektu bylo, zpřístupnit data města široké veřejnosti, odborníkům, studentům a úřadům k využití. Aby byla veškerá data na jednom místě a jednoduše využitelná všemi. 
 
-Inspirací k vytvoření katalogu, byl Londýn: [https://data.london.gov.uk/](https://data.london.gov.uk/){:target="_blank"}  
+Inspirací k vytvoření katalogu byl Londýn: [https://data.london.gov.uk/](https://data.london.gov.uk/){:target="_blank"}  
 Datový web naleznete zde: [http://data.brno.cz/](http://data.brno.cz/){:target="_blank"}
   
   
