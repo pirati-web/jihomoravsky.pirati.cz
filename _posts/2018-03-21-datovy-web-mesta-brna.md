@@ -31,6 +31,6 @@ Inspirací k vytvoření katalogu, byl Londýn: [https://data.london.gov.uk/](h
 Datový web naleznete zde: [http://data.brno.cz/](http://data.brno.cz/){:target="_blank"}
 
 
-Jiří Ulip, zastupitel města Brna a iniciátor vzniku datového portálu  
+[Jiří Ulip](https://jihomoravsky.pirati.cz/lide/jiri-ulip/), zastupitel města Brna a iniciátor vzniku datového portálu  
 a  
-Miroslav Bárta, vedoucí mediálního odboru Jihomoravského kraje
+[Miroslav Bárta](https://jihomoravsky.pirati.cz/lide/miroslav-barta/), vedoucí mediálního odboru Jihomoravského kraje
