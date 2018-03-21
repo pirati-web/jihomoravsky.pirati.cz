@@ -7,7 +7,7 @@ author: Miroslav Bárta
 authorId: miroslav.barta
 image: /assets/img/posts/kucharka.png
 description: >-
-  Andrej Babiš se rozčiloval, že neví jak jednat s ostatními stranami. Tak mu dnes Piráti k mezinárodnímu dni štěstí předali kuchařku jak jednat s Piráty.
+  Andrej Babiš se rozčiloval, že neví jak jednat s ostatními stranami. Tak mu dnes Piráti k mezinárodnímu dni štěstí předali kuchařku, jak jednat s Piráty.
 tags: babiš psp poslanecká-sněmovna
 ---
 Andrej Babiš se rozčiloval, že neví jak jednat s ostatními stranami. Tak mu dnes Piráti k mezinárodnímu dni štěstí předali kuchařku jak jednat s Piráty :)
