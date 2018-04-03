@@ -6,7 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 - pms
 img: people/radek-holomcik.jpg   # 165 x 220
-description: Poslanec, textař, marketér, místopředseda krajského sdružení a předseda místního sdružení Slovácko          	# kratký popis, max 160 znaků
+description: Poslanec, textař, marketér, 2. místopředseda Pirátské strany a předseda místního sdružení Slovácko          	# kratký popis, max 160 znaků
 mail:
 - radek.holomcik@pirati.cz
 mob:			  +420 728 034 460
@@ -34,7 +34,7 @@ motto: ["Politikům se nevěří, politici se kontrolují.", "Karel Kryl"]
 
 Radek Holomčík (narozen 31. 7. 1985 v Hodoníně) pochází ze Strážnice.
 
-Ve volbách do Poslanecké sněmovny Parlamentu České republiky v roce 2017 je lídrem jihomoravské kandidátky. V Pirátské straně zastává funkce místopředsedy Krajského sdružení Jihomoravského kraje a předsedy Místního sdružení Slovácko.
+Ve volbách do Poslanecké sněmovny Parlamentu České republiky v roce 2017 je lídrem jihomoravské kandidátky. V Pirátské straně zastává funkce 2. místopředsedy strany a předsedy Místního sdružení Slovácko.
 
 Vystudoval SPŠ v Uherském Hradišti, obor Elektrotechnika. Po střední škole začal pracovat v oboru, přičemž se neúspěšně pokoušel o studium Astrofyziky a Politologie. Po dvou letech se přeorientoval na oblast marketingu a PR, ve které pracuje dodnes. Při zaměstnání vystudoval Teorie interaktivních médií (Bc.) a Management v kultuře (Mgr.), obé na FF MU v Brně.
 
