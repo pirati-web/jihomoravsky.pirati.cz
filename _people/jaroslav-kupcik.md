@@ -1,19 +1,19 @@
 ---
 uid: jaroslav.kupcik
-name:     Jaroslav Kupčík  	# běžně používáné jméno
-fullname: Ing. Jaroslav Kupčík  	# jméno s tituly etc.
+name:     Jaroslav Kameň  	# běžně používáné jméno
+fullname: Ing. Jaroslav Kameň  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 
 img: people/jaroslav-kupcik.jpg   # 165 x 220
 description: Webový a herní vývojář a vedoucí mediálního odboru Jihomoravského kraje          	# kratký popis, max 160 znaků
 mail:
-- jaroslav.kupcik@pirati.cz
+- jaroslav.kamen@pirati.cz
 mob: +420 608 552 333			  
 profiles:
   github: https://github.com/jerrylabs                
   facebook: https://www.facebook.com/jerrylabs
   twitter: https://twitter.com/pirat_jerry		
-  wiki: https://wiki.pirati.cz/lide/jaroslav_kupcik
+  wiki: https://wiki.pirati.cz/lide/jaroslav_kamen
   instagram: https://www.instagram.com/jerrousz/
   linkedin: https://www.linkedin.com/in/jerrylabs
   compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=-7.25&soc=-5.54  
@@ -31,7 +31,7 @@ motto: Kdo se nezajímá o politiku, o toho se bohužel časem začne politika z
 
 ---
 
-Jaroslav Kupčík (* 4. června 1986) je členem Pirátské strany od roku 2016. Pochází z Orlové a od roku 2005 žije v Brně.
+Jaroslav Kupčík (roz. Kameň, * 1986) je členem Pirátské strany od roku 2016. Pochází z Orlové a od roku 2005 žije v Brně.
 
 Vystudoval osmileté všeobecné gymnázium a poté obor Informační systémy na Fakultě informačních technologií Vysokého učení technického v Brně, kde získal titul Ing.
 
