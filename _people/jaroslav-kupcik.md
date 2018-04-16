@@ -5,7 +5,7 @@ fullname: Ing. Jaroslav Kameň  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 
 img: people/jaroslav-kupcik.jpg   # 165 x 220
-description: Webový a herní vývojář a vedoucí mediálního odboru Jihomoravského kraje          	# kratký popis, max 160 znaků
+description: Webový a herní vývojář, 2. místopředseda MS Brno  	# kratký popis, max 160 znaků
 mail:
 - jaroslav.kamen@pirati.cz
 mob: +420 608 552 333			  
