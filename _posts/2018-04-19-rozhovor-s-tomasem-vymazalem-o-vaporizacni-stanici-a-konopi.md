@@ -60,5 +60,5 @@ Samozřejmě by pomohl tlak na ministra, například dopis, v němž by ho infor
 
 **Zdá se, že o konopí existuje spousta zkreslených informací. Dokážeš říct, čím to je?**
 
-Je to odkaz prohibice. Konopí jsme v naší zemi od šedesátých let minulého století důkladně démonizovali, takže se o něj opravdu zajímá jen pár procent našich obyvatel. Zbytek čerpá z povrchních informací, které pronikají do médií. A tenhle povrchní zájem v kombinaci s nejednoznačnými paragrafy trestního zákoníku týkajícími se pěstování, sušení a přechovávání konopí způsobuje dokonalou nejistotu
+Je to odkaz prohibice. Konopí jsme v naší zemi od šedesátých let minulého století důkladně démonizovali, takže se o něj opravdu zajímá jen pár procent našich obyvatel. Zbytek čerpá z povrchních informací, které pronikají do médií. A tenhle povrchní zájem v kombinaci s nejednoznačnými paragrafy trestního zákoníku týkajícími se pěstování, sušení a přechovávání konopí způsobuje dokonalou nejistotu.
 
