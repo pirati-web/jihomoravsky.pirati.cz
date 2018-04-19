@@ -6,6 +6,7 @@ date: 2018-04-12T08:39:53.527Z
 author: Tomáš Vymazal
 authorId: tomas.vymazal
 image: /assets/img/posts/vymazal-tomas.jpg
+tags: psp legalizace konopí
 description: >-
 ---
 
