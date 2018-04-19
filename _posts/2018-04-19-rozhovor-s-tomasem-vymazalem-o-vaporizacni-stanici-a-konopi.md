@@ -1,4 +1,5 @@
 ---
+layout: blog
 category: CLANKY
 title: "Rozhovor s Tomášem Vymazalem o vaporizační stanici a konopí"
 date: 2018-04-12T08:39:53.527Z
