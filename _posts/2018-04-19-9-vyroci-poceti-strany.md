@@ -23,3 +23,5 @@ Od prvního krůčku k vytvoření strany, která má především bránit svobo
 Největší zlom však nastal v minulém roce, kdy se Piráti stali třetí nejsilnější stranou v Poslanecké sněmovně.
 
 Za devět let se změnila celá řada věcí, ať už jde o zájem médií, význam strany v celostátní politice nebo mnohem širší záběr témat. Jedno však zůstává neměnné a to snaha bránit svobodu jednotlivce, odmítat manipulaci a dezinformace a používat internet i moderní technologie ku prospěchu lidí.
+
+Autor: Jan Můčka
