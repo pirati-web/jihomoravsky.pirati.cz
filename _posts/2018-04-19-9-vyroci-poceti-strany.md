@@ -12,7 +12,7 @@ Dnes je 9. výročí od chvíle, kdy Jirka Kadeřávek inicioval vznik České p
 
 Před 9 lety, právě 19. dubna 2009, totiž vplula do moře internetu myšlenka na založení České pirátské strany. Semínko, které se rozrostlo ve 3. nejsilnější stranu v zemi, [zasadil Jiří Kadeřávek](http://www.abclinuxu.cz/blog/BoodOk/2009/4/petice-pod-vznik-ceska-piratske-strany){:target="_blank"} na portálu [AbcLinuxu.cz](http://www.abclinuxu.cz){:target="_blank"}, který se zabývá svobodným softwarem a operačním systémem Linux. Nás, jako Jihomoravskou buňku Pirátů, hřeje u srdce, že Jiří Kadeřávek je z našeho kraje a stále se zapojuje do stranických diskuzí. Před několika týdny se také připojil i do brněnského místního sdružení.
 
-<img alt="Jiří Kadeřávek v roce 2010" class="imgr" src="https://www.piratskelisty.cz/upload/thumbs/w600/2291.jpg" style="width: 280px; height: 409px; float: left;" title="Jiří Kadeřávek v roce 2010">
+<img alt="Jiří Kadeřávek v roce 2010" class="imgr" src="https://www.piratskelisty.cz/upload/thumbs/w600/2291.jpg" style="width: 280px; height: 409px; float: right; margin: 0 0 20px 20px;" title="Jiří Kadeřávek v roce 2010">
 
 *„Místo, aby Internet sloužil k všeobecnému prospěchu lidí, pomalinku, tu více, tu méně hlasitě se mění v nástroj kontroly a manipulace,“* popsal tehdy na webu svou hlavní motivaci Kadeřávek, budoucí zakladatel České pirátské strany. Následovalo vytvoření přípravného výboru a sběr on-line podpisů nutných k založení strany. V té době bylo ze zákona potřeba tisíc podpisů, které se podařilo sesbírat za pouhé dva dny.
 
