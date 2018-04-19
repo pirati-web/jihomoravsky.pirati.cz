@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 9. výročí impulsu k založení Pirátů od Jiřího Kadeřávka
-date: 2018-04-19T08:39:53.527Z
+date: 2018-04-19T09:39:53.527Z
 author: Jan Můčka
 image: /assets/img/posts/zalozeni-strany.jpg
 description: >-
