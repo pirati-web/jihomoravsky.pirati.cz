@@ -4,8 +4,13 @@
     <div class="c-BlogPosting-photoBox">
       <!-- BlogPosting image -->
       <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
-        <img src="{{article.image | relative_url }}" alt="{{article.title}}">
-        <meta itemprop="url" content="{{article.image | relative_url }}">
+        {% if article.image %}
+          <img src="{{article.image | relative_url }}" alt="{{article.title}}">
+          <meta itemprop="url" content="{{article.image | relative_url }}">
+          {% else %}
+            <img src="{{'assets/img/miscellaneous/default-news-image.png' | relative_url }}" alt="{{article.title}}">
+            <meta itemprop="url" content="{{'assets/img/miscellaneous/default-news-image.png' | relative_url }}">
+          {% endif %}
         <meta itemprop="width" content="">
         <meta itemprop="height" content=""> </div>
     </div>

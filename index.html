@@ -19,9 +19,19 @@ rbar: fb, people, video
               <!-- BlogPosting image -->
               <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting-excerpt__image" itemscope="">
                 <a href="{{article.url | relative_url}}">
-                  <img src="{{ article.image | relative_url }}" alt="{{article.title}}">
+                  {% if article.image %}
+                    <img src="{{ article.image | relative_url }}" alt="{{article.title}}">
+                  {% else %}
+                    <img src="{{'assets/img/miscellaneous/default-news-image.png' | relative_url }}" alt="{{article.title}}">
+                  {% endif %}
                 </a>
-                <meta itemprop="url" content="{{ article.image | relative_url }}">
+
+                {% if article.image %}
+                  <meta itemprop="url" content="{{ article.image | relative_url }}">
+                {% else %}
+                  <meta itemprop="url" content="{{'assets/img/miscellaneous/default-news-image.png' | relative_url }}">
+                {% endif %}
+
                 <meta itemprop="width" content="">
                 <meta itemprop="height" content=""> </div>
             </div>
