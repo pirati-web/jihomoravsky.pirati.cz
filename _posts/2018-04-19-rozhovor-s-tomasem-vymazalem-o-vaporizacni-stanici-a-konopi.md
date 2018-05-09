@@ -7,10 +7,10 @@ author: Jakub Dušánek a Tomáš Vymazal
 authorId: tomas.vymazal
 image: /assets/img/posts/titracni-mistnost.jpg
 tags: psp konopí legalizace
-description: >-
+
 ---
 
-Fakultní nemocnice u sv. Anny v Brně včera otevřela vaporizační stanici, která umožňuje pacientům inhalaci léčebného konopí pod lékařským dohledem. Nemocnice začala předepisovat léčebné konopí v květnu 2015 jako první zařízení v zemi. Nyní se stala prvním místem na světě, které otevřelo vaporizační místnost, kde pacienti mohou konopí inhalovat a zbavovat se bolestí. Pracoviště, které funguje v rámci Centra pro léčbu bolesti, představil lékař centra Radovan Hřib. Otevření stanice se účastnila kromě zástupců lékařů i veřejnost. Protože problematikou využití léčebného konopí se dlouhodobě zabývají Piráti, využili jsme příležitosti a udělali krátký rozhovor s poslancem Tomášem Vymazalem, pro kterého je využití léčebného konopí jedním z prioritních témat. 
+Fakultní nemocnice u sv. Anny v Brně včera otevřela vaporizační stanici, která umožňuje pacientům inhalaci léčebného konopí pod lékařským dohledem. Nemocnice začala předepisovat léčebné konopí v květnu 2015 jako první zařízení v zemi. Nyní se stala prvním místem na světě, které otevřelo vaporizační místnost, kde pacienti mohou konopí inhalovat a zbavovat se bolestí. Pracoviště, které funguje v rámci Centra pro léčbu bolesti, představil lékař centra Radovan Hřib. Otevření stanice se účastnila kromě zástupců lékařů i veřejnost. Protože problematikou využití léčebného konopí se dlouhodobě zabývají Piráti, využili jsme příležitosti a udělali krátký rozhovor s poslancem Tomášem Vymazalem, pro kterého je využití léčebného konopí jedním z prioritních témat.
 
 <img class="hlavni" src="https://www.piratskelisty.cz/upload/thumbs/w600/2285.jpg" alt="Tomáš Vymazal" title="Tomáš Vymazal" width="600">
 
@@ -47,7 +47,7 @@ Náš stát tak opět selhává, protože je těžké si představit, že pacien
 
 **A na čem to hrazení ze zdravotního pojištění vázne? Současný ministr zdravotnictví Adam Vojtěch se po volbách tvářil, že problémy s léčebným konopím vyřeší, ale zatím se nic nestalo.**
 
-Obecně můžu říct, že v případě léčebného konopí narážíme na neochotu úředníků dělat práci navíc. Pan ministr si pod sebou musí udělat pořádek. Začínám si klást otázku, jestli Ministerstvo zdravotnictví a jemu podřízené instituce nejsou schopné situaci řešit anebo ji řešit vůbec nechtějí. Protože pak by bylo vhodné uvažovat o přesunutí agendy na jiný orgán. 
+Obecně můžu říct, že v případě léčebného konopí narážíme na neochotu úředníků dělat práci navíc. Pan ministr si pod sebou musí udělat pořádek. Začínám si klást otázku, jestli Ministerstvo zdravotnictví a jemu podřízené instituce nejsou schopné situaci řešit anebo ji řešit vůbec nechtějí. Protože pak by bylo vhodné uvažovat o přesunutí agendy na jiný orgán.
 
 **A existuje tedy vůbec šance, že se tenhle stav změní? Nebude to jen další pokračování seriálu Jistě, pane ministře?**
 
@@ -62,4 +62,3 @@ Samozřejmě by pomohl tlak na ministra, například dopis, v němž by ho infor
 **Zdá se, že o konopí existuje spousta zkreslených informací. Dokážeš říct, čím to je?**
 
 Je to odkaz prohibice. Konopí jsme v naší zemi od šedesátých let minulého století důkladně démonizovali, takže se o něj opravdu zajímá jen pár procent našich obyvatel. Zbytek čerpá z povrchních informací, které pronikají do médií. A tenhle povrchní zájem v kombinaci s nejednoznačnými paragrafy trestního zákoníku týkajícími se pěstování, sušení a přechovávání konopí způsobuje dokonalou nejistotu.
-
