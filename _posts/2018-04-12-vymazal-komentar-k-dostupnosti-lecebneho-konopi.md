@@ -7,7 +7,7 @@ author: Tomáš Vymazal
 authorId: tomas.vymazal
 image: /assets/img/posts/vymazal-tomas.jpg
 tags: psp legalizace konopí
-description: >-
+
 ---
 
 Praha, 12. dubna 2018 – Protože ani pět let po legalizaci léčebného konopí není Ministerstvo zdravotnictví ČR schopné zajistit dostupnost konopí pro pacienty za přijatelnou cenu, zaslal jsem dnes písemnou intepelaci na ministra zdravotnictví Adama Vojtěcha.

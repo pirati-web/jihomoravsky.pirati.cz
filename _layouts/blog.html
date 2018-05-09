@@ -45,18 +45,22 @@ layout: default
       </div>
     </div>
   </div>
-  <div class="o-section-block o-section-block-fill">
-    <div class="c-BasicPage-headline-img">
-      <div class="c-BasicPage-headline-bg">
-        <img src="{{ page.image | relative_url }}" alt="{{page.title}}"> </div>
-      <div class="row small-collapse medium-uncollapse">
-        <div class="small-12 columns">
-          <div class="o-section-inner--medium">
-            <img src="{{ page.image | relative_url }}" alt="{{page.title}}"> </div>
+
+  {% if page.image %}
+    <div class="o-section-block o-section-block-fill">
+      <div class="c-BasicPage-headline-img">
+        <div class="c-BasicPage-headline-bg">
+          <img src="{{ page.image | relative_url }}" alt="{{page.title}}"> </div>
+        <div class="row small-collapse medium-uncollapse">
+          <div class="small-12 columns">
+            <div class="o-section-inner--medium">
+              <img src="{{ page.image | relative_url }}" alt="{{page.title}}"> </div>
+          </div>
         </div>
       </div>
     </div>
-  </div>
+  {% endif %}
+
   <div class="row o-section-block">
     <div class="small-12 columns">
       <div class="o-section o-section--noSpaceBottom">
