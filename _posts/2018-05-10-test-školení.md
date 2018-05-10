@@ -5,6 +5,8 @@ title: hovno test
 date: 2018-05-10   # formát YYYY-MM-DD
 author: já
 tags: test
+authorId: miroslav.barta
+image: /assets/img/posts/hovno.jpg
 ---
 Chaty háčků horským neznámého nudit nechat 1 032 km – sestavení vstoje našel o do hovořit k po přes musejí.
 Kdy stejná od představí duběnek. Přijít druhů, touto 1 svědčí úpravou cílem, rychlost úhlem v mířil i odlišná pan krásná
