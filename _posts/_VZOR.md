@@ -7,7 +7,7 @@ category: CLANKY   # nešahat!
 title: Starší články
 date: 2017-05-21   # formát YYYY-MM-DD
 author: Jaroslav Kupčík
-tags: archiv # kategorie, např. volby, zemědělství, životní-prostředí, piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: archiv # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 authorId: jaroslav.kupcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
