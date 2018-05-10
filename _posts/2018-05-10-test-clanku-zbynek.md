@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: "Test Zbynek"
-date: 2018-05-10T08:00:00.000Z
+date: 2018-05-10
 author: Zbyněk Janoška
 authorId: janoskaz
 image: /assets/img/posts/titracni-mistnost.jpg
