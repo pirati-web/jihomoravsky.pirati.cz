@@ -4,8 +4,8 @@ category: CLANKY
 title: "Test Zbynek"
 date: 2018-05-10
 author: Zbyněk Janoška
-authorId: janoskaz
-image: /assets/img/posts/titracni-mistnost.jpg
+authorId: ivo.vasicek
+image: /assets/img/posts/test-img-500x500-1.png
 tags: psp konopí legalizace
 ---
 
