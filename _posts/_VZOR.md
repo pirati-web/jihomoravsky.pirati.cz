@@ -1,4 +1,4 @@
-#název souboru: YYYY-MM-DD-nazev-clanku-bez-mezer-a-diakritiky.md
+#název souboru: YYYY-MM-DD-nazev-clanku-bez-mezer-a-diakritiky
 ---
 ### Povinné položky ###
 
