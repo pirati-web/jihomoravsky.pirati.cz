@@ -6,7 +6,7 @@ date: 2018-05-10   # formát YYYY-MM-DD
 author: Autorus
 tags: volby test # kategorie, např. volby, zemědělství, životní-prostředí, piráti (viz https://jihomoravsky.pirati.cz/tags/)
 authorId: radek.holomcik
-image: /assets/img/posts/test.jpg
+image: /assets/img/posts/Test.jpg
 ---
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas libero. Praesent id justo in neque elementum ultrices. Proin mattis lacinia justo. Aliquam id dolor. Nam quis nulla. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla non arcu lacinia neque faucibus fringilla. Etiam egestas wisi a erat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et, dolor. Phasellus et lorem id felis nonummy placerat. Proin in tellus sit amet nibh dignissim sagittis.
 
