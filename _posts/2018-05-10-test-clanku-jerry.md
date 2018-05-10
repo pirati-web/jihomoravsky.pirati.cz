@@ -5,6 +5,9 @@ title: Test Jerry super článek numero uno
 date: 2018-05-10   # formát YYYY-MM-DD
 author: cdgtdhntr 
 tags: test # kategorie, např. volby, zemědělství, životní-prostředí, piráti (viz https://jihomoravsky.pirati.cz/tags/)
+
+authorId: jaroslav.kupcik
+image: /assets/img/posts/kitten.jpg
 ---
 "Na Na what's my name? Not Francis", said a pissed off Ajax bottle. If an ugly fuck like me can get his girl to still him, you can also find love. Just kidding! the real world is a cruel place. You need more words? Here you go: Fuck, balls, ass, dick, tits! I believe all my enemies can fly, that's why I throw them in the air. Roses are red. Violets are blue. Fuck you Francis!!! If your gf/bf hated you for watching deadpool instead of doing something special, I'm glad you dumped them.
 
