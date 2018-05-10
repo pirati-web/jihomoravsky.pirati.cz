@@ -15,4 +15,4 @@ Duis tempor magna vel dui faucibus vehicula. Maecenas in consequat ligula. Sed d
 
 # Nadpis 1
 
-![kořen všeho zla](http://facebook.com)
+[kořen všeho zla](http://facebook.com)
