@@ -1,7 +1,7 @@
 ---
 uid: radek.holomcik
 name:     Radek Holomčík  	# běžně používáné jméno
-fullname: Mgr. Radek Holomčík  	# jméno s tituly etc.
+fullname: Radek Holomčík  	# jméno s tituly etc, tituly u jména neuvádíme.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 - pms
