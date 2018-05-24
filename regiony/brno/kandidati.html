@@ -1,0 +1,87 @@
+---
+layout: default
+permalink: /brno/
+---
+
+<nav class="c-top-sub-nav u-center-860-down">
+  <div class="row">
+    <div class="c-top-sub-nav-inner">
+      <div class="u-cf">
+        <ul class="c-top-sub-nav-items">
+          <li class="c-top-sub-nav__item c-top-sub-nav-header">
+            <div class="c-top-sub-nav__heading">Kandidáti</div>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{ 'brno/novinky' | relative_url }}">Novinky</a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{ 'brno/program' | relative_url }}">Program</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div class="row o-section-block o-section-block--divided">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <div class="jmk-candidates">
+                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#psp" class="c-simple-accordion-title">Naši poslanci</a>
+                    <div id="psp" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
+                      {% include people/list-2col.html param=team %}
+                    </div>
+                  </li>
+                </ul>
+                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#zast" class="c-simple-accordion-title">Další zastupitelé</a>
+                    <div id="zast" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'zast'" | sort:"ordzast" %}
+                      {% include people/list-2col.html param=team %}
+                    </div>
+                  </li>
+                </ul>
+                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#pks" class="c-simple-accordion-title is-active">Předsednictvo krajského sdružení</a>
+                    <div id="pks" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'pks'" | sort:"ordpks" %}
+                      {% include people/list-2col.html param=team %}
+                    </div>
+                  </li>
+                </ul>
+                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#pms" class="c-simple-accordion-title is-active">Předsedové místních sdružení</a>
+                    <div id="pms" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'pms'" | sort:"ordpms" %}
+                      {% include people/list-2col.html param=team %}
+                    </div>
+                  </li>
+                </ul>
+                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#clenove" class="c-simple-accordion-title">Naši členové</a>
+                    <div id="clenove" class="c-simple-accordion-content" data-tab-content="">
+                      <a href="https://forum.pirati.cz/ks-jihomoravsky-kraj-g36.html">Seznam členů Krajského sdružení Jihomoravského kraje na Fóru Pirátské strany</a>
+                    </div>
+                  </li>
+                </ul>
+
+              </div>
+            </div>
+          </div>
+        </main>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>
