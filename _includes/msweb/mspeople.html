@@ -21,9 +21,6 @@
     </div>
     <div class="c-widget-accordion-content__cta">
       {% assign url = page.region | append: '/' | append: include.teamurl %}
-      {% if include.teamurl != '' %}
-        {% assign url = url | append: '.html' %}
-      {% endif %}
       <a class="expanded button large" href="{{ url | relative_url }}"> Poznejte celý náš tým! </a>
     </div>
   </div>

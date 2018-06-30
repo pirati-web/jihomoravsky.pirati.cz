@@ -11,9 +11,6 @@
           {% for item in page.menuitems %}
             {% if item.link %}
               {% assign url = page.region | append: '/' | append: item.link %}
-              {% if item.link != '' %}
-                {% assign url = url | append: '.html' %}
-              {% endif %}
               <li class="c-top-sub-nav__item">
                 <a href="{{ url | relative_url }}">{{ item.text }}</a>
               </li>
