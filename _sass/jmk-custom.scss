@@ -135,3 +135,17 @@
     display: none;
   }
 }
+
+.jmk-msweb__headline {
+  font-family: $header-font-family;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+@media screen and (min-width: 53.76em) {
+  .jmk-msweb__nav.c-top-sub-nav .c-top-sub-nav-inner:before {
+    width: 370px;
+    height: 185px;
+    background-size: cover;
+  }
+}
