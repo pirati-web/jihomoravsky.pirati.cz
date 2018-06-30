@@ -1,0 +1,35 @@
+<div class="medium-12 large-4 columns">
+<aside class="o-section">
+<div class="o-section-inner o-section-inner--rightBlock">
+<div class="o-section-block">
+<ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+<li class="c-widget-accordion-item is-active" data-accordion-item="">
+  <a href="#" class="c-widget-accordion-link">
+    <span class="c-widget-accordion__title">Lidé</span>
+    <span class="c-widget-accordion__icon c-widget-accordion__icon c-widget-accordion__icon--bottom c-widget-accordion__icon--bottomPulled" aria-hidden="true">
+      <i class="fa fa-users fa-lg"></i>
+    </span>
+  </a>
+  <div class="c-widget-accordion-content" data-tab-content="">
+    <div class="c-widget-accordion-content-inner">
+      {% assign person = site.people | where_exp:"item","item.name contains include.name1" | first %}
+      {% include people/rbar_profile.html param=""%}
+      {% assign person = site.people | where_exp:"item","item.name contains include.name2" | first %}
+      {% include people/rbar_profile.html param=""%}
+      {% assign person = site.people | where_exp:"item","item.name contains include.name3" | first %}
+      {% include people/rbar_profile.html param=""%}
+    </div>
+    <div class="c-widget-accordion-content__cta">
+      {% assign url = page.region | append: '/' | append: include.teamurl %}
+      {% if include.teamurl != '' %}
+        {% assign url = url | append: '.html' %}
+      {% endif %}
+      <a class="expanded button large" href="{{ url | relative_url }}"> Poznejte celý náš tým! </a>
+    </div>
+  </div>
+</li>
+</ul>
+</div>
+</div>
+</aside>
+</div>

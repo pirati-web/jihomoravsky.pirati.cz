@@ -1,0 +1,30 @@
+<nav class="c-top-sub-nav u-center-860-down jmk-msweb__nav jmk-msweb__nav--{{ page.region }}">
+  <div class="row">
+    <div class="c-top-sub-nav-inner">
+      <h1 class="jmk-msweb__headline">
+        {% if page.region == 'brno' %}
+          Piráti Brno
+        {% endif %}
+      </h1>
+      <div class="u-cf">
+        <ul class="c-top-sub-nav-items">
+          {% for item in page.menuitems %}
+            {% if item.link %}
+              {% assign url = page.region | append: '/' | append: item.link %}
+              {% if item.link != '' %}
+                {% assign url = url | append: '.html' %}
+              {% endif %}
+              <li class="c-top-sub-nav__item">
+                <a href="{{ url | relative_url }}">{{ item.text }}</a>
+              </li>
+            {% else %}
+              <li class="c-top-sub-nav__item c-top-sub-nav-header">
+                <div class="c-top-sub-nav__heading">{{ item.text }}</div>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>

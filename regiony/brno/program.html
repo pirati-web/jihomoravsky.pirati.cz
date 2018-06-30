@@ -1,28 +1,16 @@
 ---
 layout: default
 permalink: /brno/program
+region: brno
+menuitems:
+ - text: Kandidáti
+   link: ""
+ - text: Novinky
+   link: novinky
+ - text: Program
 ---
 
-<nav class="c-top-sub-nav u-center-860-down">
-  <div class="row">
-    <div class="c-top-sub-nav-inner">
-      <div class="u-cf">
-        <ul class="c-top-sub-nav-items">
-          <li class="c-top-sub-nav__item">
-            <a href="{{ 'brno' | relative_url }}">Kandidáti</a>
-          </li>
-          <li class="c-top-sub-nav__item">
-            <a href="{{ 'brno/novinky.html' | relative_url }}">Novinky</a>
-          </li>
-          <li class="c-top-sub-nav__item c-top-sub-nav-header">
-            <div class="c-top-sub-nav__heading">Program</div>
-          </li>
-
-        </ul>
-      </div>
-    </div>
-  </div>
-</nav>
+{% include msweb/msmenu.html %}
 
 <div class="row o-section-block o-section-block--divided">
   <div class="medium-12 large-8 columns">
@@ -31,6 +19,9 @@ permalink: /brno/program
         <main class="o-section-block">
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
+              {% comment %}
+                If you don't like writing in HTML, use Word then https://html-cleaner.com/
+              {% endcomment %}
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare, elit et tristique tincidunt, odio libero lacinia augue, ut condimentum nisl enim eget sem. Fusce lectus purus, cursus non lacinia et, semper eu massa. Ut tincidunt ligula ut sapien varius, a commodo est mollis. Fusce tincidunt massa vel lectus vulputate pulvinar. Integer consectetur vehicula tellus a volutpat. Mauris pharetra, lacus in consectetur facilisis, libero augue laoreet metus, nec euismod eros erat vitae nibh. Maecenas feugiat velit quis pretium mollis. Sed at lectus non mauris ullamcorper mattis at a dolor. Mauris eu dapibus nisi. Maecenas dapibus velit in odio lacinia venenatis. Cras ornare quam dolor, id pulvinar sem auctor et. Ut blandit tincidunt leo ultricies faucibus.
               </p>
@@ -54,35 +45,6 @@ permalink: /brno/program
     <!-- /. o-section -->
   </div>
 
-  <div class="medium-12 large-4 columns">
-    <aside class="o-section">
-      <div class="o-section-inner o-section-inner--rightBlock">
-        <div class="o-section-block">
-          <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
-            <li class="c-widget-accordion-item is-active" data-accordion-item="">
-              <a href="#" class="c-widget-accordion-link">
-                <span class="c-widget-accordion__title">Lidé</span>
-                <span class="c-widget-accordion__icon c-widget-accordion__icon c-widget-accordion__icon--bottom c-widget-accordion__icon--bottomPulled" aria-hidden="true">
-                  <i class="fa fa-users fa-lg"></i>
-                </span>
-              </a>
-              <div class="c-widget-accordion-content" data-tab-content="">
-                <div class="c-widget-accordion-content-inner">
-                  {% assign person = site.people | where_exp:"item","item.name contains 'Holomčík'" | first %}
-                  {% include people/rbar_profile.html param=""%}
-                  {% assign person = site.people | where_exp:"item","item.name contains 'Vymazal'" | first %}
-                  {% include people/rbar_profile.html param=""%}
-                  {% assign person = site.people | where_exp:"item","item.name contains 'Gregorová'" | first %}
-                  {% include people/rbar_profile.html param=""%}
-                </div>
-                <div class="c-widget-accordion-content__cta">
-                  <a class="expanded button large" href="{{ '/lide/' | relative_url }}"> Poznejte celý náš tým! </a>
-                </div>
-              </div>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </aside>
-  </div>
+  {% include msweb/mspeople.html name1="Holomčík" name2="Vymazal" name3="Gregorová" teamurl="" %}
+
 </div>

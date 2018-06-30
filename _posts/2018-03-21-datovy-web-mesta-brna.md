@@ -9,6 +9,7 @@ image: /assets/img/posts/brno-motion.jpg
 description: >-
   Dnes byl spuštěn datový portál pořízený Kanceláří strategie města Brna, který vychází z práce, kterou provedla Skupina pro městská data.
 tags: babiš psp poslanecká-sněmovna
+region: brno
 ---
 **ČESKÁ PIRÁTSKÁ STRANA, místní sdružení Brno**
 

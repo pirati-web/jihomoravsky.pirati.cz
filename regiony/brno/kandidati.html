@@ -1,31 +1,16 @@
 ---
 layout: default
 permalink: /brno/
-headline: "Piráti Brno"
+region: brno
+menuitems:
+ - text: Kandidáti
+ - text: Novinky
+   link: novinky
+ - text: Program
+   link: program
 ---
 
-<nav class="c-top-sub-nav u-center-860-down jmk-msweb__nav">
-  <div class="row">
-    <div class="c-top-sub-nav-inner">
-      <h1 class="jmk-msweb__headline">
-        Piráti Brno
-      </h1>
-      <div class="u-cf">
-        <ul class="c-top-sub-nav-items">
-          <li class="c-top-sub-nav__item c-top-sub-nav-header">
-            <div class="c-top-sub-nav__heading">Kandidáti</div>
-          </li>
-          <li class="c-top-sub-nav__item">
-            <a href="{{ 'brno/novinky.html' | relative_url }}">Novinky</a>
-          </li>
-          <li class="c-top-sub-nav__item">
-            <a href="{{ 'brno/program.html' | relative_url }}">Program</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</nav>
+{% include msweb/msmenu.html %}
 
 <div class="row o-section-block o-section-block--divided">
   <div class="medium-12 large-12 columns">
