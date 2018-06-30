@@ -7,7 +7,7 @@ author: Jaroslav Kupčík
 authorId: jaroslav.kupcik
 image: /assets/img/posts/bifling.jpg
 description: >-
-  Evropská unie již nechce dotacemi podporovat velké zemědělské podniky, ale česká vláda a tvůrci zemědělské politiky to ignorují. Piráti to rozhodně řešit budou.
+  Těšily se vaše děti v srpnu do školy? A pokud ano, jak dlouho jim to v září vydrželo?
 tags: školství vzdělávání
 ---
 Těšily se vaše děti v srpnu do školy? A pokud ano, jak dlouho jim to v září vydrželo?

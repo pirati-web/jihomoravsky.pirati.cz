@@ -7,7 +7,7 @@ author: Miroslav Bárta
 authorId: miroslav.barta
 image: /assets/img/posts/brno-motion.jpg
 description: >-
-  Andrej Babiš se rozčiloval, že neví jak jednat s ostatními stranami. Tak mu dnes Piráti k mezinárodnímu dni štěstí předali kuchařku jak jednat s Piráty.
+  Dnes byl spuštěn datový portál pořízený Kanceláří strategie města Brna, který vychází z práce, kterou provedla Skupina pro městská data.
 tags: babiš psp poslanecká-sněmovna
 ---
 **ČESKÁ PIRÁTSKÁ STRANA, místní sdružení Brno**
@@ -24,13 +24,13 @@ Bylo vytvořeno datové uložiště a datový katalog. Vše bude fungovat na tř
 2. Pro odbornou veřejnost a studenty
 3. Pro širokou veřejnost včetně aplikací a přehledných grafů o vývoji města
 
-Cílem projektu bylo, zpřístupnit data města široké veřejnosti, odborníkům, studentům a úřadům k využití. Aby byla veškerá data na jednom místě a jednoduše využitelná všemi. 
+Cílem projektu bylo, zpřístupnit data města široké veřejnosti, odborníkům, studentům a úřadům k využití. Aby byla veškerá data na jednom místě a jednoduše využitelná všemi.
 
 Inspirací k vytvoření katalogu byl Londýn: [https://data.london.gov.uk/](https://data.london.gov.uk/){:target="_blank"}  
 Datový web naleznete zde: [http://data.brno.cz/](http://data.brno.cz/){:target="_blank"}
-  
-  
-  
+
+
+
 [Jiří Ulip](https://jihomoravsky.pirati.cz/lide/jiri-ulip/), zastupitel města Brna a iniciátor vzniku datového portálu  
 a  
 [Miroslav Bárta](https://jihomoravsky.pirati.cz/lide/miroslav-barta/), vedoucí mediálního odboru Jihomoravského kraje
