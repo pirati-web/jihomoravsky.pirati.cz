@@ -29,6 +29,8 @@ notsupporting:
 reason: Znepokojuje mě postupné ukrajování našich svobod salámovou metodou. Politika by měla být služba občanům, nikoliv soukromý byznys!
 motto: Kdo se nezajímá o politiku, o toho se bohužel časem začne politika zajímat sama.
 
+ordmsbrno: 9
+
 ---
 
 Jaroslav Kameň (roz. Kupčík, * 1986) je členem Pirátské strany od roku 2016. Pochází z Orlové a od roku 2005 žije v Brně.

@@ -16,6 +16,7 @@ profiles:
   compass: https://www.politicalcompass.org/printablegraph?ec=-3.25&soc=-4.62
 ordpms: 3
 ordzast: 2
+ordmsbrno: 1
 ---
 
 Tomáš Koláčný (*27.06.1992) pochází z Brna. V Pirátské straně je členem republikového výboru a předsedou [místního sdružení](https://wiki.pirati.cz/regiony/jiznimorava/brno/start) Brno.

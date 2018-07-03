@@ -26,6 +26,7 @@ notsupporting:
 reason: 'Využívám své právo: podílet se aktivně na budoucnosti naší země je určitě lepší, než nadávat u piva.'
 motto: ["Veřejné záležitosti patří do veřejnosti. Co se všech týká stejnou měrou, měli by všichni řešit, nebo o tom přinejmenším vědět.", "Jan Amos Komenský"]
 
+ordmsbrno: 3
 ---
 
 Róbert Čuma (* 19. ledna 1977), předseda krajského sdružení Pirátů Jihomoravského kraje, předseda dozorčí rady brněnské městské společnosti STAREZ-SPORT, a.s.

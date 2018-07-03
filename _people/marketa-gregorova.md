@@ -30,6 +30,7 @@ reason: Není mi to jedno. Jsme vyspělá společnost ve skvělém čase - a vů
 motto:  Největší radost by mi udělalo, kdyby lidé volili informovaně.
 
 ordpks: 2  
+ordmsbrno: 2
 ---
 
 Markéta Gregorová (\*14. ledna 1993) je členem krajského sdružení Pirátů v Jihomoravském kraji. Pochází z Mostu a od září 2012 se vyskytuje především v Brně. Od prosince 2015 má trvalé bydliště v Tetčicích.

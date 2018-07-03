@@ -10,6 +10,8 @@ description: Borec ze štatlu, (nejen sportovní) aktivista a ambasador Pubquizu
 profiles:
   wiki: https://wiki.pirati.cz/lide/marek_fiser
 
+ordmsbrno: 5
+
 ---
 
 Marek Fišer (* 22. listopadu 1982) je příznivcem Pirátů od roku 2012. V roce 2014 inicioval oslovení Pirátské strany Matějem Hollanem s cílem vytvořit koalici do brněnských voleb.

@@ -13,6 +13,7 @@ profiles:
   facebook: https://www.facebook.com/KRtek.tm
   wiki: https://wiki.pirati.cz/lide/ondrej_kotas
 
+ordmsbrno: 4
 ---
 
 Ondřej Kotas (* 20. ledna 1992) pochází z Brna a do Pirátské strany vstoupil v listopadu 2011.
