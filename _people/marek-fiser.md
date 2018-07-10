@@ -3,6 +3,7 @@ uid: marek.fiser
 name:     Marek Fišer  	# běžně používáné jméno
 fullname: Marek Fišer  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
+- krpole
 
 img: people/marek-fiser.jpg   # 165 x 220
 description: Borec ze štatlu, (nejen sportovní) aktivista a ambasador Pubquizu  	# kratký popis, max 160 znaků
@@ -11,6 +12,7 @@ profiles:
   wiki: https://wiki.pirati.cz/lide/marek_fiser
 
 ordmsbrno: 5
+ordkrpole: 1
 
 ---
 
