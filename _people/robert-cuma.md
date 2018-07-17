@@ -3,7 +3,7 @@ uid: robert.cuma
 name:     Róbert Čuma  	# běžně používáné jméno
 fullname: Róbert Čuma  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-
+- brnostred
 - pks
 img: people/robert-cuma.jpg   # 165 x 220
 description: Předseda krajského sdružení Jihomoravského kraje a předseda dozorčí rady společnosti STAREZ-SPORT a.s.          	# kratký popis, max 160 znaků
@@ -13,7 +13,6 @@ mob:
 profiles:             
   facebook: https://www.facebook.com/robert.cuma.39
   wiki: https://wiki.pirati.cz/lide/robert_cuma
-ordpks: 1	  
 
 supporting:
 - svobodný život
@@ -27,6 +26,8 @@ reason: 'Využívám své právo: podílet se aktivně na budoucnosti naší zem
 motto: ["Veřejné záležitosti patří do veřejnosti. Co se všech týká stejnou měrou, měli by všichni řešit, nebo o tom přinejmenším vědět.", "Jan Amos Komenský"]
 
 ordmsbrno: 3
+ordpks: 1	  
+ordbrnostred: 1
 ---
 
 Róbert Čuma (* 19. ledna 1977), předseda krajského sdružení Pirátů Jihomoravského kraje, předseda dozorčí rady brněnské městské společnosti STAREZ-SPORT, a.s.

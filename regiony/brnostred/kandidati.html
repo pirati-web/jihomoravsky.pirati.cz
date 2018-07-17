@@ -1,0 +1,36 @@
+---
+layout: default
+permalink: /brnostred/
+region: brnostred
+menuitems:
+ - text: Kandidáti
+ - text: Novinky
+   link: novinky
+ - text: Program
+   link: program
+---
+
+{% include msweb/msmenu.html %}
+
+<div class="row o-section-block o-section-block--divided">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <div class="jmk-candidates">
+
+                <h1 class="jmk-msweb__headline">Brno - Střed</h1>
+                {% assign team = site.people | where_exp:"item","item.categories contains 'brnostred'" | sort:"ordbrnostred" %}
+                {% include people/list-2col.html param=team %}
+
+              </div>
+            </div>
+          </div>
+        </main>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>
