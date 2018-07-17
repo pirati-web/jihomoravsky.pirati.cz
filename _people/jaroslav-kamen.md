@@ -5,7 +5,7 @@ fullname: Ing. Jaroslav Kameň  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - krpole
 - msbrno
-img: people/jaroslav-kupcik.jpg   # 165 x 220
+img: people/jaroslav-kamen.jpg   # 165 x 220
 description: Webový a herní vývojář, 2. místopředseda MS Brno  	# kratký popis, max 160 znaků
 mail:
 - jaroslav.kamen@pirati.cz
