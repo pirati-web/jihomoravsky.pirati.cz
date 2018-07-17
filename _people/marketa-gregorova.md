@@ -4,6 +4,7 @@ name:     Markéta Gregorová  	# běžně používáné jméno
 fullname: Bc. Markéta Gregorová  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
+- msbrno
 
 img: people/marketa-gregorova.jpg   # 165 x 220
 description: Všestranně založená testerka, e-commerce specialistka a vedoucí zahraničního odboru Pirátské strany    	# kratký popis, max 160 znaků

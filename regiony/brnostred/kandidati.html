@@ -21,7 +21,7 @@ menuitems:
             <div class="c-BasicPage-content">
               <div class="jmk-candidates">
 
-                <h1 class="jmk-msweb__headline">Brno - Střed</h1>
+                <h2 class="jmk-msweb__headline">Kandidáti do zastupitelstva městské části Brno - Střed</h2>                
                 {% assign team = site.people | where_exp:"item","item.categories contains 'brnostred'" | sort:"ordbrnostred" %}
                 {% include people/list-2col.html param=team %}
 

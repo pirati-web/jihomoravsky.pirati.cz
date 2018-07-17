@@ -3,7 +3,7 @@ uid: ondrej.kotas
 name:     Ondřej Kotas  	# běžně používáné jméno
 fullname: Ondřej Kotas  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-
+- msbrno
 img: people/ondrej-kotas.jpg   # 165 x 220
 description: Softwarový tester, automatizační specialista a člen předsednictva brněnského sdružení        	# kratký popis, max 160 znaků
 mail:

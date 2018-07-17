@@ -4,7 +4,7 @@ name:     Monika Spilková  	# běžně používáné jméno
 fullname: Monika Spilková  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - brnostred
-
+- msbrno
 img: people/unknown.jpg   # 165 x 220
 description: Grafička, fotografka a provozovatelka vinárny  	# kratký popis, max 160 znaků
 mail:
@@ -26,6 +26,7 @@ notsupporting:
 reason: O veřejné dění se zajímám dlouhodobě, avšak vývoj na politické scéně posledních let a zkušenosti s podnikatelskou realitou mne posunuly k bodu, v němž cítím, že již nestačí diskutovat a kritizovat, ale začít se na příběhu naší země aktivně podílet.
 
 ordbrnostred: 2
+ordmsbrno: 8
 ---
 
 Monika Spilková (\* 11. ledna 1987 v Brně) je členkou krajského sdružení Pirátů v Jihomoravském kraji a místního sdružení Brno.

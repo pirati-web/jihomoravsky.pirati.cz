@@ -3,7 +3,8 @@ uid: miroslav.barta
 name:     Miroslav Bárta  	# běžně používáné jméno
 fullname: Miroslav Bárta  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-
+- krpole
+- msbrno
 img: people/miroslav-barta.jpg   # 165 x 220
 description: Vedoucí mediálního odboru Jihomoravského kraje  	# kratký popis, max 160 znaků
 mail:
@@ -32,6 +33,7 @@ notsupporting:
 motto: ["Demokracie je vláda lidu, prostřednictvím lidu a pro lidi.", "Abraham Lincoln"]
 
 ordmsbrno: 10
+ordkrpole: 3
 ---
 
 Miroslav Bárta se narodil v Karviné - Ráji 20.4.1973. Přes Ostravu, Kopřivnici, Opavu, Olomouc a Prahu se usadil roku 1999 v Brně, kde žije do dnes. Studoval VGJŽ (vojenské gymnázium) v Opavě.
