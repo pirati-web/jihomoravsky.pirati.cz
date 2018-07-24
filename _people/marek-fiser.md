@@ -6,7 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - krpole
 - msbrno
 img: people/marek-fiser.jpg   # 165 x 220
-description: Borec ze štatlu, (nejen sportovní) aktivista a ambasador Pubquizu  	# kratký popis, max 160 znaků
+description: Manažer, lingvista a zahrádkář 	# kratký popis, max 160 znaků
 
 profiles:
   wiki: https://wiki.pirati.cz/lide/marek_fiser
