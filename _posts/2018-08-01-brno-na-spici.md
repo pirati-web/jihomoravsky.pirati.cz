@@ -15,7 +15,7 @@ description: Piráti vyplouvají do podzimních komunálních voleb. Svoji vizi 
 
 ---
 
-**Tisková zpráva České pirátské strany Brno ze dne 1.8.2018**
+**Tisková zpráva České pirátské strany Brno ze dne 1. 8. 2018**
 
 *Brno, 1. srpna 2018* – Piráti vyplouvají do podzimních komunálních voleb. Svoji vizi pro *Brno na špici* představili dnes na tiskové konferenci k zahájení komunální kampaně, kde o hlavních programových prioritách hovořili čelní kandidáti do zastupitelstva města Brna. Současně Piráti uvedli i expertní tým poradců, s nímž budou v příštím volebním období konzultovat odborné otázky.
 
