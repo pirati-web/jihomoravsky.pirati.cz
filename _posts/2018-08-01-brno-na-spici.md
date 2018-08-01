@@ -7,9 +7,10 @@ category: CLANKY   # nešahat!
 title: Brno na špici!
 date: 2018-08-01   # formát YYYY-MM-DD
 author: Markéta Gregorová
-tags: piráti volby # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: brno komunální-volby volby2018 # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
+image: /assets/img/posts/top4volby2018.jpg 
 description: Piráti vyplouvají do podzimních komunálních voleb. Svoji vizi pro Brno na špici představili dnes na tiskové konferenci k zahájení komunální kampaně, kde o hlavních programových prioritách hovořili čelní kandidáti do zastupitelstva města Brna.
 
 ---
