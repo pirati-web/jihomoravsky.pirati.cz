@@ -38,7 +38,7 @@ Piráti dále představili členy svého expertního týmu poradců, mezi něž 
 - Lucas Willem Smink (NL), expert pro oblast urbanismu a environmentálního managementu,
 - Michal Šimoník (zakladatel Autonapůl), expert pro oblast vnitroměstské mobility a carsharingu.
 
-Piráti v Brně kandidují také do zastupitelstev městských částí Brno-střed, Královo Pole (v koalici s hnutím Starostové a nezávislí pod názvem Piráti pro Královo Pole) a Žabovřesky. V jihomoravském kraji pak budou samostatně kandidovat ve Znojmě, Blansku a Boskovicích, v Břeclavi s podporou hnutí Mladí a neklidní a Starostů a nezávislých, v Hodoníně v koalici se stranou Svobodní a ve Strážnici podpoří nezávislou kandidátku.
+Piráti v Brně kandidují také do zastupitelstev městských částí Brno-střed, Královo Pole (v koalici s hnutím Starostové a osobnosti pro Moravu pod názvem Piráti pro Královo Pole) a Žabovřesky. V jihomoravském kraji pak budou samostatně kandidovat ve Znojmě, Blansku a Boskovicích, v Břeclavi s podporou hnutí Mladí a neklidní a Starostů a nezávislých, v Hodoníně v koalici se stranou Svobodní a ve Strážnici podpoří nezávislou kandidátku.
 
 **Kontakty:**
 
