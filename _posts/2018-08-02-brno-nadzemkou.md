@@ -11,7 +11,7 @@ tags: brno doprava nádraží # kategorie odděleny mezerami, např. volby země
 
 ### Nepovinné položky ###
 authorId: ondrej.kotas # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: /assets/img/posts/brno_nadzemka.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: /assets/img/posts/brno_nadzemka_crop.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 
 ---
 
