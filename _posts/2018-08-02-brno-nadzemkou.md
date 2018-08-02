@@ -34,7 +34,7 @@ Tato nadzemní dráha propojí židenické nádraží se starým a novým hlavn�
 tramvaje nebo vlakotramvaje a umožní vznik nových zastávek (například Špitálka, Opuštěná nebo
 Holandská – viz obrázek).
 
-<div style="text-align:center><a href="https://jihomoravsky.pirati.cz/assets/img/posts/nadzemka_mapa_full.png" target="_blank">
+<div style="text-align:center"><a href="https://jihomoravsky.pirati.cz/assets/img/posts/nadzemka_mapa_full.png" target="_blank">
 <img src="https://jihomoravsky.pirati.cz/assets/img/posts/nadzemka_mapa_preview.png" style="max-width:100%">
 </a></div>
 
@@ -47,6 +47,6 @@ Jak jsem již zmínil, nadzemní dráhu v Brně chceme vybudovat jako dočasné 
 SJKD či dalších dopravních staveb napojujících nové nádraží. Poté nebudeme bránit, aby proběhla
 sanace tohoto drážního tělesa v souladu s Územním plánem.
 
-<div style="text-align:center><a href="https://jihomoravsky.pirati.cz/assets/img/posts/nadzemka_situace_full.png" target="_blank">
+<div style="text-align:center"><a href="https://jihomoravsky.pirati.cz/assets/img/posts/nadzemka_situace_full.png" target="_blank">
 <img src="https://jihomoravsky.pirati.cz/assets/img/posts/nadzemka_situace_preview.png" style="max-width:100%">
 </a></div>
