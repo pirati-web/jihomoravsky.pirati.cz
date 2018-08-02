@@ -7,7 +7,8 @@
 {% if 1 == team.size %}
   <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
   {% assign item = team | first %}
-  {% include people/kandidat.html param='item' order="{{ include.order }}" %}
+  {% assign sort = include.order %}
+  {% include people/kandidat.html param=item order=sort %}
   </div>
 {% else %}
   {% for item in team %}
@@ -15,7 +16,8 @@
     {% if loopindex == 1 %}
     <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
     {% endif %}
-    {% include people/kandidat.html param='item' order="{{ include.order }}" %}
+    {% assign sort = include.order %}
+    {% include people/kandidat.html param=item order=sort %}
     {% if loopindex == 0 %}
     </div>
     {% endif %}

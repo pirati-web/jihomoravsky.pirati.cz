@@ -23,7 +23,7 @@ menuitems:
 
                 <h2 class="jmk-msweb__headline">Kandidáti na Magistrát města Brna</h2>
                 {% assign team = site.people | where_exp:"item","item.categories contains 'msbrno'" | sort:"ordmsbrno" %}
-                {% include people/list-2col.html param=team %}
+                {% include people/kand-2col.html param=team order='ordmsbrno' %}
 
               </div>
             </div>
