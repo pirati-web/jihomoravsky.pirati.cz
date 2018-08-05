@@ -1,15 +1,16 @@
 ---
 uid: monika.spilkova
 name:     Monika Spilková  	# běžně používáné jméno
-fullname: Monika Spilková  	# jméno s tituly etc.
+fullname: Mgr. Monika Spilková  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - brnostred
 - msbrno
-img: people/unknown.jpg   # 165 x 220
+img: people/monika-spilkova.jpg   # 165 x 220
 description: Grafička, fotografka a provozovatelka vinárny  	# kratký popis, max 160 znaků
 mail:
 - monika.spilkova@pirati.cz
 profiles:
+  facebook: https://www.facebook.com/nastopce
   wiki: https://wiki.pirati.cz/lide/monika_spilkova
 supporting:
 -  Maximální svobodu spolu s maximální odpovědností.

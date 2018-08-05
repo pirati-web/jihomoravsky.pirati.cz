@@ -7,8 +7,8 @@ author: Jana Leitnerová
 image: /assets/img/posts/openalt-foto.jpg
 description: >-
   "Málokdo si uvědomuje jak křehká je svoboda a soukromí v digitální éře," říká Ladislav Nešněra, organizátor konference OpenAlt.
-  
-tags: otevřenost transparence open-source
+
+tags: otevřenost transparence open-source brno
 ---
 
 „Málokdo si uvědomuje jak křehká je svoboda a soukromí v digitální éře,“ říká Ladislav Nešněra, organizátor konference OpenAlt.

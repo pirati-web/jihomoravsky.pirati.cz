@@ -4,6 +4,9 @@ name:     Patrik Doležal  	# běžně používáné jméno
 fullname: Patrik Doležal 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - brnostred
+- msbrno
+ordmsbrno: 14
+ordbrnostred: 4
 img: people/patrik-dolezal.jpg   # 165 x 220
 description: Nezávislý kandidát, aktivní občan a právník          	# kratký popis, max 160 znaků
 mail:

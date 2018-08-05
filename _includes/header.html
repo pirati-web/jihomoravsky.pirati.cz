@@ -33,6 +33,9 @@
         <div class="responsive-menu-inner">
           <div class="top-bar-left top-bar-footer-group">
             <ul class="dropdown menu" data-dropdown-menu="">
+              <li {% if page.url contains 'volby2018' %} class="is-active"{% endif %}>
+                <a href="{{'/volby2018/' | relative_url }}">Volby 2018</a>
+              </li>
               <li {% if page.url contains 'aktuality' %} class="is-active"{% endif %}>
                 <a href="{{'/aktuality/' | relative_url }}">Aktuality</a>
               </li>

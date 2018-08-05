@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /boskovice/
-region: boskovice
-headline: "Piráti Boskovice"
+permalink: /znojemsko/
+region: znojemsko
+headline: "Piráti Znojmo"
 menuitems:
  - text: Kandidáti
 
@@ -19,9 +19,9 @@ menuitems:
             <div class="c-BasicPage-content">
               <div class="jmk-candidates">
 
-                <h2 class="jmk-msweb__headline">Kandidátka Pirátské strany pro volby do Zastupitelstva města Boskovice</h2>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'boskovice'" | sort:"ordboskovice" %}
-                {% include people/kand-2col.html param=team order='ordboskovice' %}
+                <h2 class="jmk-msweb__headline">Kandidátka Pirátské strany pro volby do Zastupitelstva města Znojma</h2>
+                {% assign team = site.people | where_exp:"item","item.categories contains 'znojemsko'" | sort:"ordznojemsko" %}
+                {% include people/kand-2col.html param=team order='ordznojemsko' %}
 
               </div>
             </div>
