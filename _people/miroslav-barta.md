@@ -33,7 +33,7 @@ notsupporting:
 motto: ["Demokracie je vláda lidu, prostřednictvím lidu a pro lidi.", "Abraham Lincoln"]
 
 ordmsbrno: 10
-ordkrpole: 3
+ordkrpole: 4
 ---
 
 Miroslav Bárta se narodil v Karviné - Ráji 20.4.1973. Přes Ostravu, Kopřivnici, Opavu, Olomouc a Prahu se usadil roku 1999 v Brně, kde žije do dnes. Studoval VGJŽ (vojenské gymnázium) v Opavě.
