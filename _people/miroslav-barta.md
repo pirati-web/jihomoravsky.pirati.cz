@@ -5,7 +5,7 @@ fullname: Miroslav Bárta  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/miroslav-barta.jpg   # 165 x 220
-description: Vedoucí mediálního odboru Jihomoravského kraje  	# kratký popis, max 160 znaků
+description: Vedoucí mediálního odboru Jihomoravského kraje Pirátů, realitní specialista a majitel obchodní společnosti 	# kratký popis, max 160 znaků
 mail:
 - miroslav.barta@pirati.cz
 mob: 730 896 278
