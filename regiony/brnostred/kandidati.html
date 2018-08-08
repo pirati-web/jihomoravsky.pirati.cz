@@ -23,11 +23,10 @@ menuitems:
                 <h2 class="jmk-msweb__headline">Kandidáti do zastupitelstva městské části Brno - Střed</h2>
                 <div class="row">
                   {% assign team = site.people | where_exp:"item","item.categories contains 'brnostred'" | sort:"ordbrnostred"  %}
-                  {% for item in team limit:5 %}
+                  {% for item in team limit:6 %}
                     {% include people/kandidat.html param=item order='ordbrnostred' %}
                   {% endfor %}
 
-                  {% include people/kandidat-mini.html order='6' name='Kateřina Mléčková' job='personalistka' %}
                   {% include people/kandidat-mini.html order='7' name='Jan Němeček' job='IT konzultant' %}
                   {% include people/kandidat-mini.html order='8' name='Lenka Brodzáková' job='projektová manažerka' %}
                   {% include people/kandidat-mini.html order='9' name='Jitka Sládková' job='VŠ učitelka' %}

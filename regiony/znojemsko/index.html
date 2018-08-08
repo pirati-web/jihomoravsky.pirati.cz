@@ -20,9 +20,12 @@ menuitems:
               <div class="jmk-candidates">
 
                 <h2 class="jmk-msweb__headline">Kandidátka Pirátské strany pro volby do Zastupitelstva města Znojma</h2>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'znojemsko'" | sort:"ordznojemsko" %}
-                {% include people/kand-2col.html param=team order='ordznojemsko' %}
+                {% assign team = site.people | where_exp:"item","item.categories contains 'znojemsko'" | sort:"ordznojemsko"  %}
+                {% for item in team limit:1 %}
+                  {% include people/kandidat.html param=item order='ordznojemsko' %}
+                {% endfor %}
 
+                Zbytek kandidátky již brzy zde!
               </div>
             </div>
           </div>

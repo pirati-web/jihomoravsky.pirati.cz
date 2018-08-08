@@ -20,8 +20,10 @@ menuitems:
               <div class="jmk-candidates">
 
                 <h2 class="jmk-msweb__headline">Kandidátka Pirátské strany pro volby do Zastupitelstva města Boskovice</h2>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'boskovice'" | sort:"ordboskovice" %}
-                {% include people/kand-2col.html param=team order='ordboskovice' %}
+
+                <a href="{{ '/assets/img/miscellaneous/kandidatka-boskovice.png' | relative_url }}" target="_blank">
+                  <img src="{{ '/assets/img/miscellaneous/kandidatka-boskovice.png' | relative_url }}" alt="{{item.name}}">
+                </a>
 
               </div>
             </div>
