@@ -6,7 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - brnostred
 - msbrno
 img: people/monika-spilkova.jpg   # 165 x 220
-description: Grafička, fotografka a provozovatelka vinárny  	# kratký popis, max 160 znaků
+description: Provozovatelka vinárny a freelancer v oblasti fotografie a grafiky 	# kratký popis, max 160 znaků
 mail:
 - monika.spilkova@pirati.cz
 profiles:
