@@ -7,7 +7,7 @@ category: CLANKY   # nešahat!
 title: Wanna Vote?
 date: 2018-08-08   # formát YYYY-MM-DD
 author: Jiří Ulip
-tags: volby volby 2018 # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: volby volby2018 # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 authorId: jiri.ulip # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
