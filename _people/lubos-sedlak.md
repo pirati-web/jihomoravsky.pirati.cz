@@ -26,7 +26,7 @@ notsupporting:
 - Redukci člověka na pouhý zdroj pracovní síly
 reason: Znepokojuje mě postupné ukrajování našich svobod salámovou metodou. Politika by měla být služba občanům, nikoliv soukromý byznys!
 motto: Kdo se nezajímá o politiku, o toho se bohužel časem začne politika zajímat sama.
-ordblanensko: 1
+ordblanensko: 3
 ---
 
 Luboš Sedlák (\*8.7.1993) pochází z Blanska. V pirátské straně je předsedou místního sdružení Blanensko a členem Komise rozvoje venkova a zemědělství Rady Jmk.

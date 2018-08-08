@@ -1,0 +1,58 @@
+---
+layout: default
+permalink: /blanensko/
+region: blanensko
+headline: "Piráti Blansko"
+menuitems:
+ - text: Kandidáti
+
+---
+
+{% include msweb/msmenu.html %}
+
+<div class="row o-section-block o-section-block--divided">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <div class="jmk-candidates">
+
+                <h2 class="jmk-msweb__headline">Kandidátka Pirátské strany pro volby do Zastupitelstva města Blanska</h2>
+                {% assign team = site.people | where_exp:"item","item.categories contains 'blanensko'" | sort:"ordblanensko" %}
+                {% for item in team limit:4 %}
+                  {% include people/kandidat.html param=item order='ordblanensko' %}
+                {% endfor %}
+
+                {% include people/kandidat-mini.html order='5' name='Mgr.	Ondřej 	Haváč' job='Učitel' %}
+                {% include people/kandidat-mini.html order='6' name='Antonín 	Straka' job='' %}
+                {% include people/kandidat-mini.html order='7' name='Michal 	Paclík' job='Řidič' %}P
+                {% include people/kandidat-mini.html order='8' name='Lukáš 	Vintr' job='Lakovna	' %}
+                {% include people/kandidat-mini.html order='9' name='Zuzana 	Střítecká' job='' %}P
+                {% include people/kandidat-mini.html order='10' name='Martina 	Čumová' job='	' %}
+                {% include people/kandidat-mini.html order='11' name='Daniel 	Vintr' job='Lakýrník' %}
+                {% include people/kandidat-mini.html order='12' name='Radka 	Vintr' job='Lakýrník' %}
+                {% include people/kandidat-mini.html order='13' name='Jana 	Chlupová' job='Mateřská' %}ko	Bez PP
+                {% include people/kandidat-mini.html order='14' name='Lucie 	Slugeňová' job='Servírka' %}
+                {% include people/kandidat-mini.html order='15' name='Jaroslav 	Kakáč' job='Montážní pracovník' %}
+                {% include people/kandidat-mini.html order='16' name='Marie 	Dokoupilová' job='Invalidní důchodce' %}P
+                {% include people/kandidat-mini.html order='17' name='Petr	Nachtnebel' job='Strážný' %}
+                {% include people/kandidat-mini.html order='18' name='Michal 	Tichý' job='Zedník' %}
+                {% include people/kandidat-mini.html order='19' name='Pavel 	Fridrich' job='OSVČ' %}
+                {% include people/kandidat-mini.html order='20' name='Jindřich 	Král' job='Zámečník' %}
+                {% include people/kandidat-mini.html order='21' name='Lenka	Tichá' job='Dělník' %}
+                {% include people/kandidat-mini.html order='22' name='Ludmila 	Vintr' job='Kulturní pracovník' %}
+                {% include people/kandidat-mini.html order='23' name='Mgr.	Tereza	Haváčová' job='Učitelka' %}
+                {% include people/kandidat-mini.html order='24' name='Mgr. 	Věra 	Gottwaldová' job='Důchodce' %}
+                {% include people/kandidat-mini.html order='25' name='Aleš 	Plachý' job='Podnikatel	' %}
+
+              </div>
+            </div>
+          </div>
+        </main>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>
