@@ -20,10 +20,11 @@ menuitems:
               <div class="jmk-candidates">
 
                 <h2 class="jmk-msweb__headline">Kandidátka Pirátské strany pro volby do Zastupitelstva města Znojma</h2>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'znojemsko'" | sort:"ordznojemsko"  %}
-                {% for item in team limit:1 %}
-                  {% include people/kandidat.html param=item order='ordznojemsko' %}
-                {% endfor %}
+                  <div class="row">
+                    {% assign team = site.people | where_exp:"item","item.categories contains 'znojemsko'" | sort:"ordznojemsko"  %}
+                    {% for item in team limit:1 %}
+                      {% include people/kandidat.html param=item order='ordznojemsko' %}
+                    {% endfor %}
 
 {% include people/kandidat-mini.html order='2' name='Ing. Eva Staňková' job='podnikatelka' %}
 {% include people/kandidat-mini.html order='3' name='Ing. Jitka Veselá, Ph.D.' job='vysokoškolský pedagog' %}
@@ -55,7 +56,7 @@ menuitems:
 {% include people/kandidat-mini.html order='29' name='Ing. Jan Havel' job='programátor' %}
 {% include people/kandidat-mini.html order='30' name='Petr Stejskal' job='prodavač' %}
 {% include people/kandidat-mini.html order='31' name='Bc. Andrea Jordánková' job='všeobecná sestra' %}
-{% include people/kandidat-mini.html order='17' name='Adam Zemek' job='programátor' %}
+                </div>
               </div>
             </div>
           </div>
