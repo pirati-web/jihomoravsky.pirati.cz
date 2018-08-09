@@ -20,13 +20,20 @@ profiles:
   compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=-7.25&soc=-5.54  
 
 supporting:
-- Svobodnou, informačně gramotnou a aktivní společnost
-- Transparentnost věcí veřejných a ochranu soukromí u věcí osobních
-- Stát zajišťující bezpečí a prostředí pro rozvoj a seberealizaci svých občanů
+- Radikální zefektivnění elektronické komunikace mezi úřady a občany
+- Výstavbu nových městských bytů
+- Co nejrychlejší dokončení brněnského okruhu
+- Navazující síť kvalitních cyklostezek ve městě
+#- Svobodnou, informačně gramotnou a aktivní společnost
+#- Transparentnost věcí veřejných a ochranu soukromí u věcí osobních
+#- Stát zajišťující bezpečí a prostředí pro rozvoj a seberealizaci svých občanů
 notsupporting:
-- Rozkrádání veřejných statků a veřejného prostoru
-- Zneužívání politiky pro soukromé zisky
-- Redukci člověka na pouhý zdroj pracovní síly
+- Nekoordinovanému rozkopávání dopravní infrastruktury každé léto
+- Kolapsu, který způsobí přesun hl. nádraží bez vyřešení navazující dopravy
+- Aktuálně navrhovanému systému parkování, který dělá z Brňáků návštěvníky ve vlastním městě
+#- Rozkrádání veřejných statků a veřejného prostoru
+#- Zneužívání politiky pro soukromé zisky
+#- Redukci člověka na pouhý zdroj pracovní síly
 reason: Znepokojuje mě postupné ukrajování našich svobod salámovou metodou. Politika by měla být služba občanům, nikoliv soukromý byznys!
 motto: Kdo se nezajímá o politiku, o toho se bohužel časem začne politika zajímat sama.
 
