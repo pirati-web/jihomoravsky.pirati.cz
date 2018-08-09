@@ -1,0 +1,16 @@
+<div class="large-4 small-12 small-collapse columns end o-section-mediumdown-divided-small jmk-candidate-small jmk-candidate-mini">
+  <div class="o-media">
+    <div class="o-media__body">
+      <h2 class="o-media__headline">
+        <span class="candidate-order">#{{ include.order }}</span>
+        {% if include.link %}
+          {% assign url = include.link | prepend: '/lide/'| relative_url %}
+          <a href="{{ url }}">{{ include.name }}</a>
+        {% else %}
+          {{ include.name }}
+        {% endif %}
+      </h2>
+      <p>{{ include.job }}</p>
+    </div>
+  </div>
+</div>

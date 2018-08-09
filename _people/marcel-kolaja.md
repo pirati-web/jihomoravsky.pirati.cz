@@ -3,7 +3,8 @@ uid: marcel.kolaja
 name:     Marcel Kolaja  	# běžně používáné jméno
 fullname: Bc. Marcel Kolaja  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-
+- krpole
+- msbrno
 img: people/marcel-kolaja.jpg   # 165 x 220
 description: Odborník na svobodný software a svobodnou kulturu   	# kratký popis, max 160 znaků
 mail:
@@ -13,6 +14,7 @@ profiles:
   wiki: https://wiki.pirati.cz/lide/marcel_kolaja
 
 ordmsbrno: 7
+ordkrpole: 7
 ---
 Marcel Kolaja (* 29. června 1980) je odborníkem na svobodný software a svobodnou kulturu. Je členem Pirátské strany a v roce 2014 byl ve volbách do Evropského parlamentu dvojkou kandidátky Pirátské strany. V minulosti působil mimo jiné jako místopředseda a mezinárodní koordinátor. Byl spolupředsedou Pirate Parties International. Pochází z Lanškrouna a od roku 1998 žije v Brně.
 

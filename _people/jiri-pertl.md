@@ -3,6 +3,10 @@ uid: jiri.pertl
 name:     Jiří Pertl  	# běžně používáné jméno
 fullname: Jiří Pertl  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
+- brnostred
+- msbrno
+ordmsbrno: 13
+ordbrnostred: 3
 
 img: people/jiri-pertl.jpg   # 165 x 220
 description: Projektový manažer v IT firmě     	# kratký popis, max 160 znaků
@@ -10,6 +14,7 @@ mail:
 - jiri.pertl@pirati.cz
 profiles:
   wiki: https://wiki.pirati.cz/lide/jiri_pertl
+
 
 ---
 

@@ -1,0 +1,79 @@
+---
+layout: default
+permalink: /brnostred/
+region: brnostred
+headline: "Brno - Střed"
+menuitems:
+ - text: Kandidáti
+ - text: Novinky
+   link: novinky
+---
+
+{% include msweb/msmenu.html %}
+
+<div class="row o-section-block o-section-block--divided">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <div class="jmk-candidates">
+
+                <h2 class="jmk-msweb__headline">Kandidáti do zastupitelstva městské části Brno - Střed</h2>
+                <div class="row">
+                  {% assign team = site.people | where_exp:"item","item.categories contains 'brnostred'" | sort:"ordbrnostred"  %}
+                  {% for item in team limit:6 %}
+                    {% include people/kandidat.html param=item order='ordbrnostred' %}
+                  {% endfor %}
+
+                  {% include people/kandidat-mini.html order='7' name='Jan Němeček' job='IT konzultant' %}
+                  {% include people/kandidat-mini.html order='8' name='Lenka Brodzáková' job='projektová manažerka' %}
+                  {% include people/kandidat-mini.html order='9' name='Jitka Sládková' job='VŠ učitelka' %}
+                  {% include people/kandidat-mini.html order='10' name='Markéta Gregorová' job='PR a marketing specialistka' link='marketa-gregorova'%}
+                  {% include people/kandidat-mini.html order='11' name='Michal Urbánek' job='elektrotechnik' %}
+                  {% include people/kandidat-mini.html order='12' name='Renata Bellini' job='optometristka' %}
+                  {% include people/kandidat-mini.html order='13' name='Sergio Bellini' job='restauratér' %}
+                  {% include people/kandidat-mini.html order='14' name='Jana Urbánková' job='správa veřejné zeleně při OŽP' %}
+                  {% include people/kandidat-mini.html order='15' name='Marek Tůma' job='OSVČ' %}
+                  {% include people/kandidat-mini.html order='16' name='Marta Mannová' job='muzejní pedagog' %}
+                  {% include people/kandidat-mini.html order='17' name='Martin Lažnovský' job='QA engineer' %}
+                  {% include people/kandidat-mini.html order='18' name='Marcel Mikoviny' job='OSVČ' %}
+                  {% include people/kandidat-mini.html order='19' name='Tomáš Borovička' job='hudebník' %}
+                  {% include people/kandidat-mini.html order='20' name='Matěj Gryc' job='degustátor' %}
+                  {% include people/kandidat-mini.html order='21' name='Zdeněk Surý' job='OSVČ' %}
+                  {% include people/kandidat-mini.html order='22' name='Zuzana Maňáková' job='marketingová specialistka' %}
+                  {% include people/kandidat-mini.html order='23' name='Jiří Vedral' job='podnikatel' %}
+                  {% include people/kandidat-mini.html order='24' name='Tomáš Korčák' job='programátor' %}
+                  {% include people/kandidat-mini.html order='25' name='Jiří Nedoma' job='zedník' %}
+                  {% include people/kandidat-mini.html order='26' name='Martina Oškrdová' job='performerka a podnikatelka' %}
+                  {% include people/kandidat-mini.html order='27' name='Karel Machalíček' job='technik' %}
+                  {% include people/kandidat-mini.html order='28' name='Kateřina Langerová' job='servírka' %}
+                  {% include people/kandidat-mini.html order='29' name='Tomáš Pártl' job='živnostník' %}
+                  {% include people/kandidat-mini.html order='30' name='František Kukosa' job='programátor' %}
+                  {% include people/kandidat-mini.html order='31' name='Vít Pečeňa' job='mistr kódu' %}
+                  {% include people/kandidat-mini.html order='32' name='Martin Surý' job='IT analytik' %}
+                  {% include people/kandidat-mini.html order='33' name='Marek Papik' job='provozní baru' %}
+                  {% include people/kandidat-mini.html order='34' name='Adam Rathouský' job='student a fotbalista' %}
+                  {% include people/kandidat-mini.html order='35' name='Dan Krajčovič' job='tatér' %}
+                  {% include people/kandidat-mini.html order='36' name='Patrik Prudík' job='tel. technik' %}
+                  {% include people/kandidat-mini.html order='37' name='Martin Honek' job='IT analytik' %}
+                  {% include people/kandidat-mini.html order='38' name='Tomáš Vymazal' job='poslanec PSP ČR' link='tomas-vymazal' %}
+                  {% include people/kandidat-mini.html order='39' name='Dana Nekvinda' job='náborová specialistka' %}
+                  {% include people/kandidat-mini.html order='40' name='Klára Kubíčková' job='novinářka' %}
+                  {% include people/kandidat-mini.html order='41' name='Jindřiška Afra Kalousová' job='družstevnice' %}
+                  {% include people/kandidat-mini.html order='42' name='Jan Brodzák' job='developer' %}
+                  {% include people/kandidat-mini.html order='43' name='Renata Svobodová' job='mateřská dovolená' %}
+                  {% include people/kandidat-mini.html order='44' name='Robert Rapant' job='student' %}
+                  {% include people/kandidat-mini.html order='45' name='David Smetana' job='obchodník' %}
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </main>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>

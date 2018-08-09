@@ -4,6 +4,7 @@ name:     Markéta Gregorová  	# běžně používáné jméno
 fullname: Bc. Markéta Gregorová  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
+- msbrno
 
 img: people/marketa-gregorova.jpg   # 165 x 220
 description: Všestranně založená testerka, e-commerce specialistka a vedoucí zahraničního odboru Pirátské strany    	# kratký popis, max 160 znaků
@@ -19,13 +20,19 @@ profiles:
   youtube: https://www.youtube.com/channel/UC9sCCCSH8NRsimvToKNZ-aw
   linkedin: https://www.linkedin.com/in/mark%C3%A9ta-gregorov%C3%A1-30333b87/
 supporting:
-- Elektronizaci státní správy.
-- Dál žít v míru.
-- Svobodnější život, i za cenu zvýšené zodpovědnosti.
+#- Elektronizaci státní správy.
+#- Dál žít v míru.
+#- Svobodnější život, i za cenu zvýšené zodpovědnosti.
+- Vícezdrojové financování brněnské kultury.
+- Výstavbu nových bytů, aby se lidem v Brně nejen chtělo žít, ale také zde mohli žít.
+- Transparentní a participativní nakládání s financemi.
 notsupporting:
-- OSA a dalším kolektivním správcům.
-- Zbytečnosti. Zbytečné byrokracii, zbytečným chybám.
-- Zakonzervovanosti, co brání v pokroku.
+#- OSA a dalším kolektivním správcům.
+#- Zbytečnosti. Zbytečné byrokracii, zbytečným chybám.
+#- Zakonzervovanosti, co brání v pokroku.
+- Rezidentnímu parkování v současné podobě.
+- Odsunu nádraží bez vyřešené návazné dopravy.
+- Přidělování městských bytů příbuzným a kamarádům.
 reason: Není mi to jedno. Jsme vyspělá společnost ve skvělém čase - a vůbec svůj potenciál nevyužíváme tak, jak bychom mohli. Chci lepší přítomnost i budoucnost a chci se na tom podílet. Protože kdo jiný za mě vytvoří takovou budoucnost, jakou si já přeji?
 motto:  Největší radost by mi udělalo, kdyby lidé volili informovaně.
 

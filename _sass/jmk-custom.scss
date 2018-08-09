@@ -1,8 +1,69 @@
+.jmk-komunalky-list {
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+
+  .c-content-card {
+    height: calc(100% - 2.5rem);
+    margin-bottom: 2.5rem;
+  }
+
+  ul {
+    margin-botzom: 0;
+  }
+
+  li + li {
+    margin-top: 0.95rem;
+  }
+}
+
+.jmk-komunalky-list, .jmk-candidate, .jmk-candidate-small {
+  a:hover img {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  }
+}
+
+.jmk-komunalky-list-flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.jmk-candidate {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+}
+
+.jmk-candidate-small {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+
+  p {
+    font-size: 94%;
+  }
+
+  img {
+    width:100px;
+  }
+}
+
+.jmk-candidate-mini {
+  .o-media__headline {
+    margin: 0;
+  }
+}
+
 .jmk-candidates {
   margin-bottom: 1.5em;
 
   h1 {
     margin-bottom: 1.25rem;
+  }
+
+  .row {
+    display: flex;
+    flex-wrap: wrap;
   }
 
   .candidate-order {
@@ -22,27 +83,6 @@
 
   .c-simple-accordion-item.is-active .c-simple-accordion-title:before {
     content: '\f078';
-  }
-}
-
-.jmk-candidates-rest .row {
-  padding-top: 2rem;
-  margin-top: 2rem;
-  position: relative;
-
-  &:before {
-    content: '';
-    display: block;
-    position: absolute;
-    left: 1.25rem;
-    right: 1.25rem;
-    top: 0rem;
-    height: 1px;
-    background: #f3f3f3;
-  }
-
-  &:after {
-    clear: both;
   }
 }
 
@@ -140,6 +180,11 @@
   font-family: $header-font-family;
   font-weight: bold;
   font-size: 3rem;
+}
+
+h2.jmk-msweb__headline {
+  font-size: 2rem;
+  margin-bottom: 2.5rem;
 }
 
 @media screen and (min-width: 53.76em) {

@@ -4,7 +4,9 @@ name:     Pavel Nevrkla  	# běžně používáné jméno
 fullname: Pavel Nevrkla  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
+- znojemsko
 ordpks: 5
+ordznojemsko: 1
 
 img: people/pavel-nevrkla.jpg   # 165 x 220
 description: Advokát a čtvrtý místopředseda krajského sdružení       	# kratký popis, max 160 znaků

@@ -3,7 +3,7 @@ uid: lukas.mamula
 name:     Lukáš Mamula  	# běžně používáné jméno
 fullname: Lukáš Mamula  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-
+- msbrno
 img: people/lukas-mamula.jpg   # 165 x 220
 description: Java developer se zájmem o robotiku a umělou inteligenci, milovník přírody   	# kratký popis, max 160 znaků
 mail:

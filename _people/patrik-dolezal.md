@@ -3,7 +3,10 @@ uid: patrik.dolezal
 name:     Patrik Doležal  	# běžně používáné jméno
 fullname: Patrik Doležal 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-
+- brnostred
+- msbrno
+ordmsbrno: 14
+ordbrnostred: 4
 img: people/patrik-dolezal.jpg   # 165 x 220
 description: Nezávislý kandidát, aktivní občan a právník          	# kratký popis, max 160 znaků
 mail:
@@ -23,7 +26,8 @@ notsupporting:
 - blbům, kteří chtějí všechno řídit
 - politikaření
 - exekucím
- 
+
+ordbrnostred: 4
 ---
 
 Patrik Doležal se narodil ve znamení Vodnáře roku 1972 v Brně. Vystudoval dějiny umění na Filozofické fakultě a právo na Právnické fakultě Masarykovy univerzity.

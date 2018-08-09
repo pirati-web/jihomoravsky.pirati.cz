@@ -1,0 +1,62 @@
+---
+layout: default
+permalink: /krpole/
+region: krpole
+headline: "Piráti pro Královo Pole"
+menuitems:
+ - text: Kandidáti
+ - text: Novinky
+   link: novinky
+---
+
+{% include msweb/msmenu.html %}
+
+<div class="row o-section-block o-section-block--divided">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <div class="jmk-candidates">
+
+                <h2 class="jmk-msweb__headline">Kandidáti do zastupitelstva městské části Brno - Královo Pole</h2>
+
+                <div class="row">
+                  {% assign team = site.people | where_exp:"item","item.categories contains 'krpole'" | sort:"ordkrpole"  %}
+                  {% for item in team limit:9 %}
+                    {% include people/kandidat.html param=item order='ordkrpole' %}
+                  {% endfor %}
+
+                  {% include people/kandidat-mini.html order='10' name='Jan Kryčer' job='student mezinárodních vztahů, král majálesu 2018' %}
+                  {% include people/kandidat-mini.html order='11' name='Mario Rossi' job='fotbalový trenér a sportovní manažer' %}
+                  {% include people/kandidat-mini.html order='12' name='Filip Přidal' job='pedagog' %}
+                  {% include people/kandidat-mini.html order='13' name='Jakub Henni' job='student regionálních vztahů a ambasador dobrokava.cz;' %}
+                  {% include people/kandidat-mini.html order='14' name='Jiří Ulip' job='manažer vývoje technologií a zastupitel města Brna' link='jiri-ulip' %}
+                  {% include people/kandidat-mini.html order='15' name='Kateřina Krejčí' job='projektová manažerka výzkumných grantů' %}
+                  {% include people/kandidat-mini.html order='16' name='Jan Svoboda' job='stavbyvedoucí a zahrádkář' %}
+                  {% include people/kandidat-mini.html order='17' name='Michal Skoumal' job='advokát' %}
+                  {% include people/kandidat-mini.html order='18' name='Tomáš Gajdoš' job='výrobce ekodrogerie' %}
+                  {% include people/kandidat-mini.html order='19' name='Bohdan Jeřábek' job='akademický sochař a restaurátor' %}
+                  {% include people/kandidat-mini.html order='20' name='Jana Chmelařová' job='studentka Fakulty humanitních studií UK' %}
+                  {% include people/kandidat-mini.html order='21' name='Petr Biedermann' job='finanční kontrolor a autor Nového parku na Sadové' %}
+                  {% include people/kandidat-mini.html order='22' name='Saša Srp' job='student Fakulty sportovních studií MU' %}
+                  {% include people/kandidat-mini.html order='23' name='Jana Škerlová' job='historička a balkanistka na Akademii věd ČR' %}
+                  {% include people/kandidat-mini.html order='24' name='Jiří Valášek' job='specialista logistických služeb' %}
+                  {% include people/kandidat-mini.html order='25' name='Jakub Pilný' job='advokát' %}
+                  {% include people/kandidat-mini.html order='26' name='Radek Auf' job='vedoucí zásobování' %}
+                  {% include people/kandidat-mini.html order='27' name='Petr Špetlík' job='privátní konciéř' %}
+                  {% include people/kandidat-mini.html order='28' name='Jaroslav Bartes' job='právník' %}
+                  {% include people/kandidat-mini.html order='29' name='Ondřej Nýdrle' job='technický asistent' %}
+                  {% include people/kandidat-mini.html order='30' name='Hana Langerová' job='důchodkyně' %}
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </main>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>
