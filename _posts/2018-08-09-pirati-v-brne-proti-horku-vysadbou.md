@@ -11,6 +11,7 @@ tags: brno sucho voda zeleň # kategorie odděleny mezerami, např. volby zeměd
 
 ### Nepovinné položky ###
 authorId: tomas.kolacny # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
+image: /assets/img/posts/tomas-a-zelen.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 
 ---
 
