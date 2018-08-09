@@ -15,7 +15,7 @@ image: /assets/img/posts/pirati-krpole.jpg # obrázek ideálně 420x677px minifi
 
 ---
 
-V koalici s hnutím Starostové a osobnosti pro Moravu kandiduje Česká pirátská strana v podzimních komunálních volbách do zastupitelstva Králova Pole. Lídrem kandidátky je pětatřicetiletý manažer [Marek Fišer]](https://jihomoravsky.pirati.cz/lide/marek-fiser/), který před třemi lety organizoval obnovou Fotbalového stadionu Za Lužánkami. Nejvýše postaveným nominantem Starostů je na druhém místě čtyřiatřicetiletý vysokoškolský učitel a právník [Michal Škerle](https://jihomoravsky.pirati.cz/lide/michal-skerle/).
+V koalici s hnutím Starostové a osobnosti pro Moravu kandiduje Česká pirátská strana v podzimních komunálních volbách do zastupitelstva Králova Pole. Lídrem kandidátky je pětatřicetiletý manažer [Marek Fišer](https://jihomoravsky.pirati.cz/lide/marek-fiser/), který před třemi lety organizoval obnovou Fotbalového stadionu Za Lužánkami. Nejvýše postaveným nominantem Starostů je na druhém místě čtyřiatřicetiletý vysokoškolský učitel a právník [Michal Škerle](https://jihomoravsky.pirati.cz/lide/michal-skerle/).
 
 Koalice kandiduje pod názvem Piráti pro Královo Pole a jejím cílem je třetí největší městskou část modernizovat, ztransparentnit a otevřít občanům.
 
@@ -37,7 +37,7 @@ Prioritou královopolských pirátů je čtvrť modernizovat. „Základem všeh
 
 Piráti pro Královo pole chtějí vést nenákladnou, transparentní a především pozitivní kampaň. „Máme kvalitní tým vzdělaných odborníků, konkrétní plány a představy. V žádném případě se nenecháme strhnout k nějaké hysterii či populismu. To není náš styl,” uzavírá Fišer.
 
-Programové priority Pirátů pro Královo Pole:
+**Programové priority Pirátů pro Královo Pole**
 
 1. Hospodárné nakládání s financemi městské části
 2. Transparentní pravidla pro nakládání s městskými byty
