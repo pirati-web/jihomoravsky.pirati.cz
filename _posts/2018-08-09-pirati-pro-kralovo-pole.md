@@ -17,7 +17,7 @@ image: /assets/img/posts/pirati-krpole.jpg # obrázek ideálně 420x677px minifi
 
 V koalici s hnutím Starostové a osobnosti pro Moravu kandiduje Česká pirátská strana v podzimních komunálních volbách do zastupitelstva Králova Pole. Lídrem kandidátky je pětatřicetiletý manažer [Marek Fišer](https://jihomoravsky.pirati.cz/lide/marek-fiser/), který před třemi lety organizoval obnovou Fotbalového stadionu Za Lužánkami. Nejvýše postaveným nominantem Starostů je na druhém místě čtyřiatřicetiletý vysokoškolský učitel a právník [Michal Škerle](https://jihomoravsky.pirati.cz/lide/michal-skerle/).
 
-Koalice kandiduje pod názvem Piráti pro Královo Pole a jejím cílem je třetí největší městskou část modernizovat, ztransparentnit a otevřít občanům.
+Koalice kandiduje pod názvem [Piráti pro Královo Pole](https://jihomoravsky.pirati.cz/krpole/) a jejím cílem je třetí největší městskou část modernizovat, ztransparentnit a otevřít občanům.
 
 „Kandidátka je opravdu velmi silná. Nejen její čelo, ale všech 30 míst. Mám radost z nadšení a pozitivní nálady, která v týmu panuje. Myslím, že máme velkou šanci uspět,” těší lídra Marka Fišera. Za Piráty pro Královo Pole totiž kandidují skuteční odborníci a manažeři. Fišer se může opřít i o široký poradní tým, ve kterém jsou díky jeho znalosti několika jazyků a kontaktům ve světě i experti ze zahraničí. „Spousta věcí, které usnadní lidem život, už byla někde vymyšlena. Stačí se porozhlédnout, vybrat to nejlepší a přizpůsobit to místním podmínkám,” vysvětluje Fišer, který v minulosti pět let pracoval na Nizozemském velvyslanectví v Praze.
 
