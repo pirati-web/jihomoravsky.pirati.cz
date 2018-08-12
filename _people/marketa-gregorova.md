@@ -7,7 +7,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - msbrno
 
 img: people/marketa-gregorova.jpg   # 165 x 220
-description: Všestranně založená testerka, e-commerce specialistka a vedoucí zahraničního odboru Pirátské strany    	# kratký popis, max 160 znaků
+description: PR a marketingová specialistka a vedoucí zahraničního odboru Pirátské strany   	# kratký popis, max 160 znaků
 mail:
 - marketa.gregorova@pirati.cz
 mob: 728 700 937
@@ -40,12 +40,12 @@ ordpks: 2
 ordmsbrno: 2
 ---
 
-Markéta Gregorová (\*14. ledna 1993) je členem krajského sdružení Pirátů v Jihomoravském kraji. Pochází z Mostu a od září 2012 se vyskytuje především v Brně. Od prosince 2015 má trvalé bydliště v Tetčicích.
+Markéta Gregorová (\*14. ledna 1993) je členkou krajského sdružení Pirátů v Jihomoravském kraji. Pochází z Mostu a od září 2012 se vyskytuje především v Brně. Od prosince 2015 má trvalé bydliště v Tetčicích.
 
-Markéta vystudovala Podkrušnohorské gymnázium v Mostě a v lednu 2016 získala bakalářský titul na Masarykově univerzitě v Brně v oborech Mezinárodní vztahy a Evropská studia. Pracuje nyní jako e-commerce specialista a tester webových aplikací v [BizBoxu](http://www.bizbox.cz/){:target="_blank"} a v rámci koalice [Pirátů a Zelených](http://www.zeleniapiratijmk.cz/){:target="_blank"} je členkou Komise Jihomoravského kraje pro meziregionální vztahy.
+Markéta vystudovala Podkrušnohorské gymnázium v Mostě a v lednu 2016 získala bakalářský titul na Masarykově univerzitě v Brně v oborech Mezinárodní vztahy a Evropská studia. Po třech letech v milovaném [BizBoxu](http://www.bizbox.cz/){:target="_blank"}, kde byla e-commerce specialistou a testerem webových aplikací, se do parlamentních voleb 2017 vrhla pomoci Pirátům jako volební manažer. Po úspěchu Pirátů v těchto volbách pracovně osciluje mezi soukromou sférou (markéťačka) a aktivismem (vedoucí zahraničního odboru Pirátů). V rámci koalice [Pirátů a Zelených](http://www.zeleniapiratijmk.cz/){:target="_blank"} je členkou Komise Jihomoravského kraje pro meziregionální vztahy a za koalici Žít Brno s Piráty členka Dozorčí rady BVV.
 
-V Pirátské straně působila v letech 2013 - 2015 jako vedoucí Zahraničního odboru, od května 2017 tuto pozici zastává znovu.
+V Pirátské straně působila v letech 2013 - 2015 jako vedoucí Zahraničního odboru, od května 2017 tuto pozici zastává na dva roky znovu.
 
-Pro volby do Evropského parlamentu v květnu 2014 byla zvolena jako číslo tři kandidátní listiny, od té doby kandidovala i v krajských volbách v JMK a plánuje pomoci i ve volbách do Poslanecké sněmovny PČR 2017, a to z třetího místa jihomoravské kandidátky.
+Pro volby do Evropského parlamentu v květnu 2014 byla zvolena jako číslo tři kandidátní listiny, od té doby kandidovala i v krajských volbách v JMK a z jejího oblíbeného třetího místa se podílela i na volbách do Poslanecké sněmovny PČR 2017. Pro komunální volby nicméně vystupuje z bezpečných pozic a na druhém místě bude kandidovat za Piráty do Zastupitelstva města Brna.
 
 Aktivně se zajímá o politiku již několik let, zpívá v kapele [Definitivní Ententýk](http://www.ententyk.cz/){:target="_blank"}, předstírá [slavnou ukulelistku](https://www.youtube.com/channel/UC9sCCCSH8NRsimvToKNZ-aw){:target="_blank"}, je závislá na svojí kočce Kočce a při volbách by jí největší radost udělalo, kdyby lidé volili *informovaně*.
