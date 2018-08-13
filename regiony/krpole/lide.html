@@ -24,11 +24,10 @@ menuitems:
 
                 <div class="row">
                   {% assign team = site.people | where_exp:"item","item.categories contains 'krpole'" | sort:"ordkrpole"  %}
-                  {% for item in team limit:9 %}
+                  {% for item in team limit:10 %}
                     {% include people/kandidat.html param=item order='ordkrpole' %}
                   {% endfor %}
 
-                  {% include people/kandidat-mini.html order='10' name='Jan Kryčer' job='student mezinárodních vztahů, král majálesu 2018' %}
                   {% include people/kandidat-mini.html order='11' name='Mario Rossi' job='fotbalový trenér a sportovní manažer' %}
                   {% include people/kandidat-mini.html order='12' name='Filip Přidal' job='pedagog' %}
                   {% include people/kandidat-mini.html order='13' name='Jakub Henni' job='student regionálních vztahů a ambasador dobrokava.cz;' %}
