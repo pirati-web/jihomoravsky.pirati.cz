@@ -13,6 +13,7 @@ description: Student a předseda MS Blanensko 	# kratký popis, max 160 znaků
 uid: lubos.sedlak # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 - blanensko
+- pms
 mob: +420 773 917 508
 profiles:
   wiki: https://wiki.pirati.cz/lide/lubos_sedlak
@@ -27,6 +28,7 @@ notsupporting:
 reason: Znepokojuje mě postupné ukrajování našich svobod salámovou metodou. Politika by měla být služba občanům, nikoliv soukromý byznys!
 motto: Kdo se nezajímá o politiku, o toho se bohužel časem začne politika zajímat sama.
 ordblanensko: 3
+ordpms: 4
 ---
 
 Luboš Sedlák (\*8.7.1993) pochází z Blanska. V pirátské straně je předsedou místního sdružení Blanensko a členem Komise rozvoje venkova a zemědělství Rady Jmk.
