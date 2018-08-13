@@ -6,7 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - pms
 - zast
 - msbrno
-
+mob: 773 661 244
 img: people/tomas-kolacny.jpg   # 165 x 220
 description: Radní města Brna a předseda brněnského sdružení # kratký popis, max 160 znaků
 mail:
