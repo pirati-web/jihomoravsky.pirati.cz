@@ -14,10 +14,11 @@ authorId: jiri.ulip # ve formátu jmeno.prijmeni - prolinkování s profilem př
 
 ---
 
-<div id="en" class="jmk-flags">
+<p id="en" style="text-align: right">
 <a href="#en"><img src="/assets/img/flags/gb.png"></a>
 <a href="#sw"><img src="/assets/img/flags/sw.png"></a>
-</div>
+</p>
+
 
 Living in Czech republic? You can vote! European Union citizens with the residence in the Czech Republic are eligible to vote in the upcoming local elections. However a necessary step you need to perform to be able to vote is the registration for the local elections with the Office of the municipality where you are registered as a *resident*.
 
@@ -29,10 +30,10 @@ Pirates wish you good luck with your choice!
 
 <hr>
 
-<div id="sw" style="text-align: right">
+<p id="sw" style="text-align: right">
 <a href="#en"><img src="/assets/img/flags/gb.png"></a>
 <a href="#sw"><img src="/assets/img/flags/sw.png"></a>
-</div>
+</p>
 
 Bor du i Tjeckien? Du kan rösta! Unionsmedborgare bosatta i Tjeckien får rösta i de kommande lokalvalen. Men om du vill rösta, måste du registrera dig för lokalvalen i kommunen där du har registrerats som bosatt.
 
