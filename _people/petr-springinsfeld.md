@@ -11,11 +11,14 @@ img: people/petr-springinsfeld.jpg   # 165 x 220
 description: Asistent poslance, člen rozhodčí komise a třetí místopředseda krajského sdružení       	# kratký popis, max 160 znaků
 mail:
 - petr.springinsfeld@pirati.cz
-mob: 00 420 608 366 554
+mob: +420 608 366 554
 profiles:
   wiki: https://wiki.pirati.cz/lide/petr_springinsfeld
   facebook: https://www.facebook.com/petr.springinsfeld
+  instagram: https://www.instagram.com/petr.spring/
+  twitter: https://twitter.com/springinsfeld_p
   compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=0.5&soc=-7.23
+  linkedin: https://www.linkedin.com/in/petr-spring/
   
 ---
 
