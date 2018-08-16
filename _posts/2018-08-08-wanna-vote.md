@@ -24,7 +24,7 @@ Living in Czech republic? You can vote! European Union citizens with the residen
 
 There is however a discussion whether the residency needs to be permanent or if temporary residents are allowed to vote as well. So far the interpretation has been leaning towards giving the right to vote to permanent residents only, however a recent court ruling (September 19, 2014) suggests that even temporary residents can vote. So, if you’re not a permanent resident, you can try getting registered (see below), but it’s uncertain that your municipality will allow that. Permanent residents are unaffected and can vote regardless.
 
-The deadline for registrations is August 26, 2018. You will need to present your passport and a document proving that you are the resident of the municipality. Although the application itself needs to be in Czech, we included instructions in brackets. You can [download this PDF](https://jihomoravsky.pirati.cz/assets/pdf/voting-application.pdf) file to print the form.
+You will need to present your passport and a document proving that you are the resident of the municipality. Although the application itself needs to be in Czech, we included instructions in brackets. You can [download this PDF](https://jihomoravsky.pirati.cz/assets/pdf/voting-application.pdf) file to print the form.
 
 Pirates wish you good luck with your choice!
 
@@ -39,7 +39,7 @@ Bor du i Tjeckien? Du kan rösta! Unionsmedborgare bosatta i Tjeckien får röst
 
 Det pågår en diskussion om man måste vara varaktigt bosatt i Tjeckien eller om också de som är tillfälligt bosatta får rösta. Tolkningen har hittills varit att endast de varaktigt bosatta får rösta, men ett senare domslut (den 19 september 2014) föreslår att också de tillfälligt bosatta får rösta. Så om du inte är varaktigt bosatt, kan du försöka att registreras (se nedan), men det är inte säkert att kommunen ska tillåta det. De varaktigt bosatta påverkas inte och de får rösta oberoende av kommunen.
 
-Sista ansökningsdag är den 26 augusti, 2018. Du måste visa ditt pass och ett dokument som bevisar att du är bosatt i kommunen. Ansökan själv måste vara på tjeckiska men vi har skrivit instruktioner i parentes. Du kan [ladda ned denna PDF](https://jihomoravsky.pirati.cz/assets/pdf/voting-application.pdf) för att skriva ut formuläret.
+Du måste visa ditt pass och ett dokument som bevisar att du är bosatt i kommunen. Ansökan själv måste vara på tjeckiska men vi har skrivit instruktioner i parentes. Du kan [ladda ned denna PDF](https://jihomoravsky.pirati.cz/assets/pdf/voting-application.pdf) för att skriva ut formuläret.
 
 Piratpartiet önskar dig lycka till med ditt val!
 
