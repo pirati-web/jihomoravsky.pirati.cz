@@ -33,7 +33,7 @@ $menu-icon-spacing: 0.25rem !default;
 /// Creates the base styles for a Menu.
 @mixin menu-base {
   margin: $menu-margin;
-  list-style-type: none !important;
+  list-style-type: none;
 
   @if $global-flexbox {
     width: 100%;
