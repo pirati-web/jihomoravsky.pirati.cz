@@ -17,16 +17,16 @@ category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 mob: +420 773 917 508
 profiles:
   wiki: https://wiki.pirati.cz/lide/lubos_sedlak
-supporting:
-- Svobodnou, informačně gramotnou a aktivní společnost
-- Transparentnost věcí veřejných a ochranu soukromí u věcí osobních
-- Stát zajišťující bezpečí a prostředí pro rozvoj a seberealizaci svých občanů
-notsupporting:
-- Rozkrádání veřejných statků a veřejného prostoru
-- Zneužívání politiky pro soukromé zisky
-- Redukci člověka na pouhý zdroj pracovní síly
-reason: Znepokojuje mě postupné ukrajování našich svobod salámovou metodou. Politika by měla být služba občanům, nikoliv soukromý byznys!
-motto: Kdo se nezajímá o politiku, o toho se bohužel časem začne politika zajímat sama.
+#supporting:
+#- Svobodnou, informačně gramotnou a aktivní společnost
+#- Transparentnost věcí veřejných a ochranu soukromí u věcí osobních
+#- Stát zajišťující bezpečí a prostředí pro rozvoj a seberealizaci svých občanů
+#notsupporting:
+#- Rozkrádání veřejných statků a veřejného prostoru
+#- Zneužívání politiky pro soukromé zisky
+#- Redukci člověka na pouhý zdroj pracovní síly
+#reason: Znepokojuje mě postupné ukrajování našich svobod salámovou metodou. Politika by měla být služba občanům, nikoliv soukromý byznys!
+#motto: Kdo se nezajímá o politiku, o toho se bohužel časem začne politika zajímat sama.
 ordblanensko: 3
 ordpms: 4
 ---
