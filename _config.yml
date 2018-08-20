@@ -29,6 +29,9 @@ exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
+  
+plugins:
+  - jekyll-redirect-from
 
 sass:
     style: compressed
