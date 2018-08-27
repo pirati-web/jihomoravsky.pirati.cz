@@ -13,7 +13,7 @@ description: Marketingová specialistka 	# kratký popis, max 160 znaků
 profiles:
   linkedin: https://www.linkedin.com/in/lucie-vadkerti-6471b2161/
   facebook: https://www.facebook.com/lstranska
-  twitter: https://twitter.com/lucy_str?lang=en
+  twitter: https://twitter.com/lucy_str
 uid: lucie.vadkerti # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 - msbrno
@@ -31,13 +31,13 @@ notsupporting:
 - Zneužívání moci
 - Nespravedlnosti
 reason: Jsem věrna myšlence, že pokud se mi něco nelíbí a chci to změnit, nestačí nadávat u piva, ale je třeba zvednout zadek a jít konat. :)
-motto: "Naděje není to přesvědčení, že něco dobře dopadne, ale jistota, že má něco smysl - bez ohledu na to, jak to dopadne.”
+motto: "Naděje není to přesvědčení, že něco dobře dopadne, ale jistota, že má něco smysl - bez ohledu na to, jak to dopadne."
 
 ---
 
 Lucie Vadkerti (roz. Stránská, * 1989) narodila se v Brně a téměř celý život prožila v Králově Poli. Je členkou Pirátské strany od roku 2018.
 
-Pracuje v oblasti PPC marketingu a práce je jí živobytím i koníčkem. Má za sebou kurzy měkých dovedností a kritického myšlení. Celý život pracuje s lidmi. Dříve za barem, či v obchodě, nyní jako správce PPC kampaní, kde má na starosti kompletní komunikaci s klienty. 
+Pracuje v oblasti PPC marketingu a práce je jí živobytím i koníčkem. Má za sebou kurzy měkých dovedností a kritického myšlení. Celý život pracuje s lidmi. Dříve za barem, či v obchodě, nyní jako správce PPC kampaní, kde má na starosti kompletní komunikaci s klienty.
 
 Od patnácti let hraje v integračním divadelním souboru Járy Pokojského, jehož domovským divadlem je Bezbariérové divadlo Barka. Dlouhé roky jezdila na tábory s fyzicky i mentálně hendikepovanými dětmi i dospělími, ze kterých se časem stali dobří přátelé. Mimo to také ráda hraje na kytaru, chodí po městě, či přírodě a hraje si s všemožnou elektronikou.
 
