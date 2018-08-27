@@ -18,6 +18,8 @@ uid: lucie.vadkerti # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 - msbrno
 - krpole
+ordkrpole: 9
+ordmsbrno: 22
 supporting:
 - Vzdělanou a informovanou společnost
 - Profesionální správu města i státu
@@ -35,7 +37,7 @@ motto: "Naděje není to přesvědčení, že něco dobře dopadne, ale jistota,
 
 ---
 
-Lucie Vadkerti (roz. Stránská, * 1989) narodila se v Brně a téměř celý život prožila v Králově Poli. Je členkou Pirátské strany od roku 2018.
+Lucie Vadkerti (roz. Stránská, * 1989) se narodila v Brně a téměř celý život prožila v Králově Poli. Je členkou Pirátské strany od roku 2018.
 
 Pracuje v oblasti PPC marketingu a práce je jí živobytím i koníčkem. Má za sebou kurzy měkých dovedností a kritického myšlení. Celý život pracuje s lidmi. Dříve za barem, či v obchodě, nyní jako správce PPC kampaní, kde má na starosti kompletní komunikaci s klienty.
 
