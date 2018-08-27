@@ -43,3 +43,7 @@ Du måste visa ditt pass och ett dokument som bevisar att du är bosatt i kommun
 
 Piratpartiet önskar dig lycka till med ditt val!
 
+*Překlad do švédštiny poskytla [Lucie Podhorná](https://navolnenoze.cz/prezentace/lucie-podhorna/){:target="_blank"}*
+
+<hr>
+
