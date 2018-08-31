@@ -18,6 +18,7 @@ profiles:
   instagram: https://www.instagram.com/jerrousz/
   linkedin: https://www.linkedin.com/in/jerrylabs
   compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=-7.25&soc=-5.54  
+  values8: https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=76.8&d=66.0&g=77.7&s=78.4
 
 supporting:
 - Radikální zefektivnění elektronické komunikace mezi úřady a občany
