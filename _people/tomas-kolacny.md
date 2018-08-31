@@ -1,12 +1,12 @@
 ---
 uid: tomas.kolacny
-name:     Tomáš Kolačný  	# běžně používáné jméno
-fullname: Bc. Tomáš Kolačný  	# jméno s tituly etc.
+name:     Tomáš Koláčný  	# běžně používáné jméno
+fullname: Bc. Tomáš Koláčný  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pms
 - zast
 - msbrno
-
+mob: 773 661 244
 img: people/tomas-kolacny.jpg   # 165 x 220
 description: Radní města Brna a předseda brněnského sdružení # kratký popis, max 160 znaků
 mail:

@@ -1,19 +1,25 @@
 robert:
+  link: robert-cuma
   img: robert-cuma.jpg
   name: Róbert Čuma
   position: Předseda KS Jihomoravský kraj
   mail: robert.cuma@pirati.cz
 tomk:
+  link: tomas-kolacny
   img: tomas-kolacny.jpg
   name: Bc. Tomáš Koláčný
   position: Předseda MS Brno
+  mob: 736 661 244
   mail: tomas.kolacny@pirati.cz
 magda:
+  link: magdalena-skapova
   img: magdalena-skapova.jpg
   name: Magdaléna Škapová
   position: Koordinátorka KS Jihomoravský kraj
+  mob: 731 910 267
   mail: magdalena.skapova@pirati.cz
 miro:
+  link: miroslav-barta
   img: miroslav-barta.jpg
   name: Miroslav Bárta
   position: Vedoucí krajského mediálního odboru JmK

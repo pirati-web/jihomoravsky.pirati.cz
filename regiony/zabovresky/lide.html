@@ -7,6 +7,8 @@ menuitems:
  - text: Kandidáti
  - text: Novinky
    link: novinky
+ - text: Program
+   link: program
 ---
 
 {% include msweb/msmenu.html %}
@@ -20,18 +22,17 @@ menuitems:
             <div class="c-BasicPage-content">
               <div class="jmk-candidates">
 
-                <h2 class="jmk-msweb__headline">Kandidáti do zastupitelstva městské části Brno - Žabovřesky</h2>
+                <h2 class="jmk-msweb__headline">Kandidáti do zastupitelstva městské části Brno-Žabovřesky</h2>
 
                 <div class="row">
                   {% assign team = site.people | where_exp:"item","item.categories contains 'zabovresky'" | sort:"ordzabovresky"  %}
-                  {% for item in team limit:1 %}
+                  {% for item in team limit:2 %}
                     {% include people/kandidat.html param=item order='ordzabovresky' %}
                   {% endfor %}
 
-                  {% include people/kandidat-mini.html order='2' name='Zbyšek Martoch' job='odborný rada ÚOHS' %}
                   {% include people/kandidat-mini.html order='3' name='Martina Mikulincová' job='OSVČ' %}
                   {% include people/kandidat-mini.html order='4' name='Pavla Šejnoha Jaklová' job='mateřská dovolená' %}
-                  {% include people/kandidat-mini.html order='5' name='Petra Bubniaková' job='mechanik' %}
+                  {% include people/kandidat-mini.html order='5' name='Petra Bubniaková' job='mechanik' link='petra-bubniakova'%}
                   {% include people/kandidat-mini.html order='6' name='Patrik Bauer' job='Operátor knihtisku' %}
                   {% include people/kandidat-mini.html order='7' name='Jakub Sobocik' job='právník' link='jakub-sobocik' %}
                   {% include people/kandidat-mini.html order='8' name='Jana Frišhonsová' job='referentka' %}
