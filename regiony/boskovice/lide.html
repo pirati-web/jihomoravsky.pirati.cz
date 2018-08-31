@@ -21,34 +21,36 @@ menuitems:
 
                 <h2 class="jmk-msweb__headline">Kandidátka Pirátské strany pro volby do Zastupitelstva města Boskovice</h2>
 
-{% include people/kandidat-mini.html order='1' name='Radek Šamšula' job='Živnostník' %}
-{% include people/kandidat-mini.html order='2' name='Mgr. MgA. Kristýna Znamenáčková' job='Klavíristka' %}
-{% include people/kandidat-mini.html order='3' name='MgA. Vojtěch Sedlák' job='Produkční' %}
-{% include people/kandidat-mini.html order='4' name='Mgr. Dana Hrubá' job='Učitelka' %}
-{% include people/kandidat-mini.html order='5' name='Ing. Jan Nádvorník' job='Technik CAD/PDM' %}
-{% include people/kandidat-mini.html order='6' name='Ing. arch. Jiří Klímek' job='Architekt' %}
-{% include people/kandidat-mini.html order='7' name='Dana Marvanová' job='Důchodce' %}
-{% include people/kandidat-mini.html order='8' name='David Liber' job='Student' %}
-{% include people/kandidat-mini.html order='9' name='Mgr. Daniela Sedláková' job='Učitelka' %}
-{% include people/kandidat-mini.html order='10' name='Bc. Lukáš Pokorný' job='Promítač v kině' %}
-{% include people/kandidat-mini.html order='11' name='Mgr. Jitka Urbanová' job='Učitelka' %}
-{% include people/kandidat-mini.html order='12' name='Anna Trávníková' job='Správcová' %}
-{% include people/kandidat-mini.html order='13' name='Bc. Jan Hejna' job='Kuchař' %}
-{% include people/kandidat-mini.html order='14' name='Bc. Markéta Kopecká' job='Student' %}
-{% include people/kandidat-mini.html order='15' name='Martin Kolář' job='Dělník' %}
-{% include people/kandidat-mini.html order='16' name='Tomáš Odehnal' job='OSVČ' %}
-{% include people/kandidat-mini.html order='17' name='Mgr. David Tvardík' job='Učitel' %}
-{% include people/kandidat-mini.html order='18' name='Jiří Hrubý' job='Geofyzik' %}
-{% include people/kandidat-mini.html order='19' name='Jana Starová' job='Recepční' %}
-{% include people/kandidat-mini.html order='20' name='Petra Vaďurová' job='Masérka' %}
-{% include people/kandidat-mini.html order='21' name='Zuzana Šamšulová' job='Dělnice' %}
-{% include people/kandidat-mini.html order='22' name='Miron Valter' job='Technik' %}
-{% include people/kandidat-mini.html order='23' name='David Strnad' job='Technik' %}
-{% include people/kandidat-mini.html order='24' name='Bc. Aleš Bárta' job='Student' %}
-{% include people/kandidat-mini.html order='25' name='Jana Ondruchová' job='Provozní' %}
-{% include people/kandidat-mini.html order='26' name='BcA. Alžběta Tátošová' job='Mateřská dovolená' %}
-{% include people/kandidat-mini.html order='27' name='Magdalena Sabolová' job='Mateřská dovolená' %}
+                <div class="row">
+                  {% assign team = site.people | where_exp:"item","item.categories contains 'boskovice'" | sort:"ordboskovice"  %}
+                  {% for item in team limit:4 %}
+                    {% include people/kandidat.html param=item order='ordboskovice' %}
+                  {% endfor %}
 
+                  {% include people/kandidat-mini.html order='5' name='Ing. Jan Nádvorník' job='Technik CAD/PDM' %}
+                  {% include people/kandidat-mini.html order='6' name='Ing. arch. Jiří Klímek' job='Architekt' %}
+                  {% include people/kandidat-mini.html order='7' name='Dana Marvanová' job='Důchodce' %}
+                  {% include people/kandidat-mini.html order='8' name='David Liber' job='Student' %}
+                  {% include people/kandidat-mini.html order='9' name='Mgr. Daniela Sedláková' job='Učitelka' %}
+                  {% include people/kandidat-mini.html order='10' name='Bc. Lukáš Pokorný' job='Promítač v kině' %}
+                  {% include people/kandidat-mini.html order='11' name='Mgr. Jitka Urbanová' job='Učitelka' %}
+                  {% include people/kandidat-mini.html order='12' name='Anna Trávníková' job='Správcová' %}
+                  {% include people/kandidat-mini.html order='13' name='Bc. Jan Hejna' job='Kuchař' %}
+                  {% include people/kandidat-mini.html order='14' name='Bc. Markéta Kopecká' job='Student' %}
+                  {% include people/kandidat-mini.html order='15' name='Martin Kolář' job='Dělník' %}
+                  {% include people/kandidat-mini.html order='16' name='Tomáš Odehnal' job='OSVČ' %}
+                  {% include people/kandidat-mini.html order='17' name='Mgr. David Tvardík' job='Učitel' %}
+                  {% include people/kandidat-mini.html order='18' name='Jiří Hrubý' job='Geofyzik' %}
+                  {% include people/kandidat-mini.html order='19' name='Jana Starová' job='Recepční' %}
+                  {% include people/kandidat-mini.html order='20' name='Petra Vaďurová' job='Masérka' %}
+                  {% include people/kandidat-mini.html order='21' name='Zuzana Šamšulová' job='Dělnice' %}
+                  {% include people/kandidat-mini.html order='22' name='Miron Valter' job='Technik' %}
+                  {% include people/kandidat-mini.html order='23' name='David Strnad' job='Technik' %}
+                  {% include people/kandidat-mini.html order='24' name='Bc. Aleš Bárta' job='Student' %}
+                  {% include people/kandidat-mini.html order='25' name='Jana Ondruchová' job='Provozní' %}
+                  {% include people/kandidat-mini.html order='26' name='BcA. Alžběta Tátošová' job='Mateřská dovolená' %}
+                  {% include people/kandidat-mini.html order='27' name='Magdalena Sabolová' job='Mateřská dovolená' %}
+                </div>
               </div>
             </div>
           </div>
