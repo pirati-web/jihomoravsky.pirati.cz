@@ -152,6 +152,14 @@ layout: default
                       <p class="motto">{{ page.motto }}</p>
                     {% endif %}
                   </div>
+                  {% if page.motto[2] %}
+                    <div class="motto-wrap">
+                      <p class="motto">{{ page.motto[2] }}</p>
+                      {% if page.motto[3] %}
+                        <p class="motto-author">&mdash; {{ page.motto[3] }}</p>
+                      {% endif %}
+                    </div>
+                  {% endif %}
                 </div>
               </div>
             {% else if page.reason or page.motto %}
@@ -170,6 +178,14 @@ layout: default
                         <p class="motto">{{ page.motto }}</p>
                       {% endif %}
                     </div>
+                    {% if page.motto[2] %}
+                      <div class="motto-wrap">
+                        <p class="motto">{{ page.motto[2] }}</p>
+                        {% if page.motto[3] %}
+                          <p class="motto-author">&mdash; {{ page.motto[3] }}</p>
+                        {% endif %}
+                      </div>
+                    {% endif %}
                   {% endif %}
                 </div>
               </div>

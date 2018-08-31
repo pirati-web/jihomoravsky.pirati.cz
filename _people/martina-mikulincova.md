@@ -2,8 +2,8 @@
 # Název souboru: jmeno-prijmeni.md
 
 ### Povinné položky ###
-name:     Martina MIkulincová  	# běžně používáné jméno
-fullname: Martina MIkulincová  	# jméno s tituly etc.
+name:     Martina Mikulincová  	# běžně používáné jméno
+fullname: Martina Mikulincová  	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 - marti.mikuli@gmail.com
 img: people/martina-mikulincova.jpg   # 165x220px
@@ -30,7 +30,7 @@ notsupporting:
 - Plýtvání veřejnými prostředky
 reason: Aby se veškerá metodika ministerstev  dostala  do praxe v souladu s danou legislativou a nezůstala jen na papíře. Aby byl zachráněn a revitalizován významný krajinný prvek naší městské části Kozí Hora a nebyl zalit betonem dle projektu Avrio investu jako již jeho realizovaná 1 etapa - vstup do lesoparku Kroftova - Štursova. Aby územní plán nebyl jen politickou omalovánkou, která vytěžuje území, ale ctil urbanistickou hodnotu daného území a nepokračoval zrůdnou výstavbou - viz. polyfunkční dům na náměstí Rosického. Aby vzniklé dětské hřiště v Rezidenci Sochorova zbudované z dotačních operačních programů sloužilo nejen vyvoleným ale i mateřským školkám a všem dětem.
 
-motto: ["Dum spiro, spero. Dokud dýchám doufám.", "Marcus Tullius Cicero"]
+motto: ["Dum spiro, spero. Dokud dýchám doufám.", "Marcus Tullius Cicero", "Spés moritur ultima. Naděje umírá poslední."]
 
 ---
 
