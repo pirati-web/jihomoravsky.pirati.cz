@@ -199,12 +199,15 @@ h2.jmk-msweb__headline {
   .jmk-msweb__nav.c-top-sub-nav .c-top-sub-nav-inner:before {
     width: 370px;
     height: 185px;
-    background-size: cover;
   }
 }
 
 .jmk-msweb__nav--znojemsko.c-top-sub-nav .c-top-sub-nav-inner:before {
   background-image: url(../img/people/group/znojmo.jpg);
+}
+
+.jmk-msweb__nav--brnostred.c-top-sub-nav .c-top-sub-nav-inner:before {
+  background-image: url(../img/people/group/brnostred.jpg);
 }
 
 .menu, .menu li {
