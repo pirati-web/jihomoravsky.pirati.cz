@@ -19,7 +19,8 @@ profiles:
   twitter: https://twitter.com/springinsfeld_p
   compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=0.5&soc=-7.23
   linkedin: https://www.linkedin.com/in/petr-spring/
-  
+  values8: https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=41.5&d=72.3&g=84.2&s=85.3
+
 ---
 
 Petr Springinsfeld (* 12. dubna 1998) je členem Pirátské strany od září 2017. Pochází z Holasic, ale od roku 2018 žije v Brně.

@@ -6,7 +6,7 @@ name:     Petra Bubniaková  	# běžně používáné jméno
 fullname: Petra Bubniaková  	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 - petra.bubniakova@seznam.cz
-img: people/unknown.jpg   # 165x220px
+img: people/petra-bubniakova.jpg   # 165x220px
 description: Mechanik 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

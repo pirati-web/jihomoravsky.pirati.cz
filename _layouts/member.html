@@ -54,11 +54,6 @@ layout: default
                     <img src="{{ "assets/img/icons/blog.png" | relative_url }}" title="Blog - {{page.fullname}}" alt="Blog - {{page.fullname}}" />
                   </a>
                 {% endif %}
-                {% if page.profiles.compass %}
-                  <a class="social-icon" target="_blank" href="{{page.profiles.compass}}">
-                    <img src="{{ "assets/img/icons/compass.png" | relative_url }}" title="Political Compass - {{page.fullname}}" alt="Political Compass - {{page.fullname}}" />
-                  </a>
-                {% endif %}
                 {% if page.profiles.youtube %}
                   <a class="social-icon" target="_blank" href="{{page.profiles.youtube}}">
                     <img src="{{ "assets/img/icons/youtube.png" | relative_url }}" title="YouTube - {{page.fullname}}" alt="YouTube - {{page.fullname}}" />
@@ -82,6 +77,16 @@ layout: default
                 {% if page.profiles.pinterest %}
                   <a class="social-icon" target="_blank" href="{{page.profiles.pinterest}}">
                     <img src="{{ "assets/img/icons/pinterest.png" | relative_url }}" title="Pinterest - {{page.fullname}}" alt="Pinterest - {{page.fullname}}" />
+                  </a>
+                {% endif %}
+                {% if page.profiles.compass %}
+                  <a class="social-icon" target="_blank" href="{{page.profiles.compass}}">
+                    <img src="{{ "assets/img/icons/compass.png" | relative_url }}" title="Political Compass - {{page.fullname}}" alt="Political Compass - {{page.fullname}}" />
+                  </a>
+                {% endif %}
+                {% if page.profiles.values8 %}
+                  <a class="social-icon" target="_blank" href="{{page.profiles.values8}}">
+                    <img src="{{ "assets/img/icons/8values.png" | relative_url }}" title="8values political orientation - {{page.fullname}}" alt="8values political orientation - {{page.fullname}}" />
                   </a>
                 {% endif %}
                 {% if page.profiles.github %}
@@ -152,6 +157,14 @@ layout: default
                       <p class="motto">{{ page.motto }}</p>
                     {% endif %}
                   </div>
+                  {% if page.motto[2] %}
+                    <div class="motto-wrap">
+                      <p class="motto">{{ page.motto[2] }}</p>
+                      {% if page.motto[3] %}
+                        <p class="motto-author">&mdash; {{ page.motto[3] }}</p>
+                      {% endif %}
+                    </div>
+                  {% endif %}
                 </div>
               </div>
             {% else if page.reason or page.motto %}
@@ -170,6 +183,14 @@ layout: default
                         <p class="motto">{{ page.motto }}</p>
                       {% endif %}
                     </div>
+                    {% if page.motto[2] %}
+                      <div class="motto-wrap">
+                        <p class="motto">{{ page.motto[2] }}</p>
+                        {% if page.motto[3] %}
+                          <p class="motto-author">&mdash; {{ page.motto[3] }}</p>
+                        {% endif %}
+                      </div>
+                    {% endif %}
                   {% endif %}
                 </div>
               </div>

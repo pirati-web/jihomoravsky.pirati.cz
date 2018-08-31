@@ -16,8 +16,10 @@ nav.#{$tsb-ns}c-top-sub-nav {
     width: 335px;
     height: 128px;
     background: url('../img/miscellaneous/people.png') no-repeat;
-    bottom: -20px;
+    bottom: 0px;
     right: 85px;
+    background-size: contain;
+    background-position: center center;
   }
 
   @include breakpoint(mobile down) {

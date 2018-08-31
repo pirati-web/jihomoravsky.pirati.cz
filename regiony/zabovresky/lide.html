@@ -5,10 +5,10 @@ region: zabovresky
 headline: "Piráti Žabovřesky"
 menuitems:
  - text: Kandidáti
- - text: Novinky
-   link: novinky
  - text: Program
    link: program
+ - text: Novinky
+   link: novinky
 ---
 
 {% include msweb/msmenu.html %}
@@ -26,13 +26,10 @@ menuitems:
 
                 <div class="row">
                   {% assign team = site.people | where_exp:"item","item.categories contains 'zabovresky'" | sort:"ordzabovresky"  %}
-                  {% for item in team limit:2 %}
+                  {% for item in team limit:5 %}
                     {% include people/kandidat.html param=item order='ordzabovresky' %}
                   {% endfor %}
 
-                  {% include people/kandidat-mini.html order='3' name='Martina Mikulincová' job='OSVČ' %}
-                  {% include people/kandidat-mini.html order='4' name='Pavla Šejnoha Jaklová' job='mateřská dovolená' %}
-                  {% include people/kandidat-mini.html order='5' name='Petra Bubniaková' job='mechanik' link='petra-bubniakova'%}
                   {% include people/kandidat-mini.html order='6' name='Patrik Bauer' job='Operátor knihtisku' %}
                   {% include people/kandidat-mini.html order='7' name='Jakub Sobocik' job='právník' link='jakub-sobocik' %}
                   {% include people/kandidat-mini.html order='8' name='Jana Frišhonsová' job='referentka' %}

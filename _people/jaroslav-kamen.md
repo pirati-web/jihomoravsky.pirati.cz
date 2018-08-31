@@ -18,6 +18,7 @@ profiles:
   instagram: https://www.instagram.com/jerrousz/
   linkedin: https://www.linkedin.com/in/jerrylabs
   compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=-7.25&soc=-5.54  
+  values8: https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=76.8&d=66.0&g=77.7&s=78.4
 
 supporting:
 - Radikální zefektivnění elektronické komunikace mezi úřady a občany
@@ -46,7 +47,7 @@ Jaroslav Kameň (roz. Kupčík, * 1986) je členem Pirátské strany od roku 201
 
 Vystudoval osmileté všeobecné gymnázium a poté obor Informační systémy na Fakultě informačních technologií Vysokého učení technického v Brně, kde získal titul Ing.
 
-Pracoval jako středoškolský učitel informačních technologií, poté jako web developer a produktový manažer v marketingovém oddělení společnosti vyvíjející systémy pro správu webu. Aktuálně pracuje jako web developer v brněnském herním studiu.
+Pracoval jako středoškolský učitel informačních technologií na [ISŠA Brno](http://www.issabrno.cz/){:target="_blank"} na Křižíkové, poté jako web developer a produktový manažer v marketingovém oddělení brněnské společnosti [Kentico](https://www.kentico.com/){:target="_blank"} vyvíjející systémy pro správu webu. Aktuálně pracuje jako web developer v brněnském herním studiu [Madfinger Games](https://www.madfingergames.com/){:target="_blank"}.
 
 Vadí mu plýtvání veřejnými prostředky, degradace veřejného prostoru a omezování osobních svobod. Chtěl by, aby moderní technologie život lidem usnadňovaly a nikoliv ztěžovaly. Byl by rád za větší transparenci ve státní správě a aktivní občanskou společnost podílející se na rozhodnutích, které se jí týkají.
 

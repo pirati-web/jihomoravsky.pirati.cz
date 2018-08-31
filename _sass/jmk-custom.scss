@@ -177,7 +177,7 @@
   background-size: contain;
   width: 118px;
   height: 94px !important;
-  padding-top: 26px;
+  padding-top: 20px;
   text-align: center;
   @include breakpoint(medium down) {
     display: none;
@@ -195,14 +195,51 @@ h2.jmk-msweb__headline {
   margin-bottom: 2.5rem;
 }
 
+.menu, .menu li {
+  list-style: none !important;
+}
+
 @media screen and (min-width: 53.76em) {
   .jmk-msweb__nav.c-top-sub-nav .c-top-sub-nav-inner:before {
     width: 370px;
     height: 185px;
-    background-size: cover;
   }
 }
 
-.menu, .menu li {
-  list-style: none !important;
+.jmk-msweb__nav--znojemsko.c-top-sub-nav .c-top-sub-nav-inner:before {
+  background-image: url(../img/people/group/znojmo.jpg);
+}
+
+.jmk-msweb__nav--brnostred.c-top-sub-nav .c-top-sub-nav-inner:before {
+  background-image: url(../img/people/group/brnostred.jpg);
+}
+
+.jmk-msweb__nav--zabovresky.c-top-sub-nav .c-top-sub-nav-inner:before {
+  background-image: url(../img/people/group/zabiny.jpg);
+}
+
+.jmk-msweb__nav.jmk-msweb__nav--krpole .c-top-sub-nav-inner {
+  background: #f3f3f3 url(../img/program/krpole/banner.jpg) center top no-repeat;
+  background-size: 100% auto;
+  padding: 13rem 2.5rem 2rem;
+
+  @media (max-width: 700px) {
+    padding-top: 7rem;
+  }
+
+  @media (max-width: 420px) {
+    padding: 4rem 2.5rem 1rem;
+  }
+
+  &:before {
+    display: none;
+  }
+
+  .c-top-sub-nav__item {
+    text-shadow: 0 0 30px white, 0 0 25px white, 0 0 20px white, 0 0 30px white, 0 0 25px white, 0 0 20px white;
+  }
+
+  .jmk-msweb__headline {
+    display: none;
+  }
 }
