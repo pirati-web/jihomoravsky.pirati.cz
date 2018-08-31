@@ -23,40 +23,36 @@ menuitems:
                 <h2 class="jmk-msweb__headline">Kandidátka Pirátské strany pro volby do Zastupitelstva města Znojma</h2>
                   <div class="row">
                     {% assign team = site.people | where_exp:"item","item.categories contains 'znojemsko'" | sort:"ordznojemsko"  %}
-                    {% for item in team limit:1 %}
+                    {% for item in team limit:5 %}
                       {% include people/kandidat.html param=item order='ordznojemsko' %}
                     {% endfor %}
 
-{% include people/kandidat-mini.html order='2' name='Ing. Eva Staňková' job='podnikatelka' %}
-{% include people/kandidat-mini.html order='3' name='Ing. Jitka Veselá, Ph.D.' job='vysokoškolský pedagog' %}
-{% include people/kandidat-mini.html order='4' name='Šimon Fouček' job='student VŠ' %}
-{% include people/kandidat-mini.html order='5' name='Bc. Vítězslava Rosecká' job='průvodce, programový pracovník, lektor AJ' %}
-{% include people/kandidat-mini.html order='6' name='Ing. Jaroslav Dvořák ' job='projektant' %}
-{% include people/kandidat-mini.html order='7' name='Ing. Martina Špačková' job='OSVČ' %}
-{% include people/kandidat-mini.html order='8' name='Bc. Zdeněk Rokos' job='jednatel' %}
-{% include people/kandidat-mini.html order='9' name='Mgr. Anna Trojanová' job='advokát' %}
-{% include people/kandidat-mini.html order='10' name='Jakub Maňura' job='hypoteční bankéř' %}
-{% include people/kandidat-mini.html order='11' name='Ing. Stanislav Staněk' job='chemický technolog' %}
-{% include people/kandidat-mini.html order='12' name='Adéla Kolouchová' job='studentka SŠ' %}
-{% include people/kandidat-mini.html order='13' name='Marek Knopp' job='podnikatel, barista' %}
-{% include people/kandidat-mini.html order='14' name='Jana Logrová' job='studentka VŠ' %}
-{% include people/kandidat-mini.html order='15' name='Vladimír Palas' job='manažer, student' %}
-{% include people/kandidat-mini.html order='16' name='Lukáš Fiala' job='osobní trenér' %}
-{% include people/kandidat-mini.html order='17' name='Mgr. Kateřina Kotoučová' job='učitelka' %}
-{% include people/kandidat-mini.html order='18' name='Bc. Zdeňka Stojaspalová' job='studentka VŠ' %}
-{% include people/kandidat-mini.html order='19' name='Bc. Josef Trachtulec' job='demand planner' %}
-{% include people/kandidat-mini.html order='20' name='Simona Foučková' job='učitelka v MŠ' %}
-{% include people/kandidat-mini.html order='21' name='Antonín Maceček' job='muzikant' %}
-{% include people/kandidat-mini.html order='22' name='Rudolf Dreiecker ' job='senior konzultant' %}
-{% include people/kandidat-mini.html order='23' name='Ondřej Holík' job='student VŠ' %}
-{% include people/kandidat-mini.html order='24' name='Martin Novák ' job='barman' %}
-{% include people/kandidat-mini.html order='25' name='Ing. Jan Sigmund' job='designér' %}
-{% include people/kandidat-mini.html order='26' name='Jana Čechová' job='analytik obchodu' %}
-{% include people/kandidat-mini.html order='27' name='Tomáš Meidl' job='obsluha kamerového systému, žonglér' %}
-{% include people/kandidat-mini.html order='28' name='Bc. Karolína Trojanová' job='administrativa' %}
-{% include people/kandidat-mini.html order='29' name='Ing. Jan Havel' job='programátor' %}
-{% include people/kandidat-mini.html order='30' name='Petr Stejskal' job='prodavač' %}
-{% include people/kandidat-mini.html order='31' name='Bc. Andrea Jordánková' job='všeobecná sestra' %}
+                    {% include people/kandidat-mini.html order='6' name='Ing. Jaroslav Dvořák ' job='projektant' %}
+                    {% include people/kandidat-mini.html order='7' name='Ing. Martina Špačková' job='OSVČ' %}
+                    {% include people/kandidat-mini.html order='8' name='Bc. Zdeněk Rokos' job='jednatel' %}
+                    {% include people/kandidat-mini.html order='9' name='Mgr. Anna Trojanová' job='advokát' %}
+                    {% include people/kandidat-mini.html order='10' name='Jakub Maňura' job='hypoteční bankéř' %}
+                    {% include people/kandidat-mini.html order='11' name='Ing. Stanislav Staněk' job='chemický technolog' %}
+                    {% include people/kandidat-mini.html order='12' name='Adéla Kolouchová' job='studentka SŠ' %}
+                    {% include people/kandidat-mini.html order='13' name='Marek Knopp' job='podnikatel, barista' %}
+                    {% include people/kandidat-mini.html order='14' name='Jana Logrová' job='studentka VŠ' %}
+                    {% include people/kandidat-mini.html order='15' name='Vladimír Palas' job='manažer, student' %}
+                    {% include people/kandidat-mini.html order='16' name='Lukáš Fiala' job='osobní trenér' %}
+                    {% include people/kandidat-mini.html order='17' name='Mgr. Kateřina Kotoučová' job='učitelka' %}
+                    {% include people/kandidat-mini.html order='18' name='Bc. Zdeňka Stojaspalová' job='studentka VŠ' %}
+                    {% include people/kandidat-mini.html order='19' name='Bc. Josef Trachtulec' job='demand planner' %}
+                    {% include people/kandidat-mini.html order='20' name='Simona Foučková' job='učitelka v MŠ' %}
+                    {% include people/kandidat-mini.html order='21' name='Antonín Maceček' job='muzikant' %}
+                    {% include people/kandidat-mini.html order='22' name='Rudolf Dreiecker ' job='senior konzultant' %}
+                    {% include people/kandidat-mini.html order='23' name='Ondřej Holík' job='student VŠ' %}
+                    {% include people/kandidat-mini.html order='24' name='Martin Novák ' job='barman' %}
+                    {% include people/kandidat-mini.html order='25' name='Ing. Jan Sigmund' job='designér' %}
+                    {% include people/kandidat-mini.html order='26' name='Jana Čechová' job='analytik obchodu' %}
+                    {% include people/kandidat-mini.html order='27' name='Tomáš Meidl' job='obsluha kamerového systému, žonglér' %}
+                    {% include people/kandidat-mini.html order='28' name='Bc. Karolína Trojanová' job='administrativa' %}
+                    {% include people/kandidat-mini.html order='29' name='Ing. Jan Havel' job='programátor' %}
+                    {% include people/kandidat-mini.html order='30' name='Petr Stejskal' job='prodavač' %}
+                    {% include people/kandidat-mini.html order='31' name='Bc. Andrea Jordánková' job='všeobecná sestra' %}
                 </div>
               </div>
             </div>
