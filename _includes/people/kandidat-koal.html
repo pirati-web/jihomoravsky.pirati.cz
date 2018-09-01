@@ -26,6 +26,11 @@
           <a href="mailto:{{item.mail}}">{{item.mail}}</a><br>
         </p>
       {% endif %}
+      {% if item.navrhujici %}
+        <p>Navrhující strana: {{ item.navrhujici }}</p>
+      {% else %}
+        <p>Navrhující strana: Piráti</p>
+      {% endif %}
     </div>
   </div>
 </div>

@@ -10,7 +10,10 @@
           {{ include.name }}
         {% endif %}
       </h2>
-      <p>{{ include.job }}</p>
+      <p class="jmk-candidate-job">{{ include.job }}</p>
+      {% if include.navrhujici %}
+        <p>Navrhující strana: {{ include.navrhujici }}</p>
+      {% endif %}
     </div>
   </div>
 </div>

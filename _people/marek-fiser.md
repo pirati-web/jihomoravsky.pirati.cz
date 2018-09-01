@@ -13,7 +13,6 @@ profiles:
 
 ordmsbrno: 5
 ordkrpole: 1
-
 ---
 
 Marek Fišer (* 22. listopadu 1982) je příznivcem Pirátů od roku 2012. V roce 2014 inicioval oslovení Pirátské strany Matějem Hollanem s cílem vytvořit koalici do brněnských voleb.

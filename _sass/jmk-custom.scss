@@ -54,6 +54,10 @@
   }
 }
 
+.jmk-candidate-job::first-letter {
+  text-transform: capitalize;
+}
+
 .jmk-candidates {
   margin-bottom: 1.5em;
 

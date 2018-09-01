@@ -16,6 +16,7 @@ category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 ordkrpole: 2
 
 motto: ["Silný si vždy pomůže sám – ochrana slabých, toť úkol nové doby.", "T. G. Masaryk"]
+navrhujici: "Starostové a osobnosti pro Moravu"
 ---
 
 Narodil jsem se v Brně-Králově Poli 4. 11. 1983 a až na krátkou přestávku zde žiji celý život. Vystudoval jsem Právnickou fakultu Masarykovy univerzity a Filozofickou fakultu Masarykovy univerzity (obory Historie a Učitelství historie pro střední školy). V současnosti stále dálkově studuji doktorský studijní program na Právnické fakultě MU (obor Dějiny práva a římské právo).

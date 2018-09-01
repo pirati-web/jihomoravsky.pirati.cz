@@ -14,7 +14,7 @@ uid: jan.krycer # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 - krpole
 ordkrpole: 10
-
+navrhujici: "Starostové a osobnosti pro Moravu"
 ---
 
 Jan Kryčer je student Mendelovy Univerzity na Fakultě regionálního rozvoje a mezinárodních studií.
