@@ -26,7 +26,7 @@ notsupporting:
 - Městům zaplaveným auty
 - Populismu
 - Byrokracii a legislativní zátěži
-reason: Protože mě zajímá, co se v mém městě děje a chci ukázat lidem, že jdou svěci dělat i jinak, než jak se dělají.
+reason: Protože mě zajímá, co se v mém městě děje a chci ukázat lidem, že jdou věci dělat i jinak, než jak se dělají.
 
 ---
 
