@@ -1,7 +1,7 @@
 ---
 uid: pavel.nevrkla
 name:     Pavel Nevrkla  	# běžně používáné jméno
-fullname: Pavel Nevrkla  	# jméno s tituly etc.
+fullname: Mgr. Pavel Nevrkla  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
 - znojemsko
@@ -25,10 +25,10 @@ reason: Štve mě míra klientelismu na komunální úrovni a chci pomoci to zm�
 
 ---
 
-Pavel Nevrkla (*1985 ve Znojmě) je 4. místopředsedou KS Jihomoravského kraje v Pirátské straně. Pavel žije ve Znojmě, pochází z obce Božice
+Pavel Nevrkla (*1985 ve Znojmě) je 4. místopředsedou KS Jihomoravského kraje v Pirátské straně. Pavel žije ve Znojmě, pochází z obce Božice.
 V letech 1997-2005 vystudoval 8. leté Gymnázium a SPgŠ ve Znojmě a v letech 2005 - 2010 Právnickou fakultu Masarykovy univerzity, obor Právo a právní věda, kde v roce 2010 získal titul magistra. Během studií se specializoval na právo místních samospráv.
 
-Od roku 2010 pracuje ve Znojmě v advokacii, v letech 2010 - 2013 jako advokátní koncipient, od 1.11.2013 jako samostatný advokát. Věnuje se právu místních samospráv, občanskému, rodinnému, správnímu a trestnímu právu.
+Od roku 2010 pracuje ve Znojmě v advokacii, v letech 2010 - 2013 jako advokátní koncipient, od 1. 11. 2013 jako samostatný advokát. Věnuje se právu místních samospráv, občanskému, rodinnému, správnímu a trestnímu právu.
 
 Angažuje se ve sportu, kdy je sekretářem fotbalového oddílu T.J. Sokol Božice a členem Disciplinární komise Okresního fotbalového svazu Znojmo. Aktivně sportuje.
 
