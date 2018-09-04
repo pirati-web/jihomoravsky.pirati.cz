@@ -20,6 +20,11 @@
               </li>
             {% endif %}
           {% endfor %}
+          {% if include.facebook %}
+            <li class="c-top-sub-nav__item c-top-sub-nav-header">
+              <a href="https://facebook.com/{{ include.facebook }}" target="_blank">Facebook</a>
+            </li>
+          {% endif %}
         </ul>
       </div>
     </div>

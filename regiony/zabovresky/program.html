@@ -12,7 +12,7 @@ menuitems:
 
 ---
 
-{% include msweb/msmenu.html %}
+{% include msweb/msmenu.html facebook="piratizabovresky" %}
 
 <div class="row o-section-block o-section-block--divided">
   <div class="medium-12 large-8 columns">
@@ -24,6 +24,52 @@ menuitems:
               {% comment %}
                 If you don't like writing in HTML, use Word then https://html-cleaner.com/
               {% endcomment %}
+
+              <ul>
+                <li>
+                  <a href="{{ '/assets/pdf/Programove-priority-Zabovresky.pdf' | relative_url }}" target="_blank">
+                    Programové priority Pirátské strany do voleb do zastupitelstva MČ Brno-Žabovřesky
+                  </a> (PDF)
+                </li>
+                <li>
+                  <a href="{{ '/assets/pdf/Program-Zabiny-full.pdf' | relative_url }}" target="_blank">
+                    Úplný program Pirátské strany do voleb do zastupitelstva MČ Brno-Žabovřesky
+                  </a> (PDF)
+                </li>
+                <li>
+                  <a href="{{ '/assets/pdf/Frogsqueaks-Programme-priorities_final.pdf' | relative_url }}" target="_blank">
+                    Programme priorities of the Pirate party for the Žabovřesky municipal assembly elections
+                  </a> (ENG, PDF)
+                </li>
+              </ul>
+
+              {% include msweb/msspolecnyprogram.html %}
+
+              <h1>Programové priority Pirátské strany do voleb do zastupitelstva MČ Brno-Žabovřesky</h1>
+              <ul>
+                <li>Chceme otevřenou radnici.</li>
+                <li>Chceme hlasování na Radě a Zastupitelstvu podle jmen, interaktivní online přenos veřejných jednání Zastupitelstva s tím, že chceme umožnit vzdálenou účast občanů pomocí chatu a následné umístění záznamu na web.</li>
+                <li>Budeme zveřejňovat maximum možných informací, aby si občané nemuseli žádat.</li>
+                <li>Budeme zveřejňovat veškeré naše kontakty s lobbisty.</li>
+                <li>Zprůhledníme veřejné zakázky. Chceme otevřená výběrová řízení a efektivní správu majetku.</li>
+                <li>Maximálně zapojíme občany do rozhodování.</li>
+                <li>Chceme elektronizaci úřadu.</li>
+                <li>Nepřipustíme, aby se stal z územního plánu trhací kalendář pro developery a politiky a jejich kamarádíčky.</li>
+                <li>Budeme zveřejňovat maximum možných informací, aby si občané nemuseli žádat.</li>
+                <li>Chceme více zeleně a méně betonu.</li>
+                <li>Chceme parkování pro Žabiňáky po celém Brně zadarmo, platit by měli jen mimobrněnští.</li>
+                <li>Chceme podpořit vybudování dobíjecích stanic pro elektromobily.</li>
+                <li>Chceme nové cyklostezky a stojany pro kola v ulicích.</li>
+                <li>Omezíme blokové čištění.</li>
+                <li>Chceme moderní výuku na školách, zdravou stravu pro školáky a cenově dostupné kroužky pro děti.</li>
+                <li>Chceme startovací byty pro mladé.</li>
+                <li>Podporujeme rozvoj občanské vybavenosti.</li>
+                <li>Poskytneme nebytové prostory pro start-upy.</li>
+                <li>Zřídíme jídelnu a centrum pro setkávání pro seniory a volnočasové centrum pro maminky s dětmi.</li>
+
+              </ul>
+
+
               <h1>Úplný program Pirátské strany do voleb do zastupitelstva MČ Brno-Žabovřesky 2018</h1>
 
               <h2>
@@ -597,8 +643,6 @@ menuitems:
                       prohlídek přímo ve školách, abychom šetřili čas rodičům.
                   </li>
               </ul>
-
-              {% include msweb/msspolecnyprogram.html %}
 
             </div>
           </div>
