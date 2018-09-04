@@ -21,17 +21,17 @@ profiles:
   values8: https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=76.8&d=66.0&g=77.7&s=78.4
 
 supporting:
-- Radikální zefektivnění elektronické komunikace mezi úřady a občany
+- Radikální zefektivnění elektronické komunikace mezi úřadem a občany
+- Navazující síť kvalitních cyklostezek ve městě
 - Výstavbu nových městských bytů
 - Co nejrychlejší dokončení brněnského okruhu
-- Navazující síť kvalitních cyklostezek ve městě
 #- Svobodnou, informačně gramotnou a aktivní společnost
 #- Transparentnost věcí veřejných a ochranu soukromí u věcí osobních
 #- Stát zajišťující bezpečí a prostředí pro rozvoj a seberealizaci svých občanů
 notsupporting:
-- Nekoordinovanému rozkopávání dopravní infrastruktury každé léto
-- Kolapsu, který způsobí přesun hl. nádraží bez vyřešení navazující dopravy
-- Aktuálně navrhovanému systému parkování, který dělá z Brňáků návštěvníky ve vlastním městě
+- Zneužívání politiky k soukromého byznysu místo služby občanům
+- Proprietárním IT řešením, která z úřadů dělají zajatce dodavatelů
+- Přesunu hl. nádraží bez vyřešení navazující dopravy a jejího kolapsu
 #- Rozkrádání veřejných statků a veřejného prostoru
 #- Zneužívání politiky pro soukromé zisky
 #- Redukci člověka na pouhý zdroj pracovní síly
@@ -53,6 +53,8 @@ Vadí mu plýtvání veřejnými prostředky, degradace veřejného prostoru a o
 
 Nelíbí se mu, když politici místo služby občanům upřednostňují své soukromé zájmy, zájmy pofidérních struktur na hranicích zákona nebo nadnárodních korporací. Přeje si, aby stát občanům poskytoval bezpečný a efektivní prostor k jejich osobnímu rozvoji a nefungoval jako prostředek k jejich vykořisťování nebo perzekuci.
 
-Silně podporuje myšlenku nepodmíněného základního příjmu, který chápe jako efektivní prostředek k udržení fungující ekonomiky. Myslí si, že je pro stát výhodnější podporovat raději přímo své občany než nadnárodní korporace, kterým jsou pro vytváření pracovních míst přidělovány mohutné dotace a odpouštěny daně. Věří, že by tak nepodmíněný základní příjem kromě zjednodušení sociálního systému a zaručení důstojného života občanům rovněž pomohl omezit odtok peněz do zahraničí a daňových rájů.
+<!-- Silně podporuje myšlenku nepodmíněného základního příjmu, který chápe jako efektivní prostředek k udržení fungující ekonomiky. Myslí si, že je pro stát výhodnější podporovat raději přímo své občany než nadnárodní korporace, kterým jsou pro vytváření pracovních míst přidělovány mohutné dotace a odpouštěny daně. Věří, že by tak nepodmíněný základní příjem kromě zjednodušení sociálního systému a zaručení důstojného života občanům rovněž pomohl omezit odtok peněz do zahraničí a daňových rájů. -->
+
+V komunální politice se chce zasadit o vytvoření uživatelsky přívětivého rozhraní pro efektivní komunikaci s občany a otevřenou, transparentní a názornou online prezentaci veškerého hospodaření města a jeho městských částí. Prosazuje vytvaření informačních systémů s otevřeným zdrojovým kódem (opensource), u nichž se zvýšená počáteční investice dlouhodobě mnohonásobně vyplatí díky možnostem jednoduchého napojování na ostatní systémy a sdílení řešení s ostatními jednotkami veřejné správy.
 
 Ve svém volném čase podniká výlety do přírody na kole i pěšky. Má rád sci-fi a fantasy literaturu a filmy a hraje a tvoří deskové, karetní a počítačové hry.
