@@ -28,7 +28,7 @@
                   <a href="{{ 'regiony/' | relative_url }}">Místní sdružení</a>
                 </li>
                 <li class="c-vertical-navigation__item">
-                  <a href="{{ 'program/' | relative_url }}">Program</a>
+                  <a href="{{ 'program/' | relative_url }}">Dlouhodobý program</a>
                 </li>
                 <li class="c-vertical-navigation__item">
                   <a href="http://www.pirati.cz" target="_blank">Celostátní web</a>
@@ -47,7 +47,6 @@
                 <li class="c-vertical-navigation__item">
                   <a href="{{ 'pripoj-se/tymy/' | relative_url }}">Naše týmy</a>
                 </li>
-                {% endcomment %}
               </ul>
             </nav>
           </div>
@@ -58,9 +57,11 @@
                 <li class="c-vertical-navigation__item">
                   <a href="{{ 'aktuality/' | relative_url }}">Aktuality</a>
                 </li>
-                <li class="c-vertical-navigation__item">
-                  <a href="{{ 'pripoj-se/kalendar/' | relative_url }}">Kalendář</a>
-                </li>
+                {% comment %}
+                  <li class="c-vertical-navigation__item">
+                    <a href="{{ 'pripoj-se/kalendar/' | relative_url }}">Kalendář</a>
+                  </li>
+                {% endcomment %}
               </ul>
             </nav>
           </div>
