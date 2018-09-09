@@ -25,6 +25,11 @@
               <a href="https://facebook.com/{{ include.facebook }}" target="_blank">Facebook</a>
             </li>
           {% endif %}
+          {% if include.plisty %}
+          <li class="c-top-sub-nav__item c-top-sub-nav-header">
+            <a href="{{'/assets/pdf/Piratske_listy_Brno_2018.pdf' | relative_url }}" target="_blank">Pirátské listy</a>
+          </li>
+          {% endif %}
         </ul>
       </div>
     </div>
