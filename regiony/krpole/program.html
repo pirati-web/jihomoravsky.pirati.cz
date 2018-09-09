@@ -26,7 +26,11 @@ menuitems:
               {% comment %}
                 If you don't like writing in HTML, use Word then https://html-cleaner.com/
               {% endcomment %}
-
+              <ul>
+                <li>
+                  <a href="{{ '/assets/pdf/brno-priority.pdf' | relative_url }}" target="_blank">Programové priorty Brno</a> (PDF)
+                </li>
+              </ul>
               <h2 class="jmk-msweb__headline">
                 Volební priority Pirátů v Králově poli
               </h2>
@@ -65,8 +69,6 @@ menuitems:
                   Podpora kulturních a společenských akcí v městské části
                 </li>
               </ol>
-
-              {% include msweb/msspolecnyprogram.html %}
 
             </div>
           </div>

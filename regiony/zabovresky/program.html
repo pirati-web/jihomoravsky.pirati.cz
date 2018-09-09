@@ -21,9 +21,13 @@ menuitems:
         <main class="o-section-block">
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
+              <ul>
+                <li>
+                  <a href="{{ '/assets/pdf/brno-priority.pdf' | relative_url }}" target="_blank">Programové priorty Brno</a> (PDF)
+                </li>
+              </ul>
+
               {% comment %}
-                If you don't like writing in HTML, use Word then https://html-cleaner.com/
-              {% endcomment %}
 
               <ul>
                 <li>
@@ -43,7 +47,7 @@ menuitems:
                 </li>
               </ul>
 
-              {% include msweb/msspolecnyprogram.html %}
+              {% endcomment %}
 
               <h1>Programové priority Pirátské strany do voleb do zastupitelstva MČ Brno-Žabovřesky</h1>
               <ul>
@@ -70,6 +74,7 @@ menuitems:
               </ul>
 
 
+              {% comment %}
               <h1>Úplný program Pirátské strany do voleb do zastupitelstva MČ Brno-Žabovřesky 2018</h1>
 
               <h2>
@@ -643,6 +648,8 @@ menuitems:
                       prohlídek přímo ve školách, abychom šetřili čas rodičům.
                   </li>
               </ul>
+
+              {% endcomment %}
 
             </div>
           </div>
