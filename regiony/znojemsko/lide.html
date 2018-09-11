@@ -24,11 +24,10 @@ menuitems:
                 <h2 class="jmk-msweb__headline">Kandidátka Pirátské strany pro volby do Zastupitelstva města Znojma</h2>
                   <div class="row">
                     {% assign team = site.people | where_exp:"item","item.categories contains 'znojemsko'" | sort:"ordznojemsko"  %}
-                    {% for item in team limit:5 %}
+                    {% for item in team limit:6 %}
                       {% include people/kandidat.html param=item order='ordznojemsko' %}
                     {% endfor %}
 
-                    {% include people/kandidat-mini.html order='6' name='Ing. Jaroslav Dvořák ' job='projektant' %}
                     {% include people/kandidat-mini.html order='7' name='Ing. Martina Špačková' job='OSVČ' %}
                     {% include people/kandidat-mini.html order='8' name='Bc. Zdeněk Rokos' job='jednatel' %}
                     {% include people/kandidat-mini.html order='9' name='Mgr. Anna Trojanová' job='advokát' %}
