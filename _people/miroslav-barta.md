@@ -6,6 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - krpole
 - msbrno
 img: people/miroslav-barta.jpg   # 165 x 220
+img2: people/miroslav-barta2.jpg   
 description: Vedoucí mediálního odboru Jihomoravského kraje Pirátů, realitní specialista a majitel obchodní společnosti 	# kratký popis, max 160 znaků
 mail:
 - miroslav.barta@pirati.cz

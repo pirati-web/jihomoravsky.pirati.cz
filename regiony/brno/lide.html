@@ -26,11 +26,11 @@ menuitems:
                 <div class="row">
                   {% assign team = site.people | where_exp:"item","item.categories contains 'msbrno'" | sort:"ordmsbrno"  %}
                   {% for item in team limit:8 %}
-                    {% include people/kandidat.html param=item order='ordmsbrno' %}
+                    {% include people/kandidat.html param=item order='ordmsbrno' altfoto='true' %}
                   {% endfor %}
 
                   {% for item in team offset:8 limit:8 %}
-                    {% include people/kandidat-small.html param=item order='ordmsbrno' %}
+                    {% include people/kandidat-small.html param=item order='ordmsbrno' altfoto='true' %}
                   {% endfor %}
 
                   {% include people/kandidat-mini.html order='17' name='Adam Zemek' job='programátor' %}

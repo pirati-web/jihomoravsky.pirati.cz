@@ -6,6 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - krpole
 - msbrno
 img: people/marek-fiser.jpg   # 165 x 220
+img2: people/marek-fiser2.jpg
 description: Manažer, polyglot a zahrádkář 	# kratký popis, max 160 znaků
 
 profiles:

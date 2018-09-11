@@ -7,6 +7,7 @@ fullname: Mgr. Marek Lahoda  	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 - marek.lahoda@pirati.cz
 img: people/marek-lahoda.jpg   # 165x220px
+img2: people/marek-lahoda2.jpg
 description: Vědec a datový analytik 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

@@ -9,7 +9,11 @@
   <div class="o-media o-media--top">
     <div class="o-media__image o-media__image--lgspace">
       <a href="{{url}}">
-        <img src="{{ item.img | prepend: '/assets/img/' | relative_url }}" alt="{{item.name}}">
+        {% if include.altfoto and item.img2 %}
+          <img src="{{ item.img2 | prepend: '/assets/img/' | relative_url }}" alt="{{item.name}}">
+        {% else %}
+          <img src="{{ item.img | prepend: '/assets/img/' | relative_url }}" alt="{{item.name}}">
+        {% endif %}
       </a>
     </div>
     <div class="o-media__body">
