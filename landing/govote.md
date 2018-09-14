@@ -22,7 +22,7 @@ To be able to cast your ballot, there is one thing you have to do before you sho
 
 The addresses of the offices are to be found here [www.bit.ly/brnoelections2018](www.bit.ly/brnoelections2018){:target="_blank"}.
 
-We also made *vocabulary* for you to be able to fill it in even without knowledge of Czech:
+We also made **vocabulary** for you to be able to fill it in even without knowledge of Czech:
 
 - Příjmení: SURNAME
 - Jméno: NAME
@@ -59,7 +59,7 @@ You will receive two ballots – for the city council and for the district counc
 
 You have as many votes as there are members of the council that are being elected – for Brno city council this is 55 votes but in the districts it is less. For example Brno-střed has 45 members of city council, Královo Pole has 30 and Brno-Žabovřesky has 25.
 
-If you want to support the whole list of a *single party*, you just mark a large cross in the heading of the column that has the name of the party. That is the best support to the whole party and we recommend this.
+If you want to support the whole list of a **single party**, you just mark a large cross in the heading of the column that has the name of the party. That is the best support to the whole party and we recommend this.
 
 In Brno, we, Pirates, have loted number 14 for the city council, number 10 for Brno-střed, number 4 for Královo Pole and number 5 for Žabovřesky.
 
@@ -68,8 +68,8 @@ In Brno, we, Pirates, have loted number 14 for the city council, number 10 for B
 </div>
 
 
-You can also spread your votes to candidates from *different parties* across the ballot paper by marking small crosses beside the names of the candidates (mark only 55 of them for Brno, 45 for Brno-střed, 30 for Královo Pole or up to 25 for Žabovřesky). If you mark more than this, your vote will be invalid. 
+You can also spread your votes to candidates from **different parties** across the ballot paper by marking small crosses beside the names of the candidates (mark only 55 of them for Brno, 45 for Brno-střed, 30 for Královo Pole or up to 25 for Žabovřesky). If you mark more than this, your vote will be invalid. 
 
-The third way is a *combination* of the two systems we explained above. If you mark a cross for a party and small crosses for candidates from other parties – the candidates you marked will get your votes and the rest of your votes will go the party you marked. 
+The third way is a **combination** of the two systems we explained above. If you mark a cross for a party and small crosses for candidates from other parties – the candidates you marked will get your votes and the rest of your votes will go the party you marked. 
 
 Good luck!
