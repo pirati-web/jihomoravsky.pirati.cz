@@ -1,5 +1,5 @@
 ---
-# Název souboru: jmeno-prijmeni.md
+# Název souboru: lubos-sedlak.md
 
 ### Povinné položky ###
 name:     Luboš Sedlák  	# běžně používáné jméno
@@ -7,32 +7,33 @@ fullname: Bc. Luboš Sedlák  	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 - lubos.sedlak@pirati.cz
 img: people/lubos-sedlak.jpg   # 165x220px
-description: Student a předseda MS Blanensko 	# kratký popis, max 160 znaků
+description: Student AF Mendelu a předseda místního sdružení Blanensko 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky
 uid: lubos.sedlak # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
+category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 - blanensko
 - pms
-mob: +420 773 917 508
-profiles:
-  wiki: https://wiki.pirati.cz/lide/lubos_sedlak
-#supporting:
-#- Svobodnou, informačně gramotnou a aktivní společnost
-#- Transparentnost věcí veřejných a ochranu soukromí u věcí osobních
-#- Stát zajišťující bezpečí a prostředí pro rozvoj a seberealizaci svých občanů
-#notsupporting:
-#- Rozkrádání veřejných statků a veřejného prostoru
-#- Zneužívání politiky pro soukromé zisky
-#- Redukci člověka na pouhý zdroj pracovní síly
-#reason: Znepokojuje mě postupné ukrajování našich svobod salámovou metodou. Politika by měla být služba občanům, nikoliv soukromý byznys!
-#motto: Kdo se nezajímá o politiku, o toho se bohužel časem začne politika zajímat sama.
 ordblanensko: 3
 ordpms: 4
+profiles:
+  facebook:https://www.facebook.com/lubos.sedlak
+mob: 773 917 508
+supporting:
+- Otevřenou radnici a participativní rozpočet
+- Zprůhlednění financí
+- Uchování hodnoty přírody jako největší poklad.
+notsupporting:
+- Rozkrádání veřejných financí
+- Rozprodeji majetku něsta
+- Neprůhledným veřejným zakázkám
+reason: Kandiduji, protoýe chci otevřenou radnic, která bude komunikovat s občany a samozřejmostí je transparentnost financí.
+motto: Politikům musí být vidět pod ruce.
 ---
 
-Luboš Sedlák (\*8.7.1993) pochází z Blanska. V pirátské straně je předsedou místního sdružení Blanensko a členem Komise rozvoje venkova a zemědělství Rady Jmk.
+Luboš Sedlák se narodil 8. července 1993 v Boskovicích. Po studiu na Obchodní Akademii v Blansku se rozhodl změnit svoje ekonomické zaměření na zemědělské a studovat na Agronomické fakultě Mendelovy univerzity obor Pozemkové úpravy a ochrana půdy, který úspěšně dokončil v červnu letošního roku. Nyní pokračuje ve studiu v navazujícím magisterském studiu v oboru Rozvoj venkova.
 
-Vystudoval bakalářský obor Pozemkové úpravy a ochrana půdy na Agronomické fakultě Mendelovy univerzity v Brně a následně momentálně pokračuje ve studiu na téže fakultě magisterský obor Rozvoj venkova.
+Momentálně je předsedou místního sdružení Blanensko za Piráty, dále je členem komise rozvoje venkova a zemědělství rady Jihomoravského kraje. Dlouhodobě se věnuje politice dotací v zemědělství, která není vyhovující převážně pro malé zemědělce.
 
-Jeho zájmy kromě politiky jsou zemědělské dotace, ochrana přírody, pedologie, také rád cestuje. Jeho hlavním zájmem je zemědělství. Podporuje transparenci, participace a otevřenost.
+Do Zastupitelstva města Blanska kandiduje, protože mu nevyhovuje současný stav kam město směřuje. Chce se věnovat otevřené politice a transparentnosti města. Kritizuje především, že město nemládne spíš stárne a není tu zde v podstatě žádná zábava pro mladé a dospívající.
