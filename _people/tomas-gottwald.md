@@ -17,13 +17,17 @@ ordblanensko: 1
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100013937976507
 supporting:
-- Participaci občanů při plánování a realizaci veřejných investic
-- Pruhlédné nakládání s veřejnými financemi
-- Svobodný internet jako zdroj informací
+- Svobodnou informačně a technologicky propojenou občanskou společnost
+- Decentralizaci a svět bez prostředníků
+- Reflektování reality třetího tisíciletí
+- Nepodmíněný základní příjem
+- Svobodný internet
+- Mír a lásku
 notsupporting:
-- Nezodpovědné nákldánání s veřejným majetkem
-- Prosazování osobních zájmů v politice na jakékoliv úrovni
-- Digitální totalitě
+- Filtrování internetu
+- Privatizaci zisků a socializaci ztrát
+- Zneužívání politiky pro privátní zisky
+- Koncepci vynakládání peněz z městských rozpočtů v malých tlupách
 reason: Kandiduji, protože se chci podílet na rozvoji města, podporuji otevřenou radnici a participativní rozpočet.
 ---
 
