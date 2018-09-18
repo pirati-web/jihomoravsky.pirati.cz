@@ -6,6 +6,11 @@
           {{ page.headline }}
         {% endif %}
       </h1>
+      {% if page.subheadline %}
+        <h2 class="jmk-msweb__headline jmk-msweb__subheadline">
+          {{ page.subheadline }}
+        </h2>
+      {% endif %}
       <div class="u-cf">
         <ul class="c-top-sub-nav-items">
           {% for item in page.menuitems %}

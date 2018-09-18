@@ -1,13 +1,16 @@
 ---
 layout: default
 permalink: /blanensko/
+redirect_from: /blansko/
 region: blanensko
 headline: "Piráti Blansko"
 menuitems:
  - text: Kandidáti
+ - text: Články
+   link: novinky
 ---
 
-{% include msweb/msmenu.html %}
+{% include msweb/msmenu.html facebook='PiratiBlansko'%}
 
 <div class="row o-section-block o-section-block--divided">
   <div class="medium-12 large-12 columns">
@@ -25,11 +28,11 @@ menuitems:
                 {% endfor %}
 
                 {% include people/kandidat-mini.html order='5' name='Mgr.	Ondřej 	Haváč' job='Učitel' %}
-                {% include people/kandidat-mini.html order='6' name='Antonín 	Straka' job='' %}
+                {% include people/kandidat-mini.html order='6' name='Ing. Antonín 	Straka' job='technik' %}
                 {% include people/kandidat-mini.html order='7' name='Michal 	Paclík' job='Řidič' %}
                 {% include people/kandidat-mini.html order='8' name='Lukáš 	Vintr' job='Lakýrník' %}
-                {% include people/kandidat-mini.html order='9' name='Zuzana 	Střítecká' job='' %}
-                {% include people/kandidat-mini.html order='10' name='Martina 	Čumová' job='	' %}
+                {% include people/kandidat-mini.html order='9' name='MUDr. Zuzana 	Střítecká' job='lékařka' %}
+                {% include people/kandidat-mini.html order='10' name='Ing. Martina 	Čumová, Ph.D.' job='chemik' %}
                 {% include people/kandidat-mini.html order='11' name='Daniel 	Vintr' job='Lakýrník' %}
                 {% include people/kandidat-mini.html order='12' name='Radka 	Vintr' job='Lakýrník' %}
                 {% include people/kandidat-mini.html order='13' name='Jana 	Chlupová' job='Mateřská dovolená' %}

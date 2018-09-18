@@ -199,6 +199,20 @@ h2.jmk-msweb__headline {
   margin-bottom: 2.5rem;
 }
 
+h2.jmk-msweb__subheadline {
+  font-size: 150%;
+  margin-bottom: 2rem;
+}
+
+.jmk-msweb__nav--krpole h2.jmk-msweb__subheadline {
+  background: transparent url(../img/icons/som.png) right top no-repeat;
+  background-size: 3rem auto;
+  display: inline-block;
+  margin: -0.5rem 0 0 0;
+  padding: 0.5rem 3.5rem 2rem 0;
+}
+
+
 .menu, .menu li {
   list-style: none !important;
 }
@@ -226,30 +240,23 @@ h2.jmk-msweb__headline {
   background-image: url(../img/people/group/zabiny.jpg);
 }
 
-.jmk-msweb__nav.jmk-msweb__nav--krpole .c-top-sub-nav-inner {
-  background: #f3f3f3 url(../img/program/krpole/banner.jpg) center top no-repeat;
-  background-size: 100% auto;
-  padding: 13rem 2.5rem 2rem;
+.jmk-msweb__nav--hodonin.c-top-sub-nav .c-top-sub-nav-inner:before {
+  background-image: url(../img/people/group/hodonin.jpg);
+}
 
-  @media (max-width: 700px) {
-    padding-top: 7rem;
-  }
+.jmk-msweb__nav--krpole.c-top-sub-nav .c-top-sub-nav-inner:before {
+  background-image: url(../img/people/group/krpole.png);
+  background-position: right bottom;
 
-  @media (max-width: 420px) {
-    padding: 4rem 2.5rem 1rem;
+  @media (min-width: 1100px) {
+    width: 570px;
+    right: 0;
   }
+}
 
-  &:before {
-    display: none;
-  }
 
-  .c-top-sub-nav__item {
-    text-shadow: 0 0 30px white, 0 0 25px white, 0 0 20px white, 0 0 30px white, 0 0 25px white, 0 0 20px white;
-  }
-
-  .jmk-msweb__headline {
-    display: none;
-  }
+.jmk-msweb__nav--blanensko.c-top-sub-nav .c-top-sub-nav-inner:before {
+  background-image: url(../img/people/group/blansko.jpg);
 }
 
 .jmk-whitebg {
