@@ -22,10 +22,9 @@ profiles:
   values8: https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=76.8&d=66.0&g=77.7&s=78.4
 
 supporting:
-- Radikální zefektivnění elektronické komunikace mezi úřadem a občany
-- Navazující síť kvalitních cyklostezek ve městě
-- Výstavbu nových městských bytů
-- Co nejrychlejší dokončení brněnského okruhu
+- Rozhodování na základě skutečných potřeb občanů
+- Zcela transparentní hospodaření s veřejnými penězi
+- Radikální zefektivnění elektronické komunikace mezi úřady a občany
 #- Svobodnou, informačně gramotnou a aktivní společnost
 #- Transparentnost věcí veřejných a ochranu soukromí u věcí osobních
 #- Stát zajišťující bezpečí a prostředí pro rozvoj a seberealizaci svých občanů
