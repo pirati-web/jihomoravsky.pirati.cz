@@ -11,7 +11,7 @@ tags: brno komunální-volby královo-pole opensource otevřenost participace p�
 
 ### Nepovinné položky ###
 authorId: jaroslav.kupcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: /assets/img/people/group/krpole.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: /assets/img/people/group/krpole-high.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 
 ---
 
