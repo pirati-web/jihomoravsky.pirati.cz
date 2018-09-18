@@ -10,7 +10,7 @@ author: Jaroslav Kameň
 tags: brno komunální-volby královo-pole opensource otevřenost participace přímá-demokracie transparence # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-authorId: jaroslav.kamen # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
+authorId: jaroslav.kupcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: /assets/img/people/group/krpole.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 
 ---
