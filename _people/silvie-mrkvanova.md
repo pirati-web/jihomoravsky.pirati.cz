@@ -7,7 +7,7 @@ fullname: Mgr. Silvie Mrkvanová  	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 - silvie.mrkvanova@seznam.cz
 img: people/silvie-mrkvanova.jpg   # 165x220px
-description: Obchodníce v reklamě a jednatelka zahrádkářů 	# kratký popis, max 160 znaků
+description: Obchodnice v reklamě a jednatelka zahrádkářů 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky
 profiles:
