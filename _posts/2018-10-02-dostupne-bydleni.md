@@ -59,8 +59,7 @@ Základní problém, proč se v Brně málo staví, je **absence nového územn�
 následek málo bytů na trhu a tím pádem také jejich vysokou cenu – čeho je málo, to stoupá
 na ceně.
 
-Současné vedení magistrátu Brna v čele s ANO 2011, ale také předešlé vlády ODS a
-ČSSD, nepohnuly s ÚP ani o píď! Platný ÚP města Brna je značně zastaralý, což
+Platný ÚP města Brna je značně zastaralý, což
 znemožňuje rozsáhlejší bytovou, ale i komerční výstavbu a tím výrazně zvyšuje ceny bytů na trhu.
 
 Nový ÚP se musí stát prioritou města, jinak se Brno nebude rozvíjet a bude nadále
