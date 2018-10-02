@@ -17,7 +17,7 @@ authorId: miroslav.barta # ve formátu jmeno.prijmeni - prolinkování s profile
 
 
 Všechny politické strany kandidující v nadcházejících komunálních volbách si udělaly
-průzkum, co lidi nejvíce trápí a výsledek je jasný: Levnější a dostupnější bydlení. Proto taky
+průzkum, co lidi nejvíce trápí a výsledek je jasný: **Levnější a dostupnější bydlení.** Proto taky
 všechny strany přicházejí s heslem „Dostupné a levné bydlení pro všechny“ v různých
 modifikacích. A přicházejí s řešením – výstavba obecních bytů. Můžeme se pouze ptát: Proč
 až nyní? Proč předchozí vládnoucí strany na magistrátě nic v této věci za desítky let
@@ -54,8 +54,8 @@ krok k zachování bytového fondu města je privatizovat obecní byty zcela vý
 
 ## Developerská výstavba
 
-Základní problém, proč se v Brně málo staví, je absence nového územního plánu
-(ÚP) a naprosto nehorázná byrokracie v ČR spojená se zahájením výstavby. To má za
+Základní problém, proč se v Brně málo staví, je **absence nového územního plánu
+(ÚP) a naprosto nehorázná byrokracie v ČR spojená se zahájením výstavby**. To má za
 následek málo bytů na trhu a tím pádem také jejich vysokou cenu – čeho je málo, to stoupá
 na ceně.
 
