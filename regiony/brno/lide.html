@@ -34,11 +34,10 @@ menuitems:
                     {% include people/kandidat.html param=item order='ordmsbrno' altfoto='true' %}
                   {% endfor %}
 
-                  {% for item in team offset:8 limit:8 %}
+                  {% for item in team offset:8 limit:9 %}
                     {% include people/kandidat-small.html param=item order='ordmsbrno' altfoto='true' %}
                   {% endfor %}
 
-                  {% include people/kandidat-mini.html order='17' name='Adam Zemek' job='programátor' %}
                   {% include people/kandidat-mini.html order='18' name='Pavel Havlík' job='operátor' %}
                   {% include people/kandidat-mini.html order='19' name='Kateřina Mléčková' job='personalistka' link="katerina-mleckova"%}
                   {% include people/kandidat-mini.html order='20' name='Jan Němeček' job='IT konzultant' %}
