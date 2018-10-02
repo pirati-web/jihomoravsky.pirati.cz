@@ -5,7 +5,7 @@
 layout: blog       # nešahat!
 category: CLANKY   # nešahat!
 title: Bydlení opět dostupné a za rozumné ceny. Ale jak?
-date: 208-10-02   # formát YYYY-MM-DD
+date: 2018-10-02   # formát YYYY-MM-DD
 author: Miroslav Bárta
 tags: brno krpole bydlení # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
