@@ -10,8 +10,6 @@ author: Markéta Gregorová
 tags: brno # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-authorId: jaroslav.kupcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: /assets/img/posts/old_armenian_book.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 
 ---
 
