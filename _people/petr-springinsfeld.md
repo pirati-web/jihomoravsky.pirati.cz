@@ -31,6 +31,8 @@ Do činnosti Pirátské strany se poprvé zapojil v létě 2017 před volbami do
 
 Od listopadu 2017 pracuje jako asistent poslance Radka Holomčíka.
 
+Po komunálních volbách v roce 2018 byl jmenován místopředsedou Komise legislativně organizační Rady města Brna a členem téže komise Rady MČ Brno-střed. Zároveň se stal členem dozorčí rady společnosti Veletrhy Brno, a. s., která ho zvolila předsedou.
+
 V Pirátské straně je aktuálně 3. místopředsedou krajského sdružení Jihomoravského kraje a členem rozhodčí komise.
 
 Ve volném čase se věnuje plavání, karetním trikům a focení. Baví ho také videohry a četba knih.
