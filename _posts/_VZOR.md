@@ -1,5 +1,5 @@
 ---
-#název souboru: YYYY-MM-DD-nazev-clanku-bez-mezer-a-diakritiky
+#název souboru: YYYY-MM-DD-nazev-clanku-bez-mezer-a-diakritiky.md
 ### Povinné položky ###
 
 layout: blog       # nešahat!
