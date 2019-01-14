@@ -23,8 +23,8 @@ O nominaci usilovalo v Jihomoravském kraji celkem osm kandidátů, nominaci zí
 
 **Profily nominovaných kandidátů a kandidátské řeči:**
 * Markéta Gregorová - [profil](https://wiki.pirati.cz/lide/marketa_gregorova) a [kandidátská řeč](https://forum.pirati.cz/viewtopic.php?p=594104#p594104)
-* Marcel Kolaja - [profil](https://wiki.pirati.cz/lide/marcel_kolaja) a [kandidátská řeč](https://forum.pirati.cz/viewtopic.php?p=594510#p594510)
-* Mikuláš Peksa - [profil](https://www.pirati.cz/lide/mikulas-peksa/) a [kandidátská řeč](https://forum.pirati.cz/viewtopic.php?p=596313#p596313)
+* Marcel Kolaja - [profil](https://wiki.pirati.cz/lide/marcel_kolaja) a [kandidátská řeč](https://forum.pirati.cz/viewtopic.php?p=596313#p596313)
+* Mikuláš Peksa - [profil](https://www.pirati.cz/lide/mikulas-peksa/) a [kandidátská řeč](https://forum.pirati.cz/viewtopic.php?p=594510#p594510)
 
 **Další odkazy:**
 * [hlasování na fóru](https://forum.pirati.cz/viewtopic.php?f=411&t=45248)
