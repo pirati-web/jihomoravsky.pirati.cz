@@ -9,19 +9,26 @@ tomk:
   img: tomas-kolacny.jpg
   name: Bc. Tomáš Koláčný
   position: Předseda MS Brno
-  mob: 736 661 244
+  mob: +420 736 661 244
   mail: tomas.kolacny@pirati.cz
 magda:
   link: magdalena-skapova
   img: magdalena-skapova.jpg
   name: Magdaléna Škapová
   position: Koordinátorka KS Jihomoravský kraj
-  mob: 731 910 267
+  mob: +420 731 910 267
   mail: magdalena.skapova@pirati.cz
 miro:
   link: miroslav-barta
   img: miroslav-barta.jpg
   name: Miroslav Bárta
   position: Vedoucí krajského mediálního odboru JmK
-  mob: 730 896 278
+  mob: +420 730 896 278
   mail: miroslav.barta@pirati.cz
+jana:
+  link: jana-leitnerova
+  img: jana-leitnerova.jpg
+  name: Jana Leitnerová
+  position: Vedoucí krajského mediálního odboru JmK
+  mob: +420 725 894 702
+  mail: jana.leitnerova@pirati.cz
