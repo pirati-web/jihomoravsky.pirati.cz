@@ -6,12 +6,13 @@ layout: blog       # nešahat!
 category: CLANKY   # nešahat!
 title: Starší články
 date: 2017-05-21   # formát YYYY-MM-DD
-author: Jaroslav Kupčík
+author: Jana Leitnerová
 tags: archiv # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-authorId: jaroslav.kupcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
+authorId: jana.leitnerova # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: /assets/img/posts/old_armenian_book.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
 
