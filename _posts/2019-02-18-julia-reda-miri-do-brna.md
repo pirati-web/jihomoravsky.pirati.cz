@@ -14,7 +14,7 @@ tags: eurovolby brno # kategorie odděleny mezerami, např. volby zemědělství
 authorId: jana.leitnerova # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: /assets/img/posts/kolaja_reda.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 description: >-
-  Německá pirátská europoslankyně Julia Reda se spolu s lídrem Pirátů pro volby do Evropského parlamentu Marcelem Kolajou zúčastní panelové diskuse na téma svobody na internetu v sobotu 23. února od 13 hodin v brněnském hotelu Continental. 
+  Německá pirátská europoslankyně Julia Reda se spolu s lídrem Pirátů pro eurovolby Marcelem Kolajou zúčastní panelové diskuse na téma svobody na internetu v sobotu 23. února od 13 hodin v brněnském hotelu Continental. 
 
 ---
 
