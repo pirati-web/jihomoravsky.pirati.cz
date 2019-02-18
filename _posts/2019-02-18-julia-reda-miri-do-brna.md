@@ -4,7 +4,7 @@
 
 layout: blog       # nešahat!
 category: CLANKY   # nešahat!
-title: Tisková zpráva: Pirátská europoslankyně Julia Reda míří do Brna na diskusi o svobodě na internetu
+title: "Tisková zpráva: Pirátská europoslankyně Julia Reda míří do Brna na diskusi o svobodě na internetu"
 
 date: 2019-02-18   # formát YYYY-MM-DD
 author: Jana Leitnerová
