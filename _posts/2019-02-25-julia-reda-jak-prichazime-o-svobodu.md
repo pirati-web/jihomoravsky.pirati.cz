@@ -12,7 +12,6 @@ tags: eurovolby internet # kategorie odděleny mezerami, např. volby zeměděls
 ### Nepovinné položky ###
 authorId: jana.leitnerova # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: /assets/img/posts/gregor_reda_kolaja.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
-description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
 
