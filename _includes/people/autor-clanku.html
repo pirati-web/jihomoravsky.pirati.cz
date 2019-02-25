@@ -4,7 +4,9 @@
 
 {% assign start_index = item.name | size | minus: 1 %}
 {% assign name_suffix = item.name | slice: start_index, 1 %}
-{% if name_suffix  contains 'á' %}
+{% if item.name contains 'Leitnerová' %}
+  <h2>Kontakt pro média</h2>
+{% else if name_suffix  contains 'á' %}
   <h2>Autorka článku</h2>
 {% else %}
   <h2>Autor článku</h2>
