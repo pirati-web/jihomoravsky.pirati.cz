@@ -5,7 +5,7 @@
 layout: blog       # nešahat!
 category: CLANKY   # nešahat!
 title: I díky Pirátům budou na radnicích vlát tibetské vlajky
-date: 2019-03-21   # formát YYYY-MM-DD
+date: 2019-03-11   # formát YYYY-MM-DD
 author: Jana Leitnerová
 tags: jmk tibet lidská-práva # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
