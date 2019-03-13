@@ -5,7 +5,7 @@
 layout: blog       # nešahat!
 category: CLANKY   # nešahat!
 title: Proč nám koalice nezveřejnila článek?
-date: 2019-03-21   # formát YYYY-MM-DD
+date: 2019-03-13   # formát YYYY-MM-DD
 author: Jaroslav Kameň
 tags: brno krpole participace # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
