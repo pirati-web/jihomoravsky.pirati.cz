@@ -10,7 +10,7 @@ author: Jaroslav Kameň
 tags: brno krpole participace # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-authorId: jaroslav.kamen # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
+authorId: jaroslav.kupcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 #image: /assets/img/posts/old_armenian_book.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
