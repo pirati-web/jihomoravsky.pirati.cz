@@ -18,7 +18,7 @@ authorId: jaroslav.kupcik # ve formátu jmeno.prijmeni - prolinkování s profil
 
 Redakční rada Královopolských listů, kde koalice disponuje většinovým zastoupením, neschválila zveřejnění článku o participativním rozpočtu, projektu, který umožňuje občanům Brna aktivně se podílet na navrhování a realizování projektů zlepšujících životní úroveň, kvalitu veřejného prostoru a prostředí pro život všech občanů města Brna, Královo Pole nevyjímaje.
 
-Ponecháváme na čtenářích, aby sami zvážili, proč byl pro současnou koalici, tj. ANO, ODS a KDU-ČSL na MČ Královo Pole problém tento článek zveřejnit. Článek Lenky Šklubalové si můžete přečíst alespoň zde:
+Ponecháváme na čtenářích, aby sami zvážili, proč byl pro současnou koalici, tj. ANO, ODS a KDU-ČSL na MČ Královo Pole problém tento článek zveřejnit. Článek Lenky Zemanové si můžete přečíst alespoň zde:
     
 <h2>Brňané budou moci hlasovat ve 3. ročníku participativního rozpočtu Dáme na vás</h2>
  
