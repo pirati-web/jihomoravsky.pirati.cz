@@ -31,8 +31,7 @@ Lze vložit i rovnou HTML, např. obrázek:
   src="https://www.piratskelisty.cz/upload/thumbs/w600/2285.jpg"
   alt="Tomáš Vymazal"
   title="Tomáš Vymazal"
-  width="600"
->
+  width="600">
 
 Zde máme obrázek s odkazem vycentrovaný na střed a přizpůsobující se šířkou velikosti okna prohlížeče:
 
