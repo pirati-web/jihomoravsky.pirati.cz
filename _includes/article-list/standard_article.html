@@ -38,7 +38,13 @@
         </h1>
         <!-- BlogPosting description-->
         <div itemprop="description" class="c-BlogPosting-content">
-          <p>{{ article.excerpt | truncatewords: 45 }}</p>
+          <p>
+            {% if article.description %}
+              {{ article.description }}
+            {% else %}
+              {{ article.excerpt | truncatewords: 45 }}
+            {% endif %}
+          </p>
         </div>
         <a href="{{article.url | relative_url}}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
       </div>
