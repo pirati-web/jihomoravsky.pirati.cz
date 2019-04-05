@@ -19,7 +19,8 @@ profiles:
   instagram: https://www.instagram.com/jerrousz/
   linkedin: https://www.linkedin.com/in/jerrylabs
   compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=-7.25&soc=-5.54  
-  values8: https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=76.8&d=66.0&g=77.7&s=78.4
+  values8: https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=71.3&d=63.8&g=71.2&s=76.4
+  politiscales: http://www.politiscales.net/en_US/results/?b1=5&b0=57&c1=45&c0=29&femi=10&p0=43&p1=19&e0=48&e1=29&j1=19&j0=62&s1=17&s0=52&t1=71&t0=24&m1=10&m0=64&prag=67
 
 supporting:
 - Rozhodování na základě skutečných potřeb občanů

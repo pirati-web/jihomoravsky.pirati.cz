@@ -23,8 +23,8 @@ menuitems:
               <div class="jmk-candidates">
                 <div style="text-align:center; margin-bottom: 2rem">
                   <video width="400" style="max-width:100%" controls>
-                    <source src="{{'assets/brno-na-spici.mp4' | relative_url }}" type="video/mp4">
-                    <a href="{{'assets/brno-na-spici.mp4' | relative_url }}">Piráti na špici - video</a>
+                    <source src="{{'assets/video/brno-na-spici.mp4' | relative_url }}" type="video/mp4">
+                    <a href="{{'assets/video/brno-na-spici.mp4' | relative_url }}">Piráti na špici - video</a>
                   </video>
                 </div>
                 <h2 class="jmk-msweb__headline">Kandidátka Pirátské strany pro volby do Zastupitelstva města Brna</h2>
@@ -34,11 +34,10 @@ menuitems:
                     {% include people/kandidat.html param=item order='ordmsbrno' altfoto='true' %}
                   {% endfor %}
 
-                  {% for item in team offset:8 limit:8 %}
+                  {% for item in team offset:8 limit:9 %}
                     {% include people/kandidat-small.html param=item order='ordmsbrno' altfoto='true' %}
                   {% endfor %}
 
-                  {% include people/kandidat-mini.html order='17' name='Adam Zemek' job='programátor' %}
                   {% include people/kandidat-mini.html order='18' name='Pavel Havlík' job='operátor' %}
                   {% include people/kandidat-mini.html order='19' name='Kateřina Mléčková' job='personalistka' link="katerina-mleckova"%}
                   {% include people/kandidat-mini.html order='20' name='Jan Němeček' job='IT konzultant' %}

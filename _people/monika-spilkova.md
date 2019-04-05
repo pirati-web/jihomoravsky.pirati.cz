@@ -1,7 +1,7 @@
 ---
 uid: monika.spilkova
-name:     Monika Spilková  	# běžně používáné jméno
-fullname: Mgr. Monika Spilková  	# jméno s tituly etc.
+name:     Monika Lukášová Spilková  	# běžně používáné jméno
+fullname: Mgr. Monika Lukášová Spilková, Ph.D.   	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - brnostred
 - msbrno
