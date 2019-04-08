@@ -50,6 +50,7 @@ Rady města Brna a orgánech obchodních společností v majetku města Brna
 - 20 % zkušenosti/vzdělání
 - 20 % motivace
 - 20 % celkový dojem
+
 Výběrové řízení bude dvoukolové, v rámci 1. kola bude vyhodnocen životopis a motivační
 dopis, 2. kolo bude formou osobního pohovoru. O výběru rozhoduje zastupitelský klub Pirátů
 při ZMB.
