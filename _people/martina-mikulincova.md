@@ -16,7 +16,6 @@ category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 ordzabovresky: 3
 
 profiles:
-  googleplus: https://plus.google.com/113564276923256439207
   facebook: https://www.facebook.com/marti.mikuli
 
 supporting:
