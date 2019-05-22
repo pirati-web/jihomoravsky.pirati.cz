@@ -7,7 +7,7 @@ category: CLANKY   # nešahat!
 title: "Přísně tajné: co se děje na Finančním výboru v Králově Poli?"
 date: 2019-05-20   # formát YYYY-MM-DD
 author: Michal Škerle
-tags: krpole # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: krpole transparence finance # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 authorId: michal.skerle # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
