@@ -32,3 +32,6 @@ Před odchodem do Prahy se věnoval práci v médiích. Byl sportovním redaktor
 Angažuje se v komunitních aktivitách a projektech. V roce 2015 hlavním organizátorem dobrovolných brigád vedoucích k částečnému zprovoznění chátrajícího Fotbalového stadionu za Lužánkami a spoluorganizátorem rozlučky Petra Švancary s fotbalovou kariérou.
 
 Marek Fišer pochází z Brna. Po městě se dopravuje převážně na kole, a to za každého počasí. Mezi jeho zájmy patří cestování, studium jazyků, sport a kultura.
+
+Veřejný kalendář:
+<iframe src="https://calendar.google.com/calendar/embed?src=jlk2n00jf2rur4fen56p5ihfa0%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
