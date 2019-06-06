@@ -3,7 +3,7 @@ uid: marek.fiser
 name:     Marek Fišer  	# běžně používáné jméno
 fullname: Marek Fišer  	# jméno s tituly etc.
 mail: 
-- marek.fiser@centrum.cz
+- fiser.marek@brno.cz
 mob: 776 146 622
 category:                 	# kategorie: kandidat, pks, zastupitel
 - krpole
