@@ -11,7 +11,7 @@ tags: brno krpole transparence otevřenost bydlení # kategorie odděleny mezera
 
 ### Nepovinné položky ###
 authorId: miroslav.barta # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: /assets/img/posts/radnice-krpole.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: /assets/img/posts/krpole-radnice.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
