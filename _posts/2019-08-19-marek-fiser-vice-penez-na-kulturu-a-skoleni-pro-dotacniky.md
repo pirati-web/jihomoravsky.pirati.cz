@@ -4,7 +4,7 @@
 
 layout: blog       # nešahat!
 category: CLANKY   # nešahat!
-title: Marek Fišer: Více peněz na kulturu a školení pro dotačníky
+title: Marek Fišer - Více peněz na kulturu a školení pro dotačníky
 date: 2019-08-19   # formát YYYY-MM-DD
 author: Marek Fišer
 tags: brno dotace kultura # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
