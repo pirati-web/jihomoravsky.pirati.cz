@@ -11,7 +11,7 @@ tags: brno dotace kultura # kategorie odděleny mezerami, např. volby zeměděl
 
 ### Nepovinné položky ###
 authorId: marek.fiser # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-#image: /assets/img/posts/ponava-kultura.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+#mage: /assets/img/posts/ponava-kultura.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
