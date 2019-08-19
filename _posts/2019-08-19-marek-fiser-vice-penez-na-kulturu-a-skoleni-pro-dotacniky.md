@@ -4,14 +4,14 @@
 
 layout: blog       # nešahat!
 category: CLANKY   # nešahat!
-title: "Marek Fišer - Více peněz na kulturu a školení pro dotačníky"
+title: "Marek Fišer: Více peněz na kulturu a školení pro dotačníky"
 date: 2019-08-19   # formát YYYY-MM-DD
 author: Marek Fišer
 tags: brno dotace kultura # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 authorId: marek.fiser # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-#mage: /assets/img/posts/ponava-kultura.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: /assets/img/posts/ponava-kultura.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
