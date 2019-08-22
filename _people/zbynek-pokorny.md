@@ -5,7 +5,7 @@
 name:     Zbyněk Pokorný  	# běžně používáné jméno
 fullname: Zbyněk Pokorný  	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
-- zbynek.skippy@seznam.cz
+- zbynek.pokorny@pirati.cz
 img: people/zbynek-pokorny.jpg   # 165x220px
 description: Učitel a překladatel anglického jazyka 	# kratký popis, max 160 znaků
 
