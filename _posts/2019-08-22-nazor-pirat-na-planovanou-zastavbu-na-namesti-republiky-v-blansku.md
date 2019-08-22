@@ -16,7 +16,7 @@ image: /assets/img/posts/blansko-namesti-ilustracka.jpg # obrázek ideálně 420
 
 ---
 
-Nedávno zveřejněný záměr na prodej pozemků pro výstavbu multifunkčních budov na náměstí Republiky vyvolalo mezi některými občany Blanska velkou kritiku. Objevily se dotazy typu "proč zastavět náměstí, když se do Poduklí narvalo tolik peněz a všichni si na ten `sarkofág` už tak trochu zvykli". 
+Nedávno zveřejněný záměr na prodej pozemků pro výstavbu multifunkčních budov na náměstí Republiky vyvolalo mezi některými občany Blanska velkou kritiku. Objevily se dotazy typu "proč zastavět náměstí, když se do Poduklí narvalo tolik peněz a všichni si na ten sarkofág už tak trochu zvykli". 
 
 Problém má vícero rovin – právní, urbanistickou a občanskou. Záměr radnice má samozřejmě oporu v územním a regulačním plánu, kde je zastavitelné území jasně definováno. Město navíc zadalo přípravu nové územní studie, která by měla tento developerský projekt regulovat. Z hlediska zákona je postup města v pořádku. Přesto bychom rádi změnili jednu zásadní věc, a to je schvalování již samotného záměru prodeje klíčových pozemků zastupitelstvem. Takto to funguje již léta například v Kuřimi.
 
