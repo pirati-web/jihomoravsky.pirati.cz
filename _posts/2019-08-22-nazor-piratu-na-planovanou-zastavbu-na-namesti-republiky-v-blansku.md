@@ -1,5 +1,5 @@
 ---
-#název souboru: 2019-08-22-nazor-pirat-na-planovanou-zastavbu-na-namesti-republiky-v-blansku.md
+#název souboru: 2019-08-22-nazor-piratu-na-planovanou-zastavbu-na-namesti-republiky-v-blansku.md
 ### Povinné položky ###
 
 layout: blog       # nešahat!
