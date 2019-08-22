@@ -1,10 +1,10 @@
 ---
-#název souboru: 2019-08-20-nazor-piratu-na-planovanou-zastavbu-na-namesti-republiky-v-blansku.md
+#název souboru: 2019-08-20-pirati-blansko-nas-nazor-na-planovanou-zastavbu-na-namesti-republiky.md
 ### Povinné položky ###
 
 layout: blog       # nešahat!
 category: CLANKY   # nešahat!
-title: Názor Pirátů na plánovanou zástavbu na náměstí Republiky v Blansku
+title: "Piráti Blansko: náš názor na plánovanou zástavbu na náměstí Republiky"
 date: 2019-08-20   # formát YYYY-MM-DD
 author: Zbyněk Pokorný
 tags: blansko náměstí veřejný-prostor # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
