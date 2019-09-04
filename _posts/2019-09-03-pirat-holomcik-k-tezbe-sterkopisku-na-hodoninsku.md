@@ -10,7 +10,7 @@ author: Radek Holomčík
 tags: voda jihomoravský-kraj # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-#authorId: radek.holomcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
+authorId: radek.holomcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: /assets/img/posts/Radek_web.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 description: Proč řešíme těžbu štěrkopísku mezi Moravským Pískem a Uherským Ostrohem? Podrobné info o celé kauze.
 
@@ -24,6 +24,8 @@ A proč se snažíme záměr zastavit? Plánek níže ukazuje umístění pramen
 <div style="text-align:center"><a href="https://jihomoravsky.pirati.cz/assets/img/posts/mapa-prameniste-web.jpg" target="_blank">
 <img src="https://jihomoravsky.pirati.cz/assets/img/posts/mapa-prameniste-web.jpg" style="max-width:100%">
 </a></div>
+
+
 
 
 Ministerstvo životního prostředí přesto do dnešních dnů trvá na své argumentaci, bagatelizuje odborné posudky a závěry České geologické služby se dokonce pokusili utajit. Celkově je postup úřadů, jejichž cílem by měla být ochrana vody, ale i zdraví, značně podivný. Posouzení dopadů na životní prostředí (tzv. EIA) byla záměru udělena až na třetí pokus - v roce 2015, tedy již v době, kdy ministerstvo řídil Richard Brabec. Krajská hygienická stanice Jihomoravského kraje [vyslovila se záměrem nesouhlas](https://www.vak-hod.cz/vak/informujeme/petice/30_KHS_JmK_zs_stanoveni_DP_2016_.pdf){:target="_blank"}, načež jí byl případ odebrán a přidělen Krajské hygienické stanici Zlínského kraje, která vydala souhlasné stanovisko. Stejně tak nebylo bráno v potaz [stanovisko vodoprávního úřadu ve Veselí nad Moravou](https://www.vak-hod.cz/vak/informujeme/petice/05_meuveseli_tretikolo_%20stanovisko%20k%20dokumentaci.pdf){:target="_blank"}. Vůči záměru se [negativně vyjádřil i stavební úřad v Uherském Hradišti](https://www.vak-hod.cz/vak/informujeme/petice/47_priloha_c2.pdf){:target="_blank"} jako pořizovatel územně plánovací dokumentace. Krajský úřad Zlínského kraje nicméně jeho rozhodnutí, z naprosto nepochopitelných důvodů, zrušil.
