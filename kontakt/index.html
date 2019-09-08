@@ -59,6 +59,7 @@ layout: default
                 <div class="medium-12 large-6 columns o-section-mediumdown-divided-small">
                   <div class="c-BasicPage-content">
                     <h2>Kontaktní osoby</h2>
+                    {% comment %} data ze souboru _data/contacts.yaml {% endcomment %}
                     {% assign people = site.data.contacts %}
                     <div class="row">
                       {% assign id = 'robert' %}
@@ -67,7 +68,7 @@ layout: default
                       {% include kontakt/jmk-contact-card.html param='people' param='id' %}
                       {% assign id = 'jana' %}
                       {% include kontakt/jmk-contact-card.html param='people' param='id' title='Kontakt pro média'%}
-                      {% assign id = 'sharka' %}
+                      {% assign id = 'vendy' %}
                       {% include kontakt/jmk-contact-card.html param='people' param='id' title='Kontakt pro veřejnost' %}
                     </div>
                   </div>

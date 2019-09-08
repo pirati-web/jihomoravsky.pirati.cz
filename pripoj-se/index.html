@@ -75,25 +75,10 @@ img: brand/logo.svg
             <div class="c-BasicPage-content">
               <h2 itemprop="headline" class="c-BasicPage__title">Kontaktní osoba</h2>
               <div class="row collapse">
-                <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
-                  <div class="o-media o-media--top">
-                    <div class="o-media__image o-media__image--lgspace">
-                      <img src="{{ 'sarka-vaclavikova.jpg' | prepend: '/assets/img/people/' | relative_url}}" alt="Šárka Václavíková"> </div>
-                    <div class="o-media__body">
-                      <h2 class="o-media__headline">
-                        <a href="{{'/lide/sarka-vaclavikova/' | relative_url}}" target="_blank">Šárka Václavíková</a>
-                      </h2>
-                      <p>
-                        Kontakt pro zájemce o členství a dobrovolníky
-                      </p>
-                      <p>
-                        <a href="mailto:sarka.vaclavikova@pirati.cz">sarka.vaclavikova@pirati.cz</a>
-                        <br/>
-                        telefon: 778 111 476
-                      </p>
-                    </div>
-                  </div>
-                </div>
+                {% comment %} data ze souboru _data/contacts.yaml {% endcomment %}
+                {% assign people = site.data.contacts %}
+                {% assign id = 'vendy' %}
+                {% include kontakt/jmk-contact-card.html param='people' param='id' cssclass='large-6 small-12 columns end o-section-mediumdown-divided-small'%}
                 <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
                   <div class="o-media">
                     <div class="o-media__body">
