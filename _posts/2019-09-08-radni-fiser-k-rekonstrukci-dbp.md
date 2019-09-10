@@ -1,11 +1,11 @@
 ---
-#název souboru: 2019-09-09-radni-fiser-k-rekonstrukci-dbp.md
+#název souboru: 2019-09-08-radni-fiser-k-rekonstrukci-dbp.md
 ### Povinné položky ###
 
 layout: blog       # nešahat!
 category: CLANKY   # nešahat!
 title: "Radní Fišer k rekonstrukci DBP: S novou sezónou lepší podmínky a více komfortu pro diváky"
-date: 2019-09-09   # formát YYYY-MM-DD
+date: 2019-09-08   # formát YYYY-MM-DD
 author: Jana Leitnerová
 tags: divadlo kultura brno # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
