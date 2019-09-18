@@ -1,11 +1,11 @@
 ---
-#název souboru: 2019-09-18-pirati-vyslou-do-boje-o-senatorske-kreslo-zakladatele-strany.md
+#název souboru: 2019-09-17-pirati-vyslou-do-boje-o-senatorske-kreslo-zakladatele-strany.md
 ### Povinné položky ###
 
 layout: blog       # nešahat!
 category: CLANKY   # nešahat!
 title: Piráti vyšlou do boje o senátorské křeslo zakladatele strany Jiřího Kadeřávka
-date: 2019-09-018   # formát YYYY-MM-DD
+date: 2019-09-17   # formát YYYY-MM-DD
 author: Jana Leitnerová
 tags: senát brno Jiří-Kadeřávek # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
