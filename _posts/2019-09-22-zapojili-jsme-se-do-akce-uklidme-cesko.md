@@ -24,7 +24,7 @@ Mohou ale i samotná města či obce udělat víc pro to, aby místa, která se 
 
 Sobotní akci hodnotí pozitivně, podle něj je jakákoli akce, kde se lidé dobrovolně sejdou, aby spolu něco zlepšili je skvělá. "V dnešní době máme spoustu práce a většina z nás si vlastní víkendy rezervuje k odpočinku, relaxu a jiným aktivitám. Proto jsem vždycky moc rád, když se zadaří a dorazí aspoň pár lidí, kteří věnují svůj čas a pomohou životnímu prostředí, pomohu městu, aby vypadalo trochu lépe," uzavírá.
 
-Uklízelo se ale i více na jihu. Ve Znojmě vyrazili Piráti do tamního parku. "Tuhle lokalitu jsme vybrali proto, že sami víme, že uklidit prostě potřebuje," přibližuje znojemský Pirát Šimon Fouček. Předseda MS Znojemsko Lukáš Dubec vyrazil pro změnu uklízet do Vracova. 
+Uklízelo se ale i více na jihu. Ve Znojmě vyrazili Piráti do tamního parku. "Tuhle lokalitu jsme vybrali proto, že sami víme, že uklidit prostě potřebuje," přibližuje znojemský Pirát Šimon Fouček. Předseda MS Znojemsko Lukáš Dubec vyrazil pro změnu uklízet do Vranovské vsi. 
 
 <div style="text-align:center;margin-bottom:20px"><a href="https://jihomoravsky.pirati.cz/assets/img/posts/dub_uklid_web.png" target="_blank">
 <img src="https://jihomoravsky.pirati.cz/assets/img/posts/dub_uklid_web.png" style="max-width:100%">
