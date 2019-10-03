@@ -10,7 +10,6 @@ description: Provozovatelka vinárny a freelancer v oblasti fotografie a grafiky
 mail:
 - monika.spilkova@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/nastopce
   wiki: https://wiki.pirati.cz/lide/monika_spilkova
 supporting:
 -  Maximální svobodu spolu s maximální odpovědností.
