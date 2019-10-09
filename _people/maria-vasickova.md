@@ -3,7 +3,6 @@ uid: maria.vasickova
 name:     Mária Vašíčková  	# běžně používáné jméno
 fullname: Mária Vašíčková  	# jméno s tituly etc.
 category: # kategorie: rp, praha, vary, hradec, jmk, senat
-- pms
 img: people/maria-vasickova.jpg   # 165 x 220
 description: Lektor dalšího vzdělávání, terapeut energetické psychologie  	# kratký popis, max 160 znaků
 mail:
