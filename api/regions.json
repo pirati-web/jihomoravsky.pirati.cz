@@ -2,7 +2,7 @@
 ---
 {% assign praha = site.teams | where: "uid","praha" %}
 {% assign id = praha[0].uid %}
-{% assign regions = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
+{% assign regions = site.teams | where_exp: "item", "item.categories contains 'mistni-sdruzeni'" %}
 {% assign map = site.data.region-map %}
 
 [

@@ -3,7 +3,7 @@
 ---
 @charset "utf-8";
 
-@import 'main.scss';
+@import 'pirati.scss';
 
 .pricing-table {
 
@@ -107,4 +107,70 @@ border-color: rgb(92, 184, 92);
 width:100%;
 text-align:center;
 margin-top:10px;
+}
+
+.msk-election-crossroad .msk-election-crossroad__place {
+  display: flex;
+  height: 100%;
+  padding-bottom: 2.5rem;
+}
+
+.msk-election-crossroad .pk-election-crossroad__place-body {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  background: $light-gray;
+  border: 1px $light-gray solid;
+}
+
+.msk-election-crossroad__coa {
+  display: flex;
+  align-items: center;
+  max-width: 6rem;
+  min-width: 6rem;
+  background: #fff;
+  padding: 1rem;
+  border: 1px $light-gray solid;
+}
+
+.msk-election-crossroad__link {
+  display: inline-block;
+
+  .fa {
+    color: $dark-gray;
+  }
+
+  @include breakpoint(small down) {
+    display: block;
+  }
+}
+
+.msk-election-crossroad__link + .msk-election-crossroad__link {
+  margin-left: 1rem;
+
+  @include breakpoint(small down) {
+    margin-left: 0;
+  }
+}
+
+.msk-hero {
+  padding: 4rem 1rem;
+  text-align: center;
+
+  &--entry {
+    padding: 6rem 2rem 3rem;
+  }
+
+  @include breakpoint(medium up) {
+    padding: 6rem 2rem;
+
+    &--entry {
+      padding: 10rem 2rem 6rem;
+    }
+  }
+}
+
+.msk-hero__content {
+  margin: auto;
+  max-width: 60em;
 }

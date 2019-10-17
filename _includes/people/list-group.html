@@ -1,0 +1,14 @@
+<ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+    <a href="#{{ include.teamShortcut }}" class="c-simple-accordion-title c-emphasized-anchor"><h2 class="c-simple-accordion__headline">{{ include.teamName }}</h2></a>
+    <div id="{{ include.teamShortcut }}" class="c-simple-accordion-content" data-tab-content="">
+        {% if include.teamShortcut == "all" %}
+           <div itemprop="description" class="c-content-block c-emphasized-text">
+           Seznam členů Krajského sdružení Moravskoslezského kraje na
+           <a href="https://forum.pirati.cz/ks-moravskoslezsky-kraj-g34.html">Fóru</a> Pirátské strany.
+        </div>
+        {% endif %}
+        {% include people/list-responsive.html team=team %}
+    </div>
+  </li>
+</ul>

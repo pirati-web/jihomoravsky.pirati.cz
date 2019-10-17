@@ -1,0 +1,90 @@
+- locality: Ostrava
+  type: external
+  note: <b>5 zastupitelů</b> - 8,95%  
+  link: https://ostrava.pirati.cz
+  programLink: https://ostrava.pirati.cz/magistrat/
+  candidateListLink: https://ostrava.pirati.cz/magistrat/
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ostrava_CoA_CZ.svg/800px-Ostrava_CoA_CZ.svg.png
+- locality: Havířov
+  type: external
+  note: <b>4 zastupitelé</b> - 7,76%    
+  link: http://www.pirati-havirov.cz
+  programLink: http://www.pirati-havirov.cz
+  candidateListLink: http://www.pirati-havirov.cz/index.php/kandidatni-listina-pirati-havirov-2018/
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Coat_of_arms_of_Hav%C3%AD%C5%99ov.svg/480px-Coat_of_arms_of_Hav%C3%AD%C5%99ov.svg.png
+- locality: Opava
+  type: external
+  note: <b>5 zastupitelů</b> - 10,99%    
+  link: https://opava.pirati.cz
+  programLink: https://opava.pirati.cz/komunalni-volby/
+  candidateListLink: https://opava.pirati.cz/komunalni-volby/
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Opava_CoA.svg/360px-Opava_CoA.svg.png
+- locality: Frýdek-Místek
+  type: external
+  note: <b>4 zastupitelé</b> - 8,36%    
+  link: https://frydekmistek.pirati.cz/
+  programLink: https://frydekmistek.pirati.cz/komunalni-volby/
+  candidateListLink: https://frydekmistek.pirati.cz/komunalni-volby/
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fr%C3%BDdek_M%C3%ADstek_CoA_CZ.svg/732px-Fr%C3%BDdek_M%C3%ADstek_CoA_CZ.svg.png
+- locality: Karviná
+  type: external
+  coa: http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Karwina_herb.svg/744px-Karwina_herb.svg.png
+  note: Koalice <b>Piráti a Starostové v Karviné</b> - <b>2 zastupitelé</b> - 5,96%
+  link: http://www.piratiastarostove.cz
+- locality: Hlučín
+  type: external
+  note: <b>Hlučíňáci s podporou Pirátů</b> - <b>1 zastupitel</b> - 6,57%
+  link: https://www.hlucinaci.cz/
+  coa: https://upload.wikimedia.org/wikipedia/commons/8/8c/Hlu%C4%8D%C3%ADn_znak.png
+- locality: Český Těšín
+  type: external
+  note: <b>2 zastupitelé</b> - 7,59%    
+  link: http://www.pirati-tesin.cz/
+  programLink: http://www.pirati-tesin.cz/program/
+  candidateListLink: http://www.pirati-tesin.cz/
+  coa: https://upload.wikimedia.org/wikipedia/commons/d/d2/Cesky_Tesin_CoA.png
+- locality: Kopřivnice
+  type: external
+  note: <b>1 zastupitel</b> - 6,98%    
+  link: http://piratiprokoprivnici.cz
+  programLink: http://piratiprokoprivnici.cz/index.php/program
+  candidateListLink: http://piratiprokoprivnici.cz/index.php/kandidati
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Znak_m%C4%9Bsta_Kop%C5%99ivnice.svg/603px-Znak_m%C4%9Bsta_Kop%C5%99ivnice.svg.png
+- locality: Příbor
+  type: external
+  note: <b>2 zastupitelé</b> - 8,41%    
+  link: http://www.pirati-pribor.cz
+  programLink: http://www.pirati-pribor.cz/program
+  candidateListLink: http://www.pirati-pribor.cz/kandidati
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Coat_of_arms_of_P%C5%99%C3%ADbor.svg/480px-Coat_of_arms_of_P%C5%99%C3%ADbor.svg.png
+- locality: Nový Jičín
+  type: external
+  coa: https://upload.wikimedia.org/wikipedia/commons/c/ca/Coa_Novy_Jicin.jpg
+  note: Koalice <b>Piráti s podporou Svobodných</b> - <b>2 zastupitelé</b> - 7,17%
+  candidateListLink: https://www.volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=8104&xobec=599191&xstrana=684
+  programLink: /assets/pdf/volby2018/pirati_novy_jicin_letak_2018.pdf  
+- locality: Bohumín
+  type: external
+  note: <b>1 zastupitel</b> - 5,93%    
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bohumin_CoA_CZ.svg/716px-Bohumin_CoA_CZ.svg.png
+  candidateListLink: https://www.volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=8103&xobec=599051&xstrana=720
+  programLink: /assets/pdf/volby2018/pirati_bohumin_volebni_program_2018.pdf  
+- locality: Rychvald
+  type: external
+  note: 4,86%  
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rychvald_CoA.svg/90px-Rychvald_CoA.svg.png
+  candidateListLink: https://www.volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=8103&xobec=599107&xstrana=720
+  programLink: /assets/pdf/volby2018/pirati_rychvald_volebni_program_2018.pdf  
+- locality: Hradec nad Moravicí
+  type: external
+  note: <b>Kulturní město</b> s podporou Pirátů - <b>2 zastupitelé</b> - 8,46%
+  link: http://www.kulturnimesto.art/
+  programLink: http://www.kulturnimesto.art/program/
+  candidateListLink: http://www.kulturnimesto.art/kandidatni-listina/
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Coa_Czech_Town_Hradec_nad_Moravic%C3%AD.svg/260px-Coa_Czech_Town_Hradec_nad_Moravic%C3%AD.svg.png
+- locality: Krmelín
+  type: external
+  note: <b>1 zastupitel</b> - 6,64%    
+  candidateListLink: https://www.volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=1&xnumnuts=8102&xobec=598348&xstrana=720
+  programLink: /assets/pdf/volby2018/pirati_krmelin_volebni_program_2018.pdf
+  coa: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Krmel%C3%ADn_CoA.svg/452px-Krmel%C3%ADn_CoA.svg.png

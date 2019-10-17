@@ -3,8 +3,6 @@ layout: default
 img: brand/logo.svg
 ---
 
-{% include submenu.html %}
-
 <div class="row">
   <div class="medium-12 large-12 columns">
     <section class="o-section o-section--spaceBot">
@@ -14,35 +12,34 @@ img: brand/logo.svg
             <ul class="pricing-table no-bullet text-center" data-equalizer-watch>
               <li class="pricing-table-header-img" style="background-image:url('{{ 'odberatel.jpg' | prepend: '/assets/img/teams/' | relative_url}}')"></li>
               <!--CC-BY Kartik Malik source https://flic.kr/p/aQaGzX -->
-              <li class="price">Chci být informován</li>
-              <li class="description">sledujte nás</li>
+              <li class="price">Odběratel novinek</li>
+              <li class="description">získá...</li>
               <li>✓ pozvánky na akce</li>
-              <li>✓ odběr novinek</li>
-              <li><span style="color: #777777;font-size: 0.8rem;">A co potom?</span> <br/>
-                <a href="https://www.facebook.com/ceska.piratska.strana/">Lajkni stránku
-                  <i class="fa fa-facebook-official" aria-hidden="true"></i>
+              <li>✓ pravidelné novinky do e-mailu</li>
+              <li>
+              Nezapomeň sledovat <a href="https://www.facebook.com/cpsmsk/">náš Facebook!
+              <i class="fa fa-facebook-official" aria-hidden="true"></i>
               </a></li>
             </ul>
           </div>
           <div class="column medium-4">
             <ul class="pricing-table no-bullet text-center" data-equalizer-watch>
               <li class="pricing-table-header-img" style="background-image:url('{{ 'priznivec.jpg' | prepend: '/assets/img/teams/' | relative_url}}')"></li>
-              <li class="price"  title="Doporučujeme!">Chci se zapojit <span style="color:yellow"><i class="fa fa-star"></i></span></li>
-              <li class="description">zapojte se</li>
-              <li>✓ vnitřní diskuse</li>
-              <li>✓ kandidování</li>
-              <li class="small">plus totéž, co odběratel</li>
+              <li class="price"  title="Doporučujeme!">Registrovaný příznivec <span style="color:yellow"><i class="fa fa-star"></i></span></li>
+              <li class="description">získá...</li>
+              <li>✓ možnost účasti ve vnitřní diskusi</li>
+              <li>✓ možnost kandidatury</li>
+              <li>+ možnosti odběratele novinek</li>
             </ul>
           </div>
           <div class="column medium-4">
             <ul class="pricing-table no-bullet text-center" data-equalizer-watch>
               <li class="pricing-table-header-img" style="background-image:url('{{ 'clen.jpg' | prepend: '/assets/img/teams/' | relative_url}}')"></li>
-              <li class="price">Chci být členem </li>
-              <li class="description">přidejte se</li>
-              <li>✓ hlasovací právo</li>
-              <li>✓ uvítací balíček</li>
-              <li>✓ adresa @pirati.cz</li>
-              <li class="small">plus totéž, co příznivec</li>
+              <li class="price">Člen strany</li>
+              <li class="description">získá...</li>
+              <li>✓ možnost hlasovat ve straně</li>
+              <li>✓ adresu @pirati.cz</li>
+              <li>+ možnosti registrovaného příznivce</li>
             </ul>
           </div>
         </div>
@@ -54,13 +51,9 @@ img: brand/logo.svg
 <div class="row">
   <div class="medium-12 large-12 columns">
     <div id="tlacitko" style="    text-align: center;">
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLScZOvBLP3B_qFlhnVsu_TjGnDb6XeNj1U9-opCOAMMRvCpFMw/viewform?c=0&w=1" target="_blank" style="width: 350px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #5cb85c; color: white;" class="c-cta-button c-cta-button--primary">
-          Přidat se k nám!
-          <i class="fa fa-thumbs-up" aria-hidden="true"></i>
-          <br>
-          Pozor, může to chvíli trvat.
-          <br>
-          Jsme trošku zahlcení :-)
+        <a href="{{'lide/jakub-dedek/' | relative_url}}" target="_blank" style="width: 350px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #5cb85c; color: white;" class="c-cta-button c-cta-button--primary">
+          Máš vybráno?
+          <br> Kontaktuj koordinátora 
         </a>
     </div>
   </div>
@@ -75,10 +68,24 @@ img: brand/logo.svg
             <div class="c-BasicPage-content">
               <h2 itemprop="headline" class="c-BasicPage__title">Kontaktní osoba</h2>
               <div class="row collapse">
-                {% comment %} data ze souboru _data/contacts.yaml {% endcomment %}
-                {% assign people = site.data.contacts %}
-                {% assign id = 'vendy' %}
-                {% include kontakt/jmk-contact-card.html param='people' param='id' cssclass='large-6 small-12 columns end o-section-mediumdown-divided-small'%}
+                <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
+                  <div class="o-media o-media--top">
+                    <div class="o-media__image o-media__image--lgspace">
+                      <img src="{{ 'jakub-dedek.jpg' | prepend: '/assets/img/people/' | relative_url}}" alt="Yveta Martínková"> </div>
+                    <div class="o-media__body">
+                      <h2 class="o-media__headline">
+                        <a href="{{'lide/jakub-dedek/' | relative_url}}">Jakub Dedek</a>
+                      </h2>
+                      <p>Koordinátor Moravskoslezského kraje
+                        <br>
+                        Kontakt pro zájemce o členství a dobrovolníky
+                      </p>
+                      <p> +420 770 113 644 <br>
+                        <a href="mailto:jakub.dedek@pirati.cz">jakub.dedek@pirati.cz</a>
+                        <br> </p>
+                    </div>
+                  </div>
+                </div>
                 <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
                   <div class="o-media">
                     <div class="o-media__body">

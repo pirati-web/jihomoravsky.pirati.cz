@@ -1,0 +1,13 @@
+{% comment %}
+  Dvou sloupcové zobrazení:
+   týmů v /clenove
+   úspěchů v /otevrenost
+{% endcomment %}
+<div class="row u-uniform-size-row">
+  {% for item in include.team %}
+    {% assign loopindex = forloop.index | modulo: 2 %}
+    <div class="large-4 medium-6 small-collapse columns {% if forloop.last %}end{% endif %}">
+      {% include people/profile-badge.html item=item imgSize='small' imgStyle='round' %}
+    </div>
+  {% endfor %}
+</div>
