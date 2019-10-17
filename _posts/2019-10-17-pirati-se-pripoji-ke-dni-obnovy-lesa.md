@@ -22,4 +22,4 @@ V sobotu 19. října se na více místech Česka koná akce pořádaná státní
 
 Na akci vyrazí také brněnský zastupitel a vedoucí Krajského expertního týmu životního prostředí Lukáš Mamula: *"Myslím si, že právě tyto akce mohou sloužit k tomu, abychom se jako společnost spojili pro dobrou věc a pomohli k tomu, aby se v Česku lesům lépe dařilo a nám všem lépe žilo. Považuji za důležité, abychom i my Piráti nejen na této akci vysvětlovali veřejnosti, jak důležité je se o lesy, ale celkově o krajinu a životní prostředí v Česku, starat."*
 
-Chcete-li se připojit k Pirátům během sázení, ozvěte se na jana.leitnerova@pirati.cz nebo prostě přijďte tuto sobou v 9:30 na Mendlovo náměstí k zastávce MHD busu č. 52, odkud se společně vydáme na místo sázení.
+Chcete-li se připojit k Pirátům během sázení, ozvěte se na jana.leitnerova@pirati.cz nebo prostě přijďte tuto sobotu v 9:30 na Mendlovo náměstí k zastávce MHD busu č. 52, odkud se společně vydáme na místo sázení.
