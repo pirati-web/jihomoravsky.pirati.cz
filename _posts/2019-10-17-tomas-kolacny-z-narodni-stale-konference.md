@@ -5,7 +5,7 @@
 layout: blog       # nešahat!
 category: CLANKY   # nešahat!
 title: "Tomáš Koláčný: Nástroje ITI souvisí s financování těch nejdůležitějších rozvojových investic v Brně"
-date: 2019-09-22   # formát YYYY-MM-DD
+date: 2019-10-17   # formát YYYY-MM-DD
 author: Krajský MO
 tags: tomáš-koláčný finance Brno # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
