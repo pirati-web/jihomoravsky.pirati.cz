@@ -4,7 +4,7 @@
 
 layout: blog       # nešahat!
 category: CLANKY   # nešahat!
-title: "Piráti Boskovice informují: schůzka se starostou k PaRo a stavba sportovní haly"
+title: "Piráti z Boskovic informují: schůzka se starostou k PaRo a stavba sportovní haly"
 date: 2019-10-22   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Boskovice participativní-rozpočet # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
