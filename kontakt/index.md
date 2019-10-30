@@ -3,15 +3,14 @@ layout: contacts
 # contentSize: big
 contentSize: even
 residences:
- - name: Pirátská strana | MORAVSKOSLEZSKÝ KRAJ
-   url:
+ - name: Kontaktní a pracovní centrum
+   url: https://www.facebook.com/PirateSpaceBrno/
    address: |
-     Ostravské pirátské centrum (OPiCe)
-     Denisova 639/2
-     702 00 Moravská Ostrava a Přívoz 
-   spravce: jakub.dedek
+                          Údolní 37 (suterén)
+                          60200 Brno
+   spravce: vendula.svobodova
    residenceImg: miscellaneous/residence.png
-   mapLink: "https://goo.gl/maps/dakQGzwQKng8ER9o7"
+   mapLink: "SCcP8sLSHGg5pSBr8"
  - name: Regionální poslanecká kancelář
    url: 
    address: |
