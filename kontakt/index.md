@@ -3,7 +3,8 @@ layout: contacts
 # contentSize: big
 contentSize: even
 residences:
- - name: Kontaktní a pracovní centrum
+ - name: Pirate Space Brno
+# Kontaktní a pracovní centrum
    url: https://www.facebook.com/PirateSpaceBrno/
    address: |
                           Údolní 37 (suterén)
@@ -11,39 +12,26 @@ residences:
    spravce: vendula.svobodova
    residenceImg: miscellaneous/residence.png
    mapLink: "SCcP8sLSHGg5pSBr8"
- - name: Regionální poslanecká kancelář
-   url: 
-   address: |
-     Denisova 639/2 (3. patro)
-     702 00 Moravská Ostrava a Přívoz 
-     
-     <strong>Kancelář je pro Vás otevřena:</strong>
-     Každé pondělí 10:00 - 12:00 <b>Lukáš Černohorský</b>
-     a 12:00 - 14:00 <b>Ondřej Polanský</b>.
-
-     Kdykoliv mimo tuto dobu je Vám k dispozici asistentka, s níž si můžete dohodnout schůzku v jiném termínu.
-   spravce: zuzana.klusova
-   residenceImg:
-   mapLink: "https://goo.gl/maps/dakQGzwQKng8ER9o7"
 contactPersons:
- - id: jakub.dedek
+ - id: robert.cuma
+   position:  Předseda KS Jihomoravský kraj 
+ - id: tomas.kolacny
+   position:  Předseda MS Brno 
+ - id: jana.leitnerova
+   position: Kontakt pr média
+ - id: venula.svobodova
    position: Kontakt pro dobrovolníky
- - id: zuzana.klusova
-   position: Kontakt pro novináře
 ---
 
-<div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Přidejte se</h1>
-</div>
-
-Zajímá vás co piráti dělají? [Naloďte se](https://nalodeni.pirati.cz/) a buďte v obraze, nebo kontaktujte našeho koordinátora (viz kontakt pro dobrovolníky).
-
-Finanční dary můžete posílat na [zde](https://dary.pirati.cz).
-Pokud chcete darovat přimo našemu kraji, poraďte se prosím s koordinátorem.
 
 <div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Poslanci</h1>
+  <h1 class="t-h2-alt">Kontaktní informace</h1>
 </div>
+* Zajímá vás co piráti dělají? [Naloďte se](https://nalodeni.pirati.cz/) a buďte v obraze, nebo kontaktujte našeho koordinátora (viz kontakt pro dobrovolníky).
+* **Schůze krajského sdružení** Zasedání krajského sdružení se konají v malém sále Břetislava Bakaly (Žerotínovo nám. 6) a jsou vyhlašovány na <a href="https://forum.pirati.cz/viewforum.php?f=567" target="_blank">fóru</a>.
+* **Schůze místních sdružení** Zasedání místních sdružení jsou vyhlašovány v příslušných podsekcích na <a href="https://forum.pirati.cz/viewforum.php?f=589&sid=5d5208f19575021e0302aa8867091462" target="_blank">Fóru</a>.
+* **Akce a setkání s veřejností** Schůze jsou veřejnosti otevřené, avšak setkat se s námi můžete i neformálně mimo ně. Pro aktuální informace o plánovaných událostech <a href="https://www.facebook.com/CPS.JMK/" target="_blank">sledujte náš Facebook</a> nebo <a href="https://jihomoravsky.pirati.cz/pripoj-se/kalendar/">kalendář akcí</a>.
+
 
 {% assign person = site.people | where_exp: "item","item.uid contains 'lukas.cernohorsky'" | first  %}
 {% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
