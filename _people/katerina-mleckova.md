@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Kateřina Mléčková  	# běžně používáné jméno
-fullname: Mgr. Kateřina Mléčková  	# jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - katamleckova@gmail.com
 img: people/katerina-mleckova.jpg   # 165x220px

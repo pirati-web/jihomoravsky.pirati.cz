@@ -3,7 +3,6 @@
 
 ### Povinné položky ###
 name:     Jakub Maňura  	# běžně používáné jméno
-fullname: Jakub Maňura  	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 
 img: people/jakub-manura.jpg   # 165x220px

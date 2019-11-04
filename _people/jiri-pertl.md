@@ -1,7 +1,6 @@
 ---
 uid: jiri.pertl
 name:     Jiří Pertl  	# běžně používáné jméno
-fullname: Jiří Pertl  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - brnostred
 - msbrno

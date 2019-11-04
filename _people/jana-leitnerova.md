@@ -3,7 +3,6 @@
 
 ### Povinné položky ###
 name: Jana Leitnerová  	# běžně používáné jméno
-fullname: Jana Leitnerová 	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 - jana.leitnerova@pirati.cz
 img: people/jana-leitnerova.jpg   # 165x220px

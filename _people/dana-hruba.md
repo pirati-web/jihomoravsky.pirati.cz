@@ -1,7 +1,9 @@
 ---
 uid: dana.hruba
 name:     Dana Hrubá  	# běžně používáné jméno
-fullname: Mgr. Dana Hrubá  	# jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - lepeid@seznam.cz
 img: people/dana-hruba.jpg   # 165x220px

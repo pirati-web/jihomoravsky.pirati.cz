@@ -1,7 +1,6 @@
 ---
 uid: patrik.dolezal
 name:     Patrik Doležal  	# běžně používáné jméno
-fullname: Patrik Doležal 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - brnostred
 - msbrno

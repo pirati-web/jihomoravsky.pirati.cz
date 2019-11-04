@@ -1,7 +1,9 @@
 ---
 uid: denisa.bernardova
 name:     Denisa Bernardová  	# běžně používáné jméno
-fullname: BSc. Denisa Bernardová  	# jméno s tituly etc.
+titles:
+  before: BSc. 
+  after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 mail:

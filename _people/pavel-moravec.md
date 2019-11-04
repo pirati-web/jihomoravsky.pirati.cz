@@ -1,7 +1,9 @@
 ---
 uid: pavel.moravec
 name:     Pavel Moravec  	# běžně používáné jméno
-fullname: Mgr. Pavel Moravec, Ph.D.  	# jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after: Ph.D.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - msbrno
 ordmsbrno: 12

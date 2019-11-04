@@ -1,7 +1,6 @@
 ---
 uid: radek.lavicka
 name:  Radek Lávička  	# běžně používáné jméno
-fullname: Radek Lávička  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/radek-lavicka.jpg   # 165 x 220

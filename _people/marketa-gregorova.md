@@ -1,7 +1,9 @@
 ---
 uid: marketa.gregorova
 name:     Markéta Gregorová  	# běžně používáné jméno
-fullname: Bc. Markéta Gregorová  	# jméno s tituly etc.
+titles:
+  before: Bc. 
+  after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
 - msbrno

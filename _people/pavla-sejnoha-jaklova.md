@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Pavla Šejnoha Jaklová  	# běžně používáné jméno
-fullname: Mgr. Pavla Šejnoha Jaklová  	# jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - p.jaklova@centrum.cz
 img: people/pavla-jaklova.jpg   # 165x220px

@@ -1,7 +1,6 @@
 ---
 uid: jan.wagner
 name:     Jan Wagner  	# běžně používáné jméno
-fullname: Jan Wagner  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/jan-wagner.jpg # 165 x 220

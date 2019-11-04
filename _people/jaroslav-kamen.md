@@ -1,7 +1,9 @@
 ---
 uid: jaroslav.kupcik
 name:     Jaroslav Kameň  	# běžně používáné jméno
-fullname: Ing. Jaroslav Kameň  	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - krpole
 - msbrno

@@ -3,7 +3,6 @@
 
 ### Povinné položky ###
 name:     Jan Kryčer  	# běžně používáné jméno
-fullname: Jan Kryčer  	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 
 img: people/jan-krycer.jpg   # 165x220px

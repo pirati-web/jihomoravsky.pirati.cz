@@ -1,7 +1,9 @@
 ---
 uid: tomas.kolacny
 name:     Tomáš Koláčný  	# běžně používáné jméno
-fullname: Bc. Tomáš Koláčný  	# jméno s tituly etc.
+titles:
+  before: Bc. 
+  after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pms
 - zast

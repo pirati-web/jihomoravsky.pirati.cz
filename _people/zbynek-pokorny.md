@@ -3,7 +3,6 @@
 
 ### Povinné položky ###
 name:     Zbyněk Pokorný  	# běžně používáné jméno
-fullname: Zbyněk Pokorný  	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 - zbynek.pokorny@pirati.cz
 img: people/zbynek-pokorny.jpg   # 165x220px

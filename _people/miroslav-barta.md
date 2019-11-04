@@ -1,7 +1,6 @@
 ---
 uid: miroslav.barta
 name:     Miroslav Bárta  	# běžně používáné jméno
-fullname: Miroslav Bárta  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - krpole
 - msbrno

@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Silvie Mrkvanová  	# běžně používáné jméno
-fullname: Mgr. Silvie Mrkvanová  	# jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - silvie.mrkvanova@seznam.cz
 img: people/silvie-mrkvanova.jpg   # 165x220px

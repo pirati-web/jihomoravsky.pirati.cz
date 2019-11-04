@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Jan Střítecký  	# běžně používáné jméno
-fullname: Mgr. Jan Střítecký, Ph.D.  	# jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after: Ph.D.
 mail: # může jich být více (samostatné odrážky)
 - j.stritecky@seznam.cz
 img: people/jan-stritecky.jpg   # 165x220px

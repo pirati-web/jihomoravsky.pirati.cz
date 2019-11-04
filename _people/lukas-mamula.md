@@ -1,7 +1,6 @@
 ---
 uid: lukas.mamula
 name:     Lukáš Mamula  	# běžně používáné jméno
-fullname: Lukáš Mamula  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - msbrno
 img: people/lukas-mamula.jpg   # 165 x 220

@@ -1,7 +1,9 @@
 ---
 uid: petr.zamecnik
 name:     Petr Zámečník  	# běžně používáné jméno
-fullname: Mgr. et Mgr. Petr Zámečník  	# jméno s tituly etc.
+titles:
+  before: Mgr. et Mgr. 
+  after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/petr-zamecnik.jpg   # 165 x 220

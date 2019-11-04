@@ -1,7 +1,6 @@
 ---
 uid: aviktor-piorecky.jpg
 name:    Viktor Piorecký 	# běžně používáné jméno
-fullname: Viktor Piorecký  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/viktor-piorecky.jpg   # 165 x 220

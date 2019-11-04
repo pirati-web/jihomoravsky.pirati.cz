@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Anna Pivodová  	# běžně používáné jméno
-fullname: Anna Pivodová  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 mail: # může jich být více (samostatné odrážky)
 
 img: people/anna-pivodova.jpg   # 165x220px

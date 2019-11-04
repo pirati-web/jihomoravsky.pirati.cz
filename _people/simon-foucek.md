@@ -3,7 +3,6 @@
 
 ### Povinné položky ###
 name:     Šimon Fouček  	# běžně používáné jméno
-fullname: Šimon Fouček  	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 - simon.foucek@pirati.cz
 img: people/simon-foucek.png   # 165x220px

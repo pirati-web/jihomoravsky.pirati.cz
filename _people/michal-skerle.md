@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Michal Škerle  	# běžně používáné jméno
-fullname: Mgr. et Mgr. Michal Škerle  	# jméno s tituly etc.
+titles:
+  before: Mgr. et Mgr. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 
 img: people/michal-skerle.jpg   # 165x220px

@@ -1,7 +1,9 @@
 ---
 uid: anna.loupova
 name:     Anna Loupová  	# běžně používáné jméno
-fullname: Anna Loupová  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/anna-loupova.jpg   # 165 x 220

@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Alena Pavlasová  	# běžně používáné jméno
-fullname: Alena Pavlasová  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - alena.pavlasova@pirati.cz
 img: people/alena-pavlasova.jpg   # 165x220px

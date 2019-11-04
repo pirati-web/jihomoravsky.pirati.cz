@@ -2,7 +2,6 @@
 
 ### Povinné položky ###
 name:     Magdaléna Škapová  	# běžně používáné jméno
-fullname: Magdaléna Škapová 	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 - magdalena.skapova@pirati.cz
 img: people/magdalena-skapova.jpg   # 165x220px

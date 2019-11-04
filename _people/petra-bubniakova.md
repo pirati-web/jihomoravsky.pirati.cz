@@ -3,7 +3,6 @@
 
 ### Povinné položky ###
 name:     Petra Bubniaková  	# běžně používáné jméno
-fullname: Petra Bubniaková  	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 - petra.bubniakova@seznam.cz
 img: people/petra-bubniakova.jpg   # 165x220px

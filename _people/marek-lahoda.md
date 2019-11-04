@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Marek Lahoda  	# běžně používáné jméno
-fullname: Mgr. Marek Lahoda  	# jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - mara.lahoda@gmail.com
 img: people/marek-lahoda.jpg   # 165x220px

@@ -1,7 +1,6 @@
 ---
 uid: vit.jurasek
 name:     Vít Jurásek  	# běžně používáné jméno
-fullname: Vít Jurásek  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/vit-jurasek.jpg   # 165 x 220

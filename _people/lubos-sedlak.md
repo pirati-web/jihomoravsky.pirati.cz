@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Luboš Sedlák  	# běžně používáné jméno
-fullname: Bc. Luboš Sedlák  	# jméno s tituly etc.
+titles:
+  before: Bc. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - lubos.sedlak@pirati.cz
 img: people/lubos-sedlak.jpg   # 165x220px
