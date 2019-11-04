@@ -18,8 +18,8 @@ contactPersons:
  - id: tomas.kolacny
    position:  Předseda MS Brno 
  - id: jana.leitnerova
-   position: Kontakt pr média
- - id: venula.svobodova
+   position: Kontakt pro média
+ - id: vendula.svobodova
    position: Kontakt pro dobrovolníky
 ---
 
@@ -31,11 +31,4 @@ contactPersons:
 * **Schůze krajského sdružení** Zasedání krajského sdružení se konají v malém sále Břetislava Bakaly (Žerotínovo nám. 6) a jsou vyhlašovány na <a href="https://forum.pirati.cz/viewforum.php?f=567" target="_blank">fóru</a>.
 * **Schůze místních sdružení** Zasedání místních sdružení jsou vyhlašovány v příslušných podsekcích na <a href="https://forum.pirati.cz/viewforum.php?f=589&sid=5d5208f19575021e0302aa8867091462" target="_blank">Fóru</a>.
 * **Akce a setkání s veřejností** Schůze jsou veřejnosti otevřené, avšak setkat se s námi můžete i neformálně mimo ně. Pro aktuální informace o plánovaných událostech <a href="https://www.facebook.com/CPS.JMK/" target="_blank">sledujte náš Facebook</a> nebo <a href="https://jihomoravsky.pirati.cz/pripoj-se/kalendar/">kalendář akcí</a>.
-
-
-{% assign person = site.people | where_exp: "item","item.uid contains 'lukas.cernohorsky'" | first  %}
-{% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
-<br>
-{% assign person = site.people | where_exp: "item","item.uid contains 'ondrej.polansky'" | first  %}
-{% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
 
