@@ -8,6 +8,9 @@ mail: # může jich být více (samostatné odrážky)
 - jana.leitnerova@pirati.cz
 img: people/jana-leitnerova.jpg   # 165x220px
 description: Vedoucí mediálního odboru jihomoravského kraje 	# kratký popis, max 160 znaků
+category:                
+- kontaktni_osoba
+contactType: Média
 
 ### Nepovinné položky
 uid: jana.leitnerova # identifikátor pro spojení se články (authorId)

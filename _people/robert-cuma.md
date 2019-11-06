@@ -6,6 +6,8 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - brnostred
 - pks
 - msbrno
+- kontaktni_osoba
+contactType: Jihomoravský kraj
 img: people/robert-cuma.jpg   # 165 x 220
 description: Předseda krajského sdružení Jihomoravského kraje a předseda dozorčí rady společnosti STAREZ-SPORT a.s.          	# kratký popis, max 160 znaků
 mail:
