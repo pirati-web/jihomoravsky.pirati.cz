@@ -12,6 +12,22 @@ residences:
    spravce: vendula.svobodova
    residenceImg: miscellaneous/residence.png
    mapLink: "SCcP8sLSHGg5pSBr8"
+ - name: Poslanecká kancelář Tomáš Vymazal
+  # url: https://www.facebook.com/PirateSpaceBrno/
+   address: |
+    Kopečná 940
+    Brno, 602 00
+   spravce: vendula.svobodova
+   #residenceImg: miscellaneous/residence.png
+   #mapLink: "SCcP8sLSHGg5pSBr8"
+ - name: Poslanecká kancelář Radek Horomčík
+  # url: https://www.facebook.com/PirateSpaceBrno/
+   address: |
+    Kostelní 1407
+    Strážnice, 696 62
+   spravce: vendula.svobodova
+   #residenceImg: miscellaneous/residence.png
+   #mapLink: "SCcP8sLSHGg5pSBr8"
 contactPersons:
  - id: robert.cuma
    position:  Předseda KS Jihomoravský kraj 

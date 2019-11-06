@@ -16,16 +16,15 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
+  - link: /mistni-sdruzeni/
+    name: Místní sdružení
+    match: mistni-sdruzeni
   - link: /pripoj-se/
     name: Připoj se
     match: pripoj-se
   - link: /kontakt/
     name: Kontakt
     match: kontakt
-  - link: /mistni-sdruzeni/
-    name: Místní sdružení
-    match: mistni-sdruzeni
-
 bottom:
   - class: small-12 medium-4
     title: O nás
