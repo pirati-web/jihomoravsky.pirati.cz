@@ -2,33 +2,32 @@
 #
 
 # Site settings
-title: Pirátská strana | MORAVSKOSLEZSKÝ KRAJ
-email: pavel.korizek@pirati.cz
+title: Pirátská strana | JIHOMORAVSKY KRAJ
 description: > # this means to ignore newlines until "baseurl:"
-  Web krajského sdružení České pirátské strany v Moravskoslezském kraji.
-keywords: piráti, česká pirátská strana, svoboda, demokracie, moravskoslezký kraj, slezko, MSK
-url: "https://moravskoslezsky.pirati.cz" # the base hostname & protocol for your site
+  Česká pirátská strana - Jihomoravský kraj
+keywords: piráti, česká pirátská strana, svoboda, demokracie, jihomoravský kraj, Brno, Brňenský
+url: "https://jihomoravský.pirati.cz" # the base hostname & protocol for your site
 
 
 
 administrator:
-  email: michal.breskovec@pirati.cz # mail kam pujdou chybove vystupy
+email: jana.leiterova@pirati.cz # mail kam pujdou chybove vystupy
 
 emptyArray: []
 
 organization:
-  name: Pirátská strana | MORAVSKOSLEZSKÝ KRAJ
+  name: Pirátská strana | JIHOMORAVSKY
   shortName: Piráti MSK
-  contactUid: pavel.korizek
-  email: pavel.korizek@pirati.cz
-  phone: +420 777 237 635
+  contactUid: vendula.svobodova
+  email: vedula.svobodova@pirati.cz
+  phone: +420 778 111 453
   address: |
-    Ostravské pirátské centrum (OPiCe)
-    Denisova 639/2
-    702 00 Moravská Ostrava a Přívoz  
-  residenceImg:
-  mapLink: https://goo.gl/maps/dakQGzwQKng8ER9o7
-  redmineLink: https://redmine.pirati.cz/projects
+      Pirate Space Brno
+      Údolní 37 (suterén)
+      60200 Brno
+  residenceImg: miscellaneous/residence.png
+  mapLink: https://www.google.com/maps/place/Denisova+639%2F2,+702+00+Moravsk%C3%A1+Ostrava+a+P%C5%99%C3%ADvoz/@49.8335046,18.2859436,17z/data=!3m1!4b1!4m5!3m4!1s0x4713e330b9662287:0x70f2934230719ddf!8m2!3d49.8335046!4d18.2881323?shorturl=1
+  redmineLink: https://redmine.pirati.cz/projects/jmk
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
 
@@ -43,11 +42,11 @@ contactSummaryItems:
  - type: custom
    iconClass: fa fa-facebook
    label: Facebook
-   body: <a href="https://www.facebook.com/cpsmsk">@cpsmsk</a>
+   body: <a href="https://www.facebook.com/CPS.JMK/">@CPS.JMK</a>
  - type: custom
    iconClass: fa fa-twitter
    label: Twitter
-   body: <a href="https://twitter.com/PiratiMSK">@PiratiMSK</a>
+   body: <a href="https://twitter.com/PiratskaStrana">@PiratskaStrana</a>
 
 video:
   # For nice look of the calendar, make sure you get Google Calendar API key
@@ -68,12 +67,11 @@ calendar:
 facebook:
   loadSDK: true
   #vyplntě adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: "https://www.facebook.com/cpsmsk/"
-  appId: 1526197851008996
+  profilePage: "https://www.facebook.com/cps.jmk/"
 
 twitter:
   loadSDK: true
-  profile: PiratiMSK
+  profile: PiratskaStrana
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
@@ -82,10 +80,10 @@ flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
-  page: https://forum.pirati.cz/
+  page: https://forum.pirati.cz/jihomoravsky-kraj-f83/
 
 github:
-  url: https://github.com/pirati-web/moravskoslezsky.pirati.cz/
+  url: https://github.com/pirati-web/jihomorasky.pirati.cz/
   branch: master
 
 
