@@ -68,7 +68,7 @@ img: brand/logo.svg
     <section class="o-section o-section--spaceBot">
        <h2 itemprop="headline" class="c-BasicPage__title">Kontaktní osoba</h2>
 
-      {% assign contactPersons = site.people | where_exp: "item","item.uid contains 'vendula.svobodova'" | sort:"ordpak" %}
+      {% assign contactPersons = site.people | where_exp: "item","item.uid contains 'marketa.tvrda'" | sort:"ordpak" %}
       {% for person in contactPersons %}
       <div class="o-section-inner">
         <div class="o-section-block">
