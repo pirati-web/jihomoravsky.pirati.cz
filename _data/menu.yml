@@ -16,9 +16,9 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-  - link: /mistni-sdruzeni/
+  - link: /regiony/
     name: Místní sdružení
-    match: mistni-sdruzeni
+    match: regiony
   - link: /pripoj-se/
     name: Připoj se
     match: pripoj-se
