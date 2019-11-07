@@ -25,7 +25,7 @@ notsupporting:
 - Omezování občanských svobod a přístupu k informacím.
 - Využívání ČR jako zdroje levné pracovní síly.
 - Nadvládě finančních institucí a oligarchů nad politikou.
-reason: Chci zastavit omezování občanů dalšími restrikcemi, a zrušit současná přehnaná omezení a regulace.
+reason: Chci dále rozvíjet Jihomoravský kraj a zlepšovat služby, které občanům poskytuje. Prosazuji zejména menší zatížení obcí a měst automobilovou dopravou (obchvaty) a rozvoj železniční dopravy. Prosazuji zkrácení dojezdových časů integrovaného zásahového systému.
 motto: Skutečná svoboda slova je právo říkat lidem to, co nechtějí slyšet.
 
 ordpks: 3
