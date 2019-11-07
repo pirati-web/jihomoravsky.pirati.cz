@@ -2,7 +2,6 @@
 #název souboru: 2019-10-22-pirati-boskovice-informuji.md
 ### Povinné položky ###
 
-layout: post       # nešahat!
 category: CLANKY   # nešahat!
 title: "Piráti z Boskovic informují: schůzka se starostou k PaRo a stavba sportovní haly"
 date: 2019-10-22   # formát YYYY-MM-DD

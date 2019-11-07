@@ -2,9 +2,8 @@
 uid: maria.vasickova
 name:     Mária Vašíčková  	# běžně používáné jméno
 category: # kategorie: rp, praha, vary, hradec, jmk, senat
-- pms
 img: people/maria-vasickova.jpg   # 165 x 220
-description: Lektor dalšího vzdělávání, terapeut energetické psychologie a předsedkyně místního sdružení Slovácko 	# kratký popis, max 160 znaků
+description: Lektor dalšího vzdělávání, terapeut energetické psychologie  	# kratký popis, max 160 znaků
 mail:
 - maria.vasickova@pirati.cz
 mob:			  
@@ -38,5 +37,3 @@ Svou politickou činnost zahájila působením v kontrolní komisi strany. Zaslo
 
 V období čtvrté rodičovské dovolené si doplňuje své vzdělání z oblasti energetické psychologie jako terapeut EFT (Emotional freedom techniques ) a také získala profesní certifikát  ‘Lektor dalšího vzdělávání’. Zajímají ji otázky prevence zdraví, řešení sociální a rodinné politiky. Její srdeční záležitostí je folklór, v jehož prostředí je aktivní od základní školy.
 
-Kandiduje ve volbách do Českého Parlamentu v roce 2017 na kandidátce Pirátů
-s číslem 17.
