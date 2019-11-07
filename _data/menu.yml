@@ -16,50 +16,40 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-  - link: /volby/kde-kandidujeme
-    name: Volby
-    match: volby
-    submenu:
-      - link: /volby/kde-kandidujeme
-        name: Kde kandidujeme?
-        match: radnice
-      - link: /volby/obecny-program
-        name: Obecný program
-        match: radnice
-      - link: /volby/senat
-        name: Senát
-        match: senat
+  - link: /regiony/
+    name: Místní sdružení
+    match: regiony
   - link: /pripoj-se/
     name: Připoj se
     match: pripoj-se
   - link: /kontakt/
     name: Kontakt
     match: kontakt
-  - link: /mistni-sdruzeni/
-    name: Místní sdružení
-    match: mistni-sdruzeni
-
 bottom:
   - class: small-12 medium-4
-    title: Připoj se
+    title: O nás
     links:
-      - link: /kontakt/
-        name: Dej nám vědět
+       - link: /lide/
+         name: Naši lidé
+       - link: /regiony/ 
+         name: Místní sdružení
+#       - link: /program/
+#         name: Dlouhodobý program
+       - link: http://www.pirati.cz
+         name: Celostátní web
   - class: small-12 medium-4
     title: Makáme
     links:
-      - link: /lide/
-        name: Lidé
-      - link: /volby/
-        name: Volby
       - link: /aktuality/
         name: Aktuality
+      - link: https://calendar.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&height=550&wkst=2&bgcolor=%23ffffff&src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague
+        name: Kalendář 
   - class: small-12 medium-4
     title: Otevřenost
     links:
+      - link: https://forum.pirati.cz/jihomoravsky-kraj-f83/
+        name: Fórum KS JmK
       - link: https://ucet.pirati.cz
         name: Transparentní účet
       - link: https://smlouvy.pirati.cz
         name: Registr smluv
-      - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
-        name: Otevřené účetnictví
