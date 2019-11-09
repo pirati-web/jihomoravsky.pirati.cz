@@ -18,10 +18,8 @@ profiles:
   
 uid: silvie.mrkvanova # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
-- msbrno
-- zabovresky
-ordmsbrno: 23
-ordzabovresky: 1
+- zmczabovresky
+ordzmczabovresky: 1
 
 supporting: 
 - aby rada v zápisech uváděla po jménech, jak hlasovala

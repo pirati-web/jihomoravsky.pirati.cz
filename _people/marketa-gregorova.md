@@ -6,8 +6,9 @@ titles:
   after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
-- msbrno
-
+- ep
+ordpks: 2  
+ordep: 2
 img: people/marketa-gregorova.jpg   # 165 x 220
 description: PR a marketingová specialistka a europoslankyně Pirátské strany   	# kratký popis, max 160 znaků
 mail:
@@ -38,8 +39,6 @@ notsupporting:
 reason: Není mi to jedno. Jsme vyspělá společnost ve skvělém čase - a vůbec svůj potenciál nevyužíváme tak, jak bychom mohli. Chci lepší přítomnost i budoucnost a chci se na tom podílet. Protože kdo jiný za mě vytvoří takovou budoucnost, jakou si já přeji?
 motto:  Největší radost by mi udělalo, kdyby lidé volili informovaně.
 
-ordpks: 2  
-ordmsbrno: 2
 ---
 
 Markéta Gregorová (\*14. ledna 1993) je členkou krajského sdružení Pirátů v Jihomoravském kraji. Pochází z Mostu a od září 2012 se vyskytuje především v Brně.

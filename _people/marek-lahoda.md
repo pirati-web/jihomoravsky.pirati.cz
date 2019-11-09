@@ -14,10 +14,8 @@ description: Geograf, klimatolog, datový analytik a propagátor udržitelné do
 ### Nepovinné položky
 uid: marek.lahoda # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
-- msbrno
-- krpole
-ordmsbrno: 15
-ordkrpole: 5
+- zmckrpole
+ordzmckrpole: 4
 mob: +420 732 732 490
 profiles:
   facebook: https://www.facebook.com/Keramadohal
