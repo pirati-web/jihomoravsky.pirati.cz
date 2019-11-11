@@ -149,6 +149,11 @@ defaults:   # defaults values for collection scope
     values:
       layout: "team"
       rbar: "team-summary, teams-toc"
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
 
 fb: https://www.facebook.com/cpsmsk
 tw: PiratiMSK
