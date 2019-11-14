@@ -21,6 +21,6 @@ Co se řešilo na posledním jednání Zastupitelstva města Znojma? Přečtěte
 
 Pojmenovaly se dvě ulice v Příměticích. Domnívám se, že oba názvy jsou špatné a doufám, že do budoucna se nad názvy ulic bude lépe přemýšlet, resp. vznikne nějaká politicko - odborná platforma, která nad názvy budoucích ulic zajistí shodu. Obzvláště ulice U Dubu, kde žádný dub (či Dub😊) není, a je to jen název developerského projektu, je perla.
 
-Neodhlasoval se návrh kontrolního řádu kontrolního výboru. Podle mě nebyl řád kvalitně zpracován a tak jsem s výsledkem hlasování spokojen. Tento návrh za mě nebyl vůbec potřeba, stačila drobná úprava jednacího řádu výborů. Vzhledem k tomu, že i přes svou zjevnou nekvalitu návrh kontrolního řádu kontrolního výboru získal 15 hlasů, tak je zjevná politická potřeba kontrolního řádu a vzal jsem za svůj obecný kontrolní řád pro všechny výbory, který byl zpracován počátkem října v rámci diskuze a předložím jej na příštím zastupitelstvu.
+Neodhlasoval se návrh kontrolního řádu kontrolního výboru. Podle mě nebyl řád kvalitně zpracován a tak jsem s výsledkem hlasování spokojen. Tento návrh za mě nebyl vůbec potřeba, stačila drobná úprava jednacího řádu výborů. Vzhledem k tomu, že i přes svou zjevnou nekvalitu návrh kontrolního řádu kontrolního výboru získal 15 hlasů, tak je zjevná politická potřeba kontrolního řádu a vzal jsem za svůj obecný kontrolní řád pro všechny výbory, který byl zpracován počátkem října v rámci diskuze a předložím jej na příštím zastupitelstvu," komentuje Pavel Nevrkla.
 
-Sledujte [Piráty ze Znojemska](https://www.facebook.com/PiratiZnojemsko/){:target="_blank"}.
+Zajímá vás více informací ze Znojemska? Sledujte [Piráty ze Znojemska](https://www.facebook.com/PiratiZnojemsko/){:target="_blank"}.
