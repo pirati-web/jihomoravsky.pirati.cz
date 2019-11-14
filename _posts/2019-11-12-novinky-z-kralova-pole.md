@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Kácení stromů v ulici Vodova a zahrada U Smrku Pavel Nevrkla: Co přineslo další jednání znojemského zastupitelstva?"
+title: Kácení stromů v ulici Vodova a zahrada U Smrku
 date: 2019-11-12   # formát YYYY-MM-DD
 author: Miroslav Bárta
 tags: Piráti Brno Královo-pole # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
