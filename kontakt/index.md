@@ -20,7 +20,7 @@ residences:
    spravce: petra.vymazalova
    #residenceImg: miscellaneous/residence.png
    #mapLink: "SCcP8sLSHGg5pSBr8"
- - name: Poslanecká kancelář <br> Radek Horomčík
+ - name: Poslanecká kancelář <br> Radek Holomčík
   # url: https://www.facebook.com/PirateSpaceBrno/
    address: |
     Kostelní 1407
