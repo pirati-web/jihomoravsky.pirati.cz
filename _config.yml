@@ -11,7 +11,7 @@ url: "https://jihomoravsky.pirati.cz" # the base hostname & protocol for your si
 
 
 administrator:
-email: jana.leiterova@pirati.cz # mail kam pujdou chybove vystupy
+email: jana.leitnerova@pirati.cz # mail kam pujdou chybove vystupy
 
 emptyArray: []
 
@@ -19,7 +19,7 @@ organization:
   name: Pirátská strana | JIHOMORAVSKÝ
   shortName: Piráti JMK
   contactUid: vendula.svobodova
-  email: vedula.svobodova@pirati.cz
+  email: vendula.svobodova@pirati.cz
   phone: +420 778 111 453
   address: |
       Pirate Space Brno
@@ -27,7 +27,7 @@ organization:
       60200 Brno
   residenceImg: miscellaneous/residence.png
   mapLink: https://www.google.com/maps/place/Denisova+639%2F2,+702+00+Moravsk%C3%A1+Ostrava+a+P%C5%99%C3%ADvoz/@49.8335046,18.2859436,17z/data=!3m1!4b1!4m5!3m4!1s0x4713e330b9662287:0x70f2934230719ddf!8m2!3d49.8335046!4d18.2881323?shorturl=1
-  redmineLink: https://redmine.pirati.cz/projects/jmk
+  redmineLink: https://forum.pirati.cz/viewforum.php?f=735
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
 
