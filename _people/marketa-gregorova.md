@@ -10,7 +10,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 ordpks: 2  
 ordep: 2
 img: people/marketa-gregorova.jpg   # 165 x 220
-description: PR a marketingová specialistka a europoslankyně Pirátské strany   	# kratký popis, max 160 znaků
+description: PR a marketingová specialistka   	# kratký popis, max 160 znaků
 mail:
 - marketa.gregorova@pirati.cz
 mob: 728 700 937

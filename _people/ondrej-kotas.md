@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 ordmsbrno: 4
 ordmmb: 4
 img: people/ondrej-kotas.jpg   # 165 x 220
-description: Softwarový tester, automatizační specialista a člen předsednictva brněnského sdružení        	# kratký popis, max 160 znaků
+description: Softwarový tester a automatizační specialista        	# kratký popis, max 160 znaků
 mail:
 - ondrej.kotas@pirati.cz
 mob: +420 608 828 650		  

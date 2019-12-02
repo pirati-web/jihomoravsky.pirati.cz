@@ -10,7 +10,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 ordzjmk: 1
 ordpks: 3
 img: people/ivo-vasicek.jpg   # 165 x 220
-description: Ekonom, manažer, pedagog a člen zastupitelstva Jihomoravského kraje     	# kratký popis, max 160 znaků
+description: Ekonom, manažer a pedagog     	# kratký popis, max 160 znaků
 mail:
 - ivo.vasicek@pirati.cz
 profiles:
