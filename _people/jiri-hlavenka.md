@@ -10,34 +10,21 @@ mail: # může jich být více (samostatné odrážky)
 - hlavenka.jiri@kr-jihomoravsky.cz
 img: people/jiri-hlavenka.jpg   # 165x220px
 description: Podnikatel a investor v IT 	# kratký popis, max 160 znaků
-uid: jaroslav.kupcik # identifikátor 
+uid: jiri.hlavenka # identifikátor 
 
 ### Nepovinné položky
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
-- pms
-mob: +420 608 552 333
+- zjmk
+ordzjmk: 2
 profiles:
-  github: https://github.com/jerrylabs
-  facebook: https://www.facebook.com/jerrylabs
-  twitter: https://twitter.com/pirat_jerry
-  wiki: https://wiki.pirati.cz/lide/jaroslav_kamen
-  instagram: https://www.instagram.com/jerrousz/
-  linkedin: https://www.linkedin.com/in/jerrylabs
-  compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=-7.25&soc=-5.54  
-motto: Kdo se nezajímá o politiku, o toho se bohužel časem začne politika zajímat sama.
+  facebook: https://www.facebook.com/jiri.hlavenka
 
 ---
 
-Jaroslav Kameň (roz. Kupčík, * 1986) je členem Pirátské strany od roku 2016. Pochází z Orlové a od roku 2005 žije v Brně.
+Po absolvování Gymnázia a Střední odborné školy Mikulov vystudoval v letech 1983 až 1988 obor tepelná a jaderná energie na Strojní fakultě Vysokého učení technického v Brně (získal titul Ing.).
 
-Vystudoval osmileté všeobecné gymnázium a poté obor Informační systémy na Fakultě informačních technologií Vysokého učení technického v Brně, kde získal titul Ing.
+Od počátku 90. let 20. století podniká v oblasti informačních technologií. Je jedním z vlastníků brněnského vydavatelství Computer Press, v roce 1997 získal vlastnický podíl) či prvního internetového obchodu v zemi Vltava.cz. Angažoval se také v představenstvech firem CP Online a CP Books. Od roku 2005 je členem statutárních orgánů společnosti FAYN Telecommunications (dříve FAYN.CZ), jež je virtuálním mobilním operátorem. V posledních letech je spíše investorem (např. v brněnské firmě Kiwi.com, která je vyhledávačem letenek) a publikuje články z oblasti informačních technologií (napsal už více než 30 publikací a 3 000 článků).
 
-Pracoval jako středoškolský učitel informačních technologií, poté jako web developer a produktový manažer v marketingovém oddělení společnosti vyvíjející systémy pro správu webu. Aktuálně pracuje jako web developer v brněnském herním studiu.
+Jiří Hlavenka žije v obci Braníškov v okrese Brno-venkov. Je ženatý a má syna. Ve volném čase ho zajímá hudba (hlavně jazz, rock a etnická hudba) a biologie, sám hraje na akustickou kytaru a na klavír. Věnuje se i sportu, má rád aktivní turistiku a jízdu na horském kole.
 
-Vadí mu plýtvání veřejnými prostředky, degradace veřejného prostoru a omezování osobních svobod. Chtěl by, aby moderní technologie život lidem usnadňovaly a nikoliv ztěžovaly. Byl by rád za větší transparenci ve státní správě a aktivní občanskou společnost podílející se na rozhodnutích, které se jí týkají.
-
-Nelíbí se mu, když politici místo služby občanům upřednostňují své soukromé zájmy, zájmy pofidérních struktur na hranicích zákona nebo nadnárodních korporací. Přeje si, aby stát občanům poskytoval bezpečný a efektivní prostor k jejich osobnímu rozvoji a nefungoval jako prostředek k jejich vykořisťování nebo perzekuci.
-
-Silně podporuje myšlenku nepodmíněného základního příjmu, který chápe jako efektivní prostředek k udržení fungující ekonomiky. Myslí si, že je pro stát výhodnější podporovat raději přímo své občany než nadnárodní korporace, kterým jsou pro vytváření pracovních míst přidělovány mohutné dotace a odpouštěny daně. Věří, že by tak nepodmíněný základní příjem kromě zjednodušení sociálního systému a zaručení důstojného života občanům rovněž pomohl omezit odtok peněz do zahraničí a daňových rájů.
-
-Ve svém volném čase podniká výlety do přírody na kole i pěšky. Má rád sci-fi a fantasy literaturu a filmy a hraje a tvoří deskové, karetní a počítačové hry.
+V krajských volbách v roce 2016 byl z pozice nestraníka za SZ lídrem společné kandidátky SZ a Pirátů v Jihomoravském kraji a byl zvolen zastupitelem. Je předsedou Komise Rady Jihomoravského kraje pro informační otevřenost.
