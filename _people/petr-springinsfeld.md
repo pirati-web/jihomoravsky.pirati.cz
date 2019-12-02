@@ -33,3 +33,6 @@ Od listopadu 2017 pracuje jako asistent poslance Radka Holomčíka.
 V Pirátské straně je aktuálně 3. místopředsedou krajského sdružení Jihomoravského kraje a je předsedou rozhodčí komise.
 
 Ve volném čase se věnuje plavání, karetním trikům a focení. Baví ho také videohry a četba knih.
+
+Veřejný kalendář:
+<iframe src="https://calendar.google.com/calendar?cid=ZGR2OGdzNWUxcTUzNThnZDU0ZzN2dDZzNzRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
