@@ -35,4 +35,4 @@ V Pirátské straně je aktuálně 3. místopředsedou krajského sdružení Jih
 Ve volném čase se věnuje plavání, karetním trikům a focení. Baví ho také videohry a četba knih.
 
 Veřejný kalendář:
-<iframe src="https://calendar.google.com/calendar?cid=ZGR2OGdzNWUxcTUzNThnZDU0ZzN2dDZzNzRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=ddv8gs5e1q5358gd54g3vt6s74%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
