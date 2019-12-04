@@ -5,8 +5,10 @@ mail:
 - fiser.marek@brno.cz
 mob: 776 146 622
 category:                 	# kategorie: kandidat, pks, zastupitel
-- krpole
-- msbrno
+- zmckrpole
+- mmb
+ordzmckrpole: 3
+ordmmb: 3
 img: people/marek-fiser.jpg   # 165 x 220
 img2: people/marek-fiser2.jpg
 description: Manažer, polyglot a zahrádkář 	# kratký popis, max 160 znaků
@@ -16,8 +18,6 @@ profiles:
   linkedin: https://www.linkedin.com/in/mfiser/
   facebook: https://www.facebook.com/siberiantijger
 
-ordmsbrno: 5
-ordkrpole: 1
 ---
 
 Marek Fišer (* 22. listopadu 1982) je příznivcem Pirátů od roku 2012. Od listopadu 2018 je členem Rady města Brna pro oblast kultury. Na jaře 2019 se stal členem Pirátské strany.

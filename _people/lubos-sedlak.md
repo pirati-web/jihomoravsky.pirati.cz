@@ -9,16 +9,14 @@ titles:
 mail: # může jich být více (samostatné odrážky)
 - lubos.sedlak@pirati.cz
 img: people/lubos-sedlak.jpg   # 165x220px
-description: Student AF Mendelu a předseda místního sdružení Blanensko 	# kratký popis, max 160 znaků
+description: Student AF Mendelu 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky
 uid: lubos.sedlak # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 - blanensko
-- pms
 ordblanensko: 3
-ordpms: 4
 profiles:
   facebook:https://www.facebook.com/lubos.sedlak
 mob: 773 917 508

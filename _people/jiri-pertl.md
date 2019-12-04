@@ -2,10 +2,8 @@
 uid: jiri.pertl
 name:     Jiří Pertl  	# běžně používáné jméno
 category:                 	# kategorie: kandidat, pks, zastupitel
-- brnostred
-- msbrno
-ordmsbrno: 13
-ordbrnostred: 3
+- zmcstred
+ordzmsstred: 3
 
 img: people/jiri-pertl.jpg   # 165 x 220
 description: Projektový manažer v IT firmě     	# kratký popis, max 160 znaků

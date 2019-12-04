@@ -11,8 +11,8 @@ description: OSVČ a aktivní občanka 	# kratký popis, max 160 znaků
 ### Nepovinné položky
 uid: martina.mikulincova # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
-- zabovresky
-ordzabovresky: 3
+- zmczabovresky
+ordzmczabovresky: 2
 
 profiles:
   facebook: https://www.facebook.com/marti.mikuli

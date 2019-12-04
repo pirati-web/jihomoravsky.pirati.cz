@@ -14,8 +14,8 @@ description: informatik, vývojář IS a odborný rada ÚOHS 	# kratký popis, m
 ### Nepovinné položky
 uid: zbysek.martoch # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
-- zabovresky
-ordzabovresky: 2
+- zmczabovresky
+ordzmczabovresky: 3
 profiles:
 
 supporting:

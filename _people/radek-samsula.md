@@ -12,8 +12,8 @@ description: Tvorba a správa webů a informačních systémů 	# kratký popis,
 ### Nepovinné položky
 uid: radek.samsula # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
-- boskovice
-ordboskovice: 1
+- zmboskovice
+ordzmboskovice: 2
 profiles:
   facebook: https://www.facebook.com/radek.samsula
 supporting:

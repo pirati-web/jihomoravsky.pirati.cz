@@ -11,8 +11,8 @@ description: Učitel a překladatel anglického jazyka 	# kratký popis, max 160
 ### Nepovinné položky
 uid: zbynek.pokorny # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
-- blanensko
-ordblanensko: 2
+- zmblansko
+ordzmblansko: 1
 profiles:
   facebook: https://www.facebook.com/zbynek.pokorny.79
 mob: 774 528 156

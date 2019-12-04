@@ -2,7 +2,8 @@
 uid: michal.marciniszyn
 name:     Michal Marciniszyn  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- brnostred
+- zmcstred
+ordzmcstred: 1
 img: people/michal-marciniszyn.jpg   # 165 x 220
 description: Manažer a team leader          	# kratký popis, max 160 znaků
 mail:
@@ -12,7 +13,7 @@ profiles:
   facebook: https://www.facebook.com/michal.marciniszyn
   linkedin: https://www.linkedin.com/in/michal-marciniszyn-9a418a6/
   wiki: https://wiki.pirati.cz/lide/michal_marciniszyn
-ordbrnostred: 5
+
 ---
 
 Manager who believes in success laying in knowing work of his people and willing to join the team in solving

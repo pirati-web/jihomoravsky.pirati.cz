@@ -6,9 +6,11 @@ titles:
   after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
-- zast
+- zjmk
+ordzjmk: 1
+ordpks: 3
 img: people/ivo-vasicek.jpg   # 165 x 220
-description: Ekonom, manažer, pedagog a člen zastupitelstva Jihomoravského kraje     	# kratký popis, max 160 znaků
+description: Ekonom, manažer a pedagog     	# kratký popis, max 160 znaků
 mail:
 - ivo.vasicek@pirati.cz
 profiles:
@@ -17,8 +19,6 @@ profiles:
   wiki: https://wiki.pirati.cz/lide/ivo_vasicek
   wikipedia: https://cs.wikipedia.org/wiki/Ivo_Va%C5%A1%C3%AD%C4%8Dek
   linkedin: https://www.linkedin.com/in/ivo-vasicek-68b3661a/
-ordzast: 1
-
 supporting:
 - Zapojení občanů do rozhodování -posílení přímé demokracie a přímou odpovědnost politiků.
 - Přizpůsobení daňových systémů nové technologické situaci a snižování zdanění práce.
@@ -30,7 +30,6 @@ notsupporting:
 reason: Chci dále rozvíjet Jihomoravský kraj a zlepšovat služby, které občanům poskytuje. Prosazuji zejména menší zatížení obcí a měst automobilovou dopravou (obchvaty) a rozvoj železniční dopravy. Prosazuji zkrácení dojezdových časů integrovaného zásahového systému.
 motto: Skutečná svoboda slova je právo říkat lidem to, co nechtějí slyšet.
 
-ordpks: 3
 ---
 
 Ivo Vašíček (* 5. prosince 1961 Olomouc) je zastupitel za Piráty v zastupitelstvu Jihomoravského kraje. Žije v Čejkovicích a má čtyři děti.

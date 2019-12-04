@@ -2,8 +2,8 @@
 uid: miroslav.barta
 name:     Miroslav Bárta  	# běžně používáné jméno
 category:                 	# kategorie: kandidat, pks, zastupitel
-- krpole
-- msbrno
+- zmckrpole
+ordzmckrpole: 1
 img: people/miroslav-barta.jpg   # 165 x 220
 img2: people/miroslav-barta2.jpg   
 description: Vedoucí kontrolního výboru a zastupitel v Králově Poli, realitní specialista a majitel obchodní společnosti 	# kratký popis, max 160 znaků
@@ -34,8 +34,6 @@ notsupporting:
 motto: ["Demokracie je vláda lidu, prostřednictvím lidu a pro lidi.", "Abraham Lincoln"]
 
 reason: Protože Brno a potažmo Královo Pole je prostě špica, ale ne tak úplně. Stále zde máme netransparentní jednání politiků a jejich rozhodování v neprospěch občanů, ale ve prospěch svého byznysu. Úřad musí být opět pro lidi a ne obráceně.
-ordmsbrno: 10
-ordkrpole: 4
 ---
 
 Miroslav Bárta se narodil v Karviné - Ráji 20. 4. 1973. Přes Ostravu, Kopřivnici, Opavu, Olomouc a Prahu se usadil roku 1999 v Brně, kde žije do dnes. Studoval VGJŽ (vojenské gymnázium) v Opavě.

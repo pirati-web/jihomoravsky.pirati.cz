@@ -12,8 +12,8 @@ description: Učitelka hudby 	# kratký popis, max 160 znaků
 ### Nepovinné položky
 uid: kristyna.znamenackova # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
-- boskovice
-ordboskovice: 2
+- zmboskovice
+ordzmboskovice: 1
 mob: +420 731 911 229
 profiles:
   facebook: https://www.facebook.com/radek.samsula

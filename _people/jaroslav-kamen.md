@@ -5,8 +5,8 @@ titles:
   before: Ing. 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- krpole
-- msbrno
+- zmckrpole
+ordzmckrpole: 2
 img: people/jaroslav-kamen.jpg   # 165 x 220
 img2: people/jaroslav-kamen2.jpg
 description: Webový a herní vývojář, 2. místopředseda MS Brno  	# kratký popis, max 160 znaků
@@ -32,17 +32,15 @@ supporting:
 #- Transparentnost věcí veřejných a ochranu soukromí u věcí osobních
 #- Stát zajišťující bezpečí a prostředí pro rozvoj a seberealizaci svých občanů
 notsupporting:
+- Autoritářství
 - Zneužívání politiky k soukromého byznysu místo služby občanům
 - Proprietárním IT řešením, která z úřadů dělají zajatce dodavatelů
-- Přesunu hl. nádraží bez vyřešení navazující dopravy a jejího kolapsu
 #- Rozkrádání veřejných statků a veřejného prostoru
 #- Zneužívání politiky pro soukromé zisky
 #- Redukci člověka na pouhý zdroj pracovní síly
-reason: Znepokojuje mě postupné ukrajování našich svobod salámovou metodou. Politika by měla být služba občanům, nikoliv soukromý byznys!
-motto: Kdo se nezajímá o politiku, o toho se bohužel časem začne politika zajímat sama.
+# reason: Technologie mu
+motto: Technologie musí člověku život ulehčovat, nikoliv ztěžovat!
 
-ordmsbrno: 9
-ordkrpole: 3
 
 ---
 

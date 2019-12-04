@@ -14,8 +14,8 @@ description: Právník, vysokoškolský učitel a lektor finanční gramotnosti 
 ### Nepovinné položky
 uid: michal.skerle # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
-- krpole
-ordkrpole: 2
+- zmckrpole
+ordzmckrpole: 5
 
 motto: ["Silný si vždy pomůže sám – ochrana slabých, toť úkol nové doby.", "T. G. Masaryk"]
 navrhujici: "Starostové a osobnosti pro Moravu"

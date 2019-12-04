@@ -2,7 +2,8 @@
 uid: lukas.mamula
 name:     Lukáš Mamula  	# běžně používáné jméno
 category:                 	# kategorie: kandidat, pks, zastupitel
-- msbrno
+- mmb
+ordmmb: 5
 img: people/lukas-mamula.jpg   # 165 x 220
 description: Java developer se zájmem o robotiku a umělou inteligenci, milovník přírody   	# kratký popis, max 160 znaků
 mail:
@@ -31,7 +32,6 @@ reason: 'Kandiduji proto, protože nechci jen tiše přihlížet, jak se naše r
 
 motto: ["Nechme budoucnost rozhodnout o pravdě, nechme ji ohodnotit každou pravdu podle vykonané práce a dosáhnutých úspěchů.", "Nikola Tesla"]
 
-ordmsbrno: 6
 ---
 Lukáš Mamula narozen 12.6 1987 v Brandýse nad Labem odkud se s rodinou přestěhoval do Bruntálu. V Bruntále vystudoval střední průmyslovou školu v oboru elektronické počítačové systémy. Po střední škole pokračoval dále na Slezské univerzitě v Opavě jako student oboru informatika a výpočetní technika. Zde úspěšně dokončil bakalářšký a magisterský stupeň vzdělání. Již během magisterského studia se přestěhoval do Brna, kde žije od roku 2012.
 
