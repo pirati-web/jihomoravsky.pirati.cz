@@ -27,7 +27,7 @@ profiles:
 supporting:
 - Rozhodování na základě skutečných potřeb občanů
 - Zcela transparentní hospodaření s veřejnými penězi
-- Radikální zefektivnění elektronické komunikace mezi úřady a občany
+- Svobodný a otevřený software pro digitální státní správu
 #- Svobodnou, informačně gramotnou a aktivní společnost
 #- Transparentnost věcí veřejných a ochranu soukromí u věcí osobních
 #- Stát zajišťující bezpečí a prostředí pro rozvoj a seberealizaci svých občanů
