@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Adam Zemek  	# běžně používáné jméno
-fullname: Adam Zemek  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - eda@bmhd.cz
 img: people/adam-zemek.jpg   # 165x220px

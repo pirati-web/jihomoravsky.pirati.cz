@@ -1,7 +1,6 @@
 ---
 uid: marek.fiser
 name:     Marek Fišer  	# běžně používáné jméno
-fullname: Marek Fišer  	# jméno s tituly etc.
 mail: 
 - fiser.marek@brno.cz
 mob: 776 146 622

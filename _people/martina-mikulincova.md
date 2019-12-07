@@ -3,7 +3,6 @@
 
 ### Povinné položky ###
 name:     Martina Mikulincová  	# běžně používáné jméno
-fullname: Martina Mikulincová  	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 - marti.mikuli@gmail.com
 img: people/martina-mikulincova.jpg   # 165x220px

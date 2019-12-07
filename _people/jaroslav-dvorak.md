@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Jaroslav Dvořák  	# běžně používáné jméno
-fullname: Ing. Jaroslav Dvořák  	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - jara.dvorak@gmail.com
 img: people/jaroslav-dvorak.jpg   # 165x220px

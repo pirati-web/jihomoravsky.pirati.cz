@@ -1,7 +1,9 @@
 ---
 uid: marcel.kolaja
 name:     Marcel Kolaja  	# běžně používáné jméno
-fullname: Bc. Marcel Kolaja  	# jméno s tituly etc.
+titles:
+  before: Bc. 
+  after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - krpole
 - msbrno

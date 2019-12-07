@@ -3,7 +3,6 @@
 
 ### Povinné položky ###
 name:     Šárka Václavíková  	# běžně používáné jméno
-fullname: Šárka Václavíková  	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 - sarka.vaclavikova@pirati.cz
 img: people/sarka-vaclavikova.jpg   # 165x220px

@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Eva Staňková  	# běžně používáné jméno
-fullname: Ing. Eva Staňková  	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - eva.stankova@pirati.cz
 img: people/eva-stankova.png   # 165x220px

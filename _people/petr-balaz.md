@@ -1,7 +1,6 @@
 ---
 uid: petr.balaz
 name:     Petr Baláž  	# běžně používáné jméno
-fullname: Petr Baláž  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/petr-balaz.jpg   # 165 x 220

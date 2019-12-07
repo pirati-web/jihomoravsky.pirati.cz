@@ -3,7 +3,6 @@
 
 ### Povinné položky ###
 name:     Lucie Vadkerti  	# běžně používáné jméno
-fullname: Lucie Vadkerti  	# jméno s tituly etc.
 mail: # může jich být více (samostatné odrážky)
 - lucie.vadkerti@pirati.cz
 img: people/lucie-vadkerti.jpg   # 165x220px

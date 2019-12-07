@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Vítězslava Rosecká 	# běžně používáné jméno
-fullname: Bc. Vítězslava Rosecká  	# jméno s tituly etc.
+titles:
+  before: Bc. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - vitezslava.rosecka@pirati.cz
 img: people/vitezslava-rosecka.png   # 165x220px

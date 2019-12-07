@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Tomáš Gottwald  	# běžně používáné jméno
-fullname: Ing. Tomáš Gottwald  	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - tomas.gottwald@pirati.cz
 img: people/tomas-gottwald.jpg   # 165x220px

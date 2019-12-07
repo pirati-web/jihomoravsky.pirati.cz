@@ -1,7 +1,9 @@
 ---
 uid: jiri.ulip
 name:    Jiří Ulip  	# běžně používáné jméno
-fullname: Mgr. Jiří Ulip  	# jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zast
 img: people/jiri-ulip.jpg   # 165 x 220

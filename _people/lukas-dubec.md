@@ -1,7 +1,6 @@
 ---
 uid: lukas.dubec
 name:     Lukáš Dubec  	# běžně používáné jméno
-fullname: Lukáš Dubec  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pms
 img: people/lukas-dubec.jpg   # 165 x 220

@@ -1,7 +1,9 @@
 ---
 uid: vojtech.sedlak
 name:     Vojtěch Sedlák  	# běžně používáné jméno
-fullname: MgA. Vojtěch Sedlák  	# jméno s tituly etc.
+titles:
+  before: MgA. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - vojtech@sedlax.cz
 img: people/vojtech-sedlak.jpg   # 165x220px

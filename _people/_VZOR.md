@@ -3,14 +3,16 @@
 
 ### Povinné položky ###
 name:     Jaroslav Kameň  	# běžně používáné jméno
-fullname: Ing. Jaroslav Kameň  	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - jaroslav.kamen@pirati.cz
 img: people/jaroslav-kupcik.jpg   # 165x220px
 description: Webový a herní vývojář, 2. místopředseda MS Brno 	# kratký popis, max 160 znaků
+uid: jaroslav.kupcik # identifikátor 
 
 ### Nepovinné položky
-uid: jaroslav.kupcik # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 - pms
 mob: +420 608 552 333
@@ -22,15 +24,6 @@ profiles:
   instagram: https://www.instagram.com/jerrousz/
   linkedin: https://www.linkedin.com/in/jerrylabs
   compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=-7.25&soc=-5.54  
-supporting:
-- Svobodnou, informačně gramotnou a aktivní společnost
-- Transparentnost věcí veřejných a ochranu soukromí u věcí osobních
-- Stát zajišťující bezpečí a prostředí pro rozvoj a seberealizaci svých občanů
-notsupporting:
-- Rozkrádání veřejných statků a veřejného prostoru
-- Zneužívání politiky pro soukromé zisky
-- Redukci člověka na pouhý zdroj pracovní síly
-reason: Znepokojuje mě postupné ukrajování našich svobod salámovou metodou. Politika by měla být služba občanům, nikoliv soukromý byznys!
 motto: Kdo se nezajímá o politiku, o toho se bohužel časem začne politika zajímat sama.
 
 ---

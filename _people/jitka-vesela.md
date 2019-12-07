@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Jitka Veselá  	# běžně používáné jméno
-fullname: Ing. Jitka Veselá, Ph.D.  	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after: Ph.D.
 mail: # může jich být více (samostatné odrážky)
 - jitkavesela@yahoo.com
 img: people/jitka-vesela.png   # 165x220px

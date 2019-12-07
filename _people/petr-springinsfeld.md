@@ -1,7 +1,6 @@
 ---
 uid: petr.springinsfeld
 name:     Petr Springinsfeld  	# běžně používáné jméno
-fullname: Petr Springinsfeld  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
 

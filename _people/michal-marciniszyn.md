@@ -1,7 +1,6 @@
 ---
 uid: michal.marciniszyn
 name:     Michal Marciniszyn  	# běžně používáné jméno
-fullname: Michal Marciniszyn 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - brnostred
 img: people/michal-marciniszyn.jpg   # 165 x 220

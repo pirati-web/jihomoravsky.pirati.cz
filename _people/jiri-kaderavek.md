@@ -1,7 +1,6 @@
 ---
 uid: jiri.kaderavek
 name:     Jiří Kadeřávek  	# běžně používáné jméno
-fullname: Jiří Kadeřávek  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/jiri-kaderavek.jpg   # 165 x 220

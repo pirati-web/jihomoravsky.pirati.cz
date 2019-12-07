@@ -1,7 +1,9 @@
 ---
 uid: daniel.pawlik
 name:     Daniel Pawlik  	# běžně používáné jméno
-fullname: Daniel Pawlik  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 
 img: people/daniel-pawlik.jpg   # 165 x 220

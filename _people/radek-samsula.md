@@ -1,7 +1,9 @@
 ---
 uid: radek.samsula
 name:     Radek Šamšula  	# běžně používáné jméno
-fullname: Bc. Radek Šamšula  	# jméno s tituly etc.
+titles:
+  before: Bc. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - radek.samsula@gmail.com
 img: people/radek-samsula.jpg   # 165x220px

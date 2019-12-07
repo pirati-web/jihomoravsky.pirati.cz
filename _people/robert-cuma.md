@@ -1,7 +1,6 @@
 ---
 uid: robert.cuma
 name:     Róbert Čuma  	# běžně používáné jméno
-fullname: Róbert Čuma  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - brnostred
 - pks

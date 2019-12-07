@@ -1,7 +1,9 @@
 ---
 uid: kristyna.znamenackova
 name:     Kristýna Znamenáčková  	# běžně používáné jméno
-fullname: Mgr. MgA. Kristýna Znamenáčková  	# jméno s tituly etc.
+titles:
+  before: Mgr. MgA. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - kristyna.znamenackova@pirati.cz
 img: people/kristyna-znamenackova.jpg   # 165x220px

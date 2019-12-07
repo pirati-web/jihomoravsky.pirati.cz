@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Jakub Sobocik  	# běžně používáné jméno
-fullname: Mgr. Jakub Sobocik  	# jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - jakub.sobocik@pirati.cz
 img: people/jakub-sobocik.jpg   # 165x220px

@@ -1,7 +1,9 @@
 ---
 uid: ales.kosina
 name:     Aleš Kosina  	# běžně používáné jméno
-fullname: Mgr. Aleš Kosina  	# jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/ales-kosina.jpg   # 165 x 220

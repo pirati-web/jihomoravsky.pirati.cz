@@ -3,7 +3,9 @@
 
 ### Povinné položky ###
 name:     Zbyšek Martoch   # běžně používáné jméno
-fullname: Ing. Zbyšek Martoch  	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 mail: # může jich být více (samostatné odrážky)
 - zbysek.martoch@gmail.com
 img: people/zbysek-martoch.jpg   # 165x220px

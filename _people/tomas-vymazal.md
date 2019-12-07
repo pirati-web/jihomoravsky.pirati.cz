@@ -1,7 +1,6 @@
 ---
 uid: tomas.vymazal
 name:     Tomáš Vymazal  	# běžně používáné jméno
-fullname: Tomáš Vymazal  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 img: people/tomas-vymazal.jpg   # 165 x 220
