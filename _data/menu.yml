@@ -42,7 +42,7 @@ bottom:
     links:
       - link: /aktuality/
         name: Aktuality
-      - link: https://calendar.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&height=550&wkst=2&bgcolor=%23ffffff&src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague
+      - link: https://calendar.google.com/calendar/embed?src=aab301nnugmna65grbnt6jv18k%40group.calendar.google.com&ctz=Europe%2FPrague
         name: Kalendář 
   - class: small-12 medium-4
     title: Otevřenost
