@@ -18,7 +18,7 @@ mob: +420 731 911 229
 profiles:
   facebook: https://www.facebook.com/radek.samsula
   instagram: https://www.instagram.com/zn_kristyna
-  web: znamenackova.cz
+  web: https://znamenackova.cz
 supporting:
 - informovanost občanů
 - zodpovědný přístup
