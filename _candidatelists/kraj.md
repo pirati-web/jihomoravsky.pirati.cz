@@ -1,20 +1,20 @@
 ---
-title: Kandidátka na radnici
-uid: radnice
+title: Kandidátka do Zastupitelstva Jihomoravského kraje 2020
+uid: kraj
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
-  uid: prvni.leader
-  age: 31
-  profession: knihovník
+  uid: lukas.dubec
+  age: věk
+  profession: knihovník - to povolani co bude na volebnim listu
   party: Piráti
   description: expert na skoky # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: mistni.predseda
-    profession: knihovník
+  - uid: jiri.havelka
+    profession: knihovníki
     description: expert na skoky
     party: bez politické příslušnosti
-  - uid: jakub.pirat
+  - uid: jana.leithnerova
     profession: knihovník
   - uid: aktivni.priznivec
     age: 63
