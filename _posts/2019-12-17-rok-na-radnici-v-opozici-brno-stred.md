@@ -36,8 +36,12 @@ Po zbytek volebního období chceme dále svojí prací ukazovat, že i z opozic
 Za Piráty v zastupitelstvu Brna-střed:
 
 Monika Lukášová Spilková
+
 Róbert Čuma
+
 Jiří Pertl
+
 Michal Marciniszyn
+
 Patrik Doležal
 
