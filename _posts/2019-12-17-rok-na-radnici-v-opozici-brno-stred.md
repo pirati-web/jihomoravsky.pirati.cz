@@ -33,7 +33,7 @@ To ale není vše. Co dalšího se Pirátům v zastupitelstvu mimo běžnou agen
 
 Po zbytek volebního období chceme dále svojí prací ukazovat, že i z opozice je možné konstruktivní prací prosazovat alespoň část programu, usnadňovat život občanům a šetřit městské části peníze.
 
-Za Piráty v zastupitelstvu Brna-střed
+Za Piráty v zastupitelstvu Brna-střed:
 
 Monika Lukášová Spilková
 Róbert Čuma
