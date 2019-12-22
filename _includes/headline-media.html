@@ -1,0 +1,22 @@
+<div class="o-section-block o-section-block-fill">
+  <div class="c-headline-media">
+    {% if site.mediaStorage %}
+        {% capture imgPath %}https://a.pirati.cz/resize/751x422/{{ site.mediaStorage }}/img/{{ include.image }}{% endcapture %}
+    {% else %}
+        {% capture imgPath %}{% asset '{{ include.image }}' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' @path %}{% endcapture %}
+    {% endif %}
+    <div class="c-headline-media__background" style="background-image: url({{ imgPath }})"></div>
+
+    <div class="row c-headline-media__body">
+      <div class="small-12 columns">
+        {% comment %}If youtube video id is provided, it takes precendece over the image{% endcomment %}
+        {%- if include.youtubeVideoId %}
+          {% include youtube.html width=751 height=422 id=include.youtubeVideoId %}
+        {% else %}
+          <img src="{{ imgPath }}" alt="{{ include.title }}">
+        {%- endif %}
+      </div>
+    </div>
+
+  </div>
+</div>

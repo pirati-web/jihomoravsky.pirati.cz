@@ -11,7 +11,9 @@ url: "https://jihomoravsky.pirati.cz" # the base hostname & protocol for your si
 
 
 administrator:
-email: jana.leitnerova@pirati.cz # mail kam pujdou chybove vystupy
+    email: jana.leitnerova@pirati.cz # mail kam pujdou chybove vystupy
+
+mediaStorage: jihomoravsky #obrazky a pdf jsou na https://a.pirati.cz/jihomoravsky/
 
 emptyArray: []
 
