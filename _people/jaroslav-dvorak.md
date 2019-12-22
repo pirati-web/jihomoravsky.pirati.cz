@@ -6,7 +6,7 @@ name:     Jaroslav Dvořák  	# běžně používáné jméno
 titles:
   before: Ing. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - jara.dvorak@gmail.com
 img: people/jaroslav-dvorak.jpg   # 165x220px
 description: Projektant a manažer kapely 	# kratký popis, max 160 znaků

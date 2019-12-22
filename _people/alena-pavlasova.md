@@ -6,7 +6,7 @@ name:     Alena Pavlasová  	# běžně používáné jméno
 titles:
   before: 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - alena.pavlasova@pirati.cz
 img: people/alena-pavlasova.jpg   # 165x220px
 description: Administrativní pracovnice 	# kratký popis, max 160 znaků

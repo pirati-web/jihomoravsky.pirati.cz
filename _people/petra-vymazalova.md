@@ -1,6 +1,6 @@
 ---
 name: Petra Vymazalová
-mail: # může jich být více (samostatné odrážky)
+mail:
 - vymazovalap@psp.cz
 #img: people/.jpg 
 description:  Asistentka Tomáše Vymazala

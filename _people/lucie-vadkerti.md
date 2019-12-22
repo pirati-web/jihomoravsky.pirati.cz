@@ -3,7 +3,7 @@
 
 ### Povinné položky ###
 name:     Lucie Vadkerti  	# běžně používáné jméno
-mail: # může jich být více (samostatné odrážky)
+mail:
 - lucie.vadkerti@pirati.cz
 img: people/lucie-vadkerti.jpg   # 165x220px
 description: Marketingová specialistka 	# kratký popis, max 160 znaků
@@ -11,7 +11,6 @@ description: Marketingová specialistka 	# kratký popis, max 160 znaků
 ### Nepovinné položky
 profiles:
   linkedin: https://www.linkedin.com/in/lucie-vadkerti-6471b2161/
-  facebook: https://www.facebook.com/lstranska
   twitter: https://twitter.com/lucy_str
 uid: lucie.vadkerti # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)

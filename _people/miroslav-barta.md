@@ -12,7 +12,6 @@ mail:
 mob: 730 896 278
 profiles:
   wiki: https://wiki.pirati.cz/lide/miroslav_barta
-  facebook: https://www.facebook.com/miroslav.barta.9
   twitter: https://twitter.com/miroslavbarta1
 
 supporting:

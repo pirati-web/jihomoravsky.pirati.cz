@@ -12,7 +12,6 @@ mail:
 - ondrej.kotas@pirati.cz
 mob: +420 608 828 650		  
 profiles:              
-  facebook: https://www.facebook.com/KRtek.tm
   wiki: https://wiki.pirati.cz/lide/ondrej_kotas
 
 ---

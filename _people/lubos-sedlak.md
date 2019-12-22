@@ -6,7 +6,7 @@ name:     Luboš Sedlák  	# běžně používáné jméno
 titles:
   before: Bc. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - lubos.sedlak@pirati.cz
 img: people/lubos-sedlak.jpg   # 165x220px
 description: Student AF Mendelu 	# kratký popis, max 160 znaků

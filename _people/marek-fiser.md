@@ -1,7 +1,7 @@
 ---
 uid: marek.fiser
 name:     Marek Fišer  	# běžně používáné jméno
-mail: 
+mail:
 - fiser.marek@brno.cz
 mob: 776 146 622
 category:                 	# kategorie: kandidat, pks, zastupitel
@@ -16,7 +16,6 @@ description: Manažer, polyglot a zahrádkář 	# kratký popis, max 160 znaků
 profiles:
   wiki: https://wiki.pirati.cz/lide/marek_fiser
   linkedin: https://www.linkedin.com/in/mfiser/
-  facebook: https://www.facebook.com/siberiantijger
 
 ---
 

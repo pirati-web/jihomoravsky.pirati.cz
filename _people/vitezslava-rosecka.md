@@ -6,7 +6,7 @@ name:     Vítězslava Rosecká 	# běžně používáné jméno
 titles:
   before: Bc. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - vitezslava.rosecka@pirati.cz
 img: people/vitezslava-rosecka.png   # 165x220px
 description: Průvodkyně, lektorka AJ, členka místního sdružení Znojemsko # kratký popis, max 160 znaků

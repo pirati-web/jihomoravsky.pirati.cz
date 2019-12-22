@@ -6,7 +6,7 @@ name: Petr Vlasák  	# běžně používáné jméno
 titles:
   before: Mgr. Bc.
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - petr.vlasak@breclav.eu
 img: people/petr-vlasak.jpg   # 165x220px
 description: učitel a kulturní buditel 	# kratký popis, max 160 znaků

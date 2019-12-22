@@ -14,8 +14,8 @@ tags: 'doprava transparence digitalizace výzkum'
 Když jsem zjistil, ​že tento týden začíná první celostátní průzkum dopravního chování - „Česko v
 pohybu“, očekával jsem, ​že bude proveden dnes dostupnými technologickými prostředky. Mýlil jsem
 se. Průzkum budou provádět dotazníkovou metodou pomocí sčítacích komisařů. Do průzkumu byl
-zařazen vzorek [čtyřiceti tisíc náhodně vybraných českých domácností](https://ekonomika.idnes.cz/doprava-pruzkum-chovani-ministr-tok-dvu-/eko-doprava.aspx?c=A1709
-12_160039_eko-doprava_ane){:target="_blank"}. Průzkum bude stát 13,7 milionu Kč.
+zařazen vzorek 
+[čtyřiceti tisíc náhodně vybraných českých domácností(https://ekonomika.idnes.cz/doprava-pruzkum-chovani-ministr-tok-dvu-/eko-doprava.aspx?c=A170912_160039_eko-doprava_ane){:target="_blank"}. Průzkum bude stát 13,7 milionu Kč.
 
 Mít informace o pohybu obyvatel je z pohledu plánování a rozvoje dopravní infrastruktury velice
 přínosné. Dnes lze tyto informace poměrně snadno zjistit na základě dat od mobilních operátorů.

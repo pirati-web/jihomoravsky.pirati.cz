@@ -6,7 +6,7 @@ name:     Tomáš Gottwald  	# běžně používáné jméno
 titles:
   before: Ing. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - tomas.gottwald@pirati.cz
 img: people/tomas-gottwald.jpg   # 165x220px
 description: Nabídkový inženýr ve společnosti Siemens 	# kratký popis, max 160 znaků
@@ -17,7 +17,6 @@ category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 - blanensko
 ordblanensko: 1
 profiles:
-  facebook: https://www.facebook.com/profile.php?id=100013937976507
 supporting:
 - Svobodnou informačně a technologicky propojenou občanskou společnost
 - Decentralizaci a svět bez prostředníků

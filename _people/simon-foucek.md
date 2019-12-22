@@ -3,7 +3,7 @@
 
 ### Povinné položky ###
 name:     Šimon Fouček  	# běžně používáné jméno
-mail: # může jich být více (samostatné odrážky)
+mail:
 - simon.foucek@pirati.cz
 img: people/simon-foucek.png   # 165x220px
 description: Student, člen místního sdružení Znojemsko # kratký popis, max 160 znaků

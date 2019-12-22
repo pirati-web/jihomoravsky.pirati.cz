@@ -1,6 +1,6 @@
 ---
 name: Simona Kollárová
-mail: # může jich být více (samostatné odrážky)
+mail:
 #img: people/.jpg 
 description:  Asistentka Radka Holomčíka
 uid: simona.kollarova

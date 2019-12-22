@@ -16,8 +16,8 @@ authorId: jiri.ulip # ve formátu jmeno.prijmeni - prolinkování s profilem př
 ---
 
 <p id="en" style="text-align: right">
-<a href="#en"><img src="https://a.pirati.cz/jihomoravsky/img/flags/gb.png"></a>
-<a href="#sw"><img src="https://a.pirati.cz/jihomoravsky/img/flags/sw.png"></a>
+<a href="#en"><img src="https://a.pirati.cz/jihomoravsky/img/flags/gb.png" alt="gb"></a>
+<a href="#sw"><img src="https://a.pirati.cz/jihomoravsky/img/flags/sw.png" alt="en"></a>
 </p>
 
 
@@ -33,8 +33,8 @@ Pirates wish you good luck with your choice!
 <hr>
 
 <p id="sw" style="text-align: right">
-<a href="#en"><img src="https://a.pirati.cz/jihomoravsky/img/flags/gb.png"></a>
-<a href="#sw"><img src="https://a.pirati.cz/jihomoravsky/img/flags/sw.png"></a>
+<a href="#en"><img src="https://a.pirati.cz/jihomoravsky/img/flags/gb.png" alt="gb"></a>
+<a href="#sw"><img src="https://a.pirati.cz/jihomoravsky/img/flags/sw.png" alt="en"></a>
 </p>
 
 Bor du i Tjeckien? Du kan rösta! Unionsmedborgare bosatta i Tjeckien får rösta i de kommande lokalvalen. Men om du vill rösta, måste du registrera dig för lokalvalen i kommunen där du har registrerats som bosatt.

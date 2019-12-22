@@ -6,7 +6,7 @@ name:     Michal Škerle  	# běžně používáné jméno
 titles:
   before: Mgr. et Mgr. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 
 img: people/michal-skerle.jpg   # 165x220px
 description: Právník, vysokoškolský učitel a lektor finanční gramotnosti 	# kratký popis, max 160 znaků

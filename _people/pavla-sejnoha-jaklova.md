@@ -6,7 +6,7 @@ name:     Pavla Šejnoha Jaklová  	# běžně používáné jméno
 titles:
   before: Mgr. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - p.jaklova@centrum.cz
 img: people/pavla-jaklova.jpg   # 165x220px
 description: Mateřská dovolená 	# kratký popis, max 160 znaků

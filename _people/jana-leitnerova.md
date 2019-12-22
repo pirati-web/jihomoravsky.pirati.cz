@@ -3,7 +3,7 @@
 
 ### Povinné položky ###
 name: Jana Leitnerová  	# běžně používáné jméno
-mail: # může jich být více (samostatné odrážky)
+mail:
 - jana.leitnerova@pirati.cz
 img: people/jana-leitnerova.jpg   # 165x220px
 description: Vedoucí mediálního odboru jihomoravského kraje 	# kratký popis, max 160 znaků

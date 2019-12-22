@@ -6,7 +6,7 @@ name:     Jan Střítecký  	# běžně používáné jméno
 titles:
   before: Mgr. 
   after: Ph.D.
-mail: # může jich být více (samostatné odrážky)
+mail:
 - j.stritecky@seznam.cz
 img: people/jan-stritecky.jpg   # 165x220px
 description: Lektor a překladatel 	# kratký popis, max 160 znaků

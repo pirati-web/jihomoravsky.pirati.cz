@@ -6,7 +6,7 @@ name:     Jakub Sobocik  	# běžně používáné jméno
 titles:
   before: Mgr. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - jakub.sobocik@pirati.cz
 img: people/jakub-sobocik.jpg   # 165x220px
 description: Právník a člen Pirátské strany	# kratký popis, max 160 znaků

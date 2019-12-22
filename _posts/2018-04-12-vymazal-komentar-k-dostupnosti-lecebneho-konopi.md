@@ -17,4 +17,4 @@ Při průměrné spotřebě 60 gramů za měsíc a aktuální ceně 200 až 300 
 Mezi lékaři je velký zájem o školení k předepisování konopí, ale možnost konopí předepisovat využívají jen velmi vzácně s ohledem na vysoké ceny a nízké zásoby. Mnoho pacientů proto vstupuje na černý trh. Pan ministr Vojtěch Adam se při svém uvedení do funkce vyjádřil, že se o dostupnost léčebného konopí postará, ale stále se nic nezměnilo. Zajímalo by mě proto, zda má pan ministr své úředníky a další podřízené instituce pod kontrolou. Pakliže ano, kdy můžeme očekávat dostupné léčebné konopí pro všechny indikované pacienty v ČR? Je ministerstvo vůbec schopné tyto požadavky zajistit?
 
 Odkazy:
-* [Písemná interpelace ministra zdravotnictví](https://pirati.czbagrrr/pdf/interpelace_ministra_zdravotnictvi_dostupnost_lecebneho_konopi.pdf)
+* [Písemná interpelace ministra zdravotnictví](https://a.pirati.cz/jihomoravsky/pdf/interpelace_ministra_zdravotnictvi_dostupnost_lecebneho_konopi.pdf)

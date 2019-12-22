@@ -6,7 +6,7 @@ name:     Kateřina Mléčková  	# běžně používáné jméno
 titles:
   before: Mgr. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - katamleckova@gmail.com
 img: people/katerina-mleckova.jpg   # 165x220px
 description: Urban elfka 	# kratký popis, max 160 znaků

@@ -6,7 +6,7 @@ name:     Jaroslav Kameň  	# běžně používáné jméno
 titles:
   before: Ing. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - jaroslav.kamen@pirati.cz
 img: people/jaroslav-kupcik.jpg   # 165x220px
 description: Webový a herní vývojář, 2. místopředseda MS Brno 	# kratký popis, max 160 znaků

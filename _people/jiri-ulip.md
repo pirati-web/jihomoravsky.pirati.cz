@@ -13,7 +13,6 @@ mail:
 mob:			  
 profiles:       
   wiki: https://wiki.pirati.cz/lide/jiri_ulip
-  linkedin: https://www.linkedin.com/in/jiri-ulip-a9943a20
   twitter: https://twitter.com/JiriUlip
   compass: https://www.politicalcompass.org/printablegraph?ec=-3.88&soc=-4.72
 

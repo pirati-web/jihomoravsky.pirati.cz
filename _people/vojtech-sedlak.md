@@ -4,7 +4,7 @@ name:     Vojtěch Sedlák  	# běžně používáné jméno
 titles:
   before: MgA. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - vojtech@sedlax.cz
 img: people/vojtech-sedlak.jpg   # 165x220px
 description: Produkční 	# kratký popis, max 160 znaků

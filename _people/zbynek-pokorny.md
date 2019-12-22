@@ -3,7 +3,7 @@
 
 ### Povinné položky ###
 name:     Zbyněk Pokorný  	# běžně používáné jméno
-mail: # může jich být více (samostatné odrážky)
+mail:
 - zbynek.pokorny@pirati.cz
 img: people/zbynek-pokorny.jpg   # 165x220px
 description: Učitel a překladatel anglického jazyka 	# kratký popis, max 160 znaků

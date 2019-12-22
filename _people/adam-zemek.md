@@ -6,7 +6,7 @@ name:     Adam Zemek  	# běžně používáné jméno
 titles:
   before: 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - eda@bmhd.cz
 img: people/adam-zemek.jpg   # 165x220px
 description: Programátor a provozovatel dopravních webů 	# kratký popis, max 160 znaků

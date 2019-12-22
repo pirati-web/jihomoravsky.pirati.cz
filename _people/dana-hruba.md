@@ -4,7 +4,7 @@ name:     Dana Hrubá  	# běžně používáné jméno
 titles:
   before: Mgr. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - lepeid@seznam.cz
 img: people/dana-hruba.jpg   # 165x220px
 description: Učitelka na střední škole 	# kratký popis, max 160 znaků

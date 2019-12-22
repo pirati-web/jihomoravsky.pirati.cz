@@ -3,7 +3,7 @@
 
 ### Povinné položky ###
 name:     Martina Mikulincová  	# běžně používáné jméno
-mail: # může jich být více (samostatné odrážky)
+mail:
 - marti.mikuli@gmail.com
 img: people/martina-mikulincova.jpg   # 165x220px
 description: OSVČ a aktivní občanka 	# kratký popis, max 160 znaků
@@ -15,7 +15,6 @@ category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 ordzmczabovresky: 2
 
 profiles:
-  facebook: https://www.facebook.com/marti.mikuli
 
 supporting:
 - Transparentní a participativní politiku, starání se o veřejný majetek s péčí řádného hospodáře

@@ -4,7 +4,7 @@ name:     Kristýna Znamenáčková  	# běžně používáné jméno
 titles:
   before: Mgr. MgA. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - kristyna.znamenackova@pirati.cz
 img: people/kristyna-znamenackova.jpg   # 165x220px
 description: Učitelka hudby 	# kratký popis, max 160 znaků

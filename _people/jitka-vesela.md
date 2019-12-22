@@ -6,7 +6,7 @@ name:     Jitka Veselá  	# běžně používáné jméno
 titles:
   before: Ing. 
   after: Ph.D.
-mail: # může jich být více (samostatné odrážky)
+mail:
 - jitkavesela@yahoo.com
 img: people/jitka-vesela.png   # 165x220px
 description: Vysokoškolská pedagožka v oboru marketingu # kratký popis, max 160 znaků

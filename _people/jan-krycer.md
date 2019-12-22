@@ -3,7 +3,7 @@
 
 ### Povinné položky ###
 name:     Jan Kryčer  	# běžně používáné jméno
-mail: # může jich být více (samostatné odrážky)
+mail:
 
 img: people/jan-krycer.jpg   # 165x220px
 description: student mezinárodních vztahů, král majálesu 2018

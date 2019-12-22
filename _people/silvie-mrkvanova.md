@@ -6,7 +6,7 @@ name:     Silvie Mrkvanová  	# běžně používáné jméno
 titles:
   before: Mgr. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - silvie.mrkvanova@seznam.cz
 img: people/silvie-mrkvanova.jpg   # 165x220px
 description: Obchodnice v reklamě a jednatelka zahrádkářů 	# kratký popis, max 160 znaků
@@ -45,7 +45,7 @@ Pokud Vás něco o mně zajímá, napište mi, ráda Vám odpovím.
 ## Aktivní občanka
 
 * Kauza bytovky v Plovdivské ulici:
-  * [https://brnensky.denik.cz/zpravy_region/obavany-dum-v-zabovreskach-radnice-chce-pozemek-zpet-20170221.htmlhttps://brnensky.denik.cz/zpravy_region/obavany-dum-v-zabovreskach-radnice-chce-pozemek-zpet-20170221.html](https://brnensky.denik.cz/zpravy_region/obavany-dum-v-zabovreskach-radnice-chce-pozemek-zpet-20170221.htmlhttps://brnensky.denik.cz/zpravy_region/obavany-dum-v-zabovreskach-radnice-chce-pozemek-zpet-20170221.html){:target="_blank"}
+  * [https://brnensky.denik.cz/zpravy_region/obavany-dum-v-zabovreskach-radnice-chce-pozemek-zpet-20170221.html](https://brnensky.denik.cz/zpravy_region/obavany-dum-v-zabovreskach-radnice-chce-pozemek-zpet-20170221.html){:target="_blank"}
   * [https://brno.idnes.cz/stavba-domu-brno-zabovresky-petice-radnice-f2h-/brno-zpravy.aspx?c=A170224_2308158_brno-zpravy_krut#utm_source=rss&utm_medium=feed&utm_campaign=brnoh&utm_content=main](https://brno.idnes.cz/stavba-domu-brno-zabovresky-petice-radnice-f2h-/brno-zpravy.aspx?c=A170224_2308158_brno-zpravy_krut#utm_source=rss&utm_medium=feed&utm_campaign=brnoh&utm_content=main){:target="_blank"}
   * [https://brno.idnes.cz/plovdivska-byty-pudy-brno-waldorfska-skola-komunitni-centrum-pby-/brno-zpravy.aspx?c=A171010_356877_brno-zpravy_dh](https://brno.idnes.cz/plovdivska-byty-pudy-brno-waldorfska-skola-komunitni-centrum-pby-/brno-zpravy.aspx?c=A171010_356877_brno-zpravy_dh){:target="_blank"}
   * [https://brnensky.denik.cz/zpravy_region/vyuziti-byvale-vymenikove-stanice-detske-krouzky-misto-nechtene-bytove-vystavby-20180630.html](https://brnensky.denik.cz/zpravy_region/vyuziti-byvale-vymenikove-stanice-detske-krouzky-misto-nechtene-bytove-vystavby-20180630.html){:target="_blank"}

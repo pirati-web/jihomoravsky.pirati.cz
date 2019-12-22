@@ -6,7 +6,7 @@ name:     Jiří Hlavenka  	# běžně používáné jméno
 titles:
   before: Ing. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - hlavenka.jiri@kr-jihomoravsky.cz
 img: people/jiri-hlavenka.jpg   # 165x220px
 description: Podnikatel a investor v IT 	# kratký popis, max 160 znaků

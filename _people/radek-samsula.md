@@ -4,7 +4,7 @@ name:     Radek Šamšula  	# běžně používáné jméno
 titles:
   before: Bc. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - radek.samsula@gmail.com
 img: people/radek-samsula.jpg   # 165x220px
 description: Tvorba a správa webů a informačních systémů 	# kratký popis, max 160 znaků

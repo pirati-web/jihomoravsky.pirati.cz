@@ -6,7 +6,7 @@ name:     Jan Nádvorník  	# běžně používáné jméno
 titles:
   before: Ing. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - jenda.n@piratiboskovice.cz
 img: people/jan-nadvornik.jpg   # 165x220px
 description: CAD/PDM technik 	# kratký popis, max 160 znaků

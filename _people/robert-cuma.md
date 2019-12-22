@@ -16,7 +16,6 @@ mail:
 - robert.cuma@pirati.cz
 mob:			  
 profiles:             
-  facebook: https://www.facebook.com/robert.cuma.39
   wiki: https://wiki.pirati.cz/lide/robert_cuma
 
 supporting:

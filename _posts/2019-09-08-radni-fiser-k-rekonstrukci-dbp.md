@@ -19,7 +19,7 @@ image: posts/dbpbolekalolek_web.png # obrázek ideálně 420x677px minifikovaný
 Kdo by neznal divadlo umístěné na Jakubském náměstí, které provozuje herec a mim Bolek Polívka. Patří k nejnavštěvovanějším scénám v Brně, což se projevilo i na potřebě zrekonstruovat část divadla. Výsledkem je více pohodlí a komfortu pro diváky, kteří do Divadla Bolka Polívky zamíří během právě začínající sezóny. "Během července a srpna letošního roku byla v divadle položena nová podlaha z borovicových palubek a bylo vyměněno marmoleum pod sedačkami. Samotné sedačky byly kompletně repasovány, divák to pozná na první pohled i dotek," vyjmenovává opravy radní pro kulturu Marek Fišer. Dřevěné části 335 sedaček byly zbroušeny, dostaly nový nátěr a lak. Kování a panty byly vyměněny a sedáky a opěrky dostaly nový molitan a čalounění. "To zajistí návštěvníkům divadla mnohem více komfortu," říká Fišer a doplňuje: "Jsem moc rád, že se rekonstrukce podařila dokončit včas, aby si diváci, kteří zamíří na představení v podzimní sezóně, vychutnali kulturní zážitek ve větším pohodlí.
 
 
-<div style="text-align:center;margin-bottom:20px"><a href="https://jihomoravsky.pirati.czposts/mapa-prameniste-web.jpg" target="_blank">
+<div style="text-align:center;margin-bottom:20px"><a href="https://a.pirati.cz/jihomoravsky/img/posts/mapa-prameniste-web.jpg" target="_blank">
 <img src="https://a.pirati.cz/jihomoravsky/img/posts/dbpsedacky_web.png" style="max-width:100%">
 </a></div>
 

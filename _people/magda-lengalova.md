@@ -6,7 +6,7 @@ name: Magda Lengálová  	# běžně používáné jméno
 titles:
   before: Ing.
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - magda.lengalova@breclav.eu
 img: people/magda-lengalova.jpg   # 165x220px
 description: učitel a kulturní buditel 	# kratký popis, max 160 znaků

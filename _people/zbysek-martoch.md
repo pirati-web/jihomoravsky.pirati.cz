@@ -6,7 +6,7 @@ name:     Zbyšek Martoch   # běžně používáné jméno
 titles:
   before: Ing. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - zbysek.martoch@gmail.com
 img: people/zbysek-martoch.jpg   # 165x220px
 description: informatik, vývojář IS a odborný rada ÚOHS 	# kratký popis, max 160 znaků

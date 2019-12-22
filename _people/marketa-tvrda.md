@@ -1,6 +1,6 @@
 ---
 name: Markéta Tvrdá   	# běžně používáné jméno
-mail: # může jich být více (samostatné odrážky)
+mail:
 - marketa.tvrda@pirati.cz 
 img: people/marketa-tvrda.jpg   # 165x220px
 description:  Koordinátorka KS Jihomoravský kraj  	# kratký popis, max 160 znaků

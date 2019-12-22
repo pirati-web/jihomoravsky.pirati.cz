@@ -3,7 +3,7 @@
 
 ### Povinné položky ###
 name:     Petra Bubniaková  	# běžně používáné jméno
-mail: # může jich být více (samostatné odrážky)
+mail:
 - petra.bubniakova@seznam.cz
 img: people/petra-bubniakova.jpg   # 165x220px
 description: Mechanik 	# kratký popis, max 160 znaků

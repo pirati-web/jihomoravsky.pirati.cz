@@ -3,7 +3,7 @@
 
 ### Povinné položky ###
 name:     Jakub Maňura  	# běžně používáné jméno
-mail: # může jich být více (samostatné odrážky)
+mail:
 
 img: people/jakub-manura.jpg   # 165x220px
 description: Hypotéční bankéř	# kratký popis, max 160 znaků

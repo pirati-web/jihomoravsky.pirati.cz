@@ -6,7 +6,7 @@ name:     Eva Staňková  	# běžně používáné jméno
 titles:
   before: Ing. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - eva.stankova@pirati.cz
 img: people/eva-stankova.png   # 165x220px
 description: Podnikatelka, členka místního sdružení Znojemsko # kratký popis, max 160 znaků

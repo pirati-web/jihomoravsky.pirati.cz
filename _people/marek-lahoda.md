@@ -6,7 +6,7 @@ name:     Marek Lahoda  	# běžně používáné jméno
 titles:
   before: Mgr. 
   after:
-mail: # může jich být více (samostatné odrážky)
+mail:
 - mara.lahoda@gmail.com
 img: people/marek-lahoda.jpg   # 165x220px
 description: Geograf, klimatolog, datový analytik a propagátor udržitelné dopravy 	# kratký popis, max 160 znaků
@@ -18,7 +18,6 @@ category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 ordzmckrpole: 4
 mob: +420 732 732 490
 profiles:
-  facebook: https://www.facebook.com/Keramadohal
   linkedin: https://www.linkedin.com/in/marek-lahoda/
   twitter: https://twitter.com/MarekLahoda
   github: https://github.com/Keramadohal
