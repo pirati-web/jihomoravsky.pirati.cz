@@ -19,8 +19,8 @@ image: posts/RezPark1.png # obrázek ideálně 420x677px minifikovaný přes htt
 Rezidentní parkování nepochybně patřilo v posledním půl roce k nejdiskutovanějším brněnským tématům a jsem proto rád, že se nám v rámci koalice podařilo najít shodu na systému regulace parkování, který je jednodušší, srozumitelnější, levnější a vstřícnější k Brňákům.
 
 <div style="text-align:center">
-<a href="https://jihomoravsky.pirati.czposts/RezPark1.png" target="_blank">
-<img src="https://jihomoravsky.pirati.czposts/RezPark1.png" style="max-width:100%">
+<a href="https://a.pirati.cz/jihomoravsky/img/posts/RezPark1.png" target="_blank">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/RezPark1.png" style="max-width:100%">
 </a>
 </div>
 
@@ -42,8 +42,8 @@ Město bude nově rozděleno pouze na tři zóny regulace:
 Jako centrální s celodenní regulací budou nově vymezeny pouze ty části Brna-střed, které vzhledem k umístění instituce celoměstského významu vyžadují vyšší obrátkovost parkovacích míst, jak ilustruje následující obrázek (šedě je vyznačena již v současnosti zavedená oblast regulace).
 
 <div style="text-align:center">    
-<a href="https://jihomoravsky.pirati.czposts/RezPark2.png" target="_blank">
-<img src="https://jihomoravsky.pirati.czposts/RezPark2.png" style="max-width:100%">
+<a href="https://a.pirati.cz/jihomoravsky/img/posts/RezPark2.png" target="_blank">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/RezPark2.png" style="max-width:100%">
 </a>
 </div>
 
@@ -52,25 +52,25 @@ Zřetelného snížení se dočkají také všechny poplatky za parkovací oprá
 Změna ročních poplatků za parkovací oprávnění pro **rezidenty** bude následující:
 
 <div style="text-align:center">
-<img src="https://jihomoravsky.pirati.czposts/RezPark3a.png" style="max-width:100%">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/RezPark3a.png" style="max-width:100%">
 </div>
 
 Změna ročních poplatků za parkovací oprávnění pro **abonenty** (majitele provozoven) bude následující:
 
 <div style="text-align:center">
-<img src="https://jihomoravsky.pirati.czposts/RezPark3b.png" style="max-width:100%">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/RezPark3b.png" style="max-width:100%">
 </div>
 
 Zpoplatnění předplatné parkovací karty pro denní parkování v centrální zóně bude následující:
 
 <div style="text-align:center">
-<img src="https://jihomoravsky.pirati.czposts/RezPark3c.png" style="max-width:100%">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/RezPark3c.png" style="max-width:100%">
 </div>
 
 Významného zjednodušení se dočká také dopravní značení:
 
 <div style="text-align:center">
-<img src="https://jihomoravsky.pirati.czposts/RezPark4.png" style="max-width:100%">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/RezPark4.png" style="max-width:100%">
 </div>
 
 Návštěvníci města budou moci nově mimo automaty (akceptující platbu kartou) využít pro úhradu parkovného také platbu pomocí aplikace, či přes sms.

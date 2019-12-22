@@ -21,8 +21,8 @@ Od svého zvolení do Sněmovny se systematicky věnuji řízení o povolení t�
 A proč se snažíme záměr zastavit? Plánek níže ukazuje umístění pramenišť, prostoru, kde by měla těžba probíhat a také naznačuje směr proudění podzemních vod. Jak dokládá [odborný posudek vytvořený společností GEOtest](https://www.vak-hod.cz/vak/informujeme/petice/33_geotest_posudek.pdf){:target="_blank"}, panují odůvodněné obavy, že případná těžba zásadním způsobem ovlivní kvalitu vody jímané v prameništích Bezenec I a Bzenec III. Potvrzuje to i [matematický model, který vytvořila společnost Progeo](https://www.vak-hod.cz/vak/informujeme/petice/35_1%20Argumentacni-manual-Bzenec-FINAL3spodpisem.pdf){:target="_blank"} na základě několikaletého terénního měření. Ke [stejným závěrům došla i Česká geologická služba](https://www.vak-hod.cz/vak/informujeme/petice/45_2_cgs_1310_2017.pdf){:target="_blank"}, odborné pracoviště zřizované právě Ministerstvem životního prostředí.
 
 
-<div style="text-align:center;margin-bottom:20px"><a href="https://jihomoravsky.pirati.czposts/mapa-prameniste-web.jpg" target="_blank">
-<img src="https://jihomoravsky.pirati.czposts/mapa-prameniste-web.jpg" style="max-width:100%">
+<div style="text-align:center;margin-bottom:20px"><a href="https://a.pirati.cz/jihomoravsky/img/posts/mapa-prameniste-web.jpg" target="_blank">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/mapa-prameniste-web.jpg" style="max-width:100%">
 </a></div>
 
 

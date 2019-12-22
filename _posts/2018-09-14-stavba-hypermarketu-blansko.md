@@ -33,5 +33,5 @@ Je otázka, zda bychom z pozice zastupitelů mohli ještě od záměru odstoupit
 
 
 <div style="text-align:center">
-<img src="https://jihomoravsky.pirati.czposts/blansko-mapa.jpg" style="max-width:100%">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/blansko-mapa.jpg" style="max-width:100%">
 </div>
