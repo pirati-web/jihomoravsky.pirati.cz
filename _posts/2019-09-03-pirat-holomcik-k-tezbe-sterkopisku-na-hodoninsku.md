@@ -22,7 +22,7 @@ A proč se snažíme záměr zastavit? Plánek níže ukazuje umístění pramen
 
 
 <div style="text-align:center;margin-bottom:20px"><a href="https://a.pirati.cz/jihomoravsky/img/posts/mapa-prameniste-web.jpg" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/mapa-prameniste-web.jpg" style="max-width:100%">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/mapa-prameniste-web.jpg" alt="Mapa pramestiste" style="max-width:100%">
 </a></div>
 
 

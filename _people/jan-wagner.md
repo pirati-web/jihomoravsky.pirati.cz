@@ -7,7 +7,6 @@ img: people/jan-wagner.jpg # 165 x 220
 description: Nezávislý kandidát, elektromechanik v technologické firmě na výrobu elektronových mikroskopů  	# kratký popis, max 160 znaků
 
 profiles:
-  facebook: https://www.facebook.com/jan.wagner.88
 supporting:
 - svobodu informované volby
 - zjednodušení státu pomocí technologií

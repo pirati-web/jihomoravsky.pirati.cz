@@ -12,7 +12,6 @@ mail:
 - ales.kosina@pirati.cz
 mob: +420 721 406 060
 profiles:
-  facebook: https://www.facebook.com/ales.kosina.73
   wiki: https://wiki.pirati.cz/lide/ales_kosina
   linkedin:  https://www.linkedin.com/in/ales-kosina-80718325/
 supporting:

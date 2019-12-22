@@ -26,7 +26,7 @@ Sobotní akci hodnotí pozitivně, podle něj je jakákoli akce, kde se lidé do
 Uklízelo se ale i více na jihu. Ve Znojmě vyrazili Piráti do tamního parku. "Tuhle lokalitu jsme vybrali proto, že sami víme, že uklidit prostě potřebuje," přibližuje znojemský Pirát Šimon Fouček. Předseda MS Znojemsko Lukáš Dubec vyrazil pro změnu uklízet do Vranovské vsi. 
 
 <div style="text-align:center;margin-bottom:20px"><a href="https://a.pirati.cz/jihomoravsky/img/posts/dub_uklid_web.png" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/dub_uklid_web.png" style="max-width:100%">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/dub_uklid_web.png" alt="Foto z uklidu" style="max-width:100%">
 </a></div>
 
 Na to, jak Piráti uklízeli Česko, se [můžete podívat ve fotogalerii.](https://www.facebook.com/ceska.piratska.strana/posts/10156875220924039){:target="_blank"} A co vy, zapojili jste se také?

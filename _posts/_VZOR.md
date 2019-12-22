@@ -35,7 +35,8 @@ Lze vložit i rovnou HTML, např. obrázek:
 Zde máme obrázek s odkazem vycentrovaný na střed a přizpůsobující se šířkou velikosti okna prohlížeče:
 
 <div style="text-align:center"><a href="https://a.pirati.cz//jihomoravsky/img/posts/nadzemka_mapa_preview.png"target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/nazdemka_mapa_preview.png">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/nazdemka_mapa_preview.png" alt="Mapa nadzemky">
+
 </a></div>
 
 Nebo video na Facebooku:

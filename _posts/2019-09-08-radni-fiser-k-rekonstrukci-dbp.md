@@ -20,7 +20,7 @@ Kdo by neznal divadlo umístěné na Jakubském náměstí, které provozuje her
 
 
 <div style="text-align:center;margin-bottom:20px"><a href="https://a.pirati.cz/jihomoravsky/img/posts/mapa-prameniste-web.jpg" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/dbpsedacky_web.png" style="max-width:100%">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/dbpsedacky_web.png" alt="skupinové foto" style="max-width:100%">
 </a></div>
 
 Tím ale novinky v divadle nekončí. "Kromě návštěvníků se při plánování rekonstrukce myslelo i na herce a na divadlo samotné. Portál byl nově potažen nehořlavou textilií, byly pořízeny nové sametové šály a sufity (závěs kryjící horní část hlediště, pozn. red.) a i na podzim čeká divadlo další navazující opravy, které zajistí mimo jiné více bezpečnosti," popisuje radní Fišer.

@@ -11,7 +11,7 @@ tags: hodonín # kategorie odděleny mezerami, např. volby zemědělství živo
 
 ### Nepovinné položky ###
 # authorId: jaroslav.kupcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: people/group/hodonin.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: teams/hodonin.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 
 ---
 

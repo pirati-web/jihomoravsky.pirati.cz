@@ -13,7 +13,6 @@ img: people/denisa-bernardova.jpg   # 165 x 220
 description: Studentka, učitelka, aktivistka, věčný snílek o lepším vzdělávání  	# kratký popis, max 160 znaků
 profiles:
   linkedin: https://www.linkedin.com/in/denisa-bernardova-06259896/
-  facebook: https://www.facebook.com/denisa.eleanor.bernardova
   wiki: https://wiki.pirati.cz/lide/denisa_bernardova
 
 supporting:

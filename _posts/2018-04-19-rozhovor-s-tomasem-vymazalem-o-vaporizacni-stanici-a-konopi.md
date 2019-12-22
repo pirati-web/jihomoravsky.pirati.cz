@@ -20,7 +20,7 @@ Fakultní nemocnice u sv. Anny v Brně je jedna z prvních nemocnic, které kono
 
 Co se týče názvu stanice je z něj patrné, že se v ní budou lidé vzdělávat o léčbě konopím a budou pod vedením lékařského personálu inhalovat vaporizované (tj. odpařované, nikoliv kouřené) konopí, a to v přesně takové míře, která je pro konkrétního pacienta vhodná. Pacient léčící se psychoaktivním konopím totiž může bez předchozí zkušenosti s konkrétní odrůdou konopí poměrně snadno dosáhnout mírného předávkování, které způsobí dočasný nepříjemný stav, na základě kterého pacient usoudí, že léčba konopím není vhodná. Otevření vaporizační stanice je přelomové v tom, že nezkušeným pacientům umožní si na konopí zvyknout a naučit se s ním bez obav fungovat.
 
-<img class="hlavni" src="https://www.piratskelisty.cz/upload/thumbs/w600/2282.jpg" width="600">
+<img class="hlavni" src="https://www.piratskelisty.cz/upload/thumbs/w600/2282.jpg" alt="Duvody proč konopí" width="600">
 
 **Zmiňuješ minimální zájem veřejnosti o konopí na předpis. Co tím myslíš? Opravdu čeští pacienti nemají o konopí v současnosti zájem?**
 
@@ -30,7 +30,7 @@ Současný nízký zájem pacientů o legální léčebné konopí je odrazem je
 
 Podle Národního monitorovacího střediska pro drogy a závislosti je v ČR alespoň 300 000 lidí, kteří mají explicitní zájem užívat konopí k léčbě. Krom toho monitorovací středisko ve své zprávě mluví ještě o dalších 600 000 lidech, kteří uvádějí, že konopí k léčbě užívají, ale mají ho výhradně z legálních zdrojů. V tomto ohledu jde o běžně prodejné výrobky z konopí se zanedbatelným obsahem psychoaktivních účinných látek – látek, které způsobují, že léčebné konopí skutečně funguje.
 
-<img class="hlavni" src="https://www.piratskelisty.cz/upload/thumbs/w600/2286.jpg" width="600">
+<img class="hlavni" src="https://www.piratskelisty.cz/upload/thumbs/w600/2286.jpg" alt='slaid' width="600">
 
 **Proč je legální konopí pro pacienty tak drahé?**
 
@@ -53,7 +53,7 @@ Obecně můžu říct, že v případě léčebného konopí narážíme na neoc
 
 Náprava současného stavu je nevyhnutelná, ale bez tlaku veřejnosti a médií budeme čekat ještě dlouho. Pokud stát schválil zákon a není schopen ho sám naplňovat, pak je takový zákon samozřejmě zbytečný a jeho schválení bylo zřejmě jen pro efekt a body u veřejného mínění. S tím se Piráti samozřejmě nesmíří a budou vyvíjet tlak na ministra a veškeré další autority, které mohou vzniklou situaci řešit.
 
-<img class="hlavni" src="https://www.piratskelisty.cz/upload/thumbs/w600/2284.jpg" width="600">
+<img class="hlavni" src="https://www.piratskelisty.cz/upload/thumbs/w600/2284.jpg" alt='slaid' width="600">
 
 **A co během toho čekání mají těžce nemocní pacienti dělat? Mají konopí nakupovat pokoutně?**
 
