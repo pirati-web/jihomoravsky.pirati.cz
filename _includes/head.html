@@ -50,10 +50,14 @@
         {% endif %}
         <meta property="og:image"         content="{{ img_path | absolute_url }}" />
     {% elsif page.img %}
-    {% capture img_path %}{% asset '{{ page.img }}' @path %}{% endcapture %}
-    <meta property="og:image"         content="{{ img_path | absolute_url }}" />
+        {% if site.mediaStorage %}
+            {% capture imgPath %}https://a.pirati.cz/{{ site.mediaStorage }}/img/{{ include.img }}{% endcapture %}
+        {% else %}
+            {% capture img_path %}{% asset '{{ page.image }}' @path %}{% endcapture %}
+        {% endif %}
+        <meta property="og:image"         content="{{ img_path | absolute_url }}" />
     {% else %}
-    <meta property="og:image"         content="{{ 'assets/img/brand/logo-round.png' | absolute_url }}" />
+        <meta property="og:image"         content="{{ 'assets/img/brand/logo-round.png' | absolute_url }}" />
     {% endif %}
     <!-- Fonts -->
     {% if page.layout != 'blank' %}
