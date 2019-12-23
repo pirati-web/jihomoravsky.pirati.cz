@@ -2,17 +2,16 @@
 #název souboru: 2019-03-11-jak-jsme-prisli-ke-komisim-v-krpoli.md
 ### Povinné položky ###
 
-layout: post       # nešahat!
+layout: blog       # nešahat!
 category: CLANKY   # nešahat!
 title: Jak jsme ke komisím na královopolské radnici přišli aneb O nás bez nás
 date: 2019-03-11  # formát YYYY-MM-DD
 author: Miroslav Bárta
 tags: brno krpole # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
-image: brand/logo-cb.svg
 
 ### Nepovinné položky ###
 authorId: miroslav.barta # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-#image: posts/old_armenian_book.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+#image: /assets/img/posts/old_armenian_book.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 
 ---
 
@@ -22,7 +21,7 @@ Ocitli jsme se tedy v opozici a nezbylo než čekat, jaká místa ve výborech a
 
 Vyvolali jsme proto jednání s paní starostkou Karin Karasovou (ANO), kde jsme požadovali zastoupení ve všech komisích a výborech a také – s ohledem na náš status nejsilnější opoziční strany – pozici předsedy kontrolního výboru (KV). Paní starostka nám sdělila, že post předsedy KV dostanou komunisté, protože už dříve tuto funkci dělali opravdu dobře. Co ale znamená ono „opravdu dobře“? Komunisté do ničeho totiž zřejmě tzv. nestrkali nos, což jsme si následně ověřili zjištěním, že někteří úředníci radnice ani neznají kompetence KV. Nezbylo nám nic jiného než paní starostku Karasovou upozornit na to, že zveřejníme skutečnost tiché koalice s KSČM. 
 
-Následující jednání s koalicí proběhlo za přítomnosti starostky a současného 1. místostarosty Zbyňka Šolce (ODS). Bylo nám sděleno, že pozici předsedy KV přeci jen dostaneme, zároveň ale bude počet členů KV navýšen z 9 na 11, a to proto, aby koalice měla většinu a nedopustila přehnanou kontrolu své práce. Stejné navýšení počtu členů, tj. o dva, proběhlo také v redakční radě, která má na starost vydávání Královopolských listů. Jednoduše řečeno si koalice zajistila právo veta nad kontrolou své práce a také nad radničními novinami. A toto právo funguje dobře – už nám byl zamítnut článek o brněnském participativním rozpočtu. Snad proto, že je tolik úspěšná participace z dílny Pirátů? [Článek si můžete přečíst zde](https://jihomoravsky.pirati.cz/tiskove-zpravy/proc-koalice-nezverejnila-clanek.html).
+Následující jednání s koalicí proběhlo za přítomnosti starostky a současného 1. místostarosty Zbyňka Šolce (ODS). Bylo nám sděleno, že pozici předsedy KV přeci jen dostaneme, zároveň ale bude počet členů KV navýšen z 9 na 11, a to proto, aby koalice měla většinu a nedopustila přehnanou kontrolu své práce. Stejné navýšení počtu členů, tj. o dva, proběhlo také v redakční radě, která má na starost vydávání Královopolských listů. Jednoduše řečeno si koalice zajistila právo veta nad kontrolou své práce a také nad radničními novinami. A toto právo funguje dobře – už nám byl zamítnut článek o brněnském participativním rozpočtu. Snad proto, že je tolik úspěšná participace z dílny Pirátů? [Článek si můžete přečíst zde](/aktuality/proc-koalice-nezverejnila-clanek.html).
 
 Dále nám na této schůzi byla nabídnuta místa ve finančním výboru, v redakční radě a těchto komisích: pro životní prostředí a sport, dopravní, školské, sociální a zdravotní. Do komise majetkové, bytové a do výstavby a územního plánování nás koalice odmítla pustit. Můžeme se pouze domnívat proč. Ujali jsme se tedy alespoň místa vedoucího pracovní skupiny pro IT, abychom vyvedli Královo Pole z digitálního středověku.
 

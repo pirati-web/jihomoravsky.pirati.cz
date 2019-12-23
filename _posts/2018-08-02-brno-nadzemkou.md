@@ -2,7 +2,7 @@
 #název souboru: YYYY-MM-DD-nazev-clanku-bez-mezer-a-diakritiky
 ### Povinné položky ###
 
-layout: post       # nešahat!
+layout: blog       # nešahat!
 category: CLANKY   # nešahat!
 title: Brno nadzemkou – Ondřej Kotas představuje projekt brněnské nadzemní dráhy
 date: 2018-08-02   # formát YYYY-MM-DD
@@ -11,7 +11,7 @@ tags: brno doprava nádraží # kategorie odděleny mezerami, např. volby země
 
 ### Nepovinné položky ###
 authorId: ondrej.kotas # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: posts/brno_nadzemka_crop.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/brno_nadzemka_crop.jpg 
 
 ---
 
@@ -34,8 +34,8 @@ Tato nadzemní dráha propojí židenické nádraží se starým a novým hlavn�
 tramvaje nebo vlakotramvaje a umožní vznik nových zastávek (například Špitálka, Opuštěná nebo
 Holandská – viz obrázek).
 
-<div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/nadzemka_mapa_full.png" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/nadzemka_mapa_preview.png" style="max-width:100%">
+<div style="text-align:center"><a href="https://jihomoravsky.pirati.cz/assets/img/posts/nadzemka_mapa_full.png" target="_blank">
+<img src="https://jihomoravsky.pirati.cz/assets/img/posts/nadzemka_mapa_preview.png" alt="mapa" style="max-width:100%">
 </a></div>
 
 Nová nadzemní dráha umožňuje taktéž do budoucna propojit přímou linkou centrum města s
@@ -47,6 +47,6 @@ Jak jsem již zmínil, nadzemní dráhu v Brně chceme vybudovat jako dočasné 
 SJKD či dalších dopravních staveb napojujících nové nádraží. Poté nebudeme bránit, aby proběhla
 sanace tohoto drážního tělesa v souladu s Územním plánem.
 
-<div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/nadzemka_situace_full.png" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/nadzemka_situace_preview.png" style="max-width:100%">
+<div style="text-align:center"><a href="https://jihomoravsky.pirati.cz/assets/img/posts/nadzemka_situace_full.png" target="_blank">
+<img src="https://jihomoravsky.pirati.cz/assets/img/posts/nadzemka_situace_preview.png" alt="mapa" style="max-width:100%">
 </a></div>

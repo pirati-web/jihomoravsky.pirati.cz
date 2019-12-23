@@ -1,18 +1,18 @@
 ---
-layout: post
+layout: blog
 category: CLANKY
 title: 'Boj se suchem: nesmysl, nebo nutnost?'
 date: 2017-06-08T11:26:55.687Z
 author: Radek Holomčík
 authorId: radek.holomcik
-image: posts/2014_druoght (1).jpg
+image: 2014_druoght_(1).jpg
 description: >-
   Boj proti suchu není “poroučením větru dešti”, ale jasně vyjádřený požadavek
   na jednoduchý, transparentní a fungující stát, který nebuzeruje své občany a
   řeší závažné problémy.
 tags: sucho zemědělství životní-prostředí
 ---
-Po vydání mého článku “[Sucho v ČR nechceme!](https://jihomoravsky.pirati.cz/tiskove-zpravy/sucho-v-r-nechceme.html){:target="_blank"}” se vyrojila řada reakcí, povětšinou souhlasných. Ozývaly se ale i hlasy, že jsme (neo)marxisti, kteří chtějí poroučet větru dešti a že máme zcestné myšlenky. S tímhle přístupem se potkávám i při diskuzích.  Jak to tedy je - je boj se suchem nesmysl?
+Po vydání mého článku “[Sucho v ČR nechceme!](/aktuality/sucho-v-r-nechceme.html){:target="_blank"}” se vyrojila řada reakcí, povětšinou souhlasných. Ozývaly se ale i hlasy, že jsme (neo)marxisti, kteří chtějí poroučet větru dešti a že máme zcestné myšlenky. S tímhle přístupem se potkávám i při diskuzích.  Jak to tedy je - je boj se suchem nesmysl?
 
 Často mi hlavě zní “modlitba”, která prosí o odvahu měnit věci, co měnit jdou, sílu přijmout ty, co změnit nejdou a moudrost je od sebe rozeznat. A zní mi v hlavě pokaždé, když o suchu přemýšlím. Na změnu klimatu i na to, že prší jinak (méně často, ale ve větším množství) si prostě musíme zvykat a tedy se přizpůsobit. Ale můžeme změnit náš přístup k půdě a krajině.
 
