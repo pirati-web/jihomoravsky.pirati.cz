@@ -10,7 +10,7 @@ tags: tomáš-koláčný finance Brno # kategorie odděleny mezerami, např. vol
 
 ### Nepovinné položky ###
 #authorId: radek.holomcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: posts/tomkolacny_web.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/tomas_kolacny.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Proč řešíme těžbu štěrkopísku mezi Moravským Pískem a Uherským Ostrohem? Podrobné info o celé kauze.
 
 ---
