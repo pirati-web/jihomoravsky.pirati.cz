@@ -1,9 +1,9 @@
 <!-- include.article -->
 <article itemtype="http://schema.org/BlogPosting" class="c-article-listing c-article-listing--vertical" itemscope="">
-  <link itemprop="mainEntityOfPage" href="{{ include.article.url | absolute_url }}">
+  <link itemprop="mainEntityOfPage" href="{{ include.article.url }}">
 
   <div class="c-article-listing__photobox">
-    <a href="{{ include.article.url | relative_url }}">
+    <a href="{{ include.article.url }}">
       <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-article-listing__image {% if include.article.youtubeVideoId %}c-article-listing__image--videoicon{% endif %}" itemscope="">
         {% if site.mediaStorage %}
             {% capture imgPath %}https://a.pirati.cz/resize/348x232/{{ site.mediaStorage }}/img/{{ include.article.image }}{% endcapture %}

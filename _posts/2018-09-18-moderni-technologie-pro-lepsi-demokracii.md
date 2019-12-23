@@ -2,7 +2,6 @@
 #název souboru: YYYY-MM-DD-nazev-clanku-bez-mezer-a-diakritiky
 ### Povinné položky ###
 
-layout: blog       # nešahat!
 category: CLANKY   # nešahat!
 title: Moderní technologie zlepší fungování demokracie
 date: 2018-09-18  # formát YYYY-MM-DD
@@ -11,7 +10,7 @@ tags: brno komunální-volby královo-pole open-source otevřenost participace p
 
 ### Nepovinné položky ###
 authorId: jaroslav.kupcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: group/krpole-high.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: teams/krpole-high.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 
 ---
 

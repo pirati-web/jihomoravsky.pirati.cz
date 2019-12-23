@@ -2,7 +2,6 @@
 #název souboru: 2019-03-11-jak-jsme-prisli-ke-komisim-v-krpoli.md
 ### Povinné položky ###
 
-layout: blog       # nešahat!
 category: CLANKY   # nešahat!
 title: Jak jsme ke komisím na královopolské radnici přišli aneb O nás bez nás
 date: 2019-03-11  # formát YYYY-MM-DD

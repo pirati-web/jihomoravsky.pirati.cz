@@ -2,7 +2,6 @@
 #název souboru: 2019-03-20-nova-regulace-parkovani-v-brne.md
 ### Povinné položky ###
 
-layout: blog       # nešahat!
 category: CLANKY   # nešahat!
 title: Nová regulace parkování ve městě Brně
 date: 2019-03-20   # formát YYYY-MM-DD
@@ -11,7 +10,7 @@ tags: brno parkování # kategorie odděleny mezerami, např. volby zemědělstv
 
 ### Nepovinné položky ###
 authorId: tomas.kolacny # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: /assets/img/posts/RezPark1.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/RezPark1.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
