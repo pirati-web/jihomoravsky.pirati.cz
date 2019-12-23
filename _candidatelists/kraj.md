@@ -10,11 +10,11 @@ leader:
   description: expert na skoky # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: jiri.havelka
+  - uid: jiri.hlavenka
     profession: knihovníki
     description: expert na skoky
     party: bez politické příslušnosti
-  - uid: jana.leithnerova
+  - uid: jana.leitnerova
     profession: knihovník
   - uid: aktivni.priznivec
     age: 63
