@@ -10,7 +10,7 @@ residences:
                           Údolní 37 (suterén)
                           60200 Brno
    spravce: vendula.svobodova
-   residenceImg: miscellaneous/residence.png
+   residenceImg: 'https://a.pirati.cz/jihomoravsky/img/miscellaneous/residence.png'
    mapLink: "SCcP8sLSHGg5pSBr8"
  - name: Poslanecká kancelář <br> Tomáš Vymazal
   # url: https://www.facebook.com/PirateSpaceBrno/
