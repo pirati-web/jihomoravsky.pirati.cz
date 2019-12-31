@@ -11,9 +11,9 @@
         {%- if include.item.img -%}
             {% if site.mediaStorage %}
               {%- if include.imgSize != 'big' -%}
-                {% capture img %}https://a.pirati.cz/resize/100x100/{{ site.mediaStorage }}/img/{{ include.item.img }}{% endcapture %}
+                {% capture img %}https://a.pirati.cz/crop/100x100/{{ site.mediaStorage }}/img/{{ include.item.img }}{% endcapture %}
               {%- else -%}
-                {% capture img %}https://a.pirati.cz/resize/165x165/{{ site.mediaStorage }}/img/{{ include.item.img }}{% endcapture %}
+                {% capture img %}https://a.pirati.cz/crop/165x165/{{ site.mediaStorage }}/img/{{ include.item.img }}{% endcapture %}
               {%- endif -%}
             {%- else -%}
               {%- if include.imgSize != 'big' -%}

@@ -1,7 +1,7 @@
 <div class="o-section-block o-section-block-fill">
   <div class="c-headline-media">
     {% if site.mediaStorage %}
-        {% capture imgPath %}https://a.pirati.cz/resize/751x422/{{ site.mediaStorage }}/img/{{ include.image }}{% endcapture %}
+        {% capture imgPath %}https://a.pirati.cz/crop/751x422/{{ site.mediaStorage }}/img/{{ include.image }}{% endcapture %}
     {% else %}
         {% capture imgPath %}{% asset '{{ include.image }}' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' @path %}{% endcapture %}
     {% endif %}

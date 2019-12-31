@@ -5,6 +5,12 @@
 
 @import 'pirati.scss';
 
+.c-profile-badge__anchor {
+  display: block;
+  max-width: 165px;
+}
+
+
 .pricing-table {
 
   border: solid 1px #DDDDDD;
