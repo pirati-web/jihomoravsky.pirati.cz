@@ -136,6 +136,7 @@ defaults:   # defaults values for collection scope
       rbar: 
         - foto
         - personContact
+        - personArticles
           #- people
   -
     scope:

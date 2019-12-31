@@ -1,0 +1,32 @@
+
+{% if page.board %}
+  <aside class="o-section">
+    <div class="o-section-inner o-section-inner--rightBlock">
+      <div class="o-section-block">
+        <div class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+          <div class="c-widget-accordion-content" data-tab-content="">
+            {% if page.boardName %}
+              <h3> {{ page.boardName }} </h3>
+            {% else %}
+              <h3>Předsednictvo</h3>
+            {% endif %}
+            <ul>
+              {% for chair in page.board %}
+                {% if chair.uid %}
+                    {% assign person = site.people | where_exp: "item","item.uid contains chair.uid" | first %}
+                    <li> {{chair.position}}: <strong> <a href="{{person.url}}" > {{ person.name }} </a> </strong> </li>
+                {% else %}
+                    <li> {{chair.position}}: <strong> {{ chair.name }} </strong> </li>
+                {% endif %}
+              {% endfor %}
+
+            </ul>
+            {% if page.boardTurn %}
+                konec mandátu: <a href="{{ page.boardTurn.electionUrl }}" style="text-decoration:underline"> {{ page.boardTurn.endDate }} </a></li>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside>
+{% endif %}

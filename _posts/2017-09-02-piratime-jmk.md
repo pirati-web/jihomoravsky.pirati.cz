@@ -4,6 +4,7 @@ category: CLANKY
 title: Kde a kdy se můžete setkat s Pirátskou posádkou na plavbě do Poslanecké sněmovny?
 date: 2017-09-01T08:39:53.527Z
 author: Jaroslav Kupčík
+authorID: jaroslav.kupcik
 image: posts/top-5-jmk.jpg
 description: >-
   Kde a kdy se můžete setkat s Pirátskou posádkou v Jihomoravském kraji na plavbě do Poslanecké v roce 2017.

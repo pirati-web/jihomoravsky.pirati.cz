@@ -1,0 +1,21 @@
+<div class="o-section-block--spaceBot show-for-large">
+    <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+        <li class="c-widget-accordion-item is-active" data-accordion-item="">
+            <a href="#toc" class="c-widget-accordion-link">
+                <span class="c-widget-accordion__title">{{ include.title }}</span>
+            </a>
+            <div class="c-widget-accordion-content" data-tab-content="" id="toc">
+                <ul class="c-widget-accordion-list"> <ul>
+                {% assign posts = include.posts | sort: "date" | reverse %}
+                {% for post in posts limit: 30 %}
+                    <li>
+                        <a href="{{ post.url }}">
+                            {{ post.title }}
+                        </a>
+                    </li>
+                {% endfor %}
+                </ul> </ul>
+            </div>
+        </li>
+    </ul>
+</div>
