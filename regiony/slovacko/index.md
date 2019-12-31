@@ -1,32 +1,33 @@
 ---
-layout: default
+layout: page
+rbar: 
+  - board
+  - tagArticles
 redirect_from:
   - /msslovacko/
   - /slovacko/
   - /regiony/slovacko.html
+tag: Slováckao
+boardName: Předsednitvo
+#boardTurn:
+#    electionUrl: https://github.com/pirati-web/stredocesky.pirati.cz/edit/master/kladno/index.md
+#    endDate: 01.02.2021 
+board:
+   - position: Předseda
+     uid: petr.vlasak
+   - position: 1. místopředsedkyně
+     uid: magda.lengalova
+   - position: 2. místopředseda
+     name: Zbyněk Janoška
+   - position: 3. místopředseda
+     name: Dušan Hanuš 
+   - position: 4. místopředseda
+     name: Michal Švagerka 
 ---
-<div class="row">
-  <div class="medium-12 large-12 columns">
-    <section class="o-section o-section--noSpaceBottom">
-      <div class="o-section-inner">
-        <div class="c-BasicPage">
-          <div class="vspace-nb-m">
-
-<h1>Místní sdružení Slovácko</h1>
-<h2>Předsednictvo</h2>
-<ul>
-  <li>Předseda: Petr Vlasák </li>
-  <li>1. místopředseda: Magda Lengálová</li>
-  <li>2. místopředseda: Mgr. Zbyněk Janoška, Ph.D.</li>
-  <li>3. místopředseda: Dušan Hanuš </li>
-  <li>4. místopředseda: Michal Švagerka </li>
-</ul>
 
 
+# Místní sdružení Slovácko
 
-          </div>
-        </div>
-      </div>
-    </section>
-  </div>
-</div>
+{% include articles/tag-filtered-news.html tag=page.tag %}
+
+

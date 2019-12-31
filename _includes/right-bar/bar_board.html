@@ -12,10 +12,12 @@
             {% endif %}
             <ul>
               {% for chair in page.board %}
-                {% assign person = site.people | where_exp: "item","item.uid contains chair.uid" | first %}
-                <li>
-                  {{chair.position}}: <strong> <a href="{{person.url}}" > {{ person.name }} </a> </strong>
-                </li>
+                {% if chair.uid %}
+                    {% assign person = site.people | where_exp: "item","item.uid contains chair.uid" | first %}
+                    <li> {{chair.position}}: <strong> <a href="{{person.url}}" > {{ person.name }} </a> </strong> </li>
+                {% else %}
+                    <li> {{chair.position}}: <strong> {{ chair.name }} </strong> </li>
+                {% endif %}
               {% endfor %}
 
             </ul>
