@@ -2,12 +2,10 @@
 layout: page
 rbar: 
   - board
-  - tagArticles
 redirect_from:
   - /msznojemsko/
   - /znojemsko/
   - /regiony/znojemsko.html
-tag: Znojemsko
 boardName: Předsednitvo
 #boardTurn:
 #    electionUrl: https://github.com/pirati-web/stredocesky.pirati.cz/edit/master/kladno/index.md
@@ -25,6 +23,10 @@ board:
      name: Michal Švagerka 
 ---
 
+{% capture md %} 
+
 # Místní sdružení Znojemsko
 
-{% include articles/tag-filtered-news.html tag=page.tag %}
+{% endcapture %}
+{{ md | markdownify }}
+

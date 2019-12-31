@@ -2,12 +2,10 @@
 layout: page
 rbar: 
   - board
-  - tagArticles
 redirect_from:
   - /msslovacko/
   - /slovacko/
   - /regiony/slovacko.html
-tag: Slováckao
 boardName: Předsednitvo
 #boardTurn:
 #    electionUrl: https://github.com/pirati-web/stredocesky.pirati.cz/edit/master/kladno/index.md
@@ -25,9 +23,12 @@ board:
      name: Michal Švagerka 
 ---
 
+{% capture md %} 
 
 # Místní sdružení Slovácko
 
-{% include articles/tag-filtered-news.html tag=page.tag %}
+{% endcapture %}
+{{ md | markdownify }}
+
 
 
