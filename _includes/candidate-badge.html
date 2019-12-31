@@ -1,0 +1,27 @@
+<div class="c-program-candidate-badge">
+  <a class="c-program-candidate-badge__body" href="{{ include.candidatePage.url | relative_url }}">
+      <span class="c-program-candidate-badge__rank"><span>{{ include.rank }}</span></span>
+      <div class="c-program-candidate-badge__avatar">
+          {% if include.candidatePage.img %}
+            {% if site.mediaStorage %}
+                {% capture img %}https://a.pirati.cz/resize/225x225/{{ site.mediaStorage }}/img/{{ include.candidatePage.img }}{% endcapture %}
+            {%- else -%}
+                {% capture img %}{% asset '{{ include.candidatePage.img }}' magick:resize='225x225^' magick:gravity='center' magick:crop='225x225+0+0' @path %}{% endcapture %}
+            {%- endif -%}
+          {% else %}
+            {% capture img %}https://a.pirati.cz/common/img/people/unknown-pirate.svg{% endcapture %}
+          {% endif %}
+          <img src="{{ img }}" alt="{% include people/fullname.html person=include.candidatePage plain=true %}" class="c-program-candidate-badge__avatar-image">
+      </div>
+      <div class="c-program-candidate-badge__description">
+          <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">{% include people/fullname.html person=include.candidatePage %}</span></h4>
+          <strong class="c-program-candidate-badge__profession">
+              {% if include.candidate.age %} {{ include.candidate.age }} let, {% endif %}
+              {{ include.candidate.profession }}{% if include.candidate.party %}, {{ include.candidate.party }} {% endif %}
+          </strong>
+          {% if include.candidate.description %}
+          <p class="c-program-candidate-badge__bio">{{ include.candidate.description }}</p>
+          {% endif %}
+      </div>
+  </a>
+</div>
