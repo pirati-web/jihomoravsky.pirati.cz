@@ -1,0 +1,25 @@
+
+{% assign posts = site.posts | where_exp: "item","item.authorId contains page.uid" | sort:"ordpak" %}
+
+{% if posts %}
+<div class="o-section-block--spaceBot show-for-large">
+    <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+        <li class="c-widget-accordion-item is-active" data-accordion-item="">
+            <a href="#toc" class="c-widget-accordion-link">
+                <span class="c-widget-accordion__title">Seznam článků</span>
+            </a>
+            <div class="c-widget-accordion-content" data-tab-content="" id="toc">
+                <ul class="c-widget-accordion-list"> <ul>
+                {% for post in posts %}
+                    <li>
+                        <a href="{{ post.url }}">
+                            {{ post.title }}
+                        </a>
+                    </li>
+                {% endfor %}
+                </ul> </ul>
+            </div>
+        </li>
+    </ul>
+</div>
+{% endif %}
