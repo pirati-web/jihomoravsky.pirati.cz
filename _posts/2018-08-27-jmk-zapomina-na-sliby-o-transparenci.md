@@ -7,6 +7,7 @@ category: CLANKY   # nešahat!
 title: Jihomoravský kraj rychle zapomíná na sliby o transparentnosti
 date: 2018-08-27   # formát YYYY-MM-DD
 author: Jiří Hlavenka
+authorID: jiri.hlavenka
 tags: otevřenost transparence jmk # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 image: brand/logo-cb.svg
 

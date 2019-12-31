@@ -1,0 +1,5 @@
+{% assign posts = site.posts | where_exp: "item","item.tags contains page.tag" | sort:"date" %}
+
+{% if posts %}
+    {% include right-bar/rbar_articles.html posts=posts title="Seznam článku" %}
+{% endif %}
