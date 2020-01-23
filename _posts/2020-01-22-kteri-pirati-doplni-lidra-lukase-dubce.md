@@ -24,6 +24,6 @@ Už začátkem listopadu si krajské fórum Pirátů v JmK zvolila jako lídra k
 
 Jiří Hlavenka, číslo 2 na pirátské kandidátce, se chce i nadále věnovat (nejen) oblasti informačních technologií a transparentnosti. Jana Leitnerová chce řešit sociální problematiku, zejména pak odlehčovací služby, paliativní péči a podporu pro rodiny nejen v tíživých situacích. Ivo Vašíček se plánuje věnovat zejména dopravě v Jihomoravském kraji a Petr Springinsfeld, který uzavírá první pětku kandidátky, se chce věnovat legislativním tématům, kontrole a transparentnosti.
 
-Ještě ke konci loňského roku byli zvoleni další kandidáti a kandidátky, posty 6–11 na pirátské kandidátce obsadili břeclavský radní a pedagog Petr Vlasák, zastupitelka Brno-Žabovřesky Silvie Mrkvanová, znojemská Pirátka Eva Havlová, zastupitel Králova Pole Miroslav Bárta, zakladatel Pirátů Jiří Kadeřávek a projektant a manažer Marek Lukáš.
+Ještě ke konci loňského roku byli zvoleni další kandidáti a kandidátky, posty 6–11 na pirátské kandidátce obsadili břeclavský radní a pedagog Petr Vlasák, zastupitelka MČ Brno-Žabovřesky Silvie Mrkvanová, znojemská Pirátka Eva Havlová, zastupitel MČ Brno–Královo Pole Miroslav Bárta, zakladatel Pirátů Jiří Kadeřávek a projektant a manažer Marek Lukáš.
 
 Tento týden pak členové a členky ve volbě obsadili další místa kandidátky, na místa 12–22 byli zvoleni Michal Švagerka, Jaroslav Kameň, Adam Vyplel, Lukáš Mamula, Šimon Fouček, Alena Pavlasová, Barbora Turek Lahová, Patrik Doležal, Michal Škerle, Petr Ilgner a Tomáš Pastirčák.
