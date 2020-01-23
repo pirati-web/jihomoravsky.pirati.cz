@@ -36,7 +36,9 @@ contactPersons:
  - id: jana.leitnerova
    position: Kontakt pro média
  - id: vendula.svobodova
+ - id: marketa.tvrda
    position: Kontakt pro dobrovolníky
+ 
 ---
 
 
