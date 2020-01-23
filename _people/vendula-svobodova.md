@@ -1,5 +1,5 @@
 ---
-name: Vendula Svodobova   	# běžně používáné jméno
+name: Vendula Svobodova   	# běžně používáné jméno
 mail:
 - vendula.svobodova@pirati.cz 
 img: people/vendula-svobodova.jpg   # 165x220px
