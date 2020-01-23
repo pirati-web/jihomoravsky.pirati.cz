@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Lukáš Dubec lídrem, a kdo dál? Piráti v Jihomoravském kraji mají navolenu už třetinu kandidátky
+title: Lukáš Dubec lídrem, kdo dál? Piráti v Jihomoravském kraji si navolili už třetinu kandidátky
 date: 2020-01-22   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Piráti krajské-volby Jihomoravský-kraj # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
