@@ -15,6 +15,8 @@ image: posts/fiser_kolacny_web.png # obrázek ideálně 420x677px minifikovaný 
 
 ---
 
+Dnes se opět sešla Rada města Brna, jejíž součástí jsou i Piráti. Přinášíme krátké shrnutí, co se děje v oblastech, které mají Piráti na starosti. 
+
 Podpora inovací
 
 Prototypuj a ověřuj je nový program Jihomoravského inovačnío centra, na který od města na návrh Pirátů poputuje téměř 6 milionů korun. *„Cílem programu Prototypuj a ověřuj je podpořit slibné inovativní záměry malých a středních podniků (MSP) v Jihomoravském kraji, zejména ranou fázi vývoje a výroby prototypů a jejich technologické a tržní ověřování. Podniky bez funkčního prototypu svého produktu mají často problém sehnat investora ze soukromého i bankovního sektoru, či dosáhnout na dotační tituly a v případě, kdy nedisponují vlastním kapitálem, jsou odkázání právě na podporu z obdobných programů (Prototypuj a ověřuj navazuje na obdobný program evropské unie, tzv. SME instrument),“* vysvětlil náměstek Tomáš Koláčný. 
