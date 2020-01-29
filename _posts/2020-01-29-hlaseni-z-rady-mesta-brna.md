@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Pirátské hlášení z Rady města Brna: podpora inovací, PaRo, otevřené výběrové řízení a rozšíření Brno ID
+title: "Pirátské hlášení z Rady města Brna: podpora inovací, PaRo, otevřené výběrové řízení a rozšíření Brno ID"
 date: 2020-01-29   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Piráti Brno # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
