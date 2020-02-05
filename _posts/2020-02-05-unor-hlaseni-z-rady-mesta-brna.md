@@ -1,5 +1,5 @@
 ---
-#název souboru: 2020-02-05-hlaseni-z-rady-mesta-brna.md
+#název souboru: 2020-02-05-unor-hlaseni-z-rady-mesta-brna.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
