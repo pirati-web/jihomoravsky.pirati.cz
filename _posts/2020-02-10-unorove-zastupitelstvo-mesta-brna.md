@@ -38,7 +38,3 @@ Letošní [Dáme na vás](https://damenavas.brno.cz/){:target="_blank"} startuje
 Možná jste zaznamenali, že brněnský dopravní podnik v roce 2018 zahájil rekonstrukci historické lodi Dallas, která od roku 1955 brázdila vody Brněnské přehrady. Loď původně nesla název Moskva, nicméně v roce 1992 byla na žádost brněnského primátora přejmenována podle partnerského města na Dallas a tento název nesla až do roku 2011, kdy byla vzhledem ke špatnému technickému stabu odstavena a od plavební sezóny 2012 nahrazena novou lodí, která byla pokřtěna rovněž na Dallas. Po dokončené rekonstrukci tak musí historické plavidlo dostat nové jméno. *„V novodobé historii městské lodní dopravy je tradicí pojmenovávat lodě po brněnských partnerských městech. V současnosti provozovaná plavidla nesou názvy Lipsko, Utrecht, Vídeň, Dallas a Stuttgart a jelikož po našem nejbližším partnerském městě Bratislavě žádná loď pojmenována není, bylo přirozeným návrhem odboru zahraničních vztahů pojmenovat zrekonstruovanou loď právě podle slovenské metropole. Při projednání návrhu však část městské rady přišla s variantou dát lodi jméno Morava. Jelikož rada nedokázala najít na novém jméně shodu, navrhl jsem společně s kolegou Hladíkem, abychom o názvu historického plavidla nechali rozhodnout občany města Brna v anketě,“* komentuje situaci náměstek Tomáš Koláčný. V následujících týdnech (dle předpokladu v průběhu měsíce března) tak budete moct i vy rozhodnout, jaké nové jméno legendární loď dostane.
 
 Co byste volili vy?
-
-
-
-
