@@ -1,10 +1,10 @@
 ---
-#název souboru: 2020-02-11-unorove-zastupitelstvo-mesta-brna.md
+#název souboru: 2020-02-10-unorove-zastupitelstvo-mesta-brna.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: "Zastupitelstvo města Brna: Dotace na kulturu a další ročník PaRo"
-date: 2020-02-11   # formát YYYY-MM-DD
+date: 2020-02-10   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Piráti Brno # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
