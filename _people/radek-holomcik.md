@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 img: people/radek-holomcik.jpg   # 165 x 220
-description: Poslanec, textař, marketér a 2. místopředseda Pirátské strany          	# kratký popis, max 160 znaků
+description: Poslanec, 3. místopředseda Pirátské strany, textař a marketér          	# kratký popis, max 160 znaků
 mail:
 - radek.holomcik@pirati.cz
 mob:			  +420 728 034 460
