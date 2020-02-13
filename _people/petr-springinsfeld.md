@@ -35,8 +35,5 @@ V Pirátské straně je aktuálně předsedou Rozhodčí komise a 3. místopřed
 
 Ve volném čase se věnuje karetním trikům a focení. Baví ho také videohry, četba knih a předsedání.
 
-E-mail: petr.springinsfeld@pirati.cz
-Tel.: +420 608 366 554
-
 Veřejný kalendář:
 <iframe src="https://calendar.google.com/calendar/embed?src=ddv8gs5e1q5358gd54g3vt6s74%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
