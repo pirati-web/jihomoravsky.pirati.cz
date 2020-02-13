@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - ep
 img: people/marcel-kolaja.jpg   # 165 x 220
-description: Odborník na svobodný software a svobodnou kulturu   	# kratký popis, max 160 znaků
+description: Místopředseda Evropského parlamentu   	# kratký popis, max 160 znaků
 mail:
 - marcel.kolaja@pirati.cz
 
@@ -32,3 +32,5 @@ V roce 2003 se začal zabývat legislativou EU, aby o dva roky později jako akt
 * Komunikuje plynně anglicky (CEFR C1) a zvládá základy němčiny.
 
 Ve volném čase lyžuje, chodí po horách, běhá, jezdí na kole, hraje basketbal a fotí. Poslouchá rock a heavy metal. Baví ho hra na kytaru, kterou však příliš neovládá :-) Je vegetarián.
+
+V roce 2019 byl za Piráty zvolen do Evropského parlamentu, kde se následně stal místopředou EP.
