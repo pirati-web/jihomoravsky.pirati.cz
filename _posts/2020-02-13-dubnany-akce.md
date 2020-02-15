@@ -1,10 +1,10 @@
 ---
-#název souboru: 2020-02-14-dubnany-akce.md
+#název souboru: 2020-02-13-dubnany-akce.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: "Michal Švagerka: Chci Dubňanům nabídnout něco nového a podpořit dobrou věc"
-date: 2020-02-14   # formát YYYY-MM-DD
+date: 2020-02-13   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Piráti Dubňany # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
