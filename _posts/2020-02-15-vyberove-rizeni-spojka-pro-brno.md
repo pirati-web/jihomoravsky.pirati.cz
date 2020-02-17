@@ -50,11 +50,11 @@ Pro zařazení do výběrového řízení zašlete do **24. února** na mail *ja
 - ukázku práce – tiskovou zprávu, mediální výstup, příspěvek na sociální síti
 
 **Hodnotící kritéria:**
-Kompetence vůči požadavkům pozice 40 procent 
-Znalost pirátského programu a argumentace 15 procent
-Zkušenosti/reference/vzdělání 20 procent
-Motivace 15 procent
-Celkový dojem 10 procent
+- kompetence vůči požadavkům pozice 40 % 
+- znalost pirátského programu a argumentace 15 %
+- zkušenosti/reference/vzdělání 20 %
+- motivace 15 %
+- celkový dojem 10 %
 
 
 Ilustrační foto: Jan Wagner
