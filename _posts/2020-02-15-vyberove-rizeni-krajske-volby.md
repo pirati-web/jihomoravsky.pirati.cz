@@ -87,6 +87,8 @@ Přihlašujte se do 29. února 2020 vč. na email *jana.leitnerova@pirati.cz*, p
 - Důvod vašeho zájmu o spolupráci s Piráty
 
 
+
+
 **Manažer/manažerka**
 
 **Požadujeme:**
