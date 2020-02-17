@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: "Otevřené výběrové řízení: Mediální spojka pro Brno"
+title: "Otevřené výběrové řízení: Výběrové řízení pro krajské volby"
 date: 2020-02-15   # formát YYYY-MM-DD
 author: Jana Leitnerová
 tags: Piráti krajské-volby # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
