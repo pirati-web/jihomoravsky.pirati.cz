@@ -8,7 +8,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - zmcstred
 - mmb
 ordmmb: 6
-ordzmcstred: 5
+ordzmcstred: 2
 
 img: people/monika-spilkova.jpg   # 165 x 220
 description: Provozovatelka vinárny a freelancer v oblasti fotografie a grafiky 	# kratký popis, max 160 znaků
