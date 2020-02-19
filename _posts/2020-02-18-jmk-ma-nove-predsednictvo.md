@@ -19,7 +19,7 @@ Piráti si každé dva roky volí vedení kraje. Tomu minulému ve složení Ró
 
 Na pozici předsedy byl již v první polovině února znovu zvolen Róbert Čuma, který kraj vede již několik let. Ve své kandidátské řeči poděkoval členstvu i spolupracovníkům za odvedenou práci a vytyčil několik důležitých bodů do dalších let. Jedním z nich je rozvoj kraje, posílení členstva a také otevření krajského pirátského centra, které by k tomu mělo pomoci. Do volby o post předsedy se nikdo jiný nepřihlásil, Róbert Čuma byl pak zvolen 33 hlasy z 40 hlasujících.
 
-V úterý 18. února pak skončilo 2. kolo volby o místopředsednických postech. Členky a členi svými hlasy rozhodli, že 1. místopředsedou se stal Petr Springinsfeld, 2. místopředsedou Pavel Nevrkla, 3. místopředsedou Miroslav Bárta a 4. místopředsedou Adam Vyplel.
+V úterý 18. února pak skončilo 2. kolo volby o místopředsednických postech. Členky a členi svými hlasy rozhodli, že 1. místopředsedou se stal Petr Springinsfeld, 2. místopředsedou Pavel Nevrkla, 3. místopředsedou Miroslav Bárta a 4. místopředsedou Adam Vyplel.
 
 *„Prioritou je úspěch v krajských volbách, na které se již teď intenzivně připravujeme. A v dalších dvou letech se jako předsednictvo určitě zaměříme na rozvoj členské základny, k čemuž by nám mělo mimo jiné pomoct otevření krajského pirátského centra, které plánujeme na letošní rok,“* uvedl po zvolení Róbert Čuma, potvrzený ve funkci předsedy krajského sdružení Pirátů v JmK. Také ostatní členové předsednictva v Jihomoravském kraji podporují vznik pirátského centra a za důležité, kromě krajských či sněmovních voleb, považují rozvoj kraje.
 
