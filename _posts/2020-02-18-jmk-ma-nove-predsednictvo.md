@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Jihomoravští Piráti si zvolili nové vedení. Post předsedy obhájil Róbert Čuma"
+title: Jihomoravští Piráti si zvolili nové vedení. Post předsedy obhájil Róbert Čuma
 date: 2020-02-18   # formát YYYY-MM-DD
 author: Jana Leitnerová
 tags: Piráti PKS # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
