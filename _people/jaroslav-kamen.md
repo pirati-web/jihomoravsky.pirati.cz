@@ -16,7 +16,7 @@ mob: +420 608 552 333
 profiles:
   github: https://github.com/jerrylabs                
   facebook: https://www.facebook.com/jerrylabs
-  twitter: https://twitter.com/pirat_jerry		
+  twitter: https://twitter.com/PiratJerry		
   wiki: https://wiki.pirati.cz/lide/jaroslav_kamen
   instagram: https://www.instagram.com/jerrousz/
   linkedin: https://www.linkedin.com/in/jerrylabs
