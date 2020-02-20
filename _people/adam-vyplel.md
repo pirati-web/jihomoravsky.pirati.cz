@@ -9,7 +9,7 @@ titles:
 mail:
 - adam.vyplel@pirati.cz
 img: people/adam-vyplel.jpg   # 165x220px
-description: Členem kontrolního a stavebního výboru v Říčanech a 4. místopředseda KS JmK
+description: 4. místopředseda KS JmK a člen kontrolního a stavebního výboru v Říčanech
 uid: adam.vyplel # identifikátor 
 
 ### Nepovinné položky
