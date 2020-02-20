@@ -8,7 +8,7 @@ ordzmckrpole: 1
 ordpks: 4
 img: people/miroslav-barta.jpg   # 165 x 220
 img2: people/miroslav-barta2.jpg   
-description: Vedoucí kontrolního výboru a zastupitel v Králově Poli, realitní specialista a majitel obchodní společnosti 	# kratký popis, max 160 znaků
+description: třetí místopředseda krajského sdružení, vedoucí kontrolního výboru a zastupitel v Králově Poli 	# kratký popis, max 160 znaků
 mail:
 - miroslav.barta@pirati.cz
 mob: 730 896 278
