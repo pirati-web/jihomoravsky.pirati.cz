@@ -7,7 +7,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 ordpks: 2
 
 img: people/petr-springinsfeld.jpg   # 165 x 220
-description: Předseda Rozhodčí komise a 1. místopředseda krajského sdružení       	# kratký popis, max 160 znaků
+description: 1. místopředseda krajského sdružení, předseda Rozhodčí komise        	# kratký popis, max 160 znaků
 mail:
 - petr.springinsfeld@pirati.cz
 mob: +420 608 366 554
@@ -31,7 +31,7 @@ Od listopadu 2017 pracuje jako asistent poslance Radka Holomčíka.
 
 Po komunálních volbách v roce 2018 byl jmenován místopředsedou Komise legislativně organizační Rady města Brna a členem Komise legislativní a organizační Rady MČ Brno-střed. Zároveň se stal členem dozorčí rady společnosti Veletrhy Brno, a. s., která ho zvolila předsedou. V průběhu volebního období byl také jmenován členem Komise Rady města Brna pro chytré a otevřené město.
 
-V Pirátské straně je aktuálně předsedou Rozhodčí komise a 3. místopředsedou krajského sdružení Jihomoravského kraje.
+V Pirátské straně je aktuálně předsedou Rozhodčí komise a 1. místopředsedou krajského sdružení Jihomoravského kraje.
 
 Ve volném čase se věnuje karetním trikům a focení. Baví ho také videohry, četba knih a předsedání.
 
