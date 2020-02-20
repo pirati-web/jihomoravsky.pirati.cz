@@ -5,10 +5,8 @@ titles:
   before: PaedDr. 
   after:
 category:                 	# kategorie: kandidat, pks, zastupitel
-- pks
 - zjmk
 ordzjmk: 1
-ordpks: 3
 img: people/ivo-vasicek.jpg   # 165 x 220
 description: Ekonom, manažer a pedagog     	# kratký popis, max 160 znaků
 mail:

@@ -5,9 +5,7 @@ titles:
   before: Bc. 
   after:
 category:                 	# kategorie: kandidat, pks, zastupitel
-- pks
 - ep
-ordpks: 2  
 ordep: 2
 img: people/marketa-gregorova.jpg   # 165 x 220
 description: Europoslankyně   	# kratký popis, max 160 znaků

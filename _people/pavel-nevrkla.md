@@ -7,11 +7,11 @@ titles:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
 - zmznojmo
-ordpks: 5
+ordpks: 3
 ordzmznojmo: 1
 
 img: people/pavel-nevrkla.jpg   # 165 x 220
-description: Advokát a čtvrtý místopředseda krajského sdružení       	# kratký popis, max 160 znaků
+description: Advokát a druhý místopředseda krajského sdružení       	# kratký popis, max 160 znaků
 mail:
 - pavel.nevrkla@pirati.cz
 profiles:
