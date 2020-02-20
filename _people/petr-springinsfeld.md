@@ -7,7 +7,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 ordpks: 2
 
 img: people/petr-springinsfeld.jpg   # 165 x 220
-description: Předseda Rozhodčí komise a první místopředseda krajského sdružení       	# kratký popis, max 160 znaků
+description: Předseda Rozhodčí komise a 1. místopředseda krajského sdružení       	# kratký popis, max 160 znaků
 mail:
 - petr.springinsfeld@pirati.cz
 mob: +420 608 366 554
