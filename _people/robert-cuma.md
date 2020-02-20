@@ -31,7 +31,7 @@ motto: ["Veřejné záležitosti patří do veřejnosti. Co se všech týká ste
 
 ---
 
-Róbert Čuma (* 19. ledna 1977), předseda krajského sdružení Pirátů Jihomoravského kraje, předseda dozorčí rady brněnské městské společnosti STAREZ-SPORT, a.s.
+Róbert Čuma (* 19. ledna 1977), předseda krajského sdružení Pirátů Jihomoravského kraje, radní města Brna pro oblast majetku
 
 Posledních 10 let pracuje jako ředitel ve firmě AIR SHAPE production s.r.o., která vyrábí venkovní reklamu.
 
