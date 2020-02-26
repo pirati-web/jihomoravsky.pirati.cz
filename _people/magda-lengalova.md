@@ -9,7 +9,7 @@ titles:
 mail:
 - magda.lengalova@breclav.eu
 img: people/magda-lengalova.jpg   # 165x220px
-description: učitel a kulturní buditel 	# kratký popis, max 160 znaků
+description: zastupitelka Břeclavi, trenérka badmintonu 	# kratký popis, max 160 znaků
 uid: magda.lengalova # identifikátor 
 
 ### Nepovinné položky
