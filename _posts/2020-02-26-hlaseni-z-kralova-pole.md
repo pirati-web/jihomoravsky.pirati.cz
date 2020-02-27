@@ -4,7 +4,7 @@
 
 category: CLANKY   # nešahat!
 title: "Pirátské hlášení z KrPole: Vyjít vstříc občanům? Takové návrhy byly smeteny ze stolu"
-date: 2020-02-13   # formát YYYY-MM-DD
+date: 2020-02-26   # formát YYYY-MM-DD
 author: Miroslav Bárta
 tags: Piráti Královo-Pole # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
