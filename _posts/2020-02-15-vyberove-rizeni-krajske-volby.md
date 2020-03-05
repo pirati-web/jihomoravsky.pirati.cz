@@ -1,10 +1,10 @@
 ---
-#název souboru: 2020-02-15-vyberove-rizeni-krajske-volby.md
+#název souboru: 2020-03-04-vyberove-rizeni-krajske-volby.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: "Otevřené výběrové řízení: Výběrové řízení pro krajské volby"
-date: 2020-02-15   # formát YYYY-MM-DD
+date: 2020-03-04   # formát YYYY-MM-DD
 author: Jana Leitnerová
 tags: Piráti krajské-volby # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
@@ -79,7 +79,7 @@ Není-li stanoveno jinak, celé nabídky, životopisy a jiné materiály dodané
 Hodnotící komise:
 Zástupci Volebního výboru Pirátů v Jihomoravském kraji. Hodnotící komisi sestavuje předseda Volebního výboru.
 
-Přihlašujte se do 29. února 2020 vč. na email *jana.leitnerova@pirati.cz*, přihláška musí obsahovat:
+Přihlašujte se do 15. března 2020 vč. na email *jana.leitnerova@pirati.cz*, přihláška musí obsahovat:
 - Nabídkovou cenu
 - CV/portfolio dokládající požadovanou odbornost
 - Vámi realizované kampaně, stručný seznam včetně vaší role v nich
