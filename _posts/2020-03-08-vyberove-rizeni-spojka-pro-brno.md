@@ -1,10 +1,10 @@
 ---
-#název souboru: 2020-02-15-vyberove-rizeni-spojka-pro-brno.md
+#název souboru: 2020-03-08-vyberove-rizeni-spojka-pro-brno.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: "Otevřené výběrové řízení: Mediální spojka pro Brno"
-date: 2020-02-15   # formát YYYY-MM-DD
+date: 2020-03-08   # formát YYYY-MM-DD
 author: Jana Leitnerová
 tags: Piráti Brno práce # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
@@ -44,7 +44,7 @@ Krajské sdružení Pirátů JmK vyhlašuje výběrové řízení na pozici pora
 - schopnost pracovat pod tlakem
 - smysl pro humor
 
-Pro zařazení do výběrového řízení zašlete do **24. února** na mail *jana.leitnerova@pirati.cz* následující:
+Pro zařazení do výběrového řízení zašlete do **27. března** na mail *jana.leitnerova@pirati.cz* následující:
 - krátký motivační dopis
 - svůj životopis včetně kontaktů pro získání referencí
 - ukázku práce – tiskovou zprávu, mediální výstup, příspěvek na sociální síti
@@ -56,5 +56,7 @@ Pro zařazení do výběrového řízení zašlete do **24. února** na mail *ja
 - motivace 15 %
 - celkový dojem 10 %
 
+
+Rozhodnutí o prodloužení VŘ a vyhodnocení kandidátů [najdete na foru](https://forum.pirati.cz/viewtopic.php?f=572&t=51310){:target="_blank"}.
 
 Ilustrační foto: Jan Wagner
