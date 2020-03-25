@@ -23,4 +23,4 @@ Součástí newsletteru byly také informace týkající se dotací a financová
 
 *„Na závěr jsme si pro příjemce nechali čistě pozitivní zprávu. Díky rychlé operativní domluvě s TIC BRNO a pohotové koordinaci s časopisem KAM v Brně jsme na [www.nikamvbrne.cz](https://www.gotobrno.cz/kalendar-akci/?cat=ni-kam-v-brne){:target="_blank"} spustili novou webovou platformu (ni)KAM v Brně, kde bude možné sledovat aktuální brněnskou kulturní a společenskou nabídku v on-line prostoru,“* uzavírá Marek Fišer.
 
-Chcete se přihlásit k odběru dalšího coronewsletteru? Napište nám na kultura@brno.cz.
+Chcete se přihlásit k odběru dalšího coronewsletteru? Napište na kultura@brno.cz.
