@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Vyjádření pirátského klubu k výběrovému řízení
+title: Vyjádření brněnského zastupitelského klubu Pirátů k výběrovému řízení na pozici tajemníka brněnského magistrátu
 date: 2020-03-24   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Piráti Brno # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
