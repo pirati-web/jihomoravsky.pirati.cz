@@ -15,7 +15,7 @@ image: posts/nikam_brno.png # obrázek ideálně 420x677px minifikovaný přes h
 
 ---
 
-Už od minulého týdne probíhají intenzivní jednání a nabíhá systematická pomoc pro kulturní zařízení v Brně. Díky Marku Fišerovi a Tomáši Koláčnému, kteří připravili informační coronanewsletter pro brněnské kulturní činovníky, jsou tito dobře informováni například o tom, jak to bude s dotacemi nebo jaké pomoc se chystá ze strany města.
+Bezprostředně od vyhlášení nouzového stavu začali Piráti jednat a řešit situaci v kultuře. Přinášíme informace o tom, co se během minulých dní odehrálo. Díky Marku Fišerovi a Tomáši Koláčnému, kteří připravili informační coronanewsletter pro brněnské kulturní činovníky, jsou tito dobře informováni například o tom, jak to bude s dotacemi nebo jaké pomoc se chystá ze strany města.
 
 *„Včera jsme připravovali informačně nabitý newsletter, který jsme v noci odeslali všem brněnským kulturním činovníkům. Nejde jen o informace, ale také o vyjádření podpory v této nelehké době,“* komentuje přípravu informací radní pro kulturu Marek Fišer a dodává: *„Připojili jsme také poděkování, protože mnoho lidí z brněnské kultury se zapojuje do pomoci ostatním. V námi zřizovaných divadlech se šijí roušky, klub Fléda poskytl prostory pro balení potravinových balíčků pro lidi bez domova, divadlo Divadlo Bolka Polívky se zase v čele s principálem Bolkem Polívkou podílelo na přípravě videospotu, která má za cíl osvětu mezi seniory.“*
 
