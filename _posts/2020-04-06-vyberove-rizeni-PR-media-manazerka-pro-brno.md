@@ -57,4 +57,6 @@ Pro zařazení do výběrového řízení zašlete do **15. května do 23:59 na 
 - motivace 15 %
 - celkový dojem 10 %
 
+Otevřené VŘ najdete také [na pirátském fóru.](https://forum.pirati.cz/viewtopic.php?p=689454#p689454){:target="_blank"}
+
 Ilustrační foto: Jan Wagner
