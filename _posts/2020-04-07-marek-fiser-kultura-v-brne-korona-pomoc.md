@@ -1,10 +1,10 @@
 ---
-#název souboru: 2020-04-08-marek-fiser-kultura-v-brne-korona-pomoc.md
+#název souboru: 2020-04-07-marek-fiser-kultura-v-brne-korona-pomoc.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: "Marek Fišer: Část brněnské kultury přešla do online prostoru, děláme maximum pro záchranu"
-date: 2020-04-08   # formát YYYY-MM-DD
+date: 2020-04-07   # formát YYYY-MM-DD
 author: Krajský MO
 tags: kultura Brno # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
