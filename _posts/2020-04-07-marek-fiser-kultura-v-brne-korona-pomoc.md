@@ -10,7 +10,7 @@ tags: kultura Brno # kategorie odděleny mezerami, např. volby zemědělství �
 
 ### Nepovinné položky ###
 #authorId: radek.holomcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: posts/marousky_web.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/marouska_web.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Proč řešíme těžbu štěrkopísku mezi Moravským Pískem a Uherským Ostrohem? Podrobné info o celé kauze.
 
 ---
