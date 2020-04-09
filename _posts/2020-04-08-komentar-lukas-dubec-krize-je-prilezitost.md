@@ -51,4 +51,4 @@ V jaké formě tedy bude zavedena v dalších krajích nelze s jistotou určit, 
 
 Pokud by mělo dojít k plošnému nasazení „chytré karantény“ tak, že k trasování nebude potřeba souhlas dotyčné osoby, je třeba se hlasitě ozvat a mít se na pozoru. A trvat na tom, aby nám odpovědní činitelé (vláda, krizový štáb...) jasně řekli, jak by taková karanténa měla vypadat, kdy by měla skončit, jak bude nakládáno se získanými daty. I to slíbil ohlídat poslanec Tomáš Vymazal, který předsedá komisi pro kontrolu odposlechů. Právě pod tuto komisi by měla připadnout kontrola průběhu “chytré karantény”.
 
-V tuto chvíli je však třeba hlavně myslet pozitivně. Vzít si do budoucna ze současné situace ponaučení a různá řešení pak vhodně aplikovat. To je i náš cíl pro následující týdny. Držte se a opatrujte se!
+V tuto chvíli je však třeba hlavně myslet pozitivně. Vzít si do budoucna ze současné situace ponaučení a různá řešení pak vhodně aplikovat. To je i náš cíl pro následující týdny, měsíce a roky z úrovně obcí, měst, kraje a Parlamentu. Držte se a opatrujte se!
