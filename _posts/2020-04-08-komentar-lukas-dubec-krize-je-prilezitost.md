@@ -27,7 +27,7 @@ Roušky, štíty, masky… Jako národ jsme ukázali, že umíme pomoct a semkno
 
 **Dopad na ekonomiku**
 
-Dopad krize na ekonomiku přímo zmiňovat nechci, jde o velmi složitý a komplexní problém. Rozhodně to vnímám jako velmi důležitou věc a Piráti ve Sněmovně se svou činností a návrhy snaží, aby ty dopady byly co nejméně bolestivé a aby nebyly zneužity ve prospěch pár velkých firem. 
+Dopad krize na ekonomiku? Jde o velmi složitý a komplexní problém a rozhodně to vnímám jako velmi důležitou věc. Nejen já, [Piráti ve Sněmovně se svou činností a návrhy snaží](https://koronavirus.pirati.cz/){:target="_blank"}, aby ty dopady byly co nejméně bolestivé a aby nebyly zneužity ve prospěch pár velkých firem. Jasné je, že se musíme připravit na další hospodářskou krizi, která Česko, EU a pravděpodobně velkou část světa, zasáhne. A musíme tuto skutečnost reflektovat také do změn, které chceme zavést na úrovni kraje.
 
 **Opatření ze strany státu**
 
