@@ -44,7 +44,7 @@ motto: Technologie musí člověku život ulehčovat, nikoliv ztěžovat!
 
 ---
 
-Jaroslav Kameň (roz. Kupčík, * 1986) je členem Pirátské strany od roku 2016. Pochází z Orlové a od roku 2005 žije v Brně.
+Jaroslav Kameň (roz. Kupčík, * 1986) je členem Pirátské strany od roku 2016. Pochází z Orlové a od roku 2005 žije v Brně. Je zastupitelem na Magistrátu města Brna a městské části Brno-Královo Pole.
 
 Vystudoval osmileté všeobecné gymnázium a poté obor Informační systémy na Fakultě informačních technologií Vysokého učení technického v Brně, kde získal titul Ing.
 
