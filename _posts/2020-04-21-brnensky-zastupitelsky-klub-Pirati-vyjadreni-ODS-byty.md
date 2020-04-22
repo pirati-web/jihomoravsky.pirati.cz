@@ -5,7 +5,7 @@
 category: CLANKY   # nešahat!
 title: Vyjádření brněnského zastupitelského klubu Pirátů k informacím z článku na ihned.cz
 date: 2020-04-21   # formát YYYY-MM-DD
-author: Krajský MO
+author: Zastupitelský klub Pirátů města Brna
 tags: Magistrát Brno # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
