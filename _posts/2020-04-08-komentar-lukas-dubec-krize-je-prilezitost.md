@@ -9,7 +9,7 @@ author: Lukáš Dubec
 tags: Piráti kraj # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-#authorId: radek.holomcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
+authorId: lukas.dubec # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: posts/stitydub_web.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 description: I Piráti se po celém kraji zapojují do pomoci lidem kolem sebe. Šijeme roušky, sami tiskneme štíty a přispěli jsme jako kraj i na materiál pro tisk ochranných štítů. Krizi však bereme také jako příležitost.
 
