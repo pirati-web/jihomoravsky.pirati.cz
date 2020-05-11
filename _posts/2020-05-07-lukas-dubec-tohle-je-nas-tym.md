@@ -15,7 +15,7 @@ image: posts/webdub.png # obrázek ideálně 420x677px minifikovaný přes https
 
 ---
 
-*Zdravím Vás, věnujte mi prosím pár minut svého času.
+Zdravím Vás, věnujte mi prosím pár minut svého času.
 
 Představím Vám pirátský tým, který jde spolu se mnou do podzimních krajských voleb s cílem je vyhrát a podílet se na vedení Jihomoravského kraje. Našeho krásného kraje, plného skvělých a podnikavých lidí, slunce, folkloru a nejen vína... Ano, jižní Morava má také své problémy, to si moc dobře uvědomujeme. Ale o tom jindy, náš návrh jejich řešení brzy představíme, ale ještě Vás necháme chvíli v napětí.
 
@@ -25,4 +25,4 @@ V závěsu máme zajímavou šestici osobností. Petr Vlasák, oblíbený učite
 
 Zvoleno máme dalších 11 lidí – dvanáctka je náš dubňanský zastupitel Michal Švagerka, následují brněnský zastupitel Jaroslav Kameň, místopředseda krajského sdružení Adam Vyplel, brněnský zastupitel Lukáš Mamula, místopředseda MS Znojemsko Šimon Fouček, členka MS Brno Alena Pavlasová, členka finančního výboru v Hodoníně Barbora Turek Lahová, zastupitel Brno-střed Patrik Doležal, královopolský zastupitel Michal Škerle, vinař Petr Ilgner a vývojář Tomáš Pastirčák.
 
-A abych nezapomněl, já jsem Lukáš Dubec, alias Dub. Je mi 35 let, jsem larper, dobrovolný hasič, táta, sportovec, projektant, Pirát, co se pere za svobodu a člověk s vizí pro lepší kraj. Pirátský kandidát na hejtmana a lídr skvělého týmu. Těším se na Vás, až se seznámíme i osobně.*
+A abych nezapomněl, já jsem Lukáš Dubec, alias Dub. Je mi 35 let, jsem larper, dobrovolný hasič, táta, sportovec, projektant, Pirát, co se pere za svobodu a člověk s vizí pro lepší kraj. Pirátský kandidát na hejtmana a lídr skvělého týmu. Těším se na Vás, až se seznámíme i osobně.
