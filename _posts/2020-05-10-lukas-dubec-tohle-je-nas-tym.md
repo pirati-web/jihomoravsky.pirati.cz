@@ -3,14 +3,14 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: "Lukáš Dubec: Jsme různí, a proto dohromady tvoříme skvělý tým“
+title: "Lukáš Dubec: Jsme různí, a proto dohromady tvoříme skvělý tým"
 date: 2020-05-10   # formát YYYY-MM-DD
 author: Lukáš Dubec
 tags: Piráti Jihomoravský-kraj # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 authorId: lukas.dubec # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: posts/dubweb.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/webdub.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Proč řešíme těžbu štěrkopísku mezi Moravským Pískem a Uherským Ostrohem? Podrobné info o celé kauze.
 
 ---
