@@ -15,9 +15,9 @@ image: posts/webdub.png # obrázek ideálně 420x677px minifikovaný přes https
 
 ---
 
-Zdravím Vás, věnujte mi prosím pár minut svého času.
+Zdravím Vás, věnujte mi prosím pár minut svého času. Představím Vám pirátský tým, který jde spolu se mnou do podzimních krajských voleb s cílem je vyhrát a podílet se na vedení Jihomoravského kraje. 
 
-Představím Vám pirátský tým, který jde spolu se mnou do podzimních krajských voleb s cílem je vyhrát a podílet se na vedení Jihomoravského kraje. Našeho krásného kraje, plného skvělých a podnikavých lidí, slunce, folkloru a nejen vína... Ano, jižní Morava má také své problémy, to si moc dobře uvědomujeme. Ale o tom jindy, náš návrh jejich řešení brzy představíme, ale ještě Vás necháme chvíli v napětí.
+Našeho krásného kraje, plného skvělých a podnikavých lidí, slunce, folkloru a nejen vína... Ano, jižní Morava má také své problémy, to si moc dobře uvědomujeme. Ale o tom jindy, náš návrh jejich řešení brzy představíme, ale ještě Vás necháme chvíli v napětí.
 
 Následující řádky budou o lidech, kteří, spolu se mnou, jdou s tváří a kůží na trh. Záda mi kryjí Jirka Hlavenka, člověk, který má nejen skvělé vize, ale taky je umí realizovat, Jana Leitnerová, energická žena s prořízlou pusou a hromadou nápadů, jak pomáhat lidem, pirátský matador Ivo Vašíček, manažer a bojovník za svobodu a Petr Springinsfeld, 1. místopředseda kraje, velký pracant, pro kterého se skvěle hodí přirovnání hlídací pes.
 
