@@ -1,10 +1,10 @@
 ---
-#název souboru: 2020-05-07-lukas-dubec-tohle-je-nas-tym.md
+#název souboru: 2020-05-10-lukas-dubec-tohle-je-nas-tym.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: "Lukáš Dubec: Jsme různí, a proto dohromady tvoříme skvělý tým“
-date: 2020-05-07   # formát YYYY-MM-DD
+date: 2020-05-10   # formát YYYY-MM-DD
 author: Lukáš Dubec
 tags: Piráti Jihomoravský-kraj # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
