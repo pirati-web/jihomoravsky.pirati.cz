@@ -38,8 +38,10 @@ reason: Protože si myslím, že zákony naší republiky a územní plán plat�
 
 ---
 
-Silvie Mrkvanová se narodila r. 1969, v Žabovřeskách od roku 1971. Absolvovala VŠ pedagogickou, obor pedagogika volného času. Má dospělého syna, je aktivní občankou a živí se jako obchodnice v reklamě už cca 20 let.
- 
+Silvie Mrkvanová se narodila r. 1969, v Žabovřeskách od roku 1971. Absolvovala VŠ pedagogickou, obor pedagogika volného času.
+Má dospělého syna, je aktivní občankou a pracuje jako obchodnice v reklamě už cca 22 let.
+Od roku 2018 je zastupitelka v MČ Brno Žabovřesky a předsedkyně kontrolního výboru, členka redakční a pro školství a sport.
+
 Pokud Vás něco o mně zajímá, napište mi, ráda Vám odpovím.
 
 ## Aktivní občanka
