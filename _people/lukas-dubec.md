@@ -15,10 +15,12 @@ ordpms: 2
 
 Narodil jsem se 22.5.1984 ve městě Most.
 
-V současné době bydlím již desátým rokem ve městě Znojmo.
+Přes 10 let jsem bydlel ve Znojmě a toto město mi přirostlo k srdci tak, že mi není jedno, co se v něm děje. V současné době bydlím ve Vranovské Vsi, kde jsem žil před tím od dětství. I zde jsem zapojený do komunální politiky.
 
-Vystudoval jsem SOŠ Podyjí s.r.o. ve Znojmě v oboru Pozemní stavitelství. Po ukončení studia jsem nastoupil do zaměstnání. V současné době pracuji jako projektant v soukromé firmě zabývající se projekcí, výrobou a montáží interiérů a nábytkového vybavení.
+Vystudoval jsem SOŠ Podyjí s.r.o. ve Znojmě v oboru Pozemní stavitelství. Po ukončení studia jsem nastoupil do zaměstnání. V současné době pracuji jako projektant a CNC programátor v soukromé firmě zabývající se projekcí, výrobou a montáží interiérů a nábytkového vybavení.
 
-Jsem členem KS JmK a konkrétně MS Znojemsko jako předseda.
+Spoluzakládal jsem MS Znojmo (později přejmenováno na MS Znojemsko). Jsem tedy členem KS JmK a konkrétně MS Znojemsko a v současnosti vykonávám funkci předsedy tohoto MS.
 
-Mezi mé záliby patří sport (aktivně - fotbal, nohejbal, jugger), LARP (aktivně účastí a pořádáním akce Helmáč), filmy, kultura, práce s lidmi, internet, PC a sledování politického dění ve světě a v ČR.
+Jsem členem Investiční komise Rady JmK a členem Finančního výboru obce Vranovská Ves.
+
+Mezi mé záliby patří dlouhodobě sport (aktivně - fotbal, jugger...) a práce s mládeží, larp (aktivně účastí na různých akcích a organizací larpového festivalu Helmáč), film, kultura, internet, PC, 3D tisk a sledování politického dění ve světě a v ČR. Dále jsem zapojen do různých dobrovolnických aktivit a do spolkového života, např. do činnosti Sdružení hasičů Čech, Moravy a Slezska (v současné době jako velitel jednotky SDH - JPO V ve Vranovské Vsi).
