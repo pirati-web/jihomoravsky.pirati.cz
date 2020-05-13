@@ -14,8 +14,6 @@ description: Projektant, manažer 	# kratký popis, max 160 znaků
 ### Nepovinné položky
 uid: marek.lukas # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
-- zmckrpole
-ordzmckrpole: 4
 mob: +420 731 481 351
 
 ---
