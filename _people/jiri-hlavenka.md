@@ -21,10 +21,10 @@ profiles:
 
 ---
 
-Po absolvování Gymnázia a Střední odborné školy Mikulov vystudoval v letech 1983 až 1988 obor tepelná a jaderná energie na Strojní fakultě Vysokého učení technického v Brně (získal titul Ing.).
+Po absolvování Gymnázia Mikulov vystudoval v letech 1983 až 1988 obor tepelná a jaderná energetika na Strojní fakultě Vysokého učení technického v Brně, kde získal titul Ing. Od roku 1990 soukromě podniká. Spoluzaložil odborné vydavatelství Computer Press, spustil první internetový obchod v zemi Vltava.cz a stál u zrodu řady pionýrských projektů na českém Internetu. 
 
-Od počátku 90. let 20. století podniká v oblasti informačních technologií. Je jedním z vlastníků brněnského vydavatelství Computer Press, v roce 1997 získal vlastnický podíl) či prvního internetového obchodu v zemi Vltava.cz. Angažoval se také v představenstvech firem CP Online a CP Books. Od roku 2005 je členem statutárních orgánů společnosti FAYN Telecommunications (dříve FAYN.CZ), jež je virtuálním mobilním operátorem. V posledních letech je spíše investorem (např. v brněnské firmě Kiwi.com, která je vyhledávačem letenek) a publikuje články z oblasti informačních technologií (napsal už více než 30 publikací a 3 000 článků).
+Od roku 2005 se věnuje více investování do technologických inovativních startupů; je investorem a spoluvlastníkem ve více než deseti společnostech. K jeho největším investorským a podnikatelským úspěchům patří spoluzaložení společnosti Kiwi.com, která je dnes globálním hráčem v oblasti letecké přepravy a jednou z nejúspěšnějších domácích společností vůbec. Je aktivním autorem, napsal více než třicet odborných publikací a přes tři tisíce článků.
 
-Jiří Hlavenka žije v obci Braníškov v okrese Brno-venkov. Je ženatý a má syna. Ve volném čase ho zajímá hudba (hlavně jazz, rock a etnická hudba) a biologie, sám hraje na akustickou kytaru a na klavír. Věnuje se i sportu, má rád aktivní turistiku a jízdu na horském kole.
+Jiří Hlavenka žije v obci Braníškov v okrese Brno-venkov. Je ženatý a má syna. Ve volném čase ho zajímá hudba (hlavně jazz, rock a etnická hudba) a biologie, sám hraje na akustickou kytaru a na klavír. Věnuje se i sportu, má rád aktivní turistiku. Svou pozornost zaměřuje i na filantropii; podporuje několik desítek veřejně prospěšných aktivit v České republice.
 
-V krajských volbách v roce 2016 byl z pozice nestraníka za SZ lídrem společné kandidátky SZ a Pirátů v Jihomoravském kraji a byl zvolen zastupitelem. Je předsedou Komise Rady Jihomoravského kraje pro informační otevřenost.
+V krajských volbách v roce 2016 byl z pozice nestraníka za SZ lídrem společné kandidátky SZ a Pirátů v Jihomoravském kraji a byl zvolen zastupitelem. Je mimo jiné předsedou Komise Rady Jihomoravského kraje pro informační otevřenost, členem Vědecké komise Fakulty informatiky Masarykovy univerzity, členem správní rady nadace Hlídač státu či členem nevládní odborné pracovní skupiny Koronerv-20.
