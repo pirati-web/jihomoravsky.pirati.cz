@@ -23,5 +23,4 @@ Abychom se podobným situacím, kdy se z člena dozorčí rady stane rentiér, d
 
 
 
-Zdroj ilustrační foto: https://en.mapy.cz/zakladni?x=16.5822931&y=49.1877554&z=17&source=foto&id=43917
-Autor foto BVV: Romana Vymyslická
+[Zdroj ilustrační foto](https://en.mapy.cz/zakladni?x=16.5822931&y=49.1877554&z=17&source=foto&id=43917){:target="_blank"}, Autor foto BVV: Romana Vymyslická
