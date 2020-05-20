@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: "Magda Lengálová: Odhalili jsme závažné pochybění, zvažujeme trestní oznámení"
+title: "Magda Lengálová: Odhalili jsme závažné pochybení, zvažujeme trestní oznámení"
 date: 2020-05-19   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Piráti Břeclav # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
