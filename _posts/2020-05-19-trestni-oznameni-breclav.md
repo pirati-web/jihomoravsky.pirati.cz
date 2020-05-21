@@ -15,7 +15,7 @@ image: posts/web_magdasauna.png # obrázek ideálně 420x677px minifikovaný př
 
 ---
 
-Na dnešní zastupitelstvu oznámili břeclavští Piráti záměr podat trestní oznámení ve věci možného porušení zákona o [zadávání veřejných zakázek](https://www.zakonyprolidi.cz/cs/2016-134){:target="_blank"}. Magda Lengálová, pirátská zastupitelka a členka kontrolního výboru, totiž odhalila závažné pochybení a díru v metodice plánování a realizace investic města. 
+Na středečním zastupitelstvu oznámili břeclavští Piráti záměr podat trestní oznámení ve věci možného porušení zákona o [zadávání veřejných zakázek](https://www.zakonyprolidi.cz/cs/2016-134){:target="_blank"}. Magda Lengálová, pirátská zastupitelka a členka kontrolního výboru, totiž odhalila závažné pochybení a díru v metodice plánování a realizace investic města. 
 
 *„Na jednání Zastupitelstva města Břeclavi v prosinci 2017 byl schválen rozpočet města včetně investičních akcí na rok 2018. Součástí předložených investičních akcí byl záměr Městské koupaliště – multifunkční odpočinkové plochy, který byl ve finančním plánu oceněn na 8 milionů Kč, a to i přesto, že už na konci října 2017 bylo dle dodané projektové dokumentace zřejmé, že se náklady pouze na saunové centrum vyšplhají na více jak 17 milionů korun bez daně,“* popisuje investici Magda Lengálová. Zastupitelstvo tehdy tedy schválilo záměr na investici ve výši necelých 50 % odhadovaných nákladů. *„Tehdy jsme v zastupitelstvu nebyli, ale kdyby ano, pro takový návrh bychom rozhodně nehlasovali,“* uvádí Magda Lengálová.
 
