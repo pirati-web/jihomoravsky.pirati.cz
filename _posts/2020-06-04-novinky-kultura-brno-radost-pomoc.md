@@ -19,7 +19,7 @@ Piráti pokračují v pomoci brněnské kultuře, která byla v uplynulých měs
 
 Rada města navrhla červnovému zastupitelstvu podpořit desítku subjektů. Jde hlavně o umělecké soubory, hudební kluby a významná nezřizovaná divadla, která se nyní potýkají s existenčními problémy. *„Jedná se například o Divadlo Bolka Polívky, Český filharmonický sbor, Burany, Flédu, Industru a další subjekty, které jsou nedílnou součástí brněnské kulturní scény a společně poskytují práci stovkám Brňanů,”* říká Fišer.	
 
-Naši pomoc směřujeme na výdaje, se kterými bohužel nepočítají žádné vládní programy. „Pomůžeme jim uhradit až pětinu nájmu a faktury za energie a služby na překlenutí nezaviněných finančních ztrát způsobených opatřeními vlády a ministerstva zdravotnictví,“* vysvětlil radní Marek Fišer.
+Naši pomoc směřujeme na výdaje, se kterými bohužel nepočítají žádné vládní programy. *„Pomůžeme jim uhradit až pětinu nájmu a faktury za energie a služby na překlenutí nezaviněných finančních ztrát způsobených opatřeními vlády a ministerstva zdravotnictví,“* vysvětlil radní Marek Fišer.
 
 Vedení města se snaží napravit aktuální situaci v brněnské kultuře, na které se negativně podepsala vládní a ministerská opatření. Radní na návrh Pirátů též doporučili zastupitelům schválit několik dodatků ke smlouvám již poskytnutých dotací z rozpočtu města Brna. 
 
