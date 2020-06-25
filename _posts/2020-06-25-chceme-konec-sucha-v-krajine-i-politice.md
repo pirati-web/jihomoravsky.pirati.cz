@@ -15,7 +15,7 @@ image: posts/uvodkaweb.png # obrázek ideálně 420x677px minifikovaný přes ht
 
 ---
 
-Čelní kandidáti Pirátů v Jihomoravském kraji dnes na tiskové konferenci představili priority, se kterými se budou ucházet o hlasy voličů v podzimních krajských volbách. Ty se uskuteční 2. a 3. října, Piráti v Jihomoravském kraji sestavili samostatnou kandidátku.
+Čelní kandidáti Pirátů v Jihomoravském kraji dnes na [tiskové konferenci](https://www.facebook.com/watch/live/?v=555584978444462){:target="_blank"} představili priority, se kterými se budou ucházet o hlasy voličů v podzimních krajských volbách. Ty se uskuteční 2. a 3. října, Piráti v Jihomoravském kraji sestavili samostatnou kandidátku.
 
 Těmi hlavními prioritami, které představil loni v listopadu zvolený lídr Lukáš Dubec, jsou šetrnější přístup ke krajině, transparentnost, otevřenost a digitalizace úřadu. *„Máme krásnou krajinu, ale rozhodně si nemůžeme nevšimnout příznaků toho, že bojuje s klimatickou změnou. A my ji v tomto boji musíme podpořit, jinak prohrajeme ve výsledku všichni. Ať chceme nebo ne, tak musíme přinést řešení, která zmírní dopady těchto změn. A už by konečně také mohly po úřadech obíhat data a ne lidi, proto se budeme věnovat i digitalizaci úřadu. Transparentnost asi netřeba více komentovat, to je jeden z hlavních pirátských pilířů, který je naší součástí,“* vykresluje Dubec.
 
