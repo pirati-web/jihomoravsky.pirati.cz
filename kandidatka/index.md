@@ -1,11 +1,11 @@
 ---
 layout: communal-elections
-title: Krajské volby v jihomoravském kraji
+title: Šance změnit budoucnost
 campaignCategoryUid: kraj
 candidateListUid: kraj # uid z `_candidates/radnice.md`
 ---
 
-Úvodní text např. vysvětlení koalice, podpory.
+Piráti míří do kraje. S vizí, plánem, řešeními. A kandidátkou různorodých osobností, které dohromady tvoří skvělý tým.
 
-> "Vyhrajeme volby," říká leader.
+> „Mám čistý štít a nebojím se ho použít!“ říká lídr Lukáš Dubec alias Dub
 
