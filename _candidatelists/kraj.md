@@ -10,7 +10,8 @@ leader:
   # description: expert na skoky # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: jiri.hlavenka
+  - name: Jiří Hlavenka
+    uid: jiri.hlavenka
   - uid: jana.leitnerova
   - uid: ivo.vasicek
   - uid: petr.springinsfeld
