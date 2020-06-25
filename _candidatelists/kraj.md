@@ -39,7 +39,7 @@ tail: # zbytek kandidatky
   - name: Lukáš Mamula
     uid: lukas.mamula
   - name: Šimon Fouček
-    uid: simaon.foucel
+    uid: simon.foucek
   - name: Alena Pavlasová
     uid: alena.pavlasova
   - name: Barbora Turek Lahová
