@@ -9,7 +9,7 @@ img: people/simon-foucek.png   # 165x220px
 description: Student, člen místního sdružení Znojemsko # kratký popis, max 160 znaků
 
 ### Nepovinné položky
-uid: eva.stankova # identifikátor pro spojení se články (authorId)
+uid: simon.foucek # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 - znojemsko
 ordznojemsko: 4
