@@ -47,8 +47,57 @@ tail: # zbytek kandidatky
     uid: patrik.dolezal
   - name: Michal Škerle
     uid: michal.skerle
+  - name: Petr Ilgner
+  - name: Petr Ilgner
+  - name: Tomáš Pastirčák
+  - name: Pavel Havlík
+  - name: Jana Logrová
+  - name: Lukáš Doležal
+  - name: Magda Lengálová
+  - name: Dušan Hanuš
+  - name: Michal Kaláb
+  - name: Jiří Kadeřávek sen.
+  - name: Zlatuše Maděřičová
+  - name: Vítězslava Rosecká
+  - name: Ondřej Kotas
+  - name: Jan Wagner
+  - name: Jan Brodzák
+  - name: Luboš Sedlák
+  - name: Filip Chlud
+  - name: Jiří Pertl
+  - name: Adam Zemek
+  - name: Tomáš Borovička
+  - name: Martin Lažnovský
+  - name: Lukáš Habarta
+  - name: Tomáš Koláčný
+  - name: Marek Fišer
+  - name: Róbert Čuma
+  - name: Alena Truschingerová
+  - name: Petr Holobrádek
+  - name: Jan Bařinka
+  - name: Viktor Procházka
+  - name: Filip Havlíček
+  - name: Jan Adam
+  - name: Ondřej Vichta
+  - name: Martin Boxan
+  - name: Zbyněk Němeček
+  - name: Martina Šťastná
+  - name: Michal Marciniszyn
+  - name: Petr Sůkal
+  - name: Pavel Holomčík
+  - name: Lukáš Hejduk
+  - name: Romana Němcová
+  - name: Lenka Brodzáková
+  - name: Jan Priessnitz
+  - name: Marek Lahoda
+  - name: Yvona Doležalová
+  - name: Pavel Moravec
+  - name: Monika Lukášová Spilková
+  - name: Pavel Nevrkla
+  - name: Lukáš Halašta
+  - name: Tomáš Vymazal
+  - name: Markéta Gregorová
+  - name: Radek Holomčík
 
-    
-note: # poznámka pod kanidátku
-    Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
+
 ---
