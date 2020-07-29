@@ -98,3 +98,4 @@ tail: # zbytek kandidatky
   - name: Markéta Gregorová
   - name: Radek Holomčík
 
+---
