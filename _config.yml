@@ -103,6 +103,8 @@ theme: jekyll-theme-pirati
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
@@ -110,7 +112,12 @@ exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
-  - vendor
+  - package.json
+  - bower.json
+  - gulpfile.js
+  - node_modules
+  - bower_components
+  - vendor  
 
 permalink: /aktuality/:title.html
 collections:
@@ -160,6 +167,8 @@ defaults:   # defaults values for collection scope
 fb: https://www.facebook.com/cpsmsk
 tw: PiratiMSK
 
+emptyArray: []
+
 assets:
   source_maps: true
   compression: true
@@ -182,4 +191,5 @@ assets:
     - assets/video
     - assets/img
     - assets/img/posts
+    - assets/snippet
     - _sass
