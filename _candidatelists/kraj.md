@@ -48,7 +48,6 @@ tail: # zbytek kandidatky
   - name: Michal Škerle
     uid: michal.skerle
   - name: Petr Ilgner
-  - name: Petr Ilgner
   - name: Tomáš Pastirčák
   - name: Pavel Havlík
   - name: Jana Logrová
