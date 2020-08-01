@@ -15,8 +15,8 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
 7. Prosperující a inovativní kraj
 8. IT a krajská informatika pro 21.století
 9. Kultura, památková péče a cestovní ruch
-10. Sport a práce s mládeží
-11. Vnější vztahy a spolupráce
+10. Vnější vztahy a spolupráce
+11. Sport a práce s mládeží
 12. Územní plánování
 13. Bezpečný kraj
 
