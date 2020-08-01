@@ -46,7 +46,7 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
     - Více surovin lokálních zemědělců v jídelnách škol a nemocnic. Podpoříme lokální zemědělce skrze veřejné stravování – kraj zřizuje instituce poskytující veřejné stravování (školy, nemocnice, sociální služby atd.). Chceme, aby tyto instituce v co největší možné míře nakupovaly od lokálních zemědělců a producentů. Podpoříme tím jak regionální ekonomiku, tak i pestrost zemědělské produkce a krajiny jako takové a snížíme také nutnost dálkové přepravy.
     - Našim cílem je větší podíl pěstovaného technického konopí na jihomoravských polích – zrealizujeme projekt vybudování tírny a dalších zpracovatelských kapacit,podpoříme také nezbytnou mechanizaci.
 
- # Zdravotnictví
+# Zdravotnictví
 - Efektivnější a transparentní zdravotnictví
     - Přijatou zdravotnickou koncepci podrobíme debatě s odbornou veřejností a slabší části společně vylepšíme tak, aby pro občany Jihomoravského kraje byla zajištěna dostupná zdravotní péče.
     - Velkou pozornost zaměříme na restrukturalizaci nákupů, distribuci a výdej léčiv, zdravotnických prostředků a přístrojů, a to nejen pro krajské organizace v oblasti zdravotnictví, ale i v oblasti sociální péče. Zvýšíme transparentnost a efektivitu pomocí přehledných pravidel.
