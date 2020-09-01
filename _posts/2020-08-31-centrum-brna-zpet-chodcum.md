@@ -21,7 +21,7 @@ Centrum bude nově rozděleno na 7 podoblastí: Pěší zóna, Rašínova, Jezui
 
 **Na co si dát pozor?**
 
-Nová pravidla začínají platit od 1. září 2020. Postup vyřízení se nemění, své oprávnění si můžete vyřídit nebo zkontrolovat v [Osobních stránkách uživatele](https://osu.parkovanivbrne.cz/main/login-info){:target="_blank"} (OSU). Nemáte-li dosud OSU, stačí vyplnit žádost o jeho zřízení, která je umístěná na webu, a následně ji odeslat na e-mail parkovanivbrne@brno.cz, případně si OSU zřídit přes internet prostřednictvím plně ověřeného účtu BrnoiD 
+Nová pravidla začínají platit od 1. září 2020. Postup vyřízení se nemění, své oprávnění si můžete vyřídit nebo zkontrolovat v [Osobních stránkách uživatele](https://osu.parkovanivbrne.cz/main/login-info){:target="_blank"} (OSU). Nemáte-li dosud OSU, stačí vyplnit žádost o jeho zřízení, která je umístěná na webu, a následně ji odeslat na e-mail parkovanivbrne@brno.cz, případně si OSU zřídit přes internet prostřednictvím plně ověřeného účtu BrnoiD. 
 
 Všechny pravidla regulace budou platit pouze  ve všední dny. Parkování o víkendech a státních svátcích zůstává i nadále neregulované. 
 
