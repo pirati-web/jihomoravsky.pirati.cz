@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Méně aut v centru Brna. Nové pravidla pro vjezd aut jsou tu. Co se změní? 
+title: Méně aut v centru Brna. Nová pravidla pro vjezd aut jsou tu. Co se změní? 
 date: 2020-08-30   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Piráti Brno # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
