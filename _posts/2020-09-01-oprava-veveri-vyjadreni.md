@@ -15,9 +15,9 @@ image: posts/veveri_modrecary.png # obrázek ideálně 420x677px minifikovaný p
 
 ---
 
-V minulých dnech se objevila spousta kritiky na podobu ulice Veveří po opravě havarijního stavu kanalizace. Přiznávám, že ani já nejsem nadšený z nezměněné podoby ulice Veveří po rychlé opravě kanalizace a povrchů, ale je třeba tu doplnit několik faktů, které mnozí na sociálních sítích zcela přehlíží.
+V minulých dnech se objevila spousta kritiky na podobu ulice Veveří po opravě havarijního stavu kanalizace a tramvajové trati. Přiznávám, že ani já nejsem nadšený z nezměněné podoby ulice Veveří po rychlé opravě kanalizace a povrchů, ale je třeba tu doplnit několik faktů, které mnozí na sociálních sítích zcela přehlíží.
 
-- K rychlé opravě kanalizace se přikročilo z toho důvodu, aby po ulici Veveří mohla projíždět šalina číslo 1 směr Bystrc. Plánuje se totiž výluka na Žabovřeské a spoj č. 1 bude jezdit právě přes Veveří a Žabovřesky až do Bystrce.
+- K rychlé opravě kanalizace a tramvajové trati se přikročilo z toho důvodu, aby po ulici Veveří mohla projíždět šalina číslo 1 směr Bystrc. Plánuje se totiž výluka na Žabovřeské a spoj č. 1 bude jezdit právě přes Veveří a Žabovřesky až do Bystrce.
 
 - Kanalizace v ulici Veveří byla v dezolátním stavu a pokud by se čekalo s rekonstrukcí na více času a prostoru, mohlo by se stát, že dojde k havárii a velká část města zůstane odříznutá od MHD.
 
