@@ -25,3 +25,4 @@ V minulých dnech se objevila spousta kritiky na podobu ulice Veveří po oprav�
 
 V zastupitelstvu města Brna máme 6 Pirátů a opravdu se snažíme plnit náš program, se kterým nás lidé v roce 2018 zvolili. Kdykoli jsme také připraveni se sejít s veřejností a pobavit se o tom, co se ve městě děje. Dveře jsou vždy otevřené, často se pohybujeme také ve městě na různých akcích a s lidmi o problémech hovoříme. Snažíme se vždy reagovat věcně a kritické věci řešíme urgentně. 
 
+*Marek Fišer, radní města Brna*
