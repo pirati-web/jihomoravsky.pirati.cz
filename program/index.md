@@ -40,6 +40,7 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
     - Podpoříme co nejdřívější konec skládkování, protože odpad vnímáme jako surovinu. Preferujeme materiálové nebo energetické využití odpadu. Není nutné vše spalovat. Podporujeme chytré technologie a moderní způsob řešení nakládání s odpady. Jsme pro recyklaci dřeva. Jsme proti tomu, aby biologicky rozložitelný materiál končil v komunálním odpadu. Jsme si vědomi toho, jak je to cenná surovina pro výrobu kompostu.
     - Poskytneme obcím odborné poradenství v oblasti odpadového hospodářství pro snížení množství komunálního odpadu a za něj vydaných financí pomocí chytrého třídění odpadu.
     
+    
 - **Udržitelné řízení kraje**
     - Definujeme nově gesci radního a odbor pro zemědělství, lesnictví, vodohospodářství a životní prostředí. Tato témata patří neodmyslitelně k sobě, proto je budeme řešit v návaznosti. Kraj budeme spravovat ekologicky a v souladu s principy udržitelnosti, prevence vzniku odpadů a emisí.
     - Při výstavbě budov kraje a krajem zřizovaných institucí budeme preferovat environmentálně citlivá řešení a jako hodnotící kritérium budeme používat mezinárodně zavedené a uznávané standardy hodnocení environmentálních dopadů. Například chceme využívat stavby ze dřeva a dalších k přírodě šetrných obnovitelných zdrojů, stejně jako maximální zapojení místních firem.
@@ -49,6 +50,7 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
     - Poskytneme obcím a starostům odborné poradenství, jak dělat opatření, zajistíme rozvoj dovedností osob odpovědných za vedení samospráv měst a obcí skrze semináře a webináře.
     - Podrobíme strategii rozvoje (STRATEGIE 2021+) revizi.
     - V lesích podpoříme boj proti škůdcům, například výsadbou dubovo-bukových a smíšených kultur. Povedeme dialog o možném zapojení obcí, které mají lesní pozemky mimo svůj katastr.
+    
     
 - **Podpora udržitelného zemědělství**
     - Z pozice kraje se zasadíme o transparentní hospodaření s penězi Vinařského fondu. Prostředky z kraje budou zaměřené na pomoc těm vinařům, kteří nedosáhnou na podporu ze státních a evropských zdrojů. Peníze z marketingu přesuneme do přímé podpory vinařů, jako jsou podsadby vinohradu, výsadba stromů do vinic, nebo nákupy drobného vybavení. Podpoříme také místní vinařské spolky, především v pořádání osvětových akcí pro vinaře.
