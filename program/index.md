@@ -4,6 +4,8 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
 #rbar: people
 ---
 
+[Podívejte se, kdo za nás kandiduje.](/kandidatka/)
+
 # Kapitoly
 
 1. Životní prostředí
@@ -37,8 +39,8 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
     - Při výstavbě budov kraje a krajem zřizovaných institucí budeme preferovat environmentálně citlivá řešení a jako hodnotící kritérium budeme používat mezinárodně zavedené a uznávané standardy hodnocení environmentálních dopadů. Například chceme využívat stavby ze dřeva a dalších k přírodě šetrných obnovitelných zdrojů, stejně jako maximální zapojení místních firem.
     - Všechny dotace musí být systémové, transparentní a šetrné, proto je bude rozdělovat odborná výběrová komise se zaměřením na důsledky opatření, která zveřejní zápis o průběhu výběrového řízení on-line formou.
     - Kraj bude spolupracovat s odbornými institucemi a s profesionály z oboru. Chceme být partnery měst a obcí u vzorových projektů udržitelného hospodaření v krajině a udržitelného přístupu k životnímu prostředí.
-    - Rozšíříme možnosti environmentálního vzdělávání, výchovy a osvěty (EVVO) v regionech a městech skrze příklady dobré praxe a dlouhodobou udržitelnost jednotlivých projektů. Kraj musí jít příkladem a vytvořit vzorové projekty. 
-    - Poskytneme obcím a starostům odborné poradenství, jak dělat opatření, zajistíme rozvoj dovedností osob odpovědných za vedení samospráv měst a obcí skrze semináře a webináře. 
+    - Rozšíříme možnosti environmentálního vzdělávání, výchovy a osvěty (EVVO) v regionech a městech skrze příklady dobré praxe a dlouhodobou udržitelnost jednotlivých projektů. Kraj musí jít příkladem a vytvořit vzorové projekty.
+    - Poskytneme obcím a starostům odborné poradenství, jak dělat opatření, zajistíme rozvoj dovedností osob odpovědných za vedení samospráv měst a obcí skrze semináře a webináře.
     - Podrobíme strategii rozvoje (STRATEGIE 2021+) revizi.
     - V lesích podpoříme boj proti škůdcům, například výsadbou dubovo-bukových a smíšených kultur. Povedeme dialog o možném zapojení obcí, které mají lesní pozemky mimo svůj katastr.
 - Podpora udržitelného zemědělství
@@ -81,18 +83,18 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
     - Podpoříme také možnosti profesního rozvoje a umožníme sociálním pracovníkům a pracovnicím lépe skloubit pracovní a rodinný život.
 - Zkvalitníme sítě sociálních služeb
     - Zajistíme, aby pro občany z jakékoliv části Jihomoravského kraje existovala dostupná terénní služba typu osobní asistence nebo pečovatelské služby, stejně tak podpoříme vznik a rozvoj komunitních zařízení, která poskytují služby lidem se zvláštními potřebami, například s autismem či Alzheimerovou chorobou.
-    - Budeme usilovat o bezbariérovost kraje v maximální možné míře. 
+    - Budeme usilovat o bezbariérovost kraje v maximální možné míře.
     - Ve spolupráci s odborníky z praxe vytvoříme přehledný seznam sociálních služeb a s pomocí moderních technologií zajistíme možnost rezervace služeb online.
 
 # Vzdělávání
 - Moderní odborné školství propojené s praxí
     - Chceme, aby ve všech okresech Jihomoravského kraje odpovídalo odborné školství požadavkům trhu práce ve 21. století, podpoříme projekty, které zajistí, aby žáci odborných středních škol pracovali s nejnovějšími technologiemi. Kraj musí být nápomocen v partnerství mezi vzdělávacími institucemi a významnými regionálními zaměstnavateli.
     - V oblasti vzdělávání je třeba více podporovat high-tech a moderní obory středního školství jako jsou IT, kybernetická bezpečnost, mechatronika či přírodní vědy.
-    - Budeme podporovat rozvoj podnikatelských dovedností žáků SŠ vytvářením podnikatelských projektů v rámci výuky pod vedením zkušeného lektora, například úspěšného podnikatele z regionu. 
+    - Budeme podporovat rozvoj podnikatelských dovedností žáků SŠ vytvářením podnikatelských projektů v rámci výuky pod vedením zkušeného lektora, například úspěšného podnikatele z regionu.
 - Mít na výběr ze stejně kvalitního vzdělávání
     - Gymnázia bereme jako líheň high-tech talentů, proto podpoříme metodický rozvoj kompetencí, které pomohou jejich absolventům uplatnit se ve špičkových oborech, které v regionu existují a které budou i nadále poptávány.
     - Vnímáme nestejnou kvalitu vzdělávání v metropoli a regionech, proto budeme usilovat o snížení této mezery na minimum, naším cílem je srovnání úrovně všeobecného středního vzdělání ve všech regionech kraje, čehož chceme dosáhnout například metodickou a didaktickou pomocí v rámci školení ředitelů i učitelů. Podpoříme vyrovnávání rozdílů i finančně.
-    - Odborné a učňovské školství musí být dobrá, ne poslední volba. Pomocí metod mimoškolního vzdělávávání budeme zvyšovat atraktivitu těchto forem studia. Chceme, aby studenti těchto škol vnímali dobře možnosti sebeuplatnění, které jim daný obor dává, aby získali širší osobnostní výbavu do dalšího života a porozuměli světu, do kterého po ukončení školy vstupují. 
+    - Odborné a učňovské školství musí být dobrá, ne poslední volba. Pomocí metod mimoškolního vzdělávávání budeme zvyšovat atraktivitu těchto forem studia. Chceme, aby studenti těchto škol vnímali dobře možnosti sebeuplatnění, které jim daný obor dává, aby získali širší osobnostní výbavu do dalšího života a porozuměli světu, do kterého po ukončení školy vstupují.
     - Jihomoravský kraj je také zřizovatelem škol se speciálními potřebami. Tyto školy musí poskytovat zejména maximální metodickou pomoc, aby děti a studenti se speciálními potřebami mohli dosáhnout jak kvalitního vzdělání, tak zejména dovednostní vybavenosti do dalšího života.
 - Další důležité součásti oblasti vzdělávání
     - Středisko služby školám (SSŠ) se pod naším vedením změní ve výrazného nositele inovací, který formou nabídky přináší školám v JmK možnosti zlepšení v té nejdůležitější a základní oblasti – tedy v oblasti vzdělávání samotného.
@@ -115,7 +117,7 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
 
 # Doprava
 - Myslíme na budoucnost
-    - Iniciujeme vznik ucelené dlouhodobé Strategie krajské dopravy, na které se bude velkou mírou podílet odborná veřejnost. 
+    - Iniciujeme vznik ucelené dlouhodobé Strategie krajské dopravy, na které se bude velkou mírou podílet odborná veřejnost.
     - Podpoříme pilotní programy přechodu k autonomní mobilitě.
     - Podpoříme výstavbu infrastruktury pro elektromobilitu a jiné nízkoemisní pohony.
     - Zajistíme využití IT systému pro systematické plánování oprav komunikací k informování starostů a obyvatel s dostatečným předstihem.
@@ -164,14 +166,14 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
     - Na politické úrovni a prostřednictvím krajské informatiky budeme prosazovat principy maximální transparentnosti fungování kraje i jím zřízených organizací.
     - Prostřednictvím krajské informatiky budeme s podporou politického vedení kraje zavádět moderní metody řízení krajského úřadu i zřizovaných institucí s cílem vyšší efektivity a rychlosti činnosti i rozhodování, zkvalitnění řízení i práce.
 - Úspora a efektivita díky konkrétním činnostem krajské informatiky
-    - Dostaneme pod lepší kontrolu jednotlivé separátní informační systémy i programy používané v rámci kraje. Aktuálně se jedná o 60 IT systémů a několik set programů, které jsou používány na jednotlivých odborech bez kontroly, evidence a vyhodnocení vhodnosti či bezpečnosti. To změníme. 
+    - Dostaneme pod lepší kontrolu jednotlivé separátní informační systémy i programy používané v rámci kraje. Aktuálně se jedná o 60 IT systémů a několik set programů, které jsou používány na jednotlivých odborech bez kontroly, evidence a vyhodnocení vhodnosti či bezpečnosti. To změníme.
     - Budeme pokračovat v postupném nahrazování hardwarové výbavy (zasíťování tenkými klienty). Výsledkem bude další úspora peněz i energie, vyšší bezpečnost a snazší dálková administrativa. Zavedeme také elektronické podepisování dokumentů na všech úrovních, úřednické i politické.
     - Prosadíme tzv. Portál příspěvkových organizací jako základní (výchozí) komunikační nástroj pro elektronickou komunikaci mezi krajem a organizacemi, čímž nahradíme mailování. ○ Rozjedeme Centrální tiskové řešení pro Krajský úřad (namísto separátních tiskáren), což přinese zásadní finanční úsporu.
     - Prosadíme větší digitalizaci dokumentů krajského úřadu.
     - Připravíme a následně zpřístupníme Digitální technické mapy kraje.
 - Role krajské informatiky v krizových situacích
     - Informatika představuje významný nástroj, jak se poprat s náročnou krizovou situací. S pomocí krajské informatiky proto urychleně připravíme systémy umožňující práci i jednání na dálku v podobě, která je zcela plnohodnotná.
-    - Technicky umožníme dálkovou účast při jednáních komisí, výborů či pracovních skupin, a to i včetně věrohodného způsobu hlasování. 
+    - Technicky umožníme dálkovou účast při jednáních komisí, výborů či pracovních skupin, a to i včetně věrohodného způsobu hlasování.
     - Rozšíříme nabídku elektronických služeb kraje vůči občanům, směřující ke zredukování nutných osobních návštěv či osobních kontaktů občanů s pracovníky krajského úřadu.
     - Ve všech těchto věcech poskytneme know-how i technologie organizacím, které kraj zřizuje, a nabídneme je i obcím. Do užívání těchto služeb je pak zaškolíme.
 
@@ -186,7 +188,7 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
     - Ve spolupráci s kulturními organizacemi zajistíme pravidelné divadelní vyžití pro děti.
 - Kraj jako partner pro film a kreativní průmysl
     - Podpoříme příležitosti pro natáčení filmů, které zvyšují turistickou atraktivitu Jihomoravského kraje.
-    - Náš kraj je jedním z tahounů kreativních průmyslů v ČR, proto budeme podporovat jeho další rozvoj. 
+    - Náš kraj je jedním z tahounů kreativních průmyslů v ČR, proto budeme podporovat jeho další rozvoj.
 - Živý veřejný prostor
     - Podpoříme život ve veřejném prostoru ve městech jako je busking, pouliční knihovny, klavíry, šachy na ulici, poeziomaty a podobně.
     - Pro jižní Moravu je důležitý folklor a tradice, budeme pokračovat v jejich podpoře.
