@@ -25,6 +25,8 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
 # Životní prostředí
 
 - **Prolomíme sucho a ochráníme krajinu**
+
+
     - Podpoříme vznik drobných prvků pro udržení vody v krajině místo obřích vodních staveb. Stěžejní bude obnova tůní, meandrů a slepých koryt vodních toků, rybníků či vytvoření suchých poldrů.
     - Zajistíme metodickou podporu obcím a městům, případně iniciaci, právní pomoc a projektování při obnově polních cest, výsadbě alejí, remízků, větrolamů a tvorbě dalších krajinných prvků včetně spolupráce při pozemkových úpravách.
     - Zrealizujeme projekty na podporu a propagaci technologií vedoucích k úsporám vody ve městech a obcích a poskytneme obcím a starostům odborné poradenství, jak dělat opatření spořící vodu.
@@ -32,7 +34,8 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
     - Kraj musí jít příkladem a podílet se na vzniku vzorových projektů pro ochranu krajiny a adaptaci na klimatickou změnu.
     - Ochráníme vodní zdroje – nedopustíme nebezpečný hazard s vodními zdroji.
     - Jsme proti zbytečnému zastavění nejkvalitnější půdy.
-
+    
+    
 - **Kam s odpadem?**
     - Podpoříme co nejdřívější konec skládkování, protože odpad vnímáme jako surovinu. Preferujeme materiálové nebo energetické využití odpadu. Není nutné vše spalovat. Podporujeme chytré technologie a moderní způsob řešení nakládání s odpady. Jsme pro recyklaci dřeva. Jsme proti tomu, aby biologicky rozložitelný materiál končil v komunálním odpadu. Jsme si vědomi toho, jak je to cenná surovina pro výrobu kompostu.
     - Poskytneme obcím odborné poradenství v oblasti odpadového hospodářství pro snížení množství komunálního odpadu a za něj vydaných financí pomocí chytrého třídění odpadu.
