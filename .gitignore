@@ -13,3 +13,4 @@ vendor/
 .bundle
 
 .directory
+.DS_Store

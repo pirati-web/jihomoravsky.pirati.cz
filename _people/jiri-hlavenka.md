@@ -8,7 +8,7 @@ titles:
   after:
 mail:
 - hlavenka.jiri@kr-jihomoravsky.cz
-img: people/jiri-hlavenka.jpg   # 165x220px
+img: people/jiri_hlavenka.jpg   # 165x220px
 description: Podnikatel a investor v IT 	# kratký popis, max 160 znaků
 uid: jiri.hlavenka # identifikátor 
 

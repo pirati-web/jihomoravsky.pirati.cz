@@ -3,7 +3,7 @@ uid: lukas.dubec
 name:     Lukáš Dubec  	# běžně používáné jméno
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pms
-img: people/lukas-dubec.jpg   # 165 x 220
+img: people/lukas_dubec.jpg   # 165 x 220
 description: Projektant interiérů a předseda místního sdružení Znojemsko   	# kratký popis, max 160 znaků
 mail:
 - lukas.dubec@pirati.cz
