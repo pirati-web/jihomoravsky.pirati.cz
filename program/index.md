@@ -4,8 +4,6 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
 #rbar: people
 ---
 
-[Podívejte se, kdo za nás kandiduje.](/kandidatka/)
-
 # Kapitoly
 
 1. Životní prostředí

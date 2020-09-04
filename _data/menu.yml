@@ -10,6 +10,19 @@ top:
     icon: "fa fa-newspaper-o"
 
 main:
+  - link: /kandidatka/
+    name: Krajské volby
+    match: volby, krajske-volby, program, kandidatka, transparentnost
+    submenu:
+      - link: /program/
+        name: Program
+        match: program, volebni-program
+      - link: /kandidatka/
+        name: Kandidátka
+        match: kandidatka, kandidati
+      - link: /transparentnost/
+        name: Jsme transparentní
+        match: transparentnost
   - link: /aktuality/
     name: Aktuality
     match: aktuality
@@ -31,7 +44,7 @@ bottom:
     links:
        - link: /lide/
          name: Naši lidé
-       - link: /regiony/ 
+       - link: /regiony/
          name: Místní sdružení
 #       - link: /program/
 #         name: Dlouhodobý program
@@ -43,7 +56,7 @@ bottom:
       - link: /aktuality/
         name: Aktuality
       - link: https://calendar.google.com/calendar/embed?src=aab301nnugmna65grbnt6jv18k%40group.calendar.google.com&ctz=Europe%2FPrague
-        name: Kalendář 
+        name: Kalendář
   - class: small-12 medium-4
     title: Otevřenost
     links:
