@@ -9,7 +9,7 @@ author: Krajský MO
 tags: Piráti Brno inovace # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-#authorId: marek.fiser # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
+#authorId: marek.fiser # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid 
 image: posts/inovace_jhtk.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Dlouholetý Pirát, dobrovolný hasič, larper, sportovec a fanda 3D tisku stojí v čele jihomoravské pirátské kandidátky. S čím vede Piráty na kraj?
 
