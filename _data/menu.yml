@@ -20,6 +20,9 @@ main:
       - link: /kandidatka/
         name: Kandidátka
         match: kandidatka, kandidati
+      - link: /piratske-listy/
+        name: Pirátské listy
+        match: piratske-listy, plisty
       - link: /transparentnost/
         name: Jsme transparentní
         match: transparentnost
