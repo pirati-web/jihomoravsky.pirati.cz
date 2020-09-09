@@ -1,17 +1,17 @@
 ---
-#název souboru: 2020-09-10-volicske-prukazy-krajske-volby.md
+#název souboru: 2020-09-11-volicske-prukazy-krajske-volby.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Pojďte k volbám! Piráti opět pomáhají s voličskými průkazy
-date: 2020-09-10   # formát YYYY-MM-DD
+title: Volby se blíží a Piráti opět pomáhají s voličskými průkazy
+date: 2020-09-11   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Piráti krajské-volby # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 #authorId: marek.fiser # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: posts/volicske_web.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
-description: Proč a jak volit? Kdo může volit a co je to ten voličský průkaz?
+description: Proč a jak volit? Kdo může volit, co je to ten voličský průkaz a jak ho získáte?
 
 ---
 
