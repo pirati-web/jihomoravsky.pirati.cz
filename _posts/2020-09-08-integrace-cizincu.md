@@ -15,7 +15,7 @@ image: posts/integrace-mara.png # obrázek ideálně 420x677px minifikovaný př
 
 ---
 
-Po letech úsilí se pirátům konečně podařilo prosadit [Strategii pro integraci cizinců pro roky 2020–2026](https://socialnipece.brno.cz/wp-content/uploads/2020/09/MMB-Strategie-integrace-cizinc%C5%AF-ve-m%C4%9Bst%C4%9B-Brn%C4%9B_FINAL-2.pdf){:target="_blank"}. Je to velký krok, který napomůže efektivní integraci cizinců mezi většinovou populaci. 
+Po letech úsilí se pirátům konečně podařilo prosadit [Strategii pro integraci cizinců pro roky 2020–2026](https://socialnipece.brno.cz/wp-content/uploads/2020/09/MMB-Strategie-integrace-cizincu%CC%8A-ve-me%CC%8Cste%CC%8C-Brne%CC%8C_FINAL-2.pdf){:target="_blank"}. Je to velký krok, který napomůže efektivní integraci cizinců mezi většinovou populaci. 
 
 *„Mám velkou radost, že jsme strategii schválili. Jedná se o poměrně obecný dokument, který ovšem budeme rozvíjet vždy tříletými akčními plány. Ty už budou obsahovat konkrétní kroky a opatření pro dosažení kýženého cíle – chceme, aby Brno bylo tolerantní, mezinárodní, bezpečné a soudržné město, které nás spojuje,“* [popsal předseda Poradního orgánu statutárního města Brna pro otázky integrace cizinců Marek Fišer](https://www.brno.cz/brno-aktualne/tiskovy-servis/tiskove-zpravy/a/lepsi-integrovat-vcas-nez-resit-problemy-pozdeji-brno-prijalo-strategii-pro-integraci-cizincu/){:target="_blank"}.
 
