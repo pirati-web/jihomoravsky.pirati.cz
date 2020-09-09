@@ -5,11 +5,11 @@
 category: CLANKY   # nešahat!
 title: "Jiří Hlavenka: Vzdělání musí pádit s dobou" 
 date: 2020-09-08   # formát YYYY-MM-DD
-author: Krajský MO
+author: Jiří Hlavenka
 tags: Piráti vzdělávání # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-#authorId: marek.fiser # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid 
+authorId: jiri.hlavenka # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid 
 image: posts/vzdelavani_hlavenka.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Dlouholetý Pirát, dobrovolný hasič, larper, sportovec a fanda 3D tisku stojí v čele jihomoravské pirátské kandidátky. S čím vede Piráty na kraj?
 
