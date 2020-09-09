@@ -38,6 +38,7 @@ Volby do krajských Zastupitelstev jsou důležité. I tak k nim ale chodí mál
 - Po příchodu do volební místnosti (nezapomeňte letos na roušku) a ověření totožnosti obdržíte úřední obálku. Volební lístek upravíte za plentou – rozdávat můžete až 4 preferenční hlasy, případně vložíte pouze lístek s vámi vybranou stranou – my máme v Jihomoravském kraji číslo 19, vložíte do obálky a vhodíte do urny. A máte odvoleno!
 
 **KDY SE VOLÍ?**
+
 Letos je to tedy první říjnový víkend, a to v pátek 2. října od 14 do 22 hodin, v sobotu 3. října pak od 8 do 14 hodin.
 
 **JAK SI VYŘÍDIT VOLIČSKÝ PRŮKAZ?**
