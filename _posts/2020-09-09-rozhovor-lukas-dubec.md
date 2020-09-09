@@ -1,10 +1,10 @@
 ---
-#název souboru: 2020-09-02-rozhovor-lukas-dubec-krajske-volby.md
+#název souboru: 2020-09-09-rozhovor-lukas-dubec-krajske-volby.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: "Lídr Pirátů Lukáš Dubec: Sucho ohrožuje jihomoravskou krajinu i krajský úřad"
-date: 2020-09-02   # formát YYYY-MM-DD
+date: 2020-09-09   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Piráti krajské-volby # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
