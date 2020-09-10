@@ -10,7 +10,7 @@ tags: Piráti krajské-volby # kategorie odděleny mezerami, např. volby zeměd
 
 ### Nepovinné položky ###
 #authorId: marek.fiser # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: posts/volicske_web.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/volbyinfo-uvod.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 description: Proč a jak volit? Kdo může volit, co je to ten voličský průkaz a jak ho získáte?
 
 ---
