@@ -1,10 +1,10 @@
 ---
-#název souboru: 2020-09-11-volicske-prukazy-krajske-volby.md
+#název souboru: 2020-09-10-volicske-prukazy-krajske-volby.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: Volby se blíží a Piráti opět pomáhají s voličskými průkazy
-date: 2020-09-11   # formát YYYY-MM-DD
+date: 2020-09-10   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Piráti krajské-volby # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
@@ -17,7 +17,7 @@ description: Proč a jak volit? Kdo může volit, co je to ten voličský průka
 
 *„To už jsou zase volby?“*
 
-Je to tak! Na začátku října, konkrétně v pátek 2. a sobotu 3.10., se jde opět k urnám. Tentokrát se obměňují krajská zastupitelstva – [a také třetina Senátu](https://www.kaderavek.cz/){:target="_blank"} a Piráti mají ambiciózní, avšak splnitelný cíl – mít alespoň 100 krajských zastupitelů po celé zemi. A pomoct nám s tím můžete i vy.
+Je to tak! Na začátku října, konkrétně v pátek 2. a sobotu 3.10., se jde opět k urnám. Tentokrát se obměňují krajská zastupitelstva – [a také třetina Senátu, kde v Brně máme i my svého kandidáta](https://www.kaderavek.cz/){:target="_blank"} a Piráti mají ambiciózní, avšak splnitelný cíl – mít alespoň 100 krajských zastupitelů po celé zemi. A pomoct nám s tím můžete i vy.
 
 **Běžte prosím k volbám. Máme šanci změnit budoucnost.**
 
@@ -43,7 +43,7 @@ Letos je to tedy první říjnový víkend, a to v pátek 2. října od 14 do 22
 
 **JAK SI VYŘÍDIT VOLIČSKÝ PRŮKAZ?**
 
-Nejprve je třeba podat žádost na obecním úřadě, kde máte hlášené trvalé bydliště. Učinit tak můžete 4 způsoby:
+Nejprve je třeba podat žádost – [vzor jsme připravili ke stažení](https://drive.google.com/drive/folders/1IEGZHgSF2Zyx-MTx200aN0Bu79qI5cYD?usp=sharing){:target="_blank"} – na obecním úřadě, kde máte hlášené trvalé bydliště. Učinit tak můžete 4 způsoby:
 - Osobně – stihnout to musíte do konce září 2020, ale raději s tím neotálejte, i s ohledem na omezené úřední hodiny v obcích.
 - Poštou – žádost s úředně ověřeným podpisem musí na úřad dorazit nejpozději 7 dnů před volbami. Posílejte je ideálně do 23. září 2020.
 - Přes datovou schránku – s žádostí také neotálejte a ideálně to stihněte do 22. září 2020.
@@ -51,4 +51,4 @@ Nejprve je třeba podat žádost na obecním úřadě, kde máte hlášené trva
 Úřad vám váš voličský průkaz doručí buď poštou, nebo si jej můžete vyzvednout osobně. Vyzvednout nebo převzít jej může také osoba s plnou mocí. 
 Pak už můžete směle volit! S sebou tedy potřebujete doklad totožnosti a samozřejmě váš voličský průkaz. Nezapomeňte, že voličský průkaz platí pouze na jedny volby! 
 
-**Chcete jít k volbám v Brně, protože tu žijete, ale trvalé bydliště máte v jiné obci či městě v Jihomoravském kraji? Přijďte si za námi vyřídit žádost o voličský průkaz (tady bude link na FB událost). Zdarma vám dáme formulář, ověříme podpis a poradíme, co a jak dál.**
+**Chcete jít k volbám v Brně, protože tu žijete, ale trvalé bydliště máte v jiné obci či městě v Jihomoravském kraji? [Přijďte si za námi vyřídit žádost o voličský průkaz](https://www.facebook.com/events/325926522082898/){:target="_blank"}. Zdarma vám dáme formulář, ověříme podpis a poradíme, co a jak dál.**
