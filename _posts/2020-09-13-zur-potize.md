@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: "Piráti na kraji: Kraj má další velký poroblém se Zásadami územního rozvoje – nevlastní žádná podkladová data" 
+title: "Piráti na kraji: Kraj má další velký problém se Zásadami územního rozvoje – nevlastní žádná podkladová data" 
 date: 2020-09-13   # formát YYYY-MM-DD
 author: Jiří Hlavenka
 tags: Piráti ZUR # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
