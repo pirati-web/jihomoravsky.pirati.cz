@@ -29,4 +29,6 @@ Výsledky z minulých let jasně ukazují na přínosy, které RIS měla pro cel
 
 *„Za zmínku stojí, že jihomoravská RIS je vzorem pro obdobné strategie po celé republice. Její kvalitu podtrhuje i fakt, že se na téměř roční přípravě podíleli zástupci z více než padesáti jihomoravských firem, univerzit, vědecko-výzkumných center a dalších institucí,“* dodal Koláčný.
 
+*„RIS je jedna z mála strategií, která není jen na papíře, ale která se naplňuje a realizuje. Její vliv na směřování regionu a jeho rozvoje je značný. Jsem velmi rád, že tato strategie se poučila z toho, co se v minulosti povedlo méně a velmi dobře reaguje na současnou dobu a její výzvy,“* komentuje Jiří Hlavenka, dvojka na kandidátce do kraje.
+
 Jestli vás téma zaujalo a chtěli byste se dozvědět víc informací o Regionální inovační strategii, navštivte stránky www.risjmk.cz. 
