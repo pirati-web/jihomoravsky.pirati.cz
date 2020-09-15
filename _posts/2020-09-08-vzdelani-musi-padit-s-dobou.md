@@ -22,3 +22,5 @@ První obrovskou pravomocí je výběr ředitele nebo ředitelky školy; v celé
 Kraj pochopitelně nemůže a ani nesmí školám nakazovat “co a jak mají učit”. Může ale ředitelům i učitelům poskytovat metodickou a školicí pomoc, ukazovat jim příklady dobré praxe a pomáhat jim orientovat se v modernějším vzdělávání, akcentujícím méně prosté znalosti a více schopnosti a dovednosti žáků a studentů. Má k tomu vlastní školicí instituci (Středisko služeb školám), a jejím prostřednictvím nabízet vzdělávání více ve směru kvality pedagogiky a osobního rozvoje pedagogů, a nikoli jen k zvládání předpisů a účetnictví. Budeme v tomto směru se Střediskem služeb školám intenzivně pracovat, aby nabídka této metodické pomoci byla co nejširší a hlavně vysoce kvalitní, moderní.
 
 Doba pádí kupředu a vzdělání musí utíkat s ní. Naší snahou na kraji bude, aby jihomoravské školství pomáhalo vyslat do života žáky a studenty co nejlépe připravené se poprat s moderní dobou. 
+
+Přečtete si více o [našem programu](https://jihomoravsky.pirati.cz/program/){:target="_blank"} a podívejte se, [kdo všechno je na naší kandidátce](https://jihomoravsky.pirati.cz/kandidatka/){:target="_blank"}.
