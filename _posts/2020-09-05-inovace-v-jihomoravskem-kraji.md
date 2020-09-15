@@ -27,3 +27,4 @@ Třetí částí formule jsou programy. Na Jihomoravském kraji budeme pokračov
 
 Kdo stojí na místě, ztrácí – postaráme se o to, aby inovační síla a potenciál kraje nadále rostl.
 
+Přečtete si více o [našem programu](https://jihomoravsky.pirati.cz/program/){:target="_blank"} a podívejte se, [kdo všechno je na naší kandidátce](https://jihomoravsky.pirati.cz/kandidatka/){:target="_blank"}.
