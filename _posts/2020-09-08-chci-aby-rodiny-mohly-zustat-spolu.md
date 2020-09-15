@@ -25,3 +25,4 @@ Naším prvním krokem bude navýšení počtu terénních pracovníků v oblast
 
 Vím z vlastní zkušenosti, že řada rodin, které pečují o seniora či hendikepované dítě, by tuto pomoc využila, kdyby jim ji kraj nabídl. Ať už na pár hodin denně či třeba díky odlehčovacím službám na týden, během kterého může rodina alespoň na chvíli předat břímě zodpovědnosti a péče na kraj a nabrat síly do dalšího období. Pečovat o těžce nemocné či postižené osoby, i když jsou to naši blízcí, je velmi fyzicky i psychicky náročné. Proto Piráti chtějí, aby kraj byl tím, kdo pečující podpoří, pomohou a umožní jim i nadále fungovat jako rodina pospolu.
 
+Přečtete si více o [našem programu](https://jihomoravsky.pirati.cz/program/){:target="_blank"} a podívejte se, [kdo všechno je na naší kandidátce](https://jihomoravsky.pirati.cz/kandidatka/){:target="_blank"}.
