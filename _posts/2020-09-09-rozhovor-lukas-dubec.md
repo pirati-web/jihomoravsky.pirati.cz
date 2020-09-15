@@ -38,3 +38,5 @@ Určitě. Tyhle volby ale nejsou jen o mně. Jsme silný tým plný zkušených 
 **Co máš konkrétně na mysli?**
 
 Prvním krokem bude odstranění turniketů u vchodu. Politici mají sloužit lidem, takže tahle památka po dřívějším vedení půjde pryč, aby se za námi občané mohli kdykoli zastavit bez toho, aby je někdo u vchodu „lustroval“. Plánujeme také občany daleko více zapojovat do diskusí o směřování kraje, nechceme hlasy jen u voleb, nás zajímají názory občanů kdykoli. Ale chystáme toho mnohem víc. Těšíme se na to a já věřím, že získáme důvěru občanů a hlavně, že ji nezklameme.
+
+Přečtete si více o [našem programu](https://jihomoravsky.pirati.cz/program/){:target="_blank"} a podívejte se, [kdo všechno je na naší kandidátce](https://jihomoravsky.pirati.cz/kandidatka/){:target="_blank"}.
