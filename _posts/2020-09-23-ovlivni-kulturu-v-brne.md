@@ -10,7 +10,7 @@ tags: Piráti Brno kultura # kategorie odděleny mezerami, např. volby zemědě
 
 ### Nepovinné položky ###
 #authorId: jiri.hlavenka # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid 
-image: posts/dotace_kultura_ponava.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/brno-motion.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Dlouholetý Pirát, dobrovolný hasič, larper, sportovec a fanda 3D tisku stojí v čele jihomoravské pirátské kandidátky. S čím vede Piráty na kraj?
 
 ---
