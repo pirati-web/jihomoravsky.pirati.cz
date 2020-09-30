@@ -29,7 +29,7 @@ Povolební strategie Pirátů pro volby do zastupitelstva Jihomoravského kraje 
 - Ke koaliční spolupráci budeme hledat partnery, kteří ctí principy transparentnosti, participace občanů, potlačování klientelismu a předcházení konfliktu zájmů. V případě, že okolnosti nedovolí sestavit koalici s takovými partnery, budeme pracovat v opozici.
 - Koaliční smlouvu uzavřeme pouze se subjekty, které podpoří naše stěžejní témata:
 
-*1.Podpora vzniku drobných vodních prvků v krajině místo velkých vodohospodářských staveb a ochrana bonitně nejcennější půdy s výjimkou strategických staveb s krajským či celorepublikovým významem a vyčlenění dostatečného množství prostředků pro zajištění ekologizace budov ve vlastnictví kraje.*
+*1. Podpora vzniku drobných vodních prvků v krajině místo velkých vodohospodářských staveb a ochrana bonitně nejcennější půdy s výjimkou strategických staveb s krajským či celorepublikovým významem a vyčlenění dostatečného množství prostředků pro zajištění ekologizace budov ve vlastnictví kraje.*
 
 *2. Deinstitucionalizace sociální péče – v příštích 4 letech chceme zahájit transformaci sociální péče, budeme podporovat komunitní sociální péči místo plánování stavby dalších velkých ústavů.*
 
