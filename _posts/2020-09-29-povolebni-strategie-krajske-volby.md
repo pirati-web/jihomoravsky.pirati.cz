@@ -28,17 +28,18 @@ Povolební strategie Pirátů pro volby do zastupitelstva Jihomoravského kraje 
 **2. Podmínky pro účast v koalici**
 - Ke koaliční spolupráci budeme hledat partnery, kteří ctí principy transparentnosti, participace občanů, potlačování klientelismu a předcházení konfliktu zájmů. V případě, že okolnosti nedovolí sestavit koalici s takovými partnery, budeme pracovat v opozici.
 - Koaliční smlouvu uzavřeme pouze se subjekty, které podpoří naše stěžejní témata:
-*1.Podpora vzniku drobných vodních prvků v krajině místo velkých vodohospodářských staveb a ochrana bonitně nejcennější půdy s výjimkou strategických staveb s krajským či celorepublikovým významem a vyčlenění dostatečného množství prostředků pro zajištění ekologizace budov ve vlastnictví kraje.
 
-2. Deinstitucionalizace sociální péče – v příštích 4 letech chceme zahájit transformaci sociální péče, budeme podporovat komunitní sociální péči místo plánování stavby dalších velkých ústavů.
+*1.Podpora vzniku drobných vodních prvků v krajině místo velkých vodohospodářských staveb a ochrana bonitně nejcennější půdy s výjimkou strategických staveb s krajským či celorepublikovým významem a vyčlenění dostatečného množství prostředků pro zajištění ekologizace budov ve vlastnictví kraje.*
 
-3. Povinnost otevřených výzev při výběru dodavatele veřejných zakázek malého rozsahu v hodnotě nad 200 000 Kč, a to nejen pro krajský úřad, ale také pro příspěvkové organizace kraje.
+*2. Deinstitucionalizace sociální péče – v příštích 4 letech chceme zahájit transformaci sociální péče, budeme podporovat komunitní sociální péči místo plánování stavby dalších velkých ústavů.*
 
-4. Pomoci méně prosperujícím regionům s rozvojem a zajistit prosperitu celého kraje.
+*3. Povinnost otevřených výzev při výběru dodavatele veřejných zakázek malého rozsahu v hodnotě nad 200 000 Kč, a to nejen pro krajský úřad, ale také pro příspěvkové organizace kraje.*
 
-5. Agenda IT a digitalizace úřadu bude prioritou, maximální možná míra podpory bezpapírové agendy a zvyšování kybernetické bezpečnosti u krajem zřizovaných institucí.
+*4. Pomoci méně prosperujícím regionům s rozvojem a zajistit prosperitu celého kraje.*
 
-6. Transparentní metodika financování sportu, mládežnických organizací a kultury.*
+*5. Agenda IT a digitalizace úřadu bude prioritou, maximální možná míra podpory bezpapírové agendy a zvyšování kybernetické bezpečnosti u krajem zřizovaných institucí.*
+
+*6. Transparentní metodika financování sportu, mládežnických organizací a kultury.*
 
 - Odmítáme koalice s extremistickými stranami. V koalici nebudeme se stranou či hnutím, které svými projevy popírají principy demokratického právního státu, Listinu základních práv a svobod, nesou historické dědictví likvidace demokracie v této zemi, šíří nesnášenlivost, odpor či diskriminaci vůči skupinám lidí - tj. zejména KSČM a SPD.
 - Požadujeme, aby ve výborech zastupitelstva i komisích rady měly své zastoupení mimo koaličních klubů také všechny kluby v opozici.
