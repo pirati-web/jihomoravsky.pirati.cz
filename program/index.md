@@ -286,3 +286,7 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
     - Jsme si vědomi aktuálních hrozeb a rizik v kyberprostoru, proto podpoříme další rozvoj Kybernetického operačního centra Jihomoravského kraje (KOC JmK).
     - U kraje a jeho zřizovaných institucí podpoříme v rámci průběžné modernizace taková řešení, která povedou k větší míře kybernetické bezpečnosti.
     - Podpoříme programy zaměřené na elektronickou bezpečnost mládeže i seniorů a starších občanů, kteří se také stávají oběťmi kyberkriminality.
+
+
+
+*Zadavatel/Zhotovitel: Česká pirátská strana*
