@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Otevřené výběrové řízení: PR a mediální manažer/ka pro Jihomoravský kraj
+title: "Otevřené výběrové řízení: PR a mediální manažer/ka pro Jihomoravský kraj"
 date: 2020-10-06   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Piráti výběrové-řízení # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
