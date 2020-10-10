@@ -44,18 +44,15 @@ motto: Technologie musí člověku život ulehčovat, nikoliv ztěžovat!
 
 ---
 
-Jaroslav Kameň (roz. Kupčík, * 1986) je členem Pirátské strany od roku 2016. Pochází z Orlové a od roku 2005 žije v Brně. Je zastupitelem na Magistrátu města Brna a městské části Brno-Královo Pole.
-
-Vystudoval osmileté všeobecné gymnázium a poté obor Informační systémy na Fakultě informačních technologií Vysokého učení technického v Brně, kde získal titul Ing.
-
-Pracoval jako středoškolský učitel informačních technologií na [ISŠA Brno](http://www.issabrno.cz/){:target="_blank"} na Křižíkové, poté jako web developer a produktový manažer v marketingovém oddělení brněnské společnosti [Kentico](https://www.kentico.com/){:target="_blank"} vyvíjející systémy pro správu webu. Dva roky pracoval jako manažer a herní a webový vývojář v brněnském herním studiu [Madfinger Games](https://www.madfingergames.com/){:target="_blank"}. Aktuálně pomáhá rozvíjet a tvarovat [Firmy.cz](https://www.firmy.cz){:target="_blank"}.
+Jaroslav Kameň (roz. Kupčík, * 1986) pochází z Orlové a je členem Pirátské strany od roku 2016. Vystudoval Fakultu informačních technologií v Brně, kde pak pracoval jako učitel, programátor a manažer. Nyní žije opět v Orlové a pracuje jako webový vývojář pro společnost Seznam.cz.
 
 Vadí mu plýtvání veřejnými prostředky, degradace veřejného prostoru a omezování osobních svobod. Chtěl by, aby moderní technologie život lidem usnadňovaly a nikoliv ztěžovaly. Byl by rád za větší transparenci ve státní správě a aktivní občanskou společnost podílející se na rozhodnutích, které se jí týkají.
 
-Nelíbí se mu, když politici místo služby občanům upřednostňují své soukromé zájmy, zájmy pofidérních struktur na hranicích zákona nebo nadnárodních korporací. Přeje si, aby stát občanům poskytoval bezpečný a efektivní prostor k jejich osobnímu rozvoji a nefungoval jako prostředek k jejich vykořisťování nebo perzekuci.
+Nelíbí se mu, když politici místo služby občanům upřednostňují své soukromé či jiné zájmy na úkor všeobecné prospěšnosti. Přeje si, aby stát občanům poskytoval bezpečný a efektivní prostor k jejich osobnímu rozvoji a nefungoval jako prostředek k jejich vykořisťování nebo perzekuci.
 
-Silně podporuje myšlenku nepodmíněného základního příjmu, který chápe jako efektivní prostředek k udržení fungující ekonomiky. Myslí si, že je pro stát výhodnější podporovat raději přímo své občany než nadnárodní korporace, kterým jsou pro vytváření pracovních míst přidělovány mohutné dotace a odpouštěny daně. Věří, že by tak nepodmíněný základní příjem kromě zjednodušení sociálního systému a zaručení důstojného života občanům rovněž pomohl omezit odtok peněz do zahraničí a daňových rájů. 
+Přál by si informovanou a vzdělanou společnost schopnou vyhodnocování důvěryhodnosti informačních zdrojů. Efektivní fungování demokracie je podmíněno svéprávnými, svobodnými a zodpovědnými občany, kteří sebou nenechají jednoduše manipulovat.
 
-<!--V komunální politice se chce zasadit o vytvoření uživatelsky přívětivého rozhraní pro efektivní komunikaci s občany a názornou transparentní online prezentaci veškerého hospodaření města a jeho městských částí. Prosazuje vytváření informačních systémů s otevřeným zdrojovým kódem (opensource), u nichž se zvýšená počáteční investice z dlouhodobého hlediska mnohonásobně vyplatí díky možnostem jednodušší údržby, snadnějšímu napojování na ostatní systémy a sdílení řešení s ostatními jednotkami veřejné správy.-->
+Silně podporuje myšlenku nepodmíněného základního příjmu, který chápe jako efektivní prostředek k udržení fungující ekonomiky. Myslí si, že je pro stát výhodnější podporovat raději přímo své občany než korporace, kterým jsou pro vytváření pracovních míst přidělovány dotace a odpouštěny daně. Věří, že by tak nepodmíněný základní příjem kromě zjednodušení sociálního systému a zaručení důstojného života občanům rovněž pomohl omezit odtok peněz do zahraničí a daňových rájů.
 
-Když se mu podaří osvobodit se ze zajetí počítačů, podniká výlety do přírody na kole i pěšky. Má rád Nintendo Switch, sci-fi a fantasy literaturu a filmy a hraje a tvoří deskové a karetní hry.
+Když se mu podaří osvobodit se ze zajetí počítačů, podniká výlety do přírody na lyžích, kole i pěšky. Má rád Nintendo Switch, sci-fi a fantasy literaturu a filmy, hraje a tvoří deskové a karetní hry a hraje na kytaru a ukulele.
+
