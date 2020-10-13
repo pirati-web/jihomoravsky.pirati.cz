@@ -3,7 +3,8 @@ uid: petr.springinsfeld
 name:     Petr Springinsfeld  	# běžně používáné jméno
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
-
+- zjmk
+ordzjmk: 5
 ordpks: 2
 
 img: people/petr-springinsfeld.jpg   # 165 x 220
