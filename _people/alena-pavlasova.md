@@ -17,6 +17,7 @@ category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
 - mmb
 - msbrno
 - krpole
+ordmmb: 6
 ordmsbrno: 11
 ordkrpole: 8
 
