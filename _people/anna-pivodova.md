@@ -9,7 +9,7 @@ titles:
 mail: anna.pivodova@gmail.com
 
 img: people/anna-pivodova.jpg   # 165x220px
-description: Umělecká agentka 	# kratký popis, max 160 znaků
+description:PR & Media Manager, vedoucí studentské agentury PR Gang  	# kratký popis, max 160 znaků
 
 ### Nepovinné položky
 profiles:
@@ -26,11 +26,8 @@ ordkrpole: 6
 
 ---
 
-Anna Pivodová (\* 12. března 1992) je příznivkyní Pirátů od roku 2014, kdy se aktivně podílela na přípravě volební kampaně koalice Žít Brno s podporou Pirátů. Pochází ze Zlína a do Brna, kde se rozhodla žít trvale, se přestěhovala v roce 2011 kvůli studiím.
+Anna Pivodová (* 12. března 1992) je příznivkyní Pirátů od roku 2014, kdy se aktivně podílela na přípravě volební kampaně koalice Žít Brno s podporou Pirátů. Pochází ze Zlína a do Brna, kde se rozhodla žít trvale, se přestěhovala v roce 2011 kvůli studiím.
 
-Anna má vystudovanou Molekulární biologii a genetiku na Masarykově univerzitě. I přes odlišný charakter vystudovaného oboru se rozhodla svoji kariéru budovat v marketingu a managementu.
+Anna má vystudovanou Molekulární biologii a genetiku na Masarykově univerzitě. I přes odlišný charakter vystudovaného oboru se rozhodla svoji kariéru budovat v marketingu a PR.
 
-V současnosti se živí jako OSVČ a jejími největšími klienty jsou brněnský fotograf Jiří Salik Sláma a kreativní studio FILMONDO.
-
-Je aktivní podporovatelkou brněnské queer komunity. Od roku 2013 se podílí na přípravě každoročně pořádaného LGBT+ a hetero-friendly plesu QUEER BALL.
-Ve volném čase ráda hraje hospodské kvízy, uklízí a vaří.
+V současnosti se živí jako PR & Media Manager v agentuře Lesensky.cz, působí také jako vedoucí studentské agentury PR Gang. Ve volném čase ráda hraje hospodské kvízy, šije a vaří.
