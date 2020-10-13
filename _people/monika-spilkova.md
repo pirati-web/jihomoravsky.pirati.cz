@@ -6,8 +6,6 @@ titles:
   after: Ph.D.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - zmcstred
-- mmb
-ordmmb: 6
 ordzmcstred: 2
 
 img: people/monika-spilkova.jpg   # 165 x 220
