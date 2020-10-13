@@ -5,7 +5,6 @@ titles:
   before: Ing. 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- zmckrpole
 ordzmckrpole: 2
 img: people/jaroslav-kamen.jpg   # 165 x 220
 img2: people/jaroslav-kamen2.jpg
