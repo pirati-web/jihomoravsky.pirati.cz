@@ -9,7 +9,7 @@ titles:
 mail: anna.pivodova@gmail.com
 
 img: people/anna-pivodova.jpg   # 165x220px
-description:PR & Media Manager, vedoucí studentské agentury PR Gang  	# kratký popis, max 160 znaků
+description: PR a Media Manager, vedoucí studentské agentury PR Gang  	# kratký popis, max 160 znaků
 
 ### Nepovinné položky
 profiles:
