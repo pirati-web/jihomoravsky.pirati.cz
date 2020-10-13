@@ -15,7 +15,8 @@ description: Umělecká agentka 	# kratký popis, max 160 znaků
 profiles:
   linkedin: https://www.linkedin.com/in/annapivodova/
 uid: anna.pivodova # identifikátor pro spojení se články (authorId)
-category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
+category:          # v odrážkách stejně jako mail (psp, pks, pms, zast)
+- zmckrpole	
 - msbrno
 - krpole
 ordmsbrno: 21
