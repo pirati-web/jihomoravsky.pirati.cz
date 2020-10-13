@@ -2,8 +2,10 @@
 uid: miroslav.barta
 name:     Miroslav Bárta  	# běžně používáné jméno
 category:                 	# kategorie: kandidat, pks, zastupitel
+- zjmk
 - zmckrpole
 - pks
+ordzjmk: 9
 ordzmckrpole: 1
 ordpks: 4
 img: people/miroslav-barta.jpg   # 165 x 220
