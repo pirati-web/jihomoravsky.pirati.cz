@@ -14,7 +14,9 @@ description: Podnikatelka, členka místního sdružení Znojemsko # kratký pop
 ### Nepovinné položky
 uid: eva.havlova # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
+- zjmk
 - znojemsko
+ordzjmk: 8
 ordznojemsko: 2
 mob: +420 604 977 118
 profiles:
