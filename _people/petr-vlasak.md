@@ -14,8 +14,10 @@ uid: petr.vlasak # identifikátor
 
 ### Nepovinné položky
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
+- zjmk
 - zmbreclav
 - pms
+ordzjmk: 6
 ordzmbreclav: 1
 ordpms: 3
 motto: Chci rozvíjet naše nápady na kulturní vyžití v Břeclavi a využít cestovní ruch z blízkého okolí ku prospěchu města. Chci, aby radnice důstojně podporovala kulturní spolky, organizace i jednotlivce ve všech městských částech. Chci obnovu břeclavských památek – hlavně zámku, z něhož se stala smutná kulisa kulturního a turistického dění ve městě.
