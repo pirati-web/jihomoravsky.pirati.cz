@@ -18,7 +18,9 @@ profiles:
   
 uid: silvie.mrkvanova # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
+- zjmk
 - zmczabovresky
+ordzjmk: 7
 ordzmczabovresky: 1
 
 supporting: 
