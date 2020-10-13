@@ -14,6 +14,7 @@ description: Administrativní pracovnice 	# kratký popis, max 160 znaků
 ### Nepovinné položky
 uid: alena.pavlasova # identifikátor pro spojení se články (authorId)
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
+- mmb
 - msbrno
 - krpole
 ordmsbrno: 11
