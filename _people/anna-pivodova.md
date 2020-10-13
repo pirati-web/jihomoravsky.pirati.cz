@@ -6,7 +6,7 @@ name:     Anna Pivodová  	# běžně používáné jméno
 titles:
   before: 
   after:
-mail:
+mail: anna.pivodova@gmail.com
 
 img: people/anna-pivodova.jpg   # 165x220px
 description: Umělecká agentka 	# kratký popis, max 160 znaků
