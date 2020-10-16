@@ -15,9 +15,9 @@ image: posts/mmb_vchod.png # obrázek ideálně 420x677px minifikovaný přes ht
 
 ---
 
-První vlna pandemie nového koronaviru nás zasáhla bez varování. Brněnští Piráti po zkušenostech z první vlny nenechali nic na náhodu a připravili fungování magistrátu na druhou vlnu. Prešlo několik týdnu a není pochyb, že druhá vlna je tady. Jak bude fungovat mesto? Co se změní? A jak jsme se připravili? 
+První vlna pandemie nového koronaviru nás zasáhla bez varování. Brněnští Piráti po zkušenostech z první vlny nenechali nic náhodě a připravili fungování magistrátu na druhou vlnu. Uteklo několik týdnu a není pochyb, že druhá vlna je tady. Jak bude fungovat město? Co se změní? A jak jsme se připravili? 
 
-Piráti jsi plně uvědomuji závažnost situace, a proto jsme udělali všechno, co bylo v našich silách, aby jsme připravili město na druhou vlnu pandemie koronaviru. Naší prioritou bylo v první řadě zachování funkčnosti úřadu při minimalizaci mezilidského kontaktu. Nebude proto žádným překvapením, že jsme se rozhodli jít cestou digitalizace. Z pohledu fungování města je významní změnou přesunutí agendy na videokonference, zavedení online jednání Rady města a nově i online zastupitelstva. 
+Piráti si plně uvědomují závažnost situace, a proto jsme udělali všechno, co bylo v našich silách, abychom připravili město na druhou vlnu pandemie koronaviru. Naší prioritou bylo v první řadě zachování funkčnosti úřadu při minimalizaci mezilidského kontaktu. Nebude proto žádným překvapením, že jsme se rozhodli jít cestou digitalizace. Z pohledu fungování města je významnou změnou přesunutí agendy na videokonference, zavedení online jednání Rady města a nově i online zastupitelstva. 
 
 Co se změní pro zaměstnance? 
 
@@ -27,9 +27,8 @@ V odděleních, kde se vyžaduje fyzická přítomnost úředníků, bude zabezp
 
 Co se změní pro občany? 
 
-Hlavní změnou je úprava úředních hodiny na magistrátu města Brna, které budou jenom v pondělí a středu od 8:00 do 13:00. **U nejdůležitějších agend však ke změnám nedochází**, platné zůstávají elektronické objednávky. Další výjimkou je Oddělení parkovacích oprávnění, jehož úřední hodiny se rovněž nemění, a jsou tedy pondělí a středa od 8.00 do 12.00 hod. a od 13.00 do 17.00 hod., v pátek pak od 8.00 do 12.00 hod. **Určeny jsou však pouze pro elektronicky objednané**.
+Hlavní změnou je úprava úředních hodin na Magistrátu města Brna, které budou jenom v pondělí a středu od 8:00 do 13:00. **U nejdůležitějších agend však ke změnám nedochází**, platné zůstávají elektronické objednávky. Další výjimkou je Oddělení parkovacích oprávnění, jehož úřední hodiny se rovněž nemění, a jsou tedy pondělí a středu od 8.00 do 12.00 hod. a od 13.00 do 17.00 hod., v pátek pak od 8.00 do 12.00 hod. **Určeny jsou však pouze pro elektronicky objednané**.
 
-Úřední dny na Živnostenském úřadu města Brna pro veřejnost budou pondělí a středa v čase 8.00–13.00 hod. Od pondělí 12. 10. umožňuje rezervační systém elektronické objednání předem na vymezené úřední dny a hodiny, tzn. pondělí a středu v čase 8.00–13.00 hod. Občané budou nadále odbavování na předsunutých přepážkách v přízemní místnosti č. 015 v budově MMB Malinovského nám. 3. **V jiné dny a hodiny bude možný vstup občanů do budov magistrátu pouze po předchozí domluvě a nasazenou ochranou dýchacích cest.**
+Úřední dny na Živnostenském úřadě města Brna pro veřejnost budou pondělí a středa v čase 8.00–13.00 hod. Od pondělí 12. 10. umožňuje rezervační systém elektronické objednání předem na vybrané úřední dny a hodiny, tzn. pondělí a středu v čase 8.00–13.00 hod. Občané budou nadále odbavování na předsunutých přepážkách v přízemní místnosti č. 015 v budově MMB Malinovského nám. 3. **V jiné dny a hodiny bude možný vstup občanů do budov magistrátu pouze po předchozí domluvě a nasazenou ochranou dýchacích cest.**
 
 Doporučujeme všem občanům, aby pro řešení svých záležitostí přednostně využívali elektronickou formu a vyřizování záležitostí, které nesnesou odkladu, odložili na dobu po ukončení nouzového stavu.
-
