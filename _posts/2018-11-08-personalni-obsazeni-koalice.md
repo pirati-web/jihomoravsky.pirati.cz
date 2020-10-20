@@ -9,7 +9,7 @@ date: 2018-11-08   # formát YYYY-MM-DD
 author: Markéta Gregorová
 authorID: marketa.gregorova
 tags: brno # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
-image: brand/logo-cb.svg
+image: posts/logotyp_web.png
 
 ### Nepovinné položky ###
 
