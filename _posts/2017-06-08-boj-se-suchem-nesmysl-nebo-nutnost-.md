@@ -4,7 +4,7 @@ title: 'Boj se suchem: nesmysl, nebo nutnost?'
 date: 2017-06-08T11:26:55.687Z
 author: Radek Holomčík
 authorId: radek.holomcik
-image: posts/2014_druoght_(1).jpg
+image: posts/2014_druoght (1).jpg
 description: >-
   Boj proti suchu není “poroučením větru dešti”, ale jasně vyjádřený požadavek
   na jednoduchý, transparentní a fungující stát, který nebuzeruje své občany a
