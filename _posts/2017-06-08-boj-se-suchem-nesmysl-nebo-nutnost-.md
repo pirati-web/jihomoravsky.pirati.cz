@@ -13,7 +13,7 @@ tags: sucho zemědělství životní-prostředí
 ---
 Po vydání mého článku “[Sucho v ČR nechceme!](/aktuality/sucho-v-r-nechceme.html){:target="_blank"}” se vyrojila řada reakcí, povětšinou souhlasných. Ozývaly se ale i hlasy, že jsme (neo)marxisti, kteří chtějí poroučet větru dešti a že máme zcestné myšlenky. S tímhle přístupem se potkávám i při diskuzích.  Jak to tedy je - je boj se suchem nesmysl?
 
-Často mi hlavě zní “modlitba”, která prosí o odvahu měnit věci, co měnit jdou, sílu přijmout ty, co změnit nejdou a moudrost je od sebe rozeznat. A zní mi v hlavě pokaždé, když o suchu přemýšlím. Na změnu klimatu i na to, že prší jinak (méně často, ale ve větším množství) si prostě musíme zvykat a tedy se přizpůsobit. Ale můžeme změnit náš přístup k půdě a krajině.
+Často mi hlavě zní “modlitba”, která prosí o odvahu měnit věci, co měnit jdou, sílu přijmout ty, co změnit nejdou a moudrost je od sebe rozeznat. A zní mi v hlavě pokaždé, když o suchu přemýšlím. Na změnu klimatu i na to, že prší jinak (méně často, ale ve větším množství) si prostě musíme zvykat a tedy se přizpůsobit. Ale můžeme změnit náš přístup k půdě a krajině. 
 
 ## Pokud chceš změnit svět, změn sebe
 
