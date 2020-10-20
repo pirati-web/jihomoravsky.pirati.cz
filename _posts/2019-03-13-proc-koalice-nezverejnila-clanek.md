@@ -11,7 +11,7 @@ tags: brno krpole participace # kategorie odděleny mezerami, např. volby země
 
 ### Nepovinné položky ###
 authorId: jaroslav.kupcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-#image: posts/old_armenian_book.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/logotyp_web.png
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
