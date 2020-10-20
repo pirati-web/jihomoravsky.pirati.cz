@@ -10,22 +10,6 @@ top:
     icon: "fa fa-newspaper-o"
 
 main:
-  - link: /kandidatka/
-    name: Krajské volby
-    match: volby, krajske-volby, program, kandidatka, transparentnost
-    submenu:
-      - link: /program/
-        name: Program
-        match: program, volebni-program
-      - link: /kandidatka/
-        name: Kandidátka
-        match: kandidatka, kandidati
-      - link: /piratske-listy/
-        name: Pirátské listy
-        match: piratske-listy, plisty 
-      - link: /transparentnost/
-        name: Jsme transparentní
-        match: transparentnost
   - link: /aktuality/
     name: Aktuality
     match: aktuality
