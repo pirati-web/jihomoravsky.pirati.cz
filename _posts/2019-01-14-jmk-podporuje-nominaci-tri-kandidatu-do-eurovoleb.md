@@ -9,7 +9,7 @@ tags: eurovolby # kategorie odděleny mezerami, např. volby zemědělství živ
 
 ### Nepovinné položky ###
 authorId: marketa.gregorova # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-
+image: posts/logotyp_web.png
 
 ---
 
