@@ -11,6 +11,7 @@ authorID: jiri.hlavenka
 tags: otevřenost transparence jmk # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
+image: posts/logotyp_web.png
 
 ---
 
