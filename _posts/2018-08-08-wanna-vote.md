@@ -11,6 +11,7 @@ tags: volby volby2018 # kategorie odděleny mezerami, např. volby zemědělstv�
 
 ### Nepovinné položky ###
 authorId: jiri.ulip # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
+image: posts/logotyp_web.png
 
 ---
 
