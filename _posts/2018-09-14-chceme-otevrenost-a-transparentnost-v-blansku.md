@@ -11,7 +11,7 @@ tags: otevřenost transparence blansko # kategorie odděleny mezerami, např. vo
 
 ### Nepovinné položky ###
 authorId: lubos.sedlak # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-# image: posts/old_armenian_book.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/logotyp_web.png
 
 ---
 
