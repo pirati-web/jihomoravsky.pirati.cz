@@ -8,7 +8,7 @@ title: Bydlení opět dostupné a za rozumné ceny. Ale jak?
 date: 2018-10-02   # formát YYYY-MM-DD
 author: Miroslav Bárta
 tags: brno krpole bydlení # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
-image: brand/logo-cb.svg
+image: posts/logotyp_web.png
 
 ### Nepovinné položky ###
 authorId: miroslav.barta # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
