@@ -8,7 +8,7 @@ title: Globální fórum o moderní přímé demokracii
 date: 2018-10-02   # formát YYYY-MM-DD
 author: Patrik Doležal
 tags: archiv # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
-image: brand/logo-cb.svg
+image: posts/logotyp_web.png
 
 ### Nepovinné položky ###
 authorId: patrik.dolezal # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
