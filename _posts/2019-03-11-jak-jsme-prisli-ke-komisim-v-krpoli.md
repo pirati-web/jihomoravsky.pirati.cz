@@ -10,7 +10,7 @@ tags: brno krpole # kategorie odděleny mezerami, např. volby zemědělství ž
 
 ### Nepovinné položky ###
 authorId: miroslav.barta # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-#image: /assets/img/posts/old_armenian_book.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/logotyp_web.png
 
 ---
 
