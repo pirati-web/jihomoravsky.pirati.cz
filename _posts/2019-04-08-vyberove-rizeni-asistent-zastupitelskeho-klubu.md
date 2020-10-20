@@ -8,7 +8,7 @@ title: Otevřené výběrové řízení na pozici Asistent zastupitelského klub
 date: 2019-04-08   # formát YYYY-MM-DD
 author: Jana Leitnerová
 tags: brno # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
-image: posts/logo-cb.svg
+image: posts/logotyp_web.png
 
 ### Nepovinné položky ###
 #authorId: jana.leitnerova # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
