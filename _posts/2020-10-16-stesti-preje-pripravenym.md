@@ -31,4 +31,4 @@ Hlavní změnou je úprava úředních hodin na Magistrátu města Brna, které 
 
 Úřední dny na Živnostenském úřadě města Brna pro veřejnost budou pondělí a středa v čase 8.00–13.00 hod. Od pondělí 12. 10. umožňuje rezervační systém elektronické objednání předem na vybrané úřední dny a hodiny, tzn. pondělí a středu v čase 8.00–13.00 hod. Občané budou nadále odbavování na předsunutých přepážkách v přízemní místnosti č. 015 v budově MMB Malinovského nám. 3. **V jiné dny a hodiny bude možný vstup občanů do budov magistrátu pouze po předchozí domluvě a nasazenou ochranou dýchacích cest.**
 
-Doporučujeme všem občanům, aby pro řešení svých záležitostí přednostně využívali elektronickou formu a vyřizování záležitostí, které nesnesou odkladu, odložili na dobu po ukončení nouzového stavu.
+Doporučujeme všem občanům, aby pro řešení svých záležitostí přednostně využívali elektronickou formu a vyřizování záležitostí, které nesnesou odkladu, odložili na dobu po ukončení nouzového stavu. 
