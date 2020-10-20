@@ -6,7 +6,6 @@ title: Jihomoravský kraj podporuje nominaci tří kandidátů do Eurovoleb
 date: 2019-01-14   # formát YYYY-MM-DD
 author: Markéta Gregorová
 tags: eurovolby # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
-image: brand/logo-cb.svg
 
 ### Nepovinné položky ###
 authorId: marketa.gregorova # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
