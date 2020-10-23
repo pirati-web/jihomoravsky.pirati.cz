@@ -23,6 +23,8 @@ ordpms: 3
 motto: Chci rozvíjet naše nápady na kulturní vyžití v Břeclavi a využít cestovní ruch z blízkého okolí ku prospěchu města. Chci, aby radnice důstojně podporovala kulturní spolky, organizace i jednotlivce ve všech městských částech. Chci obnovu břeclavských památek – hlavně zámku, z něhož se stala smutná kulisa kulturního a turistického dění ve městě.
 ---
 
-Radní města Břeclavi pro kulturu a cestovní ruch, místopředseda spolku Mladí a Neklidní, člen České pirátské strany. Vystudoval učitelství českého jazyka a filmovou a divadelní vědu, je učitelem na Gymnáziu Břeclav a organizuje kulturní akce v regionu (Slavnosti rajčat, letní kulturní cykly, městské festivaly, bleší trhy).
+Zastupitel Jihomoravského kraje, radní města Břeclavi pro kulturu a cestovní ruch, předseda pirátského MS Slovácko. 
 
-Je ženatý a má dvě dcery.
+Vystudoval učitelství českého jazyka a filmovou a divadelní vědu, je učitelem na Gymnáziu Břeclav a organizuje kulturní akce v regionu (Slavnosti rajčat, městské festivaly, bleší trhy). 
+
+Je ženatý, má dvě dcery.
