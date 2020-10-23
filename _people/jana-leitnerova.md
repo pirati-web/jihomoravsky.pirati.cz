@@ -17,6 +17,9 @@ contactType: Média
 uid: jana.leitnerova # identifikátor pro spojení se články (authorId)
 
 mob: +420 725 894 702
+profiles:
+  facebook: https://www.facebook.com/leitner.jana
+  twitter: https://twitter.com/JanaLeitnerova
 
 ---
 
