@@ -37,10 +37,10 @@ Radek Holomčík (narozen 31. 7. 1985 v Hodoníně) pochází ze Strážnice.
 
 Ve volbách do Poslanecké sněmovny Parlamentu České republiky v roce 2017 uspěl z pozice lídra jihomoravské kandidátky a stal se poslancem. V Pirátské straně zastává funkci 3. místopředsedy strany.
 
-Vystudoval SPŠ v Uherském Hradišti, obor Elektrotechnika. Po střední škole začal pracovat v oboru, přičemž se neúspěšně pokoušel o studium Astrofyziky a Politologie. Po dvou letech se přeorientoval na oblast marketingu a PR, ve které pracuje dodnes. Při zaměstnání vystudoval Teorie interaktivních médií (Bc.) a Management v kultuře (Mgr.), obé na FF MU v Brně.
+Vystudoval SPŠ v Uherském Hradišti, obor Elektrotechnika. Po střední škole začal pracovat v oboru, později se věnoval marketingu a PR, ve kterém pracoval do svého zvolení do Poslanecké sněmovny. Při zaměstnání vystudoval Teorie interaktivních médií (Bc.) a Management v kultuře (Mgr.), obé na FF MU v Brně.
 
-Od roku 2006 se zabývá marketingem, pracoval v několika agenturách, věnoval se obchodu, produkci i PR. Vyzkoušel si také práci redaktora kulturního měsíčníku, vedl oddělení PR a fundraisingu v sociálních službách. V roce 2015 se naplno začal věnovat brandingu - pomáhá klientům budovat značky a lépe oslovit zákazníky. Pracuje se začínajícími firmami a společnostmi, které přistupují k podnikání inovativně. Díky tomu měl možnost poznat podnikatelské prostředí a problémy, které české podnikatele trápí.
+Od roku 2006 do svého zvolení poslancem se zabýval marketingem, pracoval v několika agenturách, věnoval se obchodu, produkci i PR. Vyzkoušel si také práci redaktora kulturního měsíčníku, vedl oddělení PR a fundraisingu v sociálních službách. V roce 2014 se naplno začal věnovat brandingu - pomáhá klientům budovat značky a lépe oslovit zákazníky. Pracuje se začínajícími firmami a společnostmi, které přistupují k podnikání inovativně. Díky tomu měl možnost poznat podnikatelské prostředí a problémy, které české podnikatele trápí.
 
-Od roku 2010 se pohybuje ve strážnické komunální politice. V rámci spolupráce s několika sdruženími pořádal (či spolupořádal) celou řadu kulturních a společenských akcí. Je předsedou strážnické kulturní komise a členem krajské komise pro cestovní ruch. Osobní motivace ho přivedla ke dvěma velkým tématům - sucho a finanční šmejdi.
+Od roku 2010 se pohybuje ve strážnické komunální politice. V rámci spolupráce s několika sdruženími pořádal (či spolupořádal) celou řadu kulturních a společenských akcí.  Osobní motivace ho přivedla ke dvěma velkým tématům - sucho a finanční šmejdi.
 
-Ve volném čase vaří, hraje na basu a píše.
+Ve volném čase vaří, věnuje se své dceři, hraje na basu a píše.
