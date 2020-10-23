@@ -30,7 +30,7 @@ motto: Myslím si, že kdo málo mluví, tím víc umí naslouchat.
 
 ---
 
-Bc. Radek Šamšula (\* 1988) pochází z Boskovic a je lídrem Boskovické kandidátky.
+Bc. Radek Šamšula (\* 1988) pochází z Boskovic, kde od roku 2018 působí jako zastupitel.
 
 Vystudoval boskovické gymnázium a poté obor Informační technologie na VUT v Brně, kde získal titul Bc.
 
