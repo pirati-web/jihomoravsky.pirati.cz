@@ -43,7 +43,7 @@ motto: Technologie musí člověku život ulehčovat, nikoliv ztěžovat!
 
 ---
 
-Jaroslav Kameň (roz. Kupčík, * 1986) pochází z Orlové a je členem Pirátské strany od roku 2016. Vystudoval Fakultu informačních technologií v Brně, kde pak pracoval jako učitel, programátor a manažer. Nyní žije opět v Orlové a pracuje jako webový vývojář pro společnost Seznam.cz.
+Jaroslav Kameň (roz. Kupčík, * 1986) pochází z Orlové a je členem Pirátské strany od roku 2016. Vystudoval Fakultu informačních technologií v Brně, kde pak pracoval jako učitel, programátor a manažer. Od roku 2020 žije opět v Orlové a pracuje jako webový vývojář pro společnost Seznam.cz.
 
 Vadí mu plýtvání veřejnými prostředky, degradace veřejného prostoru a omezování osobních svobod. Chtěl by, aby moderní technologie život lidem usnadňovaly a nikoliv ztěžovaly. Byl by rád za větší transparenci ve státní správě a aktivní občanskou společnost podílející se na rozhodnutích, které se jí týkají.
 
