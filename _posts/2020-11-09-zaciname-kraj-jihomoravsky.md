@@ -46,4 +46,4 @@ Agenda Pirátů bude vycházet z [volebního programu do krajských voleb](https
 - inovace: podpora podnikatelů i startupů, propojení podnikatelské a vzdělávací sféry
 - IT: transparentní vedení kraje, modernizace informačních systémů kraje, centralizace dat i komunikace, sdílení know-how
 
-Bližší informace naleznete také v Koaliční smlouvě JMK 2020-2024.
+Bližší informace naleznete také v [Koaliční smlouvě JMK 2020-2024](https://a.pirati.cz/jihomoravsky/pdf/Priloha_1_koalicni_smlouva_ZJmK_2020.pdf){:target="_blank"}.
