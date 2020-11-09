@@ -34,7 +34,7 @@ V zastupitelstvu zasedne dohromady deset členů a členek Pirátské strany. Zd
 - Silvie Mrkvanová je nominována na místopředsedkyni sociálního a zdravotního výboru
 - Eva Havlová je nominována jako členka výboru pro meziregionální vztahy a členka výboru pro životní prostředí a kulturu
 - Miroslav Bárta je nominován jako člen kontrolního výboru a zároveň člen sociálního a zdravotního výboru
-- Jiří Kadeřávek má nominaci na předsedu komise pro informatiku a je také navržen na člena výboru pro regionální rozvoj a výboru pro investice
+- Jiří Kadeřávek má nominaci na místopředsedu komise pro informatiku a je také navržen na člena výboru pro regionální rozvoj a výboru pro investice
 
 **Co budou Piráti na kraji prosazovat?**
 
