@@ -52,4 +52,4 @@ Eva Havlová, členka výboru pro meziregionální vztahy, členka výboru pro �
 Miroslav Bárta, člen kontrolního výboru, člen soc. a zdrav. Výboru
 Jiří Kadeřávek, místopředseda komise pro informatiku (nominovaný), člen výboru pro reg.rozvoj a výboru pro investice
 
-Jednotliví radní, členové komisí a výborů se věnují technologickým i sociálním agendám, stejně jako regionálnímu rozvoji a kultuře. Priority klubu jsou součástí [programu Pirátsků v JMK](https://jihomoravsky.pirati.cz/program/){:target="_blank"}.
+Jednotliví radní, členové komisí a výborů se věnují technologickým i sociálním agendám, stejně jako regionálnímu rozvoji a kultuře. Priority klubu jsou součástí [programu Pirátů v JMK](https://jihomoravsky.pirati.cz/program/){:target="_blank"}.
