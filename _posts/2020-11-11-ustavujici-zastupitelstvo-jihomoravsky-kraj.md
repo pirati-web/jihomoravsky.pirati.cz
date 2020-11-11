@@ -41,15 +41,15 @@ Jana Leitnerová se zároveň chystá využít nastávající dva roky, kdy lze 
 Pirátský klub v jihomoravském zastupitelstvu čítá dohromady deset zástupců. 
 
 Kompletní seznam a funkce zastupitelů České pirátské strany v JMK:
-Lukáš Dubec, 1. náměstek s gescemi ŽP, otevřenost a participace 
-Jiří Hlavenka, předseda zastupitelského klubu, radní pro vědu, výzkum, IT a inovace
-Jana Leitnerová, radní pro sociální a rodinnou politiku
-Ivo Vašíček, předseda finančního výboru
-Petr Springinsfeld, předseda výboru pro meziregionální vztahy
-Petr Vlasák, předseda komise pro kulturu (nominovaný)
-Silvie Mrkvanová, místopředsedkyně soc.zdrav.výboru
-Eva Havlová, členka výboru pro meziregionální vztahy, členka výboru pro životní prostředí a kulturu	
-Miroslav Bárta, člen kontrolního výboru, člen soc. a zdrav. Výboru
-Jiří Kadeřávek, místopředseda komise pro informatiku (nominovaný), člen výboru pro reg.rozvoj a výboru pro investice
+- Lukáš Dubec, 1. náměstek s gescemi ŽP, otevřenost a participace 
+- Jiří Hlavenka, předseda zastupitelského klubu, radní pro vědu, výzkum, IT a inovace
+- Jana Leitnerová, radní pro sociální a rodinnou politiku
+- Ivo Vašíček, předseda finančního výboru
+- Petr Springinsfeld, předseda výboru pro meziregionální vztahy
+- Petr Vlasák, předseda komise pro kulturu (nominovaný)
+- Silvie Mrkvanová, místopředsedkyně soc.zdrav.výboru
+- Eva Havlová, členka výboru pro meziregionální vztahy, členka výboru pro životní prostředí a kulturu	
+- Miroslav Bárta, člen kontrolního výboru, člen soc. a zdrav. Výboru
+- Jiří Kadeřávek, místopředseda komise pro informatiku (nominovaný), člen výboru pro reg.rozvoj a výboru pro investice
 
 Jednotliví radní, členové komisí a výborů se věnují technologickým i sociálním agendám, stejně jako regionálnímu rozvoji a kultuře. Priority klubu jsou součástí [programu Pirátů v JMK](https://jihomoravsky.pirati.cz/program/){:target="_blank"}.
