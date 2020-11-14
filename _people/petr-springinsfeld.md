@@ -26,11 +26,13 @@ Petr Springinsfeld (* 12. dubna 1998) je členem Pirátské strany od září 20
 
 Vystudoval Městské víceleté gymnázium v Kloboukách u Brna a nyní studuje na Právnické fakultě Masarykovy univerzity v Brně.
 
-Do činnosti Pirátské strany se poprvé zapojil v létě 2017 před volbami do Poslanecké sněmovny. Aktivně se účastnil výjezdů po kraji - rozdával Pirátské listy, bavil se s voliči a fotil.
+Do činnosti Pirátské strany se poprvé zapojil v létě 2017 před volbami do Poslanecké sněmovny. Aktivně se účastnil výjezdů po kraji – rozdával Pirátské listy, bavil se s voliči a fotil.
 
-Od listopadu 2017 pracuje jako asistent poslance Radka Holomčíka.
+Od listopadu 2017 do září 2020 pracoval jako asistent poslance Radka Holomčíka.
 
-Po komunálních volbách v roce 2018 byl jmenován místopředsedou Komise legislativně organizační Rady města Brna a členem Komise legislativní a organizační Rady MČ Brno-střed. Zároveň se stal členem dozorčí rady společnosti Veletrhy Brno, a. s., která ho zvolila předsedou. V průběhu volebního období byl také jmenován členem Komise Rady města Brna pro chytré a otevřené město.
+Po komunálních volbách v roce 2018 byl jmenován místopředsedou Komise legislativně organizační Rady města Brna a členem Komise legislativní a organizační Rady MČ Brno-střed. Zároveň se stal členem dozorčí rady společnosti Veletrhy Brno, a.s., která ho zvolila předsedou. V průběhu volebního období byl také jmenován členem Komise Rady města Brna pro chytré a otevřené město.
+
+V krajských volbách v roce 2020 byl z pozice pětky pirátské kandidátní listiny zvolen do Zastupitelstva Jihomoravského kraje. Na ustavujícím zastupitelstvu byl pak zvolen předsedou Výboru pro meziregionální vztahy.
 
 V Pirátské straně je aktuálně předsedou Rozhodčí komise a 1. místopředsedou krajského sdružení Jihomoravského kraje.
 
