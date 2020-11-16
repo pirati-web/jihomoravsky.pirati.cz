@@ -9,7 +9,7 @@ titles:
 mail:
 - hlavenka.jiri@kr-jihomoravsky.cz
 img: people/jiri_hlavenka.jpg   # 165x220px
-description: Podnikatel a investor v IT 	# kratký popis, max 160 znaků
+description: Radní pro vědu, výzkum, inovace a IT v JMK 	# kratký popis, max 160 znaků
 uid: jiri.hlavenka # identifikátor 
 
 ### Nepovinné položky
@@ -27,4 +27,4 @@ Od roku 2005 se věnuje více investování do technologických inovativních st
 
 Jiří Hlavenka žije v obci Braníškov v okrese Brno-venkov. Je ženatý a má syna. Ve volném čase ho zajímá hudba (hlavně jazz, rock a etnická hudba) a biologie, sám hraje na akustickou kytaru a na klavír. Věnuje se i sportu, má rád aktivní turistiku. Svou pozornost zaměřuje i na filantropii; podporuje několik desítek veřejně prospěšných aktivit v České republice.
 
-V krajských volbách v roce 2016 byl z pozice nestraníka za SZ lídrem společné kandidátky SZ a Pirátů v Jihomoravském kraji a byl zvolen zastupitelem. Je mimo jiné předsedou Komise Rady Jihomoravského kraje pro informační otevřenost, členem Vědecké komise Fakulty informatiky Masarykovy univerzity, členem správní rady nadace Hlídač státu či členem nevládní odborné pracovní skupiny Koronerv-20.
+V krajských volbách v roce 2016 byl z pozice nestraníka za SZ lídrem společné kandidátky SZ a Pirátů v Jihomoravském kraji a byl zvolen zastupitelem. V roce 2020 kandidoval opět do krajského zastupitelstva, z druhého místa se stal zastupitele a poté byl zvolen do pozice radního pro vědu, výzkum, inovace a IT. Mimo jiné je členem Vědecké komise Fakulty informatiky Masarykovy univerzity, členem správní rady nadace Hlídač státu či členem nevládní odborné pracovní skupiny Koronerv-20.
