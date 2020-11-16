@@ -6,7 +6,7 @@ name: Jana Leitnerová  	# běžně používáné jméno
 mail:
 - jana.leitnerova@pirati.cz
 img: people/jana-leitnerova.jpg   # 165x220px
-description: Krajská zastupitelka v Jihomoravském kraji  	# kratký popis, max 160 znaků
+description: Radní pro sociální a rodinnou politiku v JMK  	# kratký popis, max 160 znaků
 category:  
 - zjmk
 - kontaktni_osoba
