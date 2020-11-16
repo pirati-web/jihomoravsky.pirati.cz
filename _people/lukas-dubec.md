@@ -7,7 +7,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 ordzjmk: 1
 ordpms: 2
 img: people/lukas_dubec.jpg   # 165 x 220
-description: Pirátský krajský zastupitel v JMK, věnuje se oblasti životního prostředí, participaci a transparentnosti; dobrovolný hasič   	# kratký popis, max 160 znaků
+description: 1. náměstek hejtmana JMK, gesce životní prostředí, participace a transparentnost; dobrovolný hasič   	# kratký popis, max 160 znaků
 mail:
 - lukas.dubec@pirati.cz
 profiles:
