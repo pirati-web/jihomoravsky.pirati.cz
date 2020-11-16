@@ -10,7 +10,7 @@ tags: Piráti výběrové-řízení # kategorie odděleny mezerami, např. volby
 
 ### Nepovinné položky ###
 authorId: petr.springinsfeld # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: posts/kraj_web.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/jmk-urad-web.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Proč a jak volit? Kdo může volit, co je to ten voličský průkaz a jak ho získáte?
 
 ---
