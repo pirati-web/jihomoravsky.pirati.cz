@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: "Otevřené výběrové řízení: PR a mediální manažer/ka pro Jihomoravský kraj"
+title: "Otevřené výběrové řízení: Tajemník/tajemnice Zastupitelského klubu Pirátů v Jihomoravském kraji "
 date: 2020-11-14   # formát YYYY-MM-DD
 author: ZK Piráti JMK
 tags: Piráti výběrové-řízení # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
@@ -15,7 +15,7 @@ image: posts/kraj_web.png # obrázek ideálně 420x677px minifikovaný přes htt
 
 ---
 
-Zastupitelský klub Pirátů při Zastupitelstvu Jihomoravského kraje vypisuje otevřené výběrové řízení na pozici tajemník/tajemnice Zastupitelského klubu Pirátů v Jihomoravském kraji​.
+Zastupitelský klub Pirátů při Zastupitelstvu Jihomoravského kraje vypisuje otevřené výběrové řízení [na pozici tajemník/tajemnice Zastupitelského klubu Pirátů v Jihomoravském kraji](https://forum.pirati.cz/viewtopic.php?f=572&t=54682){:target="_blank"}.
 
 **Náplň práce:**
 - komplexní koordinace práce a agregace výstupů pirátských zástupců ve výborech Zastupitelstva Jihomoravského kraje, komisích Rady Jihomoravského kraje a orgánech obchodních společností v majetku Jihomoravského kraje
