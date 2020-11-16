@@ -62,4 +62,5 @@ Zaslechl jsem nějaké vzdálené skandování, přicházelo z nějaké boční 
 Hučení davu ztichlo a bylo slyšet, že v dolní části náměstí někdo mluví, čte nějaké prohlášení. Nepodařilo se mi příliš přiblížit, nechtěl jsem se bezohledně prodírat davem. Nerozuměl jsem ani slovo, ale snažil jsem alespoň něco zaslechnout, stejně jako ostatní. Davem se šířila tichá pošta. Po chvíli jsem uslyšel jakési skandování. Znělo to jako: *„Hu, hu, huhuhu“*. Napínal jsem uši, až jsem rozeznal: *„My chceme svobodu!“*
 
 Začal jsem křičet taky, všichni začali křičet. Prvních pár výkřiků bylo rozfázovaných, ale najednou se vše úžasně sladilo. Náměstím Svobody to znělo nádherně.
- 
+
+*Foto: archiv Ivo Vašíčka*
