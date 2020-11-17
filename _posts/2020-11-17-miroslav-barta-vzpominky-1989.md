@@ -4,7 +4,7 @@
 
 category: CLANKY   # nešahat!
 title: "Miroslav Bárta: Moje vzpomínky na LISTOPAD 1989"
-date: 2020-11-17   # formát YYYY-MM-DD
+date: 2020-11-16   # formát YYYY-MM-DD
 author: Miroslav Bárta
 tags: Piráti 1989 # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
