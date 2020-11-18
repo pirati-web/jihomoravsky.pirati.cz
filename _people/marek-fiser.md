@@ -3,7 +3,7 @@ uid: marek.fiser
 name:     Marek Fišer  	# běžně používáné jméno
 mail:
 - fiser.marek@brno.cz
-mob: 776 146 622
+mob: 770 195 327
 category:                 	# kategorie: kandidat, pks, zastupitel
 - zmckrpole
 - mmb
