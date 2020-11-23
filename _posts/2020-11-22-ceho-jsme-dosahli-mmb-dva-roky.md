@@ -21,7 +21,7 @@ Možná se to nezdá, ale už to je dva roky, co se Piráti stali součástí vl
 
 Cestování
 - Z našeho programu jsme prosadili každoroční vyčlenění 10 milionů korun na cykloopatření. Nad jeho rámec jsme pak [prosadili obnovení činnosti technické a koncepční cykloskupiny](https://www.tmapy.cz/cykloopatreni-brno){:target="_blank"}.
-- V době výluky na Hlavním nádraží jsme pro lepší komfort cestujících zřídili dočasnou čekárnu na Dolním nádraží. [Té jsme navíc využili jako prostor k propagaci začínajících lokálních značek] (https://www.brno.cz/brno-aktualne/co-se-deje-v-brne/a/na-dolnim-nadrazi-otevrela-cekarna/){:target="_blank"}. 
+- V době výluky na Hlavním nádraží jsme pro lepší komfort cestujících zřídili dočasnou čekárnu na Dolním nádraží. [Té jsme navíc využili jako prostor k propagaci začínajících lokálních značek](https://www.brno.cz/brno-aktualne/co-se-deje-v-brne/a/na-dolnim-nadrazi-otevrela-cekarna/){:target="_blank"}. 
 - Opravili jsme systém rezidentního parkování. [V necentrálních částech města se  díky tomu reguluje jen v noci](https://www.brno.cz/brno-aktualne/co-se-deje-v-brne/a/rezidentni-parkovani-se-od-podzimu-zjednodusi-a-zlevni/){:target="_blank"}. 
 - Také jsme se podíleli na [zavedení možnosti platby kartou v MHD Pípni a jeď](https://brnenska.drbna.cz/zpravy/doprava/17833-pipni-a-jed-dopravni-podnik-zavadi-platby-jizdenek-bezkontaktne.html){:target="_blank"}. 
 
