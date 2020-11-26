@@ -33,7 +33,7 @@ contactPersons:
    position:  Předseda KS Jihomoravský kraj 
  - id: tomas.kolacny
    position:  Předseda MS Brno 
- - id: jana.leitnerova
+ - id: filip.vitek
    position: Kontakt pro média
  - id: vendula.svobodova
    position: Kontakt pro dobrovolníky
