@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Jiří Hlavenka: Jak jsme sestavovali krajský rozpočet
+title: "Jiří Hlavenka: Jak jsme sestavovali krajský rozpočet"
 date: 2020-12-02   # formát YYYY-MM-DD
 author: Jiří Hlavenka
 tags: Piráti Kraj # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
