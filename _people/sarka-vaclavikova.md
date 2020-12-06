@@ -24,7 +24,7 @@ V Brně se 5 let věnovala občanskému aktivismu – pořádala protestní a vz
 
 Ve volném čase se věnuje svému psovi Damiánovi, želvě Želvákovi a kočce Gigi. Ráda čte knihy, navštěvuje různé kulturní akce a maluje.
 
-Funkce: Správkyně v Supertajnápirátskáskupinatopsecretvoe https://www.facebook.com/groups/2017699364980792
+Funkce: Správkyně v [Supertajnápirátskáskupinatopsecretvoe](https://www.facebook.com/groups/2017699364980792){:target="_blank"}.
 
 „Nasrat jako.“ – Andrej Babiš Šárce Václavíkové poté, co se jí odmítl podepsat do knihy Boss Babiš
 
