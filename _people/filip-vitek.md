@@ -5,7 +5,7 @@
 name: Filip Vítek  	# běžně používáné jméno
 mail:
 - filip.vitek@pirati.cz
-img: people/filip-vitek.png   # 165x220px
+img: people/filip-vitek.jpg   # 165x220px
 description: vedoucí krajského Mediálního odboru JMK  	# kratký popis, max 160 znaků
 category:  
 - kontaktni_osoba
