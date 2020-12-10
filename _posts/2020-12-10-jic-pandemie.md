@@ -27,7 +27,9 @@ Poznámky:
 
 (1): 	
 Rozpočet JIC 2020: 40 milionů Kč, sníženo na 38 milionů Kč
+
 Navržený rozpočet JIC 2021: 37 milionů Kč
+
 Jde o vyrovnávací platbu Jihomoravskému inovačnímu centru, zájmovému sdružení právnických osob, na úhradu nákladů spojených s výkonem služeb v rámci závazku veřejné služby. Jedná se o výdaje na financování nekomerční činnosti vykonávané v obecném hospodářském zájmu – např. správa a provoz technologických a biotechnologických inkubátorů, příprava a realizace projektů na podporu inovací a inovačního podnikání apod. [Návrh rozpočtu](https://www.kr-jihomoravsky.cz/Default.aspx?PubID=428207&TypeID=7){:target="_blank"}.
 
 (2): Celý dokument [Regionální inovační strategie 2021-2027 je ke stažení](https://www.risjmk.cz/cz/ris-jmk-2021-2027/soubory-ke-stazeni-1/){:target="_blank"}.
