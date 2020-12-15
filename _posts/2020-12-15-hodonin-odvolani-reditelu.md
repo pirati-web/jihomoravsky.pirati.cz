@@ -4,7 +4,7 @@
 
 category: CLANKY   # nešahat!
 title: "Hodonín: radnice odvolala bez vysvětlení ředitele a schovala hlavu do písku"
-date: 2020-12-10   # formát YYYY-MM-DD
+date: 2020-12-16   # formát YYYY-MM-DD
 author: Barbora Turek Lahová
 tags: Piráti JIC # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
