@@ -9,7 +9,7 @@ titles:
 mail:
 - mara.lahoda@gmail.com
 img: people/marek-lahoda.jpg   # 165x220px
-description: Geograf, klimatolog, datový analytik a propagátor udržitelné dopravy 	# kratký popis, max 160 znaků
+description: Geograf, klimatolog, datový analytik, propagátor udržitelné dopravy, zastupitel za Piráty na MČ KrPole 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky
 uid: marek.lahoda # identifikátor pro spojení se články (authorId)
@@ -35,7 +35,7 @@ motto: Kdo, když ne my? Kdy, když ne teď! - Květoslava Morávková, účastn
 
 ---
 
-Marek Lahoda (*1992) pochází z Brna, konkrétně z MČ Komín. Poslední dva roky žije v Králově Poli, které si velmi oblíbil.
+Marek Lahoda (*1992) pochází z Brna, konkrétně z MČ Komín. Poslední dva roky žije v Králově Poli, které si velmi oblíbil. V komunálních volbách 2018 zde byl zvolen zastupitelem za Piráty.
 
 V Brně absolvoval osm let v matematické třídě na Gymnáziu na tř. Kpt. Jaroše a následně vystudoval obor Fyzická geografie na Geografickém ústavu Přirodovědecké fakulty Masarykovy univerzity. Půl roku studoval také na University of Oslo díky programu Erasmus a život v Norsku ho mnohým inspiroval. Na PřF MU se tři roky angažoval jako předseda Studentské komory Akademického senátu. Na brněnské Geografii nyní pokračuje v doktorském studiu, v rámci kterého zkoumá dlouhodobé změny globálního slunečního záření.
 
