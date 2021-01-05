@@ -16,7 +16,7 @@ residences:
   # url: https://www.facebook.com/PirateSpaceBrno/
    address: |
     Lidická 960/81
-    602 00 Brno
+    Brno, 602 00
    spravce: petra.vymazalova
    #residenceImg: miscellaneous/residence.png
    #mapLink: "SCcP8sLSHGg5pSBr8"
