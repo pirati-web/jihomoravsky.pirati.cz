@@ -15,8 +15,8 @@ residences:
  - name: Poslanecká kancelář <br> Tomáš Vymazal
   # url: https://www.facebook.com/PirateSpaceBrno/
    address: |
-    Kopečná 940
-    Brno, 602 00
+    Lidická 960/81
+    602 00 Brno
    spravce: petra.vymazalova
    #residenceImg: miscellaneous/residence.png
    #mapLink: "SCcP8sLSHGg5pSBr8"
