@@ -10,7 +10,7 @@ tags: JMK Covid očkování senioři # kategorie odděleny mezerami, např. volb
 
 ### Nepovinné položky ###
 authorId: # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: posts/leitnerova_grolich_brifink.jpeg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/socipol_leitnerova.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Domovy seniorů v Jihomoravském kraji se připravují na start rozsáhlého očkování svých klientů a zaměstnanců.
 
 ---
