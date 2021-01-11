@@ -37,4 +37,4 @@ Solaris Urbino 18 4. generace je moderní stoprocentně nízkopodlažní autobus
 
 Díky dodávce těchto 13 kloubových autobusů bude Dopravní podnik moct vyřadit poslední vysokopodlažní kloubové vozy Karosa, které v brněnských ulicích sloužily více než 15 let.
 
-*autor je zástupce Pirátů v Představenstvu DPMB, a.s.*
+*Pozn..: Autor je zástupce Pirátů v Představenstvu DPMB, a.s.*
