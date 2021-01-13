@@ -1,5 +1,5 @@
 ---
-#název souboru: 2021-01-13-vyberove-rizeni-clenove-organu-organizaci-jmk.md
+#název souboru: 2021_01_13_vyberove_rizeni_clenove_organu_organizaci_jmk.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
