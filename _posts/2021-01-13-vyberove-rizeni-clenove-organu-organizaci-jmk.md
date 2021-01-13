@@ -1,9 +1,9 @@
 ---
-#název souboru: 2021_01_13_vyberove_rizeni_clenove_organu_organizaci_jmk.md
+#název souboru: 2021-01-13-vyberove-rizeni-clenove-organu-organizaci-jmk.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Otevřené výběrové řízení: hledáme členy orgánů organizací s majetkovou účastí JMK
+title: "Otevřené výběrové řízení: hledáme členy orgánů organizací s majetkovou účastí JMK"
 date: 2021-01-13 # formát YYYY-MM-DD
 author: Krajské MO
 tags: jmk výběrové-řízení dozorčí-rada představenstvo # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
