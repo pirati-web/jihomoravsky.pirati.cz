@@ -17,7 +17,7 @@ description: Dopravní podnik města Brna plánuje v roce 2021 vyrobit dalších
 
 **Dopravní podnik města Brna plánuje v roce 2021 vyrobit dalších 9 nízkopodlažních tramvají DRAK a také zařadit do provozu 13 moderních kloubových autobusů Solaris Urbino 18 IV.**
 
-Projekt vlastní výroby brněnských tramvají s typovým označením EVO 2, pro které byl v anketě mezi občany města Brna zvolen název DRAK, začal v roce 2018, kdy byla podepsána [smlouva s Krnovskými strojírnami](https://www.hlidacstatu.cz/Detail/6687531){:target="_blank"} na dodávku až 41 tzv. stavebnic tramvají. Dopravní podnik si následně vlastními silami ve svých dílnách sestaví z dodaných komponentů hotovou tramvaj. (https://www.hlidacstatu.cz/Detail/6687531).
+Projekt vlastní výroby brněnských tramvají s typovým označením EVO 2, pro které byl v anketě mezi občany města Brna zvolen název DRAK, začal v roce 2018, kdy byla podepsána [smlouva s Krnovskými strojírnami](https://www.hlidacstatu.cz/Detail/6687531){:target="_blank"} na dodávku až 41 tzv. stavebnic tramvají. Dopravní podnik si následně vlastními silami ve svých dílnách sestaví z dodaných komponentů hotovou tramvaj.
 
 **Jak to celé probíhá?** 
 
