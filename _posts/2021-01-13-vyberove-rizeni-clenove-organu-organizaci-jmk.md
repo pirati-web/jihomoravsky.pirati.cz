@@ -15,7 +15,7 @@ image: posts/kraj_web.jpg # obrázek ideálně 420x677px minifikovaný přes htt
 
 ---
 
-Zastupitelský klub Pirátů při Zastupitelstvu Jihomoravského kraje vypisuje [výběrové řízení na členy orgánů organizací s majetkovou účastí Jihomoravského kraje] (https://forum.pirati.cz/viewtopic.php?f=572&t=55649&sid=6a408375c0afa89d58a182eb63d67544){:target="_blank"}(dále jen „Organizace“)
+Zastupitelský klub Pirátů při Zastupitelstvu Jihomoravského kraje vypisuje [výběrové řízení na členy orgánů organizací s majetkovou účastí Jihomoravského kraje](https://forum.pirati.cz/viewtopic.php?f=572&t=55649&sid=6a408375c0afa89d58a182eb63d67544){:target="_blank"}(dále jen „Organizace“)
 
 **Náplň práce:**
 výkon funkce člena orgánu Organizace s právy a povinnostmi plynoucími ze stanov / statutu Organizace.
