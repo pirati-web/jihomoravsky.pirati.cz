@@ -1,12 +1,12 @@
 ---
-#název souboru: 2021-01-15-pirati-transparentni-vyber-clenu-komisi.md
+#název souboru: 2021-01-14-pirati-transparentni-vyber-clenu-komisi.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: "Jak vybíráme členy a členky komisí na kraji? Transparentně, samozřejmě!"
-date: 2021-01-15   # formát YYYY-MM-DD
+date: 2021-01-14   # formát YYYY-MM-DD
 author: Krajský MO
-tags: jmk piráti transparence komise výbor # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: jmk piráti transparence komise # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 authorId: # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
@@ -23,7 +23,9 @@ Pojďme si nejdřív v krátkosti vyjasnit, co dělá taková komise. Jedná se 
 
 **Maximální otevřenost**
 
-Jak jsme při výběru členů a členek komisí postupovali my? Možnost zapojit se do nominací jsme dali maximálnímu okruhu zájemců. Zájemci a zájemkyně se mohli přihlásit na [Pirátském fóru](https://forum.pirati.cz/viewtopic.php?f=411&t=54104){:target="_blank"}, do kterého se může zaregistrovat každý. Rovněž jsme oslovili krajské expertní týmy Pirátské strany (KET), aby tuto možnost nabídly svým členům a členkám. Na přihlášení pak měli zájemci a zájemkyně týden. Přihlašování probíhalo opět skrze Pirátské fórum, kam uchazeči a uchazečky vložili svou kandidátskou řeč. Přečíst si je můžete [zde](https://forum.pirati.cz/viewtopic.php?f=411&t=54104&start=30){:target="_blank"}. Garantkou celého procesu byla krajská zastupitelka Eva Havlová. *„Došlo nám 37 přihlášek a z nich jsme vybrali 20 členů a členek deseti krajských komisí. Samotný výběr probíhal v rámci našeho krajského zastupitelského klubu, kdy jsme v deseti lidech udělali maximum pro to, aby nominanti a nominantky za Piráty byli lidé na svých místech, kteří mohou činnost komisí skutečně obohatit.“*
+Jak jsme při výběru členů a členek komisí postupovali my? Možnost zapojit se do nominací jsme dali maximálnímu okruhu zájemců. Zájemci a zájemkyně se mohli přihlásit na [Pirátském fóru](https://forum.pirati.cz/viewtopic.php?f=411&t=54104){:target="_blank"}, do kterého se může zaregistrovat každý. Rovněž jsme oslovili krajské expertní týmy Pirátské strany (KET), aby tuto možnost nabídly svým členům a členkám. Na přihlášení pak měli zájemci a zájemkyně týden. Přihlašování probíhalo opět skrze Pirátské fórum, kam uchazeči a uchazečky vložili svou kandidátskou řeč. Přečíst si je můžete [zde](https://forum.pirati.cz/viewtopic.php?f=411&t=54104&start=30){:target="_blank"}. Garantkou celého procesu byla krajská zastupitelka Eva Havlová. 
+
+*„Došlo nám 37 přihlášek a z nich jsme vybrali 20 členů a členek deseti krajských komisí. Samotný výběr probíhal v rámci našeho krajského zastupitelského klubu, kdy jsme v deseti lidech udělali maximum pro to, aby nominanti a nominantky za Piráty byli lidé na svých místech, kteří mohou činnost komisí skutečně obohatit.“*
 
 **Takže o kom ještě určitě uslyšíme?**
 
