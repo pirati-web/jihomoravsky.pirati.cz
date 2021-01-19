@@ -15,7 +15,7 @@ image: posts/maraton_hudby.jpeg # obrázek ideálně 420x677px minifikovaný př
 
 ---
 
-Brněnské zastupitelstvo na svém zasedání 19. ledna odsouhlasilo finanční dotaci na šestý ročník festivalu Maraton Hudby 2021 a přidružený projekt webového rozcestníku [www.mestohudby.cz](http://www.mestohudby.cz){:target="_blank"}. Brno projekty podpoří téměř pěti miliony korun přesto, že muselo výrazně osekat plánované výdaje na kulturu kvůli ekonomickým dopadům koronavirové pandemie. Právě Maraton hudby je klíčovou událostí města Brna v rámci jeho členství v Síti kreativních měst UNESCO.
+Brněnské zastupitelstvo na svém zasedání 19. ledna odsouhlasilo finanční dotaci na šestý ročník festivalu [Maraton Hudby 2021](https://www.maratonhudby.cz/cs/home/){:target="_blank"} a přidružený projekt webového rozcestníku [www.mestohudby.cz](http://www.mestohudby.cz){:target="_blank"}. Brno projekty podpoří téměř pěti miliony korun přesto, že muselo výrazně osekat plánované výdaje na kulturu kvůli ekonomickým dopadům koronavirové pandemie. Právě Maraton hudby je klíčovou událostí města Brna v rámci jeho členství v Síti kreativních měst UNESCO.
 
 **To podstatné podpořit i v době krize**
 
