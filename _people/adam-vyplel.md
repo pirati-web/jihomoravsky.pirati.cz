@@ -4,7 +4,7 @@
 ### Povinné položky ###
 name:     Adam Vyplel  	# běžně používáné jméno
 titles:
-  before: Bc. 
+  before: Ing. 
   after:
 mail:
 - adam.vyplel@pirati.cz
