@@ -10,7 +10,7 @@ tags: brno tugendhat památková-zóna # kategorie odděleny mezerami, např. vo
 
 ### Nepovinné položky ###
 authorId:  # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: posts/Tugendhat_web.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/tugendhat2_web.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Okolí nejslavnější brněnské vily Tugendhat má nově památkovou ochranu. Vytyčení ochranného pásma dnes nabylo právní moci.
 
 ---
