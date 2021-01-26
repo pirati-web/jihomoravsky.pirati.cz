@@ -1,10 +1,10 @@
 ---
-#název souboru: 2021-01-26-nove-ochranne-pasmo-vily-tugendhat.md
+#název souboru: 2021-01-25-nove-ochranne-pasmo-vily-tugendhat.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: "Nové ochranné pásmo vily Tugendhat"
-date: 2021-01-26   # formát YYYY-MM-DD
+date: 2021-01-25   # formát YYYY-MM-DD
 author: Krajský MO
 tags: brno tugendhat památková-zóna # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
