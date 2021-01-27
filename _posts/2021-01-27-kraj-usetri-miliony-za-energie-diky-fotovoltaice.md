@@ -28,3 +28,36 @@ Konkrétním příkladem je Domov seniorů u Františka. Ten zaplatil jen v roce
 **Chytré  řešení v době klimatické změny**
 
 *„Kromě nezanedbatelného finančního přínosu je tu i obří bonus pro životní prostředí. Pro něj je totiž nejlepší ta energie, která vůbec nevznikne. A když už vzniknout musí, tak s minimálním využitím fosilních zdrojů. Přesně to je cesta, kterou chceme na kraji jít,“* dodal Lukáš Dubec. Proto jsou Piráti ve vedení kraje odhodlaní v příštích letech připravovat a přihlašovat další projekty. Tyto konkrétní dotace budou vypláceny z tzv. Modernizačního fondu Evropské unie, který pro období 2021-2030 nabídne pobídky ve výši cca 150 miliard Kč.
+
+**Seznam budov zahrnutých do žádosti o dotaci v rámci Modernizačního fondu:**
+- Domov u Františka, příspěvková organizace
+- Střední škola polytechnická Brno, Jílová, příspěvková organizace
+- Domov Horizont, příspěvková organizace
+- Nemocnice Tišnov, příspěvková organizace
+- Střední škola technická a gastronomická Blansko, příspěvková organizace
+- Centrum služeb pro seniory Kyjov, příspěvková organizace 
+- Integrovaná střední škola automobilní Brno, příspěvková organizace
+- Domov na Jarošce, příspěvková organizace
+- Nemocnice Veselí nad Moravou, (Nemocnice Kyjov, příspěvková organizace)
+- Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace (Znojmo)
+- Obchodní akademie a Střední odborné učiliště Veselí nad Moravou, příspěvková organizace
+- LILA Domov pro postižené děti Otnice, příspěvková organizace
+- Středisko volného času Ivančice, příspěvková organizace 
+- Integrovaná střední škola Slavkov u Brna, příspěvková organizace
+- Střední škola gastronomie, hotelnictví a lesnictví Bzenec, příspěvková organizace
+- Integrovaná střední škola Hodonín, příspěvková organizace
+- Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace (Vyškov)
+- Zdravotnická záchranná služba Jihomoravského kraje, příspěvková organizace (Blansko)
+- Zelený dům pohody, příspěvková organizace 
+- Integrovaná střední škola Hodonín, příspěvková organizace
+- Nemocnice Znojmo, příspěvková organizace 
+- Nemocnice Kyjov, příspěvková organizace
+- Nemocnice Břeclav, příspěvková organizace
+- Nemocnice Vyškov, příspěvková organizace
+- Nemocnice TGM Hodonín, příspěvková organizace
+- Nemocnice Ivančice, příspěvková organizace
+- Moravian Science Centre Brno, příspěvková organizace
+- Jihomoravský kraj (1) Žerotínovo náměstí
+- Jihomoravský kraj (2) Cejl
+- S–centrum Hodonín, příspěvková organizace
+
