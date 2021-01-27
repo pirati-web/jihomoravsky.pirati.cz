@@ -24,12 +24,12 @@ Informační strategie je základním dokumentem pro rozvoj města Brna v ob
 *„Moderní město musí sloužit a být otevřené především občanům. Schválení informační strategie je pro nás důležitým mezníkem, díky kterému přiblížíme město lidem a vytvoříme prostředí pro aktivní zapojení občanů do dění ve městě. Nová informační strategie si klade za cíl rozšiřovat služby dostupné přes portál BrnoID a nově chystanou elektronickou přepážku, zajistit větší ochranu před kybernetickými útoky či vytvořit takovou městskou infrastrukturu, která umožní rozvoj digitalizace veřejné správy,”* komentuje schválení strategie pirátský zastupitel a předseda brněnské komise informatiky [Ondřej Kotas](https://jihomoravsky.pirati.cz/lide/ondrej-kotas/).
 
 **Informační strategie obsahuje celkem 17 dílčích cílů, z nichž se za nejdůležitější považuje:**
-– vytvoření platformy pro moderní webový portál města,
-– nasazení pokročilé technologie pro zajištění kybernetické bezpečnosti města,
-– rozšíření služeb města dostupných přes [BrnoID](https://brnoid.cz/){:target="_blank"} a pomocí nově chystané tzv. elektronické přepážky,
-– větší zapojení vysokých škol a studentů nejen technických oborů do rozvoje informatiky města,
-– pokračování ve zveřejňování otevřených dat města,
-– vytvoření robustní městské infrastruktury pro umožnění elektronizace veřejné správy,
+– vytvoření platformy pro moderní webový portál města
+– nasazení pokročilé technologie pro zajištění kybernetické bezpečnosti města
+– rozšíření služeb města dostupných přes [BrnoID](https://brnoid.cz/){:target="_blank"} a pomocí nově chystané tzv. elektronické přepážky
+– větší zapojení vysokých škol a studentů nejen technických oborů do rozvoje informatiky města
+– pokračování ve zveřejňování otevřených dat města
+– vytvoření robustní městské infrastruktury pro umožnění elektronizace veřejné správy
 
 *„Naším cílem je vytvořit stabilní podmínky pro efektivní správu města. Chceme zajistit jednoduché a srozumitelné sdílení dat mezi městem, občany a společnostmi v brněnské metropoli. Pandemie koronaviru přesunula velkou část našich životů do online prostoru. V následujících letech nás proto čekají výzvy v oblasti informačních technologií, na které se musíme jako město připravit. Nová informační strategie města nám v tom nepochybně pomůže,”* uzavřel Kotas. 
 
