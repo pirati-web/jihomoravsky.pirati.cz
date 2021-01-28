@@ -18,6 +18,7 @@ image: posts/svarovska_alej_mrak.jpg # obrázek ideálně 420x677px minifikovan�
 Pro Svárovskou alej svítá naděje. Zastupitelský klub jihomoravských Pirátů nalezl možné řešení úpravy silnice. Ta by v úseku stromořadí vedla odklonem nad severní částí aleje. Přestože nyní krajský úřad zrušil stavební povolení pro formální nedostatky, Piráti mají za to, že bude možné využít již schválenou dotaci ve výši 80 milionu korun na rekonstrukci a současně ponechat stromořadí bez výrazného zásahu. 
 
 **Bezpečnost především**
+
 Prioritou zůstává úprava silnice 372, která je ve špatném stavu a jízda po ní je spíš zkouškou odvahy řidičů. Je prakticky nemožné vyhnout se protijedoucímu vozidlu, boky silnice jsou rozpadlé, po celé ploše je velké množství výmolů.
 
 *„Plně rozumím potřebám místních obyvatel, kteří komunikaci denně užívají. Silnice je nyní opravdu ve špatném stavu, což je nezbytné co nejrychleji řešit. Jižní Morava si ale nemůže dovolit bez nezpochybnitelného důvodu pokácet desítky zdravých vzrostlých stromů. Proto navrhujeme odklonění části komunikace, kterou lemuje alej, nad její severní okraj,“* říká pirátský náměstek jihomoravského hejtmana pro životní prostředí [Lukáš Dubec](https://jihomoravsky.pirati.cz/lide/lukas-dubec/).
@@ -25,6 +26,7 @@ Prioritou zůstává úprava silnice 372, která je ve špatném stavu a jízda 
 Projekt rekonstrukce jedenáctikilometrové silnice je rozdělen na čtyři etapy. Předmětná alej se řeší až ve třetí etapě rekonstrukce a pravděpodobně bude k dispozici dostatečný prostor k vyřešení případného odkupu půdy v kritické části.
 
 **Nová role pro Alej roku 2020**
+
 S ohledem na ochranu přírody a krajinného rázu Piráti navrhují změnu projektu rekonstrukce v úseku Svárovské aleje, který tvoří 600 m z celkové délky 11,7 km. 
 
 *„Prostor stávající aleje je možné vyčlenit například jako část úseku mlatového cyklochodníku propojujícího obce Chlum a Svárov,“* dodal náměstek Lukáš Dubec.
