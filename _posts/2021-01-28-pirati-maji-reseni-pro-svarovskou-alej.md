@@ -9,8 +9,8 @@ author: Krajský MO
 tags: piráti jmk svarovská-alej životní-prostředí # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-authorId: jana.leitnerova # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: posts/lesy_web.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+authorId: # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
+image: posts/svarovska_alej_mrak.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
