@@ -1,7 +1,7 @@
 ---
 name: Petra Vymazalová
 mail:
-- vymazovalap@psp.cz
+- vymazalovap@psp.cz
 #img: people/.jpg 
 description:  Asistentka Tomáše Vymazala
 uid: petra.vymazalova 
