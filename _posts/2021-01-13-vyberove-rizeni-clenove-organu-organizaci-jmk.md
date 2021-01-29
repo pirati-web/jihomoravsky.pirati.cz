@@ -28,6 +28,9 @@ výkon funkce člena orgánu Organizace s právy a povinnostmi plynoucími ze st
 - Regionální rozvojová agentura jižní Moravy – zástupce ve Správním výboru
 - Thermal Pasohlávky, a.s. – člen dozorčí rady
 - Intemac Solutions, s.r.o. – člen dozorčí rady
+- Baťův kanál, o.p.s. – člen dozorčí rady
+- Centrála cestovního ruchu – Jižní Morava, z.s.p.o. – člen dozorčí rady
+- Jihomoravské centrum pro mezinárodní mobilitu, z.s.p.o. – člen dozorčí rady
 
 **Každý uchazeč by měl splňovat následující požadavky:**
 - není ve střetu zájmu ve vztahu k Organizaci
@@ -45,7 +48,7 @@ výkon funkce člena orgánu Organizace s právy a povinnostmi plynoucími ze st
 - motivační dopis (vč. informace, o kterou z výše uvedených funkcí se uchazeč uchází)
 - vize působení uchazeče v rámci Organizace
 
-**Uchazeč zašle potřebnou dokumentaci na e-mail: filip.havlicek@pirati.cz do 27. ledna 2021, 20:00.**
+**Uchazeč zašle potřebnou dokumentaci na e-mail: filip.havlicek@pirati.cz do 5. února 2021, 20:00.**
 
 Druhé kolo výběrového řízení proběhne formou osobního pohovoru nebo prostřednictvím videokonference.
 
@@ -66,3 +69,6 @@ ihned po jmenování do funkce Radou / Zastupitelstvem Jihomoravského kraje.
 - Regionální rozvojová agentura jižní Moravy – Jana Leitnerová, Jiří Kadeřávek, Miroslav Bárta
 - Thermal Pasohlávky, a.s. – Petr Springinsfeld, Silvie Mrkvanová, Eva Havlová
 - Intemac Solutions, s.r.o. – Ivo Vašíček, Jiří Hlavenka, Lukáš Dubec
+- Baťův kanál, o.p.s. – Jana Leitnerová, Ivo Vašíček, Miroslav Bárta
+- Centrála cestovního ruchu – Jižní Morava, z.s.p.o. – Petr Springinsfeld, Jiří Hlavenka, Lukáš Dubec
+- Jihomoravské centrum pro mezinárodní mobilitu, z.s.p.o. – Petr Springinsfeld, Jiří Hlavenka, Jiří Kadeřávek
