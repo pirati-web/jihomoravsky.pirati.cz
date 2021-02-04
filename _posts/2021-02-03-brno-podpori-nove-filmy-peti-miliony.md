@@ -4,7 +4,7 @@
 
 category: CLANKY   # nešahat!
 title: "Brno podpoří nové filmy 5 miliony korun"
-date: 2019-03-21   # formát YYYY-MM-DD
+date: 2021-02-03   # formát YYYY-MM-DD
 author: Krajský MO
 tags: brno kultura marek-fišer # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
