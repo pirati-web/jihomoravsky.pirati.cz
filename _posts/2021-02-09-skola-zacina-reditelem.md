@@ -6,7 +6,7 @@ category: CLANKY   # nešahat!
 title: "Školy jsou takové, jaký je jejich ředitel"
 date: 2021-02-09  # formát YYYY-MM-DD
 author: Jiří Hlavenka
-tags: archiv # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: školství vzdělávání jiří-hlavenka # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 authorId: jiri.hlavenka # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
