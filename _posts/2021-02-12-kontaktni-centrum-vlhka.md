@@ -28,7 +28,9 @@ Centrum za téměř rok existence slaví první úspěchy, a to v různých aspe
 
 Kontaktní centrum Vlhká **aktuálně řeší nedostatek ručníků a oblečení** včetně spodního prádla, dek či spacáků. Pracovníci by zároveň ocenili síť na nohejbal a míče, protože klienti mohou mimo běžnou činnost využívat i volnočasové zázemí centra včetně sportovního areálu nebo knihovny.
 
-Pokud máte zájem pomoci Kontaktnímu centru pro lidi bez domova, **neváhejte je kontaktovat** prostřednictvím **e-mailu**: kcentrum.vl@podaneruce.cz nebo **telefonního čísla**: 770 168 177.
+Pokud máte zájem pomoci Kontaktnímu centru pro lidi bez domova, **neváhejte je kontaktovat** prostřednictvím:
+**e-mailu**: kcentrum.vl@podaneruce.cz  
+**telefonního čísla**: 770 168 177
 
 Za provedení areálem děkujeme jeho vedoucímu a sociálnímu pracovníkovi Vojtěchu Dvořákovi, jeho zástupci Janu Havlovi a vedoucí Divize odborných služeb Jihomoravského kraje Petru Blažkovi. 
 
