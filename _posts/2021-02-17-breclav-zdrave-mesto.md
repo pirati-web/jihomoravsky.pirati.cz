@@ -22,3 +22,5 @@ Zapojení obyvatel Břeclavi do participativního rozpočtu [„Nápady pro Bře
 Myšlenka přizvání veřejnosti k rozhodování o obecních financích je základním pilířem  iniciativy „Národní síť Zdravých měst ČR“, které je Břeclav od roku 2011 součástí. Petr Vlasák, který je členem komise Zdravého města Břeclav, inicioval během svého dvouletého působení v komisi pokračování přehlídky zručnosti místních řezbářů s názvem **Dřevosochání**. Na jejich originálních autorských lavičkách dnes lidé sedávají v břeclavském parku. Loni na základě Vlasákovy aktivity Zdravé město instalovalo **pět veřejných knihovniček** do všech břeclavských městských částí. Podle pirátského radního se výměna knih mezi lidmi skvěle rozběhla.
 
 Zdravé město aktuálně chystá např. oslavy Dne Země či projekt Cykloterapie, díky němuž by měli dobrovolníci brát na vyjížďku elektrickou rikšou seniory a tím prolomit sociální izolaci starších lidí na čerstvém vzduchu. 
+
+Foto: Facebook Břeclav Zdravé město
