@@ -15,7 +15,7 @@ image: posts/knihobudka_breclav.jpg # obrázek ideálně 420x677px minifikovaný
 
 ---
 
-Zapojení obyvatel Břeclavi do participativního rozpočtu [„Nápady por Břeclav“](http://www.napadyprobreclav.cz/){:target="_blank"} funguje. V roce 2020 už občané rozdělili mezi nejoblíbenější projekty 100 tisíc korun a své favority budou hledat i letos. 
+Zapojení obyvatel Břeclavi do participativního rozpočtu [„Nápady pro Břeclav“](http://www.napadyprobreclav.cz/){:target="_blank"} funguje. V roce 2020 už občané rozdělili mezi nejoblíbenější projekty 100 tisíc korun a své favority budou hledat i letos. 
 
 *„Největší radost mám aktuálně z udržení pravidelnosti participativního rozpočtu. Ten se z 10 tisíc v pilotním roce loni zvýšil na 100, a jelikož ustál ekonomické škrty, bude soutěž o nejlepší nápady pro veřejný prostor v Břeclavi vypsána i letos,“* těší se z čistě pirátského tématu pirátský radní [Petr Vlasák](https://jihomoravsky.pirati.cz/lide/petr-vlasak/). V letošním roce se díky tomu město dočká **zkrášlení vybraných autobusových zastávek**, což získalo největší ohlas v loňském hlasování.   
 
