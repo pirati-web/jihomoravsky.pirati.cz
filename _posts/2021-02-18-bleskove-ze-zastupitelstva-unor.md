@@ -21,7 +21,7 @@ Setkání zastupitelstva JMK v době covidové představuje skoro až společens
 
 Na návrh pirátského zastupitele [Jiřího Kadeřávka](https://jihomoravsky.pirati.cz/lide/jiri-kaderavek/) přislíbil hejtman Grolich přednést při jednáních s vládou návrh na to, aby děti s pozitivními testy na protilátky byly vyňaty z testování antigenními testy ve školách. To umožní snížit o 25-30 % logistickou a finanční náročnost celé operace. Pro rodiče by takový krok představoval pozitivní motivaci, aby protilátkové testy s dětmi před nástupem do škol podstoupili. 
 
-Piráti požadavek přednesli na základě dat z americké studie z počátku ledna, která odhaduje, že v USA je počet pacientů s prodělaným Covidem dokonce 4x vyšší než uvádí oficiální statistiky. V ČR se odhady o prodělané nemoci pohybují o 2,5-3,5x výš, než vykazují oficiální statistiky. V Česku je nyní oficiálně 1,1mil. lidí s prodělaným Covidem, reálně tak může mít nemoc za sebou třetina celé populace. U dětí by tedy mohlo jít o zmíněných 25-30 %. Více informací o americké studii si můžete přečíst zde: http://bit.ly/USA4xmoreCovidPlus
+Piráti požadavek přednesli na základě dat z americké studie z počátku ledna, která odhaduje, že v USA je počet pacientů s prodělaným Covidem dokonce 4x vyšší než uvádí oficiální statistiky. V ČR se odhady o prodělané nemoci pohybují o 2,5-3,5x výš, než vykazují oficiální statistiky. V Česku je nyní oficiálně 1,1mil. lidí s prodělaným Covidem, reálně tak může mít nemoc za sebou třetina celé populace. U dětí by tedy mohlo jít o zmíněných 25-30 %. [Více informací o americké studii](http://bit.ly/USA4xmoreCovidPlus).
 
 **Na přeměnu sociálních služeb půjde více prostředků**
  
