@@ -6,10 +6,10 @@ category: CLANKY   # nešahat!
 title: "Divadlo Barka potřebuje pomoc"
 date: 2021-02-23   # formát YYYY-MM-DD
 author: Krajský MO
-tags: archiv divadlo barka kultura
+tags: divadlo barka kultura # kategorie
 
 ### Nepovinné položky ###
-image: posts/barka.jpg 
+image: posts/barka.jpg # obrázek
 #description: Divadlo Barka je otevřený kulturní prostor Ligy vozíčkářů, který hendikepovaným nabízí prostor k jejich kreativní realizaci. Kvůli pandemii COVID-19 a vládním opatřením je ale jeho existence ohrožena. 
 
 ---
