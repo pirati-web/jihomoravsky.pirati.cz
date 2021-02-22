@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Divadlo Barka potřebuje pomoc
+title: "Divadlo Barka potřebuje pomoc"
 date: 2021-02-23   # formát YYYY-MM-DD
 author: Krajský MO
 tags: archiv divadlo barka kultura
