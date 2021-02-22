@@ -14,7 +14,7 @@ image: posts/barka.jpg
 
 ---
 
-**Divadlo Barka je otevřený kulturní prostor Ligy vozíčkářů, který hendikepovaným nabízí prostor k jejich kreativní realizaci. Kvůli pandemii COVID-19 a vládním opatřením je ale jeho existence ohrožena. **
+**Divadlo Barka je otevřený kulturní prostor Ligy vozíčkářů, který hendikepovaným nabízí prostor k jejich kreativní realizaci. Kvůli pandemii COVID-19 a vládním opatřením je ale jeho existence ohrožena.**
 
 Divadlo Barka najdete v Králově Poli už 27 let. Provozuje ho Liga vozíčkářů, která lidem pomáhá překonávat životní překážky. Lidem s postižením dává možnost žít podle vlastních představ. Za normálních okolností se v divadle tančí, zpívá, hraje divadlo nebo hudba. 
 
@@ -26,4 +26,4 @@ V současnosti se však divadlo potýká s problémy, protože se nehraje, nepř
 
 I za malou pomoc vám budou vděční. Nenechme tento skvělý prostor zaniknout. Konec Barky by kromě konce všech představení mohl také znamenat zánik některých souborů. Handicapovaní umělci by s koncem divadla ztratili možnost se realizovat a několik lidí by přišlo o stálou práci. To nechceme dopustit!
 
-
+Číslo účtu: 2201897677/2010 (na barka@ligavozic.cz vám rádi vystaví i potvrzení o daru) 
