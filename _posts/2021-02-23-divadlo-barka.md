@@ -26,6 +26,6 @@ V současnosti se však divadlo potýká s problémy, protože se nehraje, nepř
 
 I za malou pomoc vám budou vděční. Nenechme tento skvělý prostor zaniknout. Konec Barky by kromě konce všech představení mohl také znamenat zánik některých souborů. Handicapovaní umělci by s koncem divadla ztratili možnost se realizovat a několik lidí by přišlo o stálou práci. To nechceme dopustit!
 
-Více o finanční podpoře se dočtete přímo na stránkách: [http://divadlobarka.cz/podpor-barku/](http://divadlobarka.cz/podpor-barku/){:target="_blank"}
+Více informací o finanční podpoře naleznete přímo na stránkách: [http://divadlobarka.cz/podpor-barku/](http://divadlobarka.cz/podpor-barku/){:target="_blank"}
 
 
