@@ -20,7 +20,7 @@ Divadlo Barka najdete v Králově Poli už 27 let. Provozuje ho Liga vozíčká�
 
 Barka slouží handicapovaným nejen k rozvoji umělecké činnosti, ale také k setkávání a navazování kontaktů. Normálně se zde odehrává kolem stovky představení ročně. Divadlo poskytuje také zázemí 6 integrovaným souborům a poskytuje prostor k realizaci amatérům, dětem i studentům.
 
-*„Na Barce se mi líbí, že je otevřená pro všechny. Na představení jsem tam šel vždycky moc rád. Specifický humor zdravotně postižených mě pokaždé hodně pobavil,“* svěřil se brněnský radní pro kulturu a královopolský zastupitel [Marek Fišer] (https://jihomoravsky.pirati.cz/lide/marek-fiser/){:target="_blank"}.
+*„Na Barce se mi líbí, že je otevřená pro všechny. Na představení jsem tam šel vždycky moc rád. Specifický humor zdravotně postižených mě pokaždé hodně pobavil,“* svěřil se brněnský radní pro kulturu a královopolský zastupitel [Marek Fišer](https://jihomoravsky.pirati.cz/lide/marek-fiser/){:target="_blank"}.
 
 V současnosti se však divadlo potýká s problémy, protože se nehraje, nepřednáší ani nekoncertuje. *„Dvě třetiny z 1,5 milionového rozpočtu si divadlo musí samo vydělat, což teď ale není možné. Loni ještě s vypětím všech sil a rezerv vyšli, letos je ale situace jiná. Pokud tedy můžete, divadlo podle svých možností podpořte,“* apeluje Marek Fišer, který se do sbírky rovněž osobně zapojil. 
 
