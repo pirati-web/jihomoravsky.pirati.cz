@@ -16,7 +16,7 @@ image: posts/brno_byty.png # obrázek ideálně 420x677px minifikovaný přes ht
 
 **Získat informace o množství, typech nebo dostupnosti městských bytů bylo ještě donedávna poměrně náročné. To se však postupně mění. Už loňský rok se otevřelo kontaktní místo na Malinovského náměstí, kde mohou zájemci získat veškeré potřebné informace. K němu se nově přidala také tištěná brožura a webové stránky. Informace tak budou ještě dostupnější.**
 
-Brožura “Obecní bydlení v Brně přehledně” je zatím k dispozici v budovách Magistrátu města Brna a úřadů městských částí (další místa jsou v jednání). Webové stránky jsou dostupné na [bydleni.brno.cz](bydleni.brno.cz){:target="_blank"}. Zde se budou objevovat průběžně aktualizované informace o všech typech městského bydlení a také o probíhajících a dokončených rekonstrukcích i nové výstavbě.
+Brožura “Obecní bydlení v Brně přehledně” je zatím k dispozici v budovách Magistrátu města Brna a úřadů městských částí (další místa jsou v jednání). Webové stránky jsou dostupné na [bydleni.brno.cz](https://bydleni.brno.cz){:target="_blank"}. Zde se budou objevovat průběžně aktualizované informace o všech typech městského bydlení a také o probíhajících a dokončených rekonstrukcích i nové výstavbě.
 
 Na vzniku webových stránek se podílel také Pirát Ondřej Kotas, který pracuje na Odboru městské informatiky. Ondra spolupracoval na dodávkách hned několika map, které jsou postaveny na datech z jednotlivých městských částí a Bytového odboru MMB. 
 
