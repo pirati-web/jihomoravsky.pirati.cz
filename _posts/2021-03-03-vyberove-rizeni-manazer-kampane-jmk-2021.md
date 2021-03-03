@@ -40,7 +40,8 @@ Koaliční volební výbor Pirátů a STAN v Jihomoravském kraji vyhlašuje **v
 - Koordinace s kampaněmi probíhajícími napříč republikou
 - Samostatná exekutiva kampaně (podle vámi připraveného plánu volební kampaně) a rychlé uzpůsobování plánu aktuální situaci
 - Průběžné vedení legislativou požadované administrativy a vyhodnocování hospodaření a zpracování výstupu za účelem vyhotovení zprávy pro Úřad pro dohled nad hospodařením politických stran
-- Podmínkou zařazení do výběrového řízení je **zaslání strukturovaného životopisu a motivačního dopisu** obsahujícího vizi působení na dané pozici **do 16. 3. 2021** na e-mailové adresy jana.krutakova@stan.cz a radek.holomcik@pirati.cz. Životopis a motivační dopis vítěze výběrového řízení mohou být zveřejněny i bez předchozího souhlasu.
+
+Podmínkou zařazení do výběrového řízení je **zaslání strukturovaného životopisu a motivačního dopisu** obsahujícího vizi působení na dané pozici **do 16. 3. 2021** na e-mailové adresy jana.krutakova@stan.cz a radek.holomcik@pirati.cz. Životopis a motivační dopis vítěze výběrového řízení mohou být zveřejněny i bez předchozího souhlasu.
 
 **Termín** zahájení spolupráce (nástupu): 1. dubna 2021
 
