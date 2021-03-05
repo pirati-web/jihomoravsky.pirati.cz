@@ -22,6 +22,7 @@ Registrace se otevřela pro další skupiny obyvatel i v Jihomoravském kraji. N
 Chcete-li se očkovat u svého praktického lékaře, kontaktujte nejdříve přímo jeho. Zjistěte si, zda očkuje/bude očkovat a domluvte se na vakcinaci přímo s ním. Praktici vás do systému zapíšou sami. Jihomoravský kraj připravil [interaktivní mapu](https://ockovani.jmk.cz/praktici/){:target="_blank"}, ve které najdete všechny zapojené praktické lékaře v JMK.
 
 **Očkování přes centrální registrační systém**
+
 I nadále máte možnost se registrovat přes centrální [registrační systém](https://registrace.mzcr.cz/){:target="_blank"}.
 
 **Co dělat, pokud jste již v centrálním registračním systému, ale chcete k praktikovi?**
