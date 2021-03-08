@@ -9,7 +9,6 @@ author: Krajský MO
 tags: archiv mapa cyklisté doprava # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-authorId: marek.lahoda # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: posts/dpnk_data.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Z iniciativy Marka Lahody, místopředsedy Komise dopravy, vznikla aplikace, díky níž Brno ví, kudy cyklisté jezdí nejčastěji. Aplikace využívá anonymní lokalizační data získaná vždy za měsíc květen v letech 2018–2020. V současnosti jsou tak známy relativní počty průjezdů na kole v jednotlivých ulicích a částech města. Data budou sloužit pracovníkům MMB a členům cykloskupin jako důležitý materiál při rozhodování o nových cykloopatřeních v Brně. 
 
