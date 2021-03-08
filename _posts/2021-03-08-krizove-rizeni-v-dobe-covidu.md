@@ -27,5 +27,5 @@ I s tímto tématem půjdu do letošních voleb do poslanecké sněmovny, kde se
 
 Pavel Nevrkla
 
-<div style="text-align:center"><a href="https://drive.google.com/file/d/1ireO6N0aiySdsSh8z9gZL39j2BNehSVb/view?usp=sharing" target="_blank">
-<img src="https://drive.google.com/file/d/1ireO6N0aiySdsSh8z9gZL39j2BNehSVb/view?usp=sharing" alt="Znojmo rousky"></a></div>
+<div style="text-align:center"><a href="https://scontent-prg1-1.xx.fbcdn.net/v/t1.0-9/157074490_1839739036204668_5054694253137731049_n.png?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=RBrGhuE1peIAX_zTiUN&_nc_ht=scontent-prg1-1.xx&oh=038ede49d85920b6ce307e1dcc33cbc1&oe=606CA61F" target="_blank">
+<img src="https://scontent-prg1-1.xx.fbcdn.net/v/t1.0-9/157074490_1839739036204668_5054694253137731049_n.png?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_ohc=RBrGhuE1peIAX_zTiUN&_nc_ht=scontent-prg1-1.xx&oh=038ede49d85920b6ce307e1dcc33cbc1&oe=606CA61F" alt="Znojmo rousky"></a></div>
