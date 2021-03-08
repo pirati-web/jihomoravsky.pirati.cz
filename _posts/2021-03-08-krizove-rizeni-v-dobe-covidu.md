@@ -6,7 +6,7 @@ category: CLANKY   # nešahat!
 title: "Nedokonalost krizového řízení obcí s rozšířenou působností v době Covidu"
 date: 2021-03-08  # formát YYYY-MM-DD
 author: Pavel Nevrkla
-tags: pirati znojemsko pavel-nevrkla krizové-řízení # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: komentář znojemsko pavel-nevrkla krizové-řízení # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 authorId: pavel.nevrkla # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
