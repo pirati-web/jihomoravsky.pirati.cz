@@ -33,3 +33,6 @@ Otázka Tibetu není ale „pouze” o lidských právech. Mimo hlavní zájem m
 - leden 2019 - pirátský europoslanec Mikuláš Peksa se stává novým [předsedou europarlamentní skupiny na podporu Tibetu](https://www.pirati.cz/tiskove-zpravy/europarlamentni-skupinu-tibet-vede-peksa.html){:target="_blank"}.
 - březen 2019 - členové Parlamentní skupiny přátel Tibetu se [setkávají s předsedou tibetské exilové vlády Lobsangem Sangayem](https://www.pirati.cz/tiskove-zpravy/tibet-skupina-pratel-exilova-vlada.html){:target="_blank"}.
 - březen 2020 – pirátští poslanci František Kopřiva a Dana Balcarová [jednají s tibetskou exilovou vládou v indické Dharamsale](https://www.pirati.cz/tiskove-zpravy/exilova-vlada-tibetu-se-setkala-s-poslanci-piratu.html){:target="_blank"}.
+
+<div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/tibet_dubec_springinsfeld.jpg" target="_blank">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/tibet_dubec_springinsfeld.jpg" alt="Tibetska vlajka JMK">
