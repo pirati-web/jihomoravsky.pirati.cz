@@ -15,7 +15,7 @@ image: posts/tibet_mmb.jpg # obrázek ideálně 420x677px minifikovaný přes ht
 
 ---
 
-Je tu další 10. březen, kdy upozorňujeme na povstání Tibeťanů proti čínské okupaci své země. Letos si připomínáme už 62. výročí masakru, při kterém podle [dostupných dat](https://www.lungta.cz/projekty/vlajka-pro-tibet/)({:target="_blank"} zemřelo zhruba 80 000 Tibeťanů. Statisíce dalších přišli následně o život při věznění, v pracovních táborech nebo v důsledku hladomoru. Symbolicky jsme proto i dnes vyvěsili tibetské vlajky na brněnském magistrátu, krajském úřadu nebo pirátském centru ŠPiCe. Za podobný čin hrozí přímo v Tibetu až několikaleté vězení.
+Je tu další 10. březen, kdy upozorňujeme na povstání Tibeťanů proti čínské okupaci své země. Letos si připomínáme už 62. výročí masakru, při kterém podle [dostupných dat](https://www.lungta.cz/projekty/vlajka-pro-tibet/){:target="_blank"} zemřelo zhruba 80 000 Tibeťanů. Statisíce dalších přišli následně o život při věznění, v pracovních táborech nebo v důsledku hladomoru. Symbolicky jsme proto i dnes vyvěsili tibetské vlajky na brněnském magistrátu, krajském úřadu nebo pirátském centru ŠPiCe. Za podobný čin hrozí přímo v Tibetu až několikaleté vězení.
 
 „Dnešek je pro celý svět připomínkou statečnosti Tibeťanů, kteří povstali proti totalitnímu čínskému režimu, který v letech 1950–1951 násilně obsadil jejich území. Vyvěsit tibetskou vlajku na znamení naší podpory pro ty, kteří ani dnes nemají to štěstí a nežijí ve svobodné zemi, je to nejmenší, co pro Tibeťany můžeme udělat,” řekl [Petr Springinsfeld](https://jihomoravsky.pirati.cz/lide/petr-springinsfeld/), předseda Výboru pro meziregionální vztahy JMK za Piráty.
 
