@@ -32,7 +32,9 @@ Zakázka může být zadána pouze jako celek.
 
 **Hodnoticí kritéria:**
 60 % portfolio + reference
+
 20 % cena
+
 20 % ateliér (zda je součástí nabídnuté ceny + lokalita)
 
 Prosíme o zaslání přihlášky do výběrového řízení společně s portfoliem na e-mailové adresy **petr.springinsfeld@pirati.cz** a **jakub.krainer@stan.cz**, a to **do 24. března 2021 vč.**
