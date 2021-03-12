@@ -31,6 +31,7 @@ Maximální cena: 80 tis. Kč vč. DPH
 Zakázka může být zadána pouze jako celek.
 
 **Hodnoticí kritéria:**
+
 60 % portfolio + reference
 
 20 % cena
