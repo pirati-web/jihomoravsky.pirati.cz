@@ -13,7 +13,7 @@ image: posts/vr_foto.png # obrázek ideálně 420x677px minifikovaný přes http
 #description: Koaliční volební výbor Piráti a STAN Jihomoravský kraj vyhlašuje otevřené výběrové řízení na zajištění fotografických služeb v rámci kampaně pro volby do Poslanecké Sněmovny 2021.**
 
 ---
-Koaliční volební výbor Piráti a STAN Jihomoravský kraj vyhlašuje **otevřené výběrové řízení na zajištění fotografických služeb v rámci kampaně pro volby do PS PČR konané v roce 2021.
+Koaliční volební výbor Piráti a STAN Jihomoravský kraj vyhlašuje **otevřené výběrové řízení na zajištění fotografických služeb v rámci kampaně pro volby do Poslanecké Sněmovny.** 
 
 **Požadujeme zajištění následujících výstupů:**
 - Unifikovaná profilová fotografie (pravděpodobně ateliér, bude upřesněno dle ideového konceptu kampaně na konci března), pro všechny kandidáty (34 ks) - pozor - dodávka vč. případného zajištění ateliéru
