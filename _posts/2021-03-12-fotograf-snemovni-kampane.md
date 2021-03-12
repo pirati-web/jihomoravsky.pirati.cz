@@ -9,7 +9,7 @@ author: Krajský MO
 tags: výběrové-řízení fotograf/ka kampaň sněmovna psp  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/vr_foto.png# obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/vr_foto.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Koaliční volební výbor Piráti a STAN Jihomoravský kraj vyhlašuje otevřené výběrové řízení na zajištění fotografických služeb v rámci kampaně pro volby do Poslanecké Sněmovny 2021.**
 
 ---
