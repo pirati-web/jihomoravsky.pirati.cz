@@ -21,7 +21,7 @@ Vzpomínáte na událost před rokem, kdy zrovna během startu pandemie Covid-19
 
 V roce 2016, když jsme jako Piráti „nastupovali“ na Jihomoravský kraj, stáli jsme u zrodu kybernetického operačního centra. Kraj jej měl tehdy jako jeden z prvních vůbec a jak to u průkopníků bývá, padaly otázky, zda je to vůbec potřeba a zda si nekupujeme jen „drahou hračku“. Dnes, po necelých pěti letech, centrum chrání nejen krajský úřad, jeho účty a data, ale i dalších devatenáct organizací, které kraj zřizuje. Jednoznačně nejdůležitějšími z pohledu ochrany jsou krajské nemocnice a léčebny, což je 9 organizací a Zdravotnická záchranná služba kraje. Právě tyto typy institucí bývají nejčastějšími cíli útoků s jednoduchým záměrem – vyděračským způsobem získat „výpalné“ za slib obnovení provozu.
 
-**Kyber-dozor chrání i šetří**
+**Kyber-dozor chrání peníze i životy**
 
 Každý má dělat to, co umí: zdravotnická zařízení mají léčit, záchranka vozit pacienty, a kybernetičtí bezpečáci chránit. Proto má centrální kybernetické centrum, které je schopné z jednoho místa chránit mnoho desítek organizací a které zaměstnává špičkové odborníky, smysl. Jednak je možné koncentrovat nejlepší ochranné systémy i “mozky” na lidském dohledu, jednak se tím výrazně šetří peníze, neboť v opačném případě by muselo mít každé krajské zařízení svou vlastní kybernetickou ochranu. Kybernetické operační centrum je tak velmi úspěšným počinem, chránícím nejen peníze, ale i zdraví a životy. 
 
