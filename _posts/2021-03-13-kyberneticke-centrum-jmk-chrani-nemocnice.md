@@ -1,10 +1,10 @@
 ---
-#název souboru: 2021-03-14-kyberneticke-centrum-jmk-chrani-nemocnice.md
+#název souboru: 2021-03-13-kyberneticke-centrum-jmk-chrani-nemocnice.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: "Kybernetické centrum JMK chrání všechny krajské nemocnice"
-date: 2021-03-14 # formát YYYY-MM-DD
+date: 2021-03-13 # formát YYYY-MM-DD
 author: Jiří Hlavenka
 tags: komentář jiří-hlavenka kybernetické-centrum koc # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
