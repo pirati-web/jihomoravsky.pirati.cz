@@ -4,6 +4,7 @@ name:     Petr Baláž  	# běžně používáné jméno
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/petr-balaz.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Operátor linky v logistickém centru    	# kratký popis, max 160 znaků
 mail:
 - petr.balaz@pirati.cz

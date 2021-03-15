@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 ordzmckrpole: 2
 img: people/jaroslav-kamen.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 img2: people/jaroslav-kamen2.jpg
 description: Webový a herní vývojář, 2. místopředseda MS Brno  	# kratký popis, max 160 znaků
 mail:

@@ -9,6 +9,7 @@ titles:
 mail:
 - ondrej.vichta@pirati.cz
 img: people/vichta.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: člen KS Jihomoravský kraj
 uid: ondrej.vichta # identifikátor 
 

@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zast
 img: people/jiri-ulip.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Překladatel, manažer a brněnský zastupitel  	# kratký popis, max 160 znaků
 mail:
 - jiri.ulip@pirati.cz

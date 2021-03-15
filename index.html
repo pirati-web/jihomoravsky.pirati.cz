@@ -1,17 +1,12 @@
 ---
 layout: default
-rbar:
-   - video
-   - calendar
-   - fb
-youtube:
-  id: 4tyiBvadxPc
-  #playlist: PLKqQxo2sZ8NfKKow6zTMyVZF7jfzpIMw9 
-  title: "Video"
-  button:
-    url: "https://www.youtube.com/channel/UCvW2nK5-N6vKnXX5LwPQmSg"
-    title: "Další videa na našem YouTube kanálu"
 ---
 
-
-{% include homepage/news-with-rbar.html %}
+{% include hero/simple.html headline="Piráti Jihomoravského kraje" description="Držíme směr!" bgImg="https://a.pirati.cz/jihomoravsky/img/header/palava_krajina.jpg" %}
+<br><br>
+<div class="container container--default lg:pb-24">
+  {% include homepage/news.html %}
+  {% include homepage/countdown.html deadline="2021-10-08 08:00:00" %}
+  {% include homepage/calendar.html %}
+  {% include homepage/social.html %}
+</div>

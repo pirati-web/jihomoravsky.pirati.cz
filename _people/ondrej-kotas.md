@@ -7,6 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 ordmsbrno: 4
 ordmmb: 4
 img: people/ondrej-kotas.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Softwarový tester a automatizační specialista        	# kratký popis, max 160 znaků
 mail:
 - ondrej.kotas@pirati.cz

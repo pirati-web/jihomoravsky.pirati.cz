@@ -10,6 +10,7 @@ mail:
 -  bernardova.d@gmail.com
 mob: 732 850 803
 img: people/denisa-bernardova.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Studentka, učitelka, aktivistka, věčný snílek o lepším vzdělávání  	# kratký popis, max 160 znaků
 profiles:
   linkedin: https://www.linkedin.com/in/denisa-bernardova-06259896/

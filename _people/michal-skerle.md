@@ -9,6 +9,7 @@ titles:
 mail:
 
 img: people/michal-skerle.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: Právník, vysokoškolský učitel a lektor finanční gramotnosti 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

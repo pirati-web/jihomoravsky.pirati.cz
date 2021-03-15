@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/petr-zamecnik.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Dopravní psycholog ve veřejné výzkumné instituci     	# kratký popis, max 160 znaků
 mail:
 - petr.zamecnik@pirati.cz

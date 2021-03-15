@@ -9,6 +9,7 @@ titles:
 mail:
 - jakub.sobocik@pirati.cz
 img: people/jakub-sobocik.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: Právník a člen Pirátské strany	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

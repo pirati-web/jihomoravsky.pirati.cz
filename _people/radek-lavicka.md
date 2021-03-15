@@ -4,6 +4,7 @@ name:  Radek Lávička  	# běžně používáné jméno
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/radek-lavicka.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Manažer nákupu, milující otec a věrný manžel, celoživotní filozof bojující proti elitám a nesmyslnostem systému     	# kratký popis, max 160 znaků
 mail:
 - akcival@seznam.cz

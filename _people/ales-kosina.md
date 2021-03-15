@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/ales-kosina.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Auditor kvality v leteckém průmyslu, školitel a poradce systémů řízení organizací, ve volném čase chovatel britských koček       	# kratký popis, max 160 znaků
 mail:
 - ales.kosina@pirati.cz

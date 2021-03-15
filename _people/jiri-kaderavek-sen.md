@@ -4,6 +4,7 @@ name:  Jiří Kadeřávek sen.  	# běžně používáné jméno
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/jiri-kaderavek-sen.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Technická podpora open-source software     	# kratký popis, max 160 znaků
 mail:
 - jiri@kaderavek.cz

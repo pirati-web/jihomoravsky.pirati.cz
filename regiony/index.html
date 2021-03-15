@@ -1,23 +1,42 @@
 ---
-layout: regions2
-title: "Aktuálně v Jihomoravském kraji fungují tato místní sdružení:"
-regions:
-  - img: 'https://a.pirati.cz/jihomoravsky/img/teams/brno.jpg'
-    name: 'Místní sdružení Brno'
-    area: 'okres Brno-město'
-    link: '/regiony/brno'
-    president: 'tomas.kolacny'
-    fb: "CPS.JMK"
-  - img: 'https://a.pirati.cz/jihomoravsky/img/teams/slovacko.jpg'
-    name: 'Místní sdružení Slovácko'
-    area: 'okres Hodonín a Břeclav'
-    link: '/regiony/slovacko/'
-    president: 'Petr Vlasák'
-    fb: "piratislovacko"
-  - img: 'https://a.pirati.cz/jihomoravsky/img/teams/znojmo.jpg'
-    name: 'Místní sdružení Znojemsko'
-    area: 'okres Znojmo'
-    link: '/regiony/znojemsko/'
-    president: 'lukas.dubec'
-    fb: "PiratiZnojemsko"
+layout: default
+title: Aktuálně v Jihomoravském kraji fungují tato místní sdružení
 ---
+
+<div class="container container--default pt-8 lg:py-24">
+ <section>
+<h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Aktuálně v Jihomoravském kraji fungují tato místní sdružení</h1>
+  <main>
+   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+{% include ms/item.html 
+    img='https://a.pirati.cz/jihomoravsky/img/teams/brno.jpg'
+    name='Místní sdružení Brno'
+    area='okres Brno-město'
+    link='/regiony/brno'
+    president='tomas.kolacny'
+    fb="CPS.JMK"    
+    %}
+
+{% include ms/item.html 
+    img='https://a.pirati.cz/jihomoravsky/img/teams/slovacko.jpg'
+    name='Místní sdružení Slovácko'
+    area='okres Hodonín a Břeclav'
+    link='/regiony/slovacko'
+    president='Petr Vlasák'
+    fb="piratislovacko"  
+    %}
+
+{% include ms/item.html 
+    img='https://a.pirati.cz/jihomoravsky/img/teams/znojmo.jpg'
+    name='Místní sdružení Znojemsko'
+    area='okres Znojmo'
+    link='/regiony/znojemsko'
+    president='lukas.dubec'
+    fb="PiratiZnojemsko"
+    %}
+
+   </div>
+  </main>
+  </section>
+ </div>

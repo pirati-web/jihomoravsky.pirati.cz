@@ -9,6 +9,7 @@ titles:
 mail:
 - hlavenka.jiri@kr-jihomoravsky.cz
 img: people/jiri_hlavenka.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: Radní pro vědu, výzkum, inovace a IT v JMK 	# kratký popis, max 160 znaků
 uid: jiri.hlavenka # identifikátor 
 

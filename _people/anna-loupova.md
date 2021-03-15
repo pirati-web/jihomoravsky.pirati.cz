@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/anna-loupova.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Majitelka secondhandu, věčná studentka, milovnice přírody, knih a svobody 	# kratký popis, max 160 znaků
 mail:
 - anna.loupova@pirati.cz

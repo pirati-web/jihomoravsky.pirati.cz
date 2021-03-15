@@ -9,6 +9,7 @@ titles:
 mail:
 - michal-svagerka@pirati.cz
 img: people/michal-svagerka.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: Zastupitel v Dubňanech 	# kratký popis, max 160 znaků
 uid: michal.svagerka # identifikátor 
 

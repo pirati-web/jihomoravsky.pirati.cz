@@ -7,6 +7,7 @@ titles:
 mail:
 - lepeid@seznam.cz
 img: people/dana-hruba.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: Učitelka na střední škole 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

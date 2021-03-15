@@ -6,6 +6,7 @@ name:     Jan Kryčer  	# běžně používáné jméno
 mail:
 
 img: people/jan-krycer.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: student mezinárodních vztahů, král majálesu 2018
 
 ### Nepovinné položky

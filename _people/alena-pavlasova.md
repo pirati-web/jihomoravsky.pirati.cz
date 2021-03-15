@@ -9,6 +9,7 @@ titles:
 mail:
 - alena.pavlasova@pirati.cz
 img: people/alena-pavlasova.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: Administrativní pracovnice 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

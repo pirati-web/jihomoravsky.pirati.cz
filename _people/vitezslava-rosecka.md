@@ -9,6 +9,7 @@ titles:
 mail:
 - vitezslava.rosecka@pirati.cz
 img: people/vitezslava-rosecka.png   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: Průvodkyně, lektorka AJ, členka místního sdružení Znojemsko # kratký popis, max 160 znaků
 
 ### Nepovinné položky

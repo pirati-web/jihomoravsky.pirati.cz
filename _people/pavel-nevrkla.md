@@ -11,6 +11,7 @@ ordpks: 3
 ordzmznojmo: 1
 
 img: people/pavel-nevrkla.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: 2. místopředseda krajského sdružení, zastupitel ve Znojmě, advokát       	# kratký popis, max 160 znaků
 mail:
 - pavel.nevrkla@pirati.cz

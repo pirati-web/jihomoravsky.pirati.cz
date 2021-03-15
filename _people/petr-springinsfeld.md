@@ -8,6 +8,7 @@ ordzjmk: 5
 ordpks: 2
 
 img: people/petr-springinsfeld.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: 1. místopředseda krajského sdružení a zastupitel Jihomoravského kraje        	# kratký popis, max 160 znaků
 mail:
 - petr.springinsfeld@pirati.cz

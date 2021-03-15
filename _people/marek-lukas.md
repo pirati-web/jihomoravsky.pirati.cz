@@ -9,6 +9,7 @@ titles:
 mail:
 - marek.lukas@pirati.cz
 img: people/marek-lukas.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: Projektant, manažer 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

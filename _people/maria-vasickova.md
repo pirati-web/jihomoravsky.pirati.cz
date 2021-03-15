@@ -3,6 +3,7 @@ uid: maria.vasickova
 name:     Mária Vašíčková  	# běžně používáné jméno
 category: # kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/maria-vasickova.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Lektor dalšího vzdělávání, terapeut energetické psychologie  	# kratký popis, max 160 znaků
 mail:
 - maria.vasickova@pirati.cz

@@ -9,6 +9,7 @@ titles:
 mail:
 - mara.lahoda@gmail.com
 img: people/marek-lahoda.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: Geograf, klimatolog, datový analytik, propagátor udržitelné dopravy, zastupitel za Piráty na MČ KrPole 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

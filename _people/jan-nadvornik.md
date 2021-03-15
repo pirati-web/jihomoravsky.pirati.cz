@@ -9,6 +9,7 @@ titles:
 mail:
 - jenda.n@piratiboskovice.cz
 img: people/jan-nadvornik.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: CAD/PDM technik 	# kratký popis, max 160 znaků
 uid: jan.nadvornik # identifikátor 
 

@@ -9,6 +9,7 @@ titles:
 mail:
 - jara.dvorak@gmail.com
 img: people/jaroslav-dvorak.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: Projektant a manažer kapely 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

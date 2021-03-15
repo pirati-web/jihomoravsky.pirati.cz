@@ -6,6 +6,7 @@ name:     Jakub Maňura  	# běžně používáné jméno
 mail:
 
 img: people/jakub-manura.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: Hypotéční bankéř	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

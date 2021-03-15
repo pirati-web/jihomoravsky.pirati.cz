@@ -8,6 +8,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - ep
 ordep: 2
 img: people/marketa-gregorova.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Europoslankyně   	# kratký popis, max 160 znaků
 mail:
 - marketa.gregorova@pirati.cz

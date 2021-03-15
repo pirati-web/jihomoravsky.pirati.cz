@@ -9,6 +9,7 @@ titles:
 mail:
 - eva.havlova@pirati.cz
 img: people/eva-stankova.png   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: Podnikatelka, členka místního sdružení Znojemsko # kratký popis, max 160 znaků
 
 ### Nepovinné položky

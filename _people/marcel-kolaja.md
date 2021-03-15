@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - ep
 img: people/marcel-kolaja.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Místopředseda Evropského parlamentu   	# kratký popis, max 160 znaků
 mail:
 - marcel.kolaja@pirati.cz

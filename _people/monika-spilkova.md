@@ -9,6 +9,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 ordzmcstred: 2
 
 img: people/monika-spilkova.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Provozovatelka vinárny a freelancer v oblasti fotografie a grafiky 	# kratký popis, max 160 znaků
 mail:
 - monika.spilkova@pirati.cz

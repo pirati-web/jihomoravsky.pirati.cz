@@ -11,6 +11,7 @@ ordzmckrpole: 3
 ordmmb: 3
 img: people/marek-fiser.jpg   # 165 x 220
 img2: people/marek-fiser2.jpg
+heroImg: header/palava_krajina.jpg
 description: Manažer, polyglot a zahrádkář 	# kratký popis, max 160 znaků
 
 profiles:

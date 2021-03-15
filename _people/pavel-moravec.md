@@ -8,6 +8,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - msbrno
 ordmsbrno: 12
 img: people/pavel-moravec.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Specialista technické podpory open-source softwaru     	# kratký popis, max 160 znaků
 mail:
 - pavel.moravec@pirati.cz

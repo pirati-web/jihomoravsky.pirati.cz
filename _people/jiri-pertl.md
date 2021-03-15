@@ -6,6 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 ordzmcstred: 3
 
 img: people/jiri-pertl.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Projektový manažer v IT firmě     	# kratký popis, max 160 znaků
 mail:
 - jiri.pertl@pirati.cz

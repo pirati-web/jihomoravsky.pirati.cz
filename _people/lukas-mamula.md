@@ -5,6 +5,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - mmb
 ordmmb: 5
 img: people/lukas-mamula.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
 description: Java developer se zájmem o robotiku a umělou inteligenci, milovník přírody   	# kratký popis, max 160 znaků
 mail:
 - lukas.mamula@pirati.cz

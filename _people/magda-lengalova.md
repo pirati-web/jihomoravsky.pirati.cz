@@ -9,6 +9,7 @@ titles:
 mail:
 - magda.lengalova@breclav.eu
 img: people/magda-lengalova.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: zastupitelka Břeclavi, trenérka badmintonu 	# kratký popis, max 160 znaků
 uid: magda.lengalova # identifikátor 
 
