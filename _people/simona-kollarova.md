@@ -1,7 +1,7 @@
 ---
 name: Simona Kollárová
 mail:
-#img: people/icone_person.png
+img: people/icone_face.jpg  # 165x220px
 heroImg: header/palava_krajina.jpg
 description:  Asistentka Radka Holomčíka
 uid: simona.kollarova
