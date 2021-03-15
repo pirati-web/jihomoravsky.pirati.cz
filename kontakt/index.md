@@ -3,30 +3,29 @@ layout: contacts
 # contentSize: big
 contentSize: even
 residences:
- - name: Pirate Space Brno
+- name: Pirátské centrum ŠPiCe
 # Kontaktní a pracovní centrum
-   url: https://www.facebook.com/PirateSpaceBrno/
    address: |
-                          Údolní 37 (suterén)
-                          60200 Brno
+   Lidická 81 (3. patro)
+   60200 Brno
    spravce: vendula.svobodova
    residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
    mapLink: "SCcP8sLSHGg5pSBr8"
- - name: Poslanecká kancelář <br> Tomáš Vymazal
-  # url: https://www.facebook.com/PirateSpaceBrno/
+---
+- name: Poslanecká kancelář <br> Tomáš Vymazal
+# url: https://www.facebook.com/PirateSpaceBrno/
    address: |
-    Kopečná 940
-    Brno, 602 00
+   Kopečná 940
+   Brno, 602 00
    spravce: petra.vymazalova
-   #residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
    #mapLink: "SCcP8sLSHGg5pSBr8"
- - name: Poslanecká kancelář <br> Radek Holomčík
-  # url: https://www.facebook.com/PirateSpaceBrno/
+---
+- name: Poslanecká kancelář <br> Radek Holomčík
+# url: https://www.facebook.com/PirateSpaceBrno/
    address: |
-    Kostelní 1407
-    Strážnice, 696 62
+   Kostelní 1407
+   Strážnice, 696 62
    spravce: simona.kollarova
-   #residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
    #mapLink: "SCcP8sLSHGg5pSBr8"
 ---
 
