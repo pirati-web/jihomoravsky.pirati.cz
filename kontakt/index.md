@@ -11,7 +11,6 @@ residences:
    spravce: vendula.svobodova
    residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
    mapLink: "SCcP8sLSHGg5pSBr8"
----
 - name: Poslanecká kancelář <br> Tomáš Vymazal
 # url:
    address: |
@@ -19,7 +18,6 @@ residences:
    Brno, 602 00
    spravce: petra.vymazalova
    #mapLink: "SCcP8sLSHGg5pSBr8"
----
 - name: Poslanecká kancelář <br> Radek Holomčík
 # url:
    address: |
