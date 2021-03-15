@@ -13,7 +13,7 @@ residences:
    mapLink: "SCcP8sLSHGg5pSBr8"
 ---
 - name: Poslanecká kancelář <br> Tomáš Vymazal
-# url: https://www.facebook.com/PirateSpaceBrno/
+# url:
    address: |
    Kopečná 940
    Brno, 602 00
@@ -21,7 +21,7 @@ residences:
    #mapLink: "SCcP8sLSHGg5pSBr8"
 ---
 - name: Poslanecká kancelář <br> Radek Holomčík
-# url: https://www.facebook.com/PirateSpaceBrno/
+# url:
    address: |
    Kostelní 1407
    Strážnice, 696 62
