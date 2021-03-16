@@ -6,7 +6,7 @@ category: CLANKY   # nešahat!
 title: Příběh Digitální mapy Brna
 date: 2021-03-16   # formát YYYY-MM-DD
 author: Krajský MO
-tags: transparence Brno digitalizace otevřené_data mapy # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: transparence Brno digitalizace otevřená_data mapy # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 image: posts/digitalni_mapa.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
