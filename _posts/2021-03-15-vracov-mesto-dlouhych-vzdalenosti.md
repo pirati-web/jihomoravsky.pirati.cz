@@ -31,6 +31,6 @@ Plán na přeměnu posledního volného pozemku v průmyslové zóně na nákupn
 
 Místní podnikatelé, obávající se zániku maloobchodu, požádali zastupitelstvo města, aby vypsalo referendum, ve kterém by se občané mohli vyjádřit, nakolik se jim tento plán zamlouvá. Vzhledem k tomu, že se jedná o zásadní změnu, která ovlivní život ve městě na desítky let dopředu, mi přijde jedině fér, aby měli občané možnost se k věci vyjádřit; žádná ze stran v zastupitelstvu o tomto plánu před volbami nehovořila a nemůže tvrdit, že nyní naplňuje svůj program. Zastupitelé ovšem návrh na vypsání referenda odmítli (projednávaný bod byl uveden slovy: “Referendum proběhlo už po novém roce, kdy jsem dostal 71 emailů, ve kterých si občané stěžovali na nedostatek možností k nakupování”), protože je údajně zbytečné a drahé. Změna územního plánu za 116 000 Kč však problém není. Pro referendum hlasoval pouze jeden zastupitel KSČM.
 
-Lepší varianta by nebyla do voleb
+**Lepší varianta by nebyla do voleb**
 
 Snaha zajistit občanům lepší možnosti nakupování je ze strany města pochopitelná, nabízí se však lepší řešení. Přímo v centru Vracova se nachází dva výrobní podniky a majitel jednoho z nich projevil o pozemky v průmyslové zóně zájem. Přemístit výrobu z náměstí na periferii a průmyslový objekt revitalizovat jako nákupní centrum je z hlediska dostupnosti služeb mnohem lepší nápad, než umístit hypermarket na nejméně dostupné místo intravilánu. Nestihlo by se to ale do voleb.
