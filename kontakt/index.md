@@ -1,7 +1,13 @@
 ---
 layout: contacts
-# contentSize: big
+description: Pirátská strana v Jihomoravském kraji je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
+keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
+# Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
+# noresidence: yes
 contentSize: even
+contactPersons:
+  - id: vendula.svobodova
+    position: Koordinátorka
 residences:
 - name: Pirátské centrum ŠPiCe
 # Kontaktní a pracovní centrum
@@ -10,9 +16,8 @@ residences:
    60200 Brno
    spravce: vendula.svobodova
    residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
-   mapLink: "SCcP8sLSHGg5pSBr8"
+   mapLink: "SCcP8sLSHGg5pSBr8"    
 ---
-
 
 <div class="o-section-header o-section-header--indented">
   <h1 class="t-h2-alt">Kontaktní informace</h1>
@@ -21,4 +26,3 @@ residences:
 * **Schůze krajského sdružení** Zasedání krajského sdružení jsou vyhlašovány na <a href="https://forum.pirati.cz/viewforum.php?f=567" target="_blank">fóru</a>.
 * **Schůze místních sdružení** Zasedání místních sdružení jsou vyhlašovány v příslušných podsekcích na <a href="https://forum.pirati.cz/viewforum.php?f=589&sid=5d5208f19575021e0302aa8867091462" target="_blank">Fóru</a>.
 * **Akce a setkání s veřejností** Schůze jsou veřejnosti otevřené, avšak setkat se s námi můžete i neformálně mimo ně. Pro aktuální informace o plánovaných událostech <a href="https://www.facebook.com/CPS.JMK/" target="_blank">sledujte náš Facebook</a> nebo <a href="https://calendar.google.com/calendar/embed?src=aab301nnugmna65grbnt6jv18k%40group.calendar.google.com&ctz=Europe%2FPrague">kalendář akcí</a>.
-
