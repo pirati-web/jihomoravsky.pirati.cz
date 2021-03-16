@@ -8,14 +8,6 @@ contentSize: even
 contactPersons:
   - id: vendula.svobodova
     position: Koordinátorka
-residences:
-- name: Pirátské centrum ŠPiCe
-   address: |
-   Lidická 81 (3. patro)
-   60200 Brno
-   spravce: vendula.svobodova
-   residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
-   mapLink: "SCcP8sLSHGg5pSBr8"    
 ---
 
 <div class="o-section-header o-section-header--indented">
