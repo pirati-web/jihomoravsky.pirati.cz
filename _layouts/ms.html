@@ -45,5 +45,33 @@ layout: default
 	<i class="fa fa-envelope-o"></i> <a class="c-emphasized-anchor" href="mailto:{{page.mail}}">{{page.mail}}</a><br/>
 	<i class="fa fa-facebook"></i> <a class="c-emphasized-anchor" href="https://www.facebook.com/{{page.facebook}}">FB: {{page.facebook}}</a><br/>
 	<i class="fa fa-globe"></i> <a class="c-emphasized-anchor" href="{{page.forum}}">Fórum</a>
+    
+            {% if page.contactPersons %}
+            {% for contact in page.contactPersons %}
+              {% assign person = site.people | where_exp:"item","item.uid contains contact.id" | first %}
+              <div>
+                <h2 class="head-heavy-sm mb-2 lg:mb-4">{{ contact.position }}</h2>
+                <div class="card elevation-3">
+                  <div class="card__body">
+                    {% include people/profile-badge.html item=person %}
+                  </div>
+                </div>
+              </div>
+            {% endfor %}
+          {% else %}
+            {% assign contactPersons = site.people | where_exp: "item","item.category contains 'kontaktni_osoba'" | sort:"ordpak" %}
+            <div>
+              <h2 class="head-heavy-sm mb-2 lg:mb-4">Kontaktní {% if contactPersons.size > 1 %}osoby{% else %}osoba{% endif %}</h2>
+
+              {% for person in contactPersons %}
+              <div class="card elevation-3">
+                <div class="card__body">
+                  {% include people/profile-badge.html item=person %}
+                </div>
+              </div>
+              {% endfor %}
+            </div>
+          {% endif %}
+
   </section>
 </div>
