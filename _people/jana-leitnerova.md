@@ -5,7 +5,7 @@
 name: Jana Leitnerová  	# běžně používáné jméno
 mail:
 - jana.leitnerova@pirati.cz
-img: people/jana-leitnerova.jpg   # 165x220px
+img: people/new_jana_leitnerova.jpg   # 165x220px
 heroImg: header/palava_krajina.jpg
 description: Radní pro sociální a rodinnou politiku v JMK  	# kratký popis, max 160 znaků
 category:  
