@@ -14,7 +14,7 @@ ordmmb: 1
 ordmsbrno: 1
 ordumczidenice: 1
 mob: 773 661 244
-img: people/tomas-kolacny.jpg   # 165 x 220
+img: people/new_tomas_kolacny.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: Radní města Brna a předseda brněnského sdružení # kratký popis, max 160 znaků
 mail:
