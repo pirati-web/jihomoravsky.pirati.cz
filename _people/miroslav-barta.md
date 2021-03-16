@@ -8,7 +8,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 ordzjmk: 9
 ordzmckrpole: 1
 ordpks: 4
-img: people/new_miroslav_barta.jpg   # 165 x 220
+img: people/miroslav-barta.jpg   # 165 x 220
 img2: people/new_miroslav_barta.jpg   
 heroImg: header/palava_krajina.jpg
 description: 3. místopředseda krajského sdružení, vedoucí kontrolního výboru a zastupitel v Králově Poli 	# kratký popis, max 160 znaků
