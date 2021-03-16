@@ -1,10 +1,10 @@
 ---
-#název souboru: 2021-03-16-vracov-mesto-dlouhych-vzdalenosti.md
+#název souboru: 2021-03-15-vracov-mesto-dlouhych-vzdalenosti.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: "Vracov: město dlouhých vzdáleností"
-date: 2021-03-16  # formát YYYY-MM-DD
+date: 2021-03-15  # formát YYYY-MM-DD
 author: Zbyněk Janoška
 tags: vracov slovácko referendum # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
