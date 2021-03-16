@@ -12,7 +12,7 @@ keywords: piráti, česká pirátská strana, svoboda, demokracie, jihomoravský
 url: "https://jihomoravsky.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
-    email: jan.suchanek@pirati.cz # mail kam pujdou chybove vystupy
+    email: jan.suchanek@pirati.cz, marek.krejpsky@gmail.com # mail kam pujdou chybove vystupy
 
 mediaStorage: jihomoravsky
 
