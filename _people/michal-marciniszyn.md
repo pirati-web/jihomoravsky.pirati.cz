@@ -4,7 +4,7 @@ name:     Michal Marciniszyn  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zmcstred
 ordzmcstred: 5
-img: people/michal-marciniszyn.jpg   # 165 x 220
+img: people/new_michal_marciniszyn.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: Manažer a team leader          	# kratký popis, max 160 znaků
 mail:
