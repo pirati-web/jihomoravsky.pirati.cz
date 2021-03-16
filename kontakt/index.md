@@ -10,7 +10,6 @@ contactPersons:
     position: Koordinátorka
 residences:
 - name: Pirátské centrum ŠPiCe
-# Kontaktní a pracovní centrum
    address: |
    Lidická 81 (3. patro)
    60200 Brno
