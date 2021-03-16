@@ -13,7 +13,7 @@ image: posts/digitalni_mapa.png # obrázek ideálně 420x677px minifikovaný př
 #description: Mít kdykoliv a bez omezení k dispozici soubor velmi podrobných map města už není jen výsadou expertů a firem. Digitální mapu Brna využijí jak odborníci, tak i laici. Nově je dostupná i aplikace “Příběh Digitální mapy Brna”, která vysvětluje, jak celý projekt vznikl a co všechno v něm lze najít
 
 ---
-**Mít kdykoliv a bez omezení k dispozici soubor velmi podrobných map města už není jen výsadou expertů a firem. Digitální mapu Brna využijí jak odborníci, tak i laici. Nově je dostupná i aplikace “Příběh Digitální mapy Brna”, která vysvětluje, jak celý projekt vznikl a co všechno v něm lze najít.**
+**Mít kdykoliv a bez omezení k dispozici soubor velmi podrobných map města už není jen výsadou expertů a firem. Digitální mapu Brna využijí jak odborníci, tak i laici. Nově je dostupná i aplikace  “Příběh Digitální mapy Brna”, která vysvětluje, jak celý projekt vznikl a co všechno v něm lze najít.**
 
 Město Brno začalo s digitalizací map v průběhu 70. let 20. století. V té době pracovalo na budování číselné datové báze (nelze si tak představovat vykreslené mapy jak máme dnes). Současná Digitální mapa Brna se začala tvořit na přelomu 80. a 90. let. V Brně má tak tvorba dat tohoto typu dlouhou tradici. Na současné Digitální mapě se podíleli pracovníci GIS [Odboru městské informatiky MMB](https://www.brno.cz/brno-aktualne/tiskovy-servis/tiskove-zpravy/a/digitalni-mapa-brna-poslouzi-treba-pri-planovani-staveb-od-rodinneho-domu-po-tramvajovou-trat/){:target="_blank"}, kteří mapu taktéž stále aktualizují a vylepšují. Ročně se do ní zapracuje skoro tisíc geodetických zaměření. 
 
