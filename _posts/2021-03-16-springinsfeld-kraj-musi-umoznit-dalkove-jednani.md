@@ -6,7 +6,7 @@ category: CLANKY   # nešahat!
 title: "Springinsfeld: Kraj musí umožnit jednání i z gauče"
 date: 2021-03-16  # formát YYYY-MM-DD
 author: Petr Springinsfeld
-tags: archiv # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: komentář petr-springinsfeld on-line distanční-jednání # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 authorId: petr.springinsfeld # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
