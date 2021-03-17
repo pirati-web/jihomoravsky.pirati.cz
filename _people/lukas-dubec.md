@@ -6,7 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - pms
 ordzjmk: 1
 ordpms: 2
-img: people/new_lukas_dubec.jpg   # 165 x 220
+img: people/lukas_dubec_ctverec_web.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: 1. náměstek hejtmana JMK, gesce životní prostředí, participace a transparentnost; dobrovolný hasič   	# kratký popis, max 160 znaků
 mail:
