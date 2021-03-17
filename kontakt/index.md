@@ -11,7 +11,7 @@ contactPersons:
   - id: vendula.svobodova
     position: Koordinátorka dobrovolníků
   - id: robert.cuma
-    position: Krajské sdružení
+    position: Krajské sdružení JMK
   - id: tomas.kolacny
     position: Místní sdružení
   - id: petr.vlasak
