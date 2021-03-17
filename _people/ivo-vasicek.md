@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - zjmk
 ordzjmk: 4
-img: people/new_ivo_vasicek.jpg   # 165 x 220
+img: people/ivo_vasicek_ctverec_web.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: Ekonom, manažer a pedagog     	# kratký popis, max 160 znaků
 mail:
