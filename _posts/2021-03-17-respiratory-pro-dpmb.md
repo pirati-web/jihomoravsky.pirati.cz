@@ -9,7 +9,7 @@ author: Krajský MO
 tags: Brno magistrát dpmb respirátory Tomáš-Koláčný archiv # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/resp.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/kolacny_resp.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Od 1. března platí série vládních opatření, která mají zlepšit nepříznivou  pandemickou situaci. Mezi nimi je i povinnost nošení respirátorů FFP2 nebo KN95 téměř všude, kde je větší koncentrace lidí, včetně hromadné dopravy. Opatření však v některých případech vedlo i k vyhroceným situacím mezi cestujícími.
 
 ---
