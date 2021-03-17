@@ -8,7 +8,7 @@ titles:
   after:
 mail:
 - eda@bmhd.cz
-img: people/new_adam_zemek.jpg   # 165x220px
+img: people/adam_zemek_ctverec_web.jpg   # 165x220px
 heroImg: header/palava_krajina.jpg
 description: Programátor a provozovatel dopravních webů 	# kratký popis, max 160 znaků
 
