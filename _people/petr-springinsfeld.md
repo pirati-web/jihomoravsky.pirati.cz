@@ -7,7 +7,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 ordzjmk: 5
 ordpks: 2
 
-img: people/new_petr_springinsfeld.jpg   # 165 x 220
+img: people/petr_springinsfeld_ctverec_web.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: 1. místopředseda krajského sdružení a zastupitel Jihomoravského kraje        	# kratký popis, max 160 znaků
 mail:
