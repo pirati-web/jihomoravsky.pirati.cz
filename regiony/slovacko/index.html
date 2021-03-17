@@ -31,6 +31,9 @@ profiles:
 ---
 
 {% capture md %} 
+{% endcapture %}
+{{ md | markdownify }}
+
 <h2>Působnost</h2>
 Okres Hodonín, okres Břeclav
 <hr>
@@ -38,8 +41,6 @@ Okres Hodonín, okres Břeclav
 Hodonín, Čejkovice, Dubňany, Vracov, Strážnice, Hovorany, Břeclav
 <hr>
 <img src="https://sucho.pirati.cz/assets/img/slovacko.png" width="1100">
-{% endcapture %}
-{{ md | markdownify }}
 
 
 
