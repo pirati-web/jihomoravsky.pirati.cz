@@ -9,15 +9,13 @@ contactPersons:
   - id: filip.vitek
     position: Média
   - id: vendula.svobodova
-    position: Koordinátorka
+    position: Koordinátorka dobrovolníků
   - id: robert.cuma
-    position: Předseda krajského sdružení JMK
+    position: Krajské sdružení
   - id: tomas.kolacny
-    position: Radní města Brna a předseda MS Brno
+    position: Místní sdružení
   - id: petr.vlasak
-    position: Učitel, kulturní buditel a předseda MS Slovácko
   - id: lukas.dubec
-    position: 1. náměstek hejtmana JMK a předseda MS Znojemsko
 ---
 
 <div class="o-section-header o-section-header--indented">
