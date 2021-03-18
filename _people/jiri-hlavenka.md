@@ -22,10 +22,20 @@ profiles:
 
 ---
 
-Po absolvování Gymnázia Mikulov vystudoval v letech 1983 až 1988 obor tepelná a jaderná energetika na Strojní fakultě Vysokého učení technického v Brně, kde získal titul Ing. Od roku 1990 soukromě podniká. Spoluzaložil odborné vydavatelství Computer Press, spustil první internetový obchod v zemi Vltava.cz a stál u zrodu řady pionýrských projektů na českém Internetu. 
+Narodil jsem se 26. října ve Valticích. Nyní žiji v obci Braníškov. 
 
-Od roku 2005 se věnuje více investování do technologických inovativních startupů; je investorem a spoluvlastníkem ve více než deseti společnostech. K jeho největším investorským a podnikatelským úspěchům patří spoluzaložení společnosti Kiwi.com, která je dnes globálním hráčem v oblasti letecké přepravy a jednou z nejúspěšnějších domácích společností vůbec. Je aktivním autorem, napsal více než třicet odborných publikací a přes tři tisíce článků.
+Po absolvování Gymnázia Mikulov jsem vystudoval obor tepelná a jaderná energetika na Strojní fakultě Vysokého učení technického v Brně. 
 
-Jiří Hlavenka žije v obci Braníškov v okrese Brno-venkov. Je ženatý a má syna. Ve volném čase ho zajímá hudba (hlavně jazz, rock a etnická hudba) a biologie, sám hraje na akustickou kytaru a na klavír. Věnuje se i sportu, má rád aktivní turistiku. Svou pozornost zaměřuje i na filantropii; podporuje několik desítek veřejně prospěšných aktivit v České republice.
+Od roku 1990 soukromě podnikám. Spoluzaložil jsem odborné vydavatelství Computer Press, spustil první internetový obchod v zemi Vltava.cz a stál u zrodu řady pionýrských projektů na českém Internetu. 
 
-V krajských volbách v roce 2016 byl z pozice nestraníka za SZ lídrem společné kandidátky SZ a Pirátů v Jihomoravském kraji a byl zvolen zastupitelem. V roce 2020 kandidoval opět do krajského zastupitelstva, z druhého místa se stal zastupitele a poté byl zvolen do pozice radního pro vědu, výzkum, inovace a IT. Mimo jiné je členem Vědecké komise Fakulty informatiky Masarykovy univerzity, členem správní rady nadace Hlídač státu či členem nevládní odborné pracovní skupiny Koronerv-20.
+Od roku 2005 se věnuji investování do technologických inovativních startupů: jsem investorem a spoluvlastníkem ve více než deseti společnostech. K největším úspěchům v tomto segmentu patří spoluzaložení společnosti Kiwi.com, která je dnes globálním hráčem v oblasti letecké přepravy a jednou z nejúspěšnějších domácích společností vůbec. Jsem aktivním autorem článků a odborných publikací.
+
+Členem Pirátské strany jsem od podzimu 2020. V krajských volbách v roce 2016 jsem byl z pozice nestraníka za SZ lídrem společné kandidátky SZ a Pirátů v Jihomoravském kraji a byl zvolen zastupitelem. V roce 2020 jsem se z druhého místa stal opět zastupitelem a byl zvolen do pozice radního pro vědu, výzkum, inovace a IT. Jsem členem Vědecké komise Fakulty informatiky Masarykovy univerzity, členem správní rady nadace Hlídač státu a členem nevládní odborné pracovní skupiny Koronerv-20.
+
+Ve volném čase mě zajímá hudba (hlavně jazz, rock a etnická hudba) a biologie. Sám hraji na akustickou kytaru a na klavír. Věnuji se i sportu, především turistice. Jako filantrop podporuji několik desítek veřejně prospěšných aktivit v České republice. Jsem ženatý a mám syna. 
+
+- **Nejoblíbenější místo v Jihomoravském kraji:** Vrchol Děvína na Pálavě.
+
+- **Vize:** Mou vizí je sebevědomý a inovativní region, který bude umět podporovat talenty a propojovat vzdělávací instituce se soukromým sektorem. Usiluji o digitalizovaný úřad 21. století.
+
+- **Priority:** Proměna vzdělávání, spolupráce kraje s univerzitami, moderní IT služby srozumitelné a dostupné veřejnosti
