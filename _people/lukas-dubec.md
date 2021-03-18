@@ -16,18 +16,22 @@ profiles:
 
 ---
 
-Narodil jsem se 22.5.1984 ve městě Most.
+Narodil jsem se 22. května 1984 ve městě Most. Žiju ve Vranovské Vsi, kde jsem se zapojil do komunální politiky.
 
-Přes 10 let jsem bydlel ve Znojmě a toto město mi přirostlo k srdci tak, že mi není jedno, co se v něm děje. V současné době bydlím ve Vranovské Vsi, kde jsem žil před tím od dětství. I zde jsem zapojený do komunální politiky.
+Vystudoval jsem SOŠ Podyjí s.r.o. ve Znojmě, obor Pozemní stavitelství. Po ukončení studia jsem nastoupil do zaměstnání jako projektant a CNC programátor v soukromé firmě zabývající se projekcí, výrobou a montáží interiérů a nábytkového vybavení.
 
-Vystudoval jsem SOŠ Podyjí s.r.o. ve Znojmě v oboru Pozemní stavitelství. Po ukončení studia jsem nastoupil do zaměstnání. V současné době pracuji jako projektant a CNC programátor v soukromé firmě zabývající se projekcí, výrobou a montáží interiérů a nábytkového vybavení.
+Spoluzakládal jsem místní sdružení Znojmo (později přejmenováno na MS Znojemsko), jehož jsem předsedou. Jsem zároveň členem krajského sdružení Pirátů Jihomoravského kraje.
 
-Spoluzakládal jsem místní sdružení (MS) Znojmo (později přejmenováno na MS Znojemsko). Jsem tedy členem krajského sdružení (KS) JmK a konkrétně MS Znojemsko a v současnosti vykonávám funkci předsedy tohoto MS.
+Na podzim roku 2020 jsem byl zvolen do funkce 1. náměstka hejtama Jihomoravského kraje pro životní prostředí, otevřenost a participaci. Jsem také členem Finančního výboru obce Vranovská Ves.
 
-Na podzim roku 2020 jsem byl zvolen do funkce 1. náměstka hejtama Jihomoravského kraje, jsem také členem Finančního výboru obce Vranovská Ves.
+Mezi mé záliby patří dlouhodobě sport (aktivně - fotbal, jugger...) a práce s mládeží, larp (aktivně účastí na různých akcích a organizací larpového festivalu Helmáč), film, kultura, internet, PC, 3D tisk a sledování politického dění ve světě a v ČR. Dále jsem zapojen do různých dobrovolnických aktivit a do spolkového života, např. do činnosti Sdružení hasičů Čech, Moravy a Slezska (v současné době jako velitel jednotky SDH - JPO ve Vranovské Vsi).
 
-Mezi mé záliby patří dlouhodobě sport (aktivně - fotbal, jugger...) a práce s mládeží, larp (aktivně účastí na různých akcích a organizací larpového festivalu Helmáč), film, kultura, internet, PC, 3D tisk a sledování politického dění ve světě a v ČR. Dále jsem zapojen do různých dobrovolnických aktivit a do spolkového života, např. do činnosti Sdružení hasičů Čech, Moravy a Slezska (v současné době jako velitel jednotky SDH - JPO V ve Vranovské Vsi).
+- **Nejoblíbenější místo v Jihomoravském kraji:** přírodní Parky Rokytná a Jevišovka
 
-Veřejný kalendář:
+- **Vize:** Chci zvýšit možnosti, jak se mohou občané podílet na správě kraje. Chci, aby byl kraj vnímán jako důvěryhodný a spolehlivý partner. Chci přispět k ozdravení krajiny v našem regionu.
+
+- **Priority:** boj se suchem, energetické úspory krajských institucí, zapojení nejen odborné veřejnosti do proměny kraje
+
+**Veřejný kalendář:**
 
 <iframe src="https://outlook.office365.com/owa/calendar/6ebe563152df4f50937194e102aa9a57@kr-jihomoravsky.cz/065a6b3408ca44e0bbefed2eff974f3d7370103323878072554/calendar.html" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
