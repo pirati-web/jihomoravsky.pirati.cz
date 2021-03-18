@@ -22,10 +22,22 @@ profiles:
 
 ---
 
-Jana Leitnerová (13. 6. 1987) žila od narození v Újezdě u Rosic, v současnosti žije v Brně. Vystudovala Masarykovu univerzitu, už během studií začala pracovat v marketingu, kterému se do října 2020 věnovala jako konzultantka na volné noze.
-Od roku 2016 je příznivkyní Pirátů a spolupracovala na mnoha kampaních. V lednu 2019 se stala členkou Pirátů a byla zvolena za vedoucí krajského mediálního odboru Jihomoravského kraje. V krajských volbách 2020 byla z třetího místa zvolena do Zastupitelstva Jihomoravského kraje, v listopadu 2020 byla zvolena radní pro sociální a rodinnou politiku Jihomoravského kraje.
+Narodila jsem se 13. června 1987 v Újezdě u Rosic. V současnosti žiji v Brně, kde jsem se zapojila do politiky.
 
-Aktuálně se spíš než koníčkům věnuje svojí malé dceři, ve volném čase peče (sladké i slané), vaří a sleduje pořady o vaření. Ráda také luští křížovky, poslouchá hudbu, čte a sleduje sitcomy. Je milovnicí kávy a moravského vína. Zajímá se o sociální problematiku, životní prostředí, ochranu zvířat a je propagátorkou dobrovolničení jako přirozené součásti života.
+Vystudovala jsem Masarykovu univerzitu, obory Český jazyk a literatura a Pedagogika. Už během studií jsem začala pracovat v marketingu, kterému jsem se do října 2020 věnovala jako konzultantka na volné noze.
 
-Veřejný kalendář:
+Od roku 2016 jsem příznivkyní Pirátů a spolupracovala jsem na mnoha kampaních. V lednu 2019 jsem se stala členkou Pirátů a byla zvolena za vedoucí krajského mediálního odboru Jihomoravského kraje. 
+
+V krajských volbách 2020 jsem byla ze třetího místa zvolena do Zastupitelstva Jihomoravského kraje a zvolena radní pro sociální a rodinnou politik..
+
+Aktuálně se spíš než koníčkům věnuji svojí malé dceři, ve volném čase ráda peču, luštím křížovky, poslouchám hudbu, čtu a sleduji sitcomy. Jsem milovnicí kávy a moravského vína. Zajímám se o sociální problematiku, životní prostředí, ochranu zvířat a jsem propagátorkou dobrovolničení jako přirozené součásti života.
+
+- **Nejoblíbenější místo v Jihomoravském kraji:** Je jich mnoho. Především přírodní parky nebo okolí řek.
+
+- **Vize:** Chci na jižní Moravě přeměnit alespoň třetinu velkokapacitních sociálních zařízení do menší komunitní péče.
+
+- **Priority:** Podpora komunitních a terénních služeb, přehledná pravidla jejich financování, rozšíření sítě rodinných center a bezbariérové úřady.
+
+**Veřejný kalendář:**
+
 <iframe src="https://calendar.google.com/calendar/embed?src=j4nje8p548425p27pkp5n06mrg%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
