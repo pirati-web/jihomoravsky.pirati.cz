@@ -8,7 +8,7 @@
 title: Pirátská strana | JIHOMORAVSKY KRAJ
 description: > # this means to ignore newlines until "baseurl:"
   Česká pirátská strana - Jihomoravský kraj
-keywords: piráti, česká pirátská strana, svoboda, demokracie, jihomoravský kraj, Brno, Brňenský
+keywords: piráti, česká pirátská strana, svoboda, demokracie, jihomoravský kraj, Brno, Slovácko, Znojemsko, Boskovice
 url: "https://jihomoravsky.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
@@ -23,11 +23,11 @@ organization:
   email: vendula.svobodova@pirati.cz
   phone: +420 778 111 453
   address: |
-      Pirate Space Brno
-      Údolní 37 (suterén)
+      Pirátské centrum ŠPiCe
+      Lidická 81 (3. patro)
       60200 Brno
-  residenceImg: miscellaneous/residence.png
-  mapLink: https://www.google.com/maps/place/Denisova+639%2F2,+702+00+Moravsk%C3%A1+Ostrava+a+P%C5%99%C3%ADvoz/@49.8335046,18.2859436,17z/data=!3m1!4b1!4m5!3m4!1s0x4713e330b9662287:0x70f2934230719ddf!8m2!3d49.8335046!4d18.2881323?shorturl=1
+  residenceImg: miscellaneous/spice_residence_brno.jpg
+  mapLink: https://www.google.com/maps/place/Lidick%C3%A1+81,+602+00+Brno-st%C5%99ed/@49.207248,16.6019601,17z/data=!3m1!4b1!4m5!3m4!1s0x47129469d89006e1:0x1f3fd82016dcb4b0!8m2!3d49.207248!4d16.6041488
   redmineLink: https://forum.pirati.cz/viewforum.php?f=735
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
@@ -65,7 +65,7 @@ twitter:
   profile: PiratskaStrana
 
 instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
+  profilePage: https://www.instagram.com/piratijmk/
 
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
