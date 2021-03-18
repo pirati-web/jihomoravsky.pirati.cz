@@ -30,7 +30,7 @@ Mezi mé záliby patří dlouhodobě sport (aktivně - fotbal, jugger...) a prá
 
 - **Vize:** Chci zvýšit možnosti, jak se mohou občané podílet na správě kraje. Chci, aby byl kraj vnímán jako důvěryhodný a spolehlivý partner. Chci přispět k ozdravení krajiny v našem regionu.
 
-- **Priority:** boj se suchem, energetické úspory krajských institucí, zapojení nejen odborné veřejnosti do proměny kraje
+- **Priority:** Citlivá péče o krajinu a udržení vody v ní, ekologizace krajských budov a dostupné a přehledné informace pro občany.
 
 **Veřejný kalendář:**
 
