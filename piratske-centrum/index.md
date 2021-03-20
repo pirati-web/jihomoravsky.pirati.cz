@@ -8,22 +8,22 @@ openingHoursSEO: Mo-Fr 9:00-17:00
 heroHeadline: Zbrusu nové krajské pirátské centrum!
 heroDescription: V Brně jsme otevřeli nové pirátské centrum pod zkratkou ŠPiCe.
 heroImg: header/spice_jmk_2.jpg
-img: header/spice_jmk_2.jpg
+img: header/spice_residence_brno.jpg.jpg
 address: |
   Pirate Space Brno
-  Údolní 37 (suterén)
+  Lidická 81 (3. patro)
   60200 Brno
-addressNote: Vstup do pirátského centra naleznete ...
+addressNote: 
 contactPersons:
   - id: vendula.svobodova
-    description: Správce coworku
+    description: Správce co-worku
 calendarId: aab301nnugmna65grbnt6jv18k@group.calendar.google.com
 calendarTitle: Kalendář akcí
 calendarPage: https://calendar.google.com/calendar/embed?src=aab301nnugmna65grbnt6jv18k%40group.calendar.google.com&ctz=Europe%2FPrague
-mapIframeLink: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d325.89193042543496!2d16.597150391992642!3d49.19799011811367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47129445f6c71b15%3A0xba3b3dcaba3a0c4b!2sPirate%20Space%20Brno!5e0!3m2!1scs!2scz!4v1614288265582!5m2!1scs!2scz
+mapIframeLink: https://www.google.com/maps/place/Lidick%C3%A1+81,+602+00+Brno-st%C5%99ed/@49.207248,16.6019601,17z/data=!3m1!4b1!4m5!3m4!1s0x47129469d89006e1:0x1f3fd82016dcb4b0!8m2!3d49.207248!4d16.6041488
 ---
 
-**U nejstaršího českého městského parku v Lužánkách vzniklo nové pirátské centrum s názvem ŠPiCe. Jde o kontaktní místo, kde se dozvíte všechny informace o pirátském působení nejen v Brně a Jihomoravském kraji. Vítáni jsou všichni příznivci i zájemci o členství. Konají se zde pirátské akce a v neposlední řadě zde najdete pirátské poslance a europoslance (a jejich asistentky).**
+**U nejstaršího českého městského parku v Lužánkách vzniklo nové pirátské centrum s názvem ŠPiCe. Jde o kontaktní místo, kde se dozvíte všechny informace o pirátském působení nejen v Brně a Jihomoravském kraji. Vítáni jsou všichni příznivci i zájemci o členství. Konají se zde pirátské akce a v neposlední řadě zde najdete i pirátské zástupce i zástupkyně z Poslanecké sněmovny a Evropského parlamentu.**
 
 ## Místnosti
 
@@ -40,14 +40,10 @@ Až pominou všechna omezení v souvislosti s koronavirem, plánujeme pořádat
 - setkání či školení členů a příznivců
 - sbírky
 
-
-## Možnosti pronájmu
+## Možnost pronájmu
 
 - Máte námět na vlastní akci? Dejte nám vědět. ŠPiCe je k dispozici po domluvě pro akce nekomerční povahy.
 - Dětský koutek
 - Pro rodiče nabízíme vybavený dětský koutek poblíž pracovního místa. Dětský koutek je vybaven hračkami pro děti všech věkových kategorií.
 - Bez bariér
 - ŠPiCe se nachází ve 3. patře s prostorným výtahem. Před budovou je nájezd pro osoby se sníženou pohyblivostí.
-Šetrně k životnímu prostředí
-
-## Třídíme odpad. Zn. pečlivě.
