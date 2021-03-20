@@ -12,14 +12,14 @@ img: header/spice_jmk_2.jpg
 address: |
   Pirate Space Brno
   Údolní 37 (suterén)
-  60200 Brno 
+  60200 Brno
 addressNote: Vstup do pirátského centra naleznete ...
 contactPersons:
   - id: vendula.svobodova
     description: Správce coworku
-calendarId: 83gt9iadln80efaknuodkg1qh4@group.calendar.google.com
+calendarId: aab301nnugmna65grbnt6jv18k@group.calendar.google.com
 calendarTitle: Kalendář akcí
-calendarPage: https://calendar.google.com/calendar/embed?src=83gt9iadln80efaknuodkg1qh4%40group.calendar.google.com&ctz=Europe%2FPrague
+calendarPage: https://calendar.google.com/calendar/embed?src=aab301nnugmna65grbnt6jv18k%40group.calendar.google.com&ctz=Europe%2FPrague
 mapIframeLink: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d325.89193042543496!2d16.597150391992642!3d49.19799011811367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47129445f6c71b15%3A0xba3b3dcaba3a0c4b!2sPirate%20Space%20Brno!5e0!3m2!1scs!2scz!4v1614288265582!5m2!1scs!2scz
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Místní sdružení Znojemsko
-rbar: 
+rbar:
   - board
   - pageContacts
   - tagArticles
@@ -9,20 +9,23 @@ redirect_from:
   - /msznojemsko/
   - /znojemsko/
   - /regiony/znojemsko.html
+tags:
+  - znojemsko
+  - Znojemsko
 boardName: Předsednictvo
 #boardTurn:
 #    electionUrl: https://github.com/pirati-web/stredocesky.pirati.cz/edit/master/kladno/index.md
-#    endDate: 01.02.2021 
+#    endDate: 01.02.2021
 board:
    - position: Předseda
-     uid: lukas.dubec 
+     uid: lukas.dubec
    - position: 1. místopředsedkyně
      uid: vitezslava.rosecka
    - position: 2. místopředseda
      uid: simon.foucek
 contactPersons:
    - position: Předseda
-     uid: lukas.dubec 
+     uid: lukas.dubec
 profiles:
    facebook: "https://www.facebook.com/CPS.JMK/"
    forum: "https://forum.pirati.cz/viewforum.php?f=900"
@@ -30,11 +33,7 @@ profiles:
 
 ---
 
-{% capture md %} 
-{% endcapture %}
-{{ md | markdownify }}
-Místní sdružení ve Znojmě pod vlajkou České Pirátské Strany vzniklo 10.1.2013 v podvečerních hodinách.<br><br>
-Jsme zatím jako jediné MS v bývalém znojemském okrese. A i když jsme si tímto tedy vzali na bedra tak veliké území, jsme rádi, že tím tak můžeme pomoci České Pirátské Straně a jejím zájmům. Nebojte se nás kontaktovat s jakýmkoliv dotazem, rádi pomůžeme pokud budeme moci.
+Místní sdružení Znojemsko bylo založeno 5. ledna 2013 a je tak nejstarším místním sdružením v Jihomoravském kraji. V současnosti má sedm členů a deset registrovaných příznivců.
 
 <hr>
 <img src="https://sucho.pirati.cz/assets/img/znojemsko.png" width="1000">
@@ -44,4 +43,4 @@ Jsme zatím jako jediné MS v bývalém znojemském okrese. A i když jsme si t�
 <img src="https://sucho.pirati.cz/assets/img/znojemsko2.png" width="1000">
 <hr>
 <center><img src="https://sucho.pirati.cz/assets/img/znojemsko3.png" width="250"></center>
-<hr>
+
