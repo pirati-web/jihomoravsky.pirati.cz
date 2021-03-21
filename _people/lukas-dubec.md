@@ -16,6 +16,8 @@ profiles:
 
 ---
 
+Narodil jsem se 22. května 1984 ve městě Most. Žiji ve Vranovské Vsi, kde jsem se zapojil do komunální politiky.
+
 Vystudoval jsem SOŠ Podyjí s.r.o. ve Znojmě, obor Pozemní stavitelství. Po ukončení studia jsem nastoupil do zaměstnání několika zaměstnání. Poslední z nich bylo jako projektant a CNC programátor v soukromé firmě zabývající se projekcí, výrobou a montáží interiérů a nábytkového vybavení.
 
 V roce 2013 jsem spoluzakládal pirátské místní sdružení Znojmo (později přejmenováno na MS Znojemsko), jehož jsem předsedou. Jsem zároveň členem krajského sdružení Pirátů Jihomoravského kraje.
