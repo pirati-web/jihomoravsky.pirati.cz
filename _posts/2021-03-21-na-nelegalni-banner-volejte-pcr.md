@@ -1,10 +1,10 @@
 ---
-#název souboru: 2021-03-22-na-nelegalni-banner-volejte-pcr.md
+#název souboru: 2021-03-21-na-nelegalni-banner-volejte-pcr.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: "Máte na plotě nelegální banner? Hlavně jej nesundavejte"
-date: 2021-03-22 # formát YYYY-MM-DD
+date: 2021-03-21 # formát YYYY-MM-DD
 author: Krajský MO
 tags: slovácko břeclav černý-výlep magda-lengálová # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
