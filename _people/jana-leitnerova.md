@@ -28,15 +28,15 @@ Vystudovala jsem Masarykovu univerzitu, obory Český jazyk a literatura a Pedag
 
 Od roku 2016 jsem příznivkyní Pirátů a spolupracovala jsem na mnoha kampaních. V lednu 2019 jsem se stala členkou Pirátů a byla zvolena za vedoucí krajského mediálního odboru Jihomoravského kraje. 
 
-V krajských volbách 2020 jsem byla ze třetího místa zvolena do Zastupitelstva Jihomoravského kraje a zvolena radní pro sociální a rodinnou politik..
+V krajských volbách 2020 jsem byla ze třetího místa zvolena do Zastupitelstva Jihomoravského kraje a zvolena radní pro sociální a rodinnou politiku.
 
 Aktuálně se spíš než koníčkům věnuji svojí malé dceři, ve volném čase ráda peču, luštím křížovky, poslouchám hudbu, čtu a sleduji sitcomy. Jsem milovnicí kávy a moravského vína. Zajímám se o sociální problematiku, životní prostředí, ochranu zvířat a jsem propagátorkou dobrovolničení jako přirozené součásti života.
 
-- **Nejoblíbenější místo v Jihomoravském kraji:** Je jich mnoho. Především přírodní parky nebo okolí řek.
+- **Nejoblíbenější místo v Jihomoravském kraji:** Těch je spousta. Špilas a přilehlý park, lesy kolem Újezdu u Rosic, Strážnice a okolí.
 
-- **Vize:** Chci na jižní Moravě přeměnit alespoň třetinu velkokapacitních sociálních zařízení do menší komunitní péče.
+- **Vize:** Chci v příštích deseti letech na jižní Moravě přeměnit alespoň polovinu velkokapacitních pobytových zařízení sociálních služeb na zařízení komunitního typu.
 
-- **Priority:** Podpora komunitních a terénních služeb, přehledná pravidla jejich financování, rozšíření sítě rodinných center a bezbariérové úřady.
+- **Priority:** Podpora terénních služeb, přehledná a férová pravidla financování sociálních služeb, bezbariérový kraj.
 
 **Veřejný kalendář:**
 
