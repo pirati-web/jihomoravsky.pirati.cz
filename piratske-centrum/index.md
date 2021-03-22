@@ -17,6 +17,7 @@ addressNote:
 contactPersons:
   - id: vendula.svobodova
     description: Správce co-worku
+residenceImg: miscellaneous/spice_residence_brno.jpg
 calendarId: aab301nnugmna65grbnt6jv18k@group.calendar.google.com
 calendarTitle: Kalendář akcí
 calendarPage: https://calendar.google.com/calendar/embed?src=aab301nnugmna65grbnt6jv18k%40group.calendar.google.com&ctz=Europe%2FPrague
