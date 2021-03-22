@@ -7,8 +7,8 @@ shorthand: ŠPiCe
 openingHoursSEO: Mo-Fr 9:00-17:00
 heroHeadline: Zbrusu nové krajské pirátské centrum!
 heroDescription: V Brně jsme otevřeli nové pirátské centrum pod zkratkou ŠPiCe.
-heroImg: header/spice_jmk_2.jpg
-img: header/spice_residence_brno.jpg.jpg
+heroImg: header/spice_jmk_1.jpg
+img: header/spice_residence_brno.jpg
 address: |
   Pirate Space Brno
   Lidická 81 (3. patro)
