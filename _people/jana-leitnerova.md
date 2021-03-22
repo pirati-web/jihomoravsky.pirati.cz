@@ -38,6 +38,6 @@ Aktuálně se spíš než koníčkům věnuji svojí malé dceři, ve volném č
 
 - **Priority:** Podpora terénních služeb, přehledná a férová pravidla financování sociálních služeb, bezbariérový kraj.
 
-**Veřejný kalendář:**
+## Veřejný kalendář
 
 <iframe src="https://calendar.google.com/calendar/embed?src=j4nje8p548425p27pkp5n06mrg%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
