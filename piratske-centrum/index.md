@@ -44,7 +44,11 @@ Až pominou všechna omezení v souvislosti s koronavirem, plánujeme pořádat
 ## Možnost pronájmu
 
 - Máte námět na vlastní akci? Dejte nám vědět. ŠPiCe je k dispozici po domluvě pro akce nekomerční povahy.
-- Dětský koutek
+
+## Dětský koutek
+
 - Pro rodiče nabízíme vybavený dětský koutek poblíž pracovního místa. Dětský koutek je vybaven hračkami pro děti všech věkových kategorií.
-- Bez bariér
-- ŠPiCe se nachází ve 3. patře s prostorným výtahem. Před budovou je nájezd pro osoby se sníženou pohyblivostí.
+
+## Bez bariér
+
+- ŠPiCe se nachází ve 3. patře, do kterého však vede i prostorný výtah. Před budovou je nájezd pro osoby se sníženou pohyblivostí.
