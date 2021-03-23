@@ -29,6 +29,6 @@ Třetím bodem je schválení střednědobé části Strategie #brno2050 – Pl�
 
 Na závěr zmíníme bod, který se týká schválení dotací na podporu ekologické výchovy v Brně. Zastupitelstvo dnes schválilo dotaci ve výši téměř dvou milionů korun, které půjdou do škol, svazů nebo spolků, které se zaměřují na ekologii. Využijí se třeba na ekologické vzdělávání, dešťové poradenství a osvětu o ochraně přírody. 
 
-*„Ekologická osvěta je jednou z oblastí, ve které máme dlouhodobě mezery. Jsem proto velmi rád, že město Brno tyto dotace schválilo. Peníze využijí jak základní školy, tak různé spolky a kluby. Děti i dospělí se díky finanční podpoře naučí třeba to, jak zacházet s dešťovou vodou, jak produkovat méně odpadu a celkově více o ekologii a udržitelnosti,”* říká náš zastupitel [Lukáš Mamula](https://jihomoravsky.pirati.cz/lide/lukas-mamula/}{:target="_blank"}. 
+*„Ekologická osvěta je jednou z oblastí, ve které máme dlouhodobě mezery. Jsem proto velmi rád, že město Brno tyto dotace schválilo. Peníze využijí jak základní školy, tak různé spolky a kluby. Děti i dospělí se díky finanční podpoře naučí třeba to, jak zacházet s dešťovou vodou, jak produkovat méně odpadu a celkově více o ekologii a udržitelnosti,”* říká náš zastupitel [Lukáš Mamula](https://jihomoravsky.pirati.cz/lide/lukas-mamula/){:target="_blank"}. 
 
 
