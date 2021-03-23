@@ -32,6 +32,9 @@ profiles:
    mail: vendula.svobodova@pirati.cz
 
 ---
+<hr>
+<img src="https://sucho.pirati.cz/assets/img/znojemsko.png" width="1000">
+
 **Vznik**
 
 Místní sdružení ve Znojmě pod vlajkou České Pirátské Strany vzniklo 10.1.2013 v podvečerních hodinách. Jsme zatím jediné MS v bývalém znojemském okrese.
@@ -48,8 +51,6 @@ Jako první se do zastupitelstva dostal Pavel Nevrkla a to konkrétně do Zastup
 
 Znojemsko je region plný historie a unikátní přírody. S Piráty chceme plně naplnit jeho potenciál a starat se o něj s péčí, která mu náleží. Chceme, aby měl region lepší napojení na “svět okolo” a aby radnice ve Znojmě a okolí začaly být transparentní a otevřené vůči občanům.
 
-<hr>
-<img src="https://sucho.pirati.cz/assets/img/znojemsko.png" width="1000">
 <hr>
 <img src="https://sucho.pirati.cz/assets/img/znojemsko1.png" width="1000">
 <hr>
