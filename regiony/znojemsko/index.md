@@ -33,7 +33,7 @@ profiles:
 
 ---
 <hr>
-<img src="https://sucho.pirati.cz/assets/img/znojemsko.png" width="1000">
+<img src="https://sucho.pirati.cz/assets/img/znojemsko.png" width="900">
 
 **Vznik**
 
