@@ -50,11 +50,3 @@ Jako první se do zastupitelstva dostal Pavel Nevrkla a to konkrétně do Zastup
 **Vize**
 
 Znojemsko je region plný historie a unikátní přírody. S Piráty chceme plně naplnit jeho potenciál a starat se o něj s péčí, která mu náleží. Chceme, aby měl region lepší napojení na “svět okolo” a aby radnice ve Znojmě a okolí začaly být transparentní a otevřené vůči občanům.
-
-<hr>
-<img src="https://sucho.pirati.cz/assets/img/znojemsko1.png" width="1000">
-<hr>
-<img src="https://sucho.pirati.cz/assets/img/znojemsko2.png" width="1000">
-<hr>
-<center><img src="https://sucho.pirati.cz/assets/img/znojemsko3.png" width="250"></center>
-
