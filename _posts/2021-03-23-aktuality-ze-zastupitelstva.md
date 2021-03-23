@@ -13,7 +13,7 @@ image: posts/zastupko.jpg # obrázek ideálně 420x677px minifikovaný přes htt
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
-**Dnes se konalo pravidelné zasedání Zastupitelstva města Brna. Naši zastupitelé měli na programu více než 100 bodů, které dnes projednávali. Přinášíme vám shrnutí těch nejzajímavějších bodů, které  dnes projednali a schválili.**  
+**Dnes se konalo pravidelné zasedání Zastupitelstva města Brna. Zastupitelé měli na programu více než 100 bodů k projednání. Přinášíme vám shrnutí těch nejzajímavějších bodů, které které byly projednány a schváleny.**  
 
 Prvním schváleným bodem je vytvoření Fondu developerských projektů a stanovení zásad pro spolupráci s investory. V Brně se snažíme o trvale udržitelný rozvoj celého území a ochranu veřejných zájmů. Aby byly snahy lépe realizovatelné a jednotlivé části města se lépe koordinovaly, byly schváleny tyto nové nástroje. Zásady pro spolupráci s investory umožní jednotlivým částem města transparentnější jednání a sjednocení podmínek při developerských projektech. Fond developerských projektů pak pomůže k většímu souladu mezi městskými částmi a městem.
 
@@ -27,7 +27,7 @@ Třetím bodem je schválení střednědobé části Strategie #brno2050 – Pl�
 
 *„Cílem Strategie #brno2050 je umožnit městu dlouhodobý systematický rozvoj s jasnou vizí. Jsem proto rád, že zastupitelstvo schválilo její střednědobou část  – Plán rozvoje města do roku 2030. Na jeho tvorbě se aktivně podíleli nejen odborníci, ale i politici města napříč politickým spektrem, což významně zvyšuje stabilitu samotné Strategie a udržení vytyčeného směru do budoucna,“* uvedl náměstek pro oblast strategie a analýzy dat [Tomáš Koláčný](https://jihomoravsky.pirati.cz/lide/tomas-kolacny/){:target="_blank"}.
 
-Na závěr zmíníme bod, který se týká schválení dotací na podporu ekologické výchovy v Brně. Zastupitelstvo dnes schválilo dotaci ve výši téměř dvou milionů korun, které půjdou do škol, svazů nebo spolků, které se zaměřují na ekologii. Využijí se třeba na ekologické vzdělávání, dešťové poradenství a osvětu o ochraně přírody. 
+Na závěr zmíníme bod, který se týká schválení dotací na podporu ekologické výchovy v Brně. Zastupitelstvo dnes schválilo dotaci ve výši téměř dvou milionů korun, které půjdou do škol, svazů nebo spolků, které se zaměřují na ekologii. Využijí se třeba na ekologické vzdělávání, dešťové poradenství a osvětu v oblasti ochrany přírody. 
 
 *„Ekologická osvěta je jednou z oblastí, ve které máme dlouhodobě mezery. Jsem proto velmi rád, že město Brno tyto dotace schválilo. Peníze využijí jak základní školy, tak různé spolky a kluby. Děti i dospělí se díky finanční podpoře naučí třeba to, jak zacházet s dešťovou vodou, jak produkovat méně odpadu a celkově více o ekologii a udržitelnosti,”* říká náš zastupitel [Lukáš Mamula](https://jihomoravsky.pirati.cz/lide/lukas-mamula/){:target="_blank"}. 
 
