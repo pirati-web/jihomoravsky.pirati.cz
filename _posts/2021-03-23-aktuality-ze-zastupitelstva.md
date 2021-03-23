@@ -13,7 +13,7 @@ image: posts/zastupko.jpg # obrázek ideálně 420x677px minifikovaný přes htt
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
-**Dnes se konalo pravidelné zasedání zastupitelstva města Brna. Naši zastupitelé měli na programu více než 100 bodů, které dnes projednávali. Přinášíme vám shrnutí těch nejzajímavějších bodů, které  dnes projednali a schválili.**  
+**Dnes se konalo pravidelné zasedání Zastupitelstva města Brna. Naši zastupitelé měli na programu více než 100 bodů, které dnes projednávali. Přinášíme vám shrnutí těch nejzajímavějších bodů, které  dnes projednali a schválili.**  
 
 Prvním schváleným bodem je vytvoření Fondu developerských projektů a stanovení zásad pro spolupráci s investory. V Brně se snažíme o trvale udržitelný rozvoj celého území a ochranu veřejných zájmů. Aby byly snahy lépe realizovatelné a jednotlivé části města se lépe koordinovaly, byly schváleny tyto nové nástroje. Zásady pro spolupráci s investory umožní jednotlivým částem města transparentnější jednání a sjednocení podmínek při developerských projektech. Fond developerských projektů pak pomůže k většímu souladu mezi městskými částmi a městem.
 
