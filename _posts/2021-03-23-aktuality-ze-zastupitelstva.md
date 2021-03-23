@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Aktuality ze zastupitelstva Magistrátu města Brna
+title: Aktuality ze zastupitelstva města Brna
 date: 2021-03-23   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Brno magistrát zastupitelstvo Tomáš-Koláčný Róbert-Čuma Alena-Pavlasová Lukáš-Mamula # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
@@ -13,7 +13,7 @@ image: posts/zastupko.jpg # obrázek ideálně 420x677px minifikovaný přes htt
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
-**Dnes se konalo pravidelné zasedání zastupitelstva Magistrátu města Brna. Naši zastupitelé měli na programu více než 100 bodů, které dnes projednávali. Přinášíme vám shrnutí těch nejzajímavějších bodů, které  dnes projednali a schválili.**  
+**Dnes se konalo pravidelné zasedání zastupitelstva města Brna. Naši zastupitelé měli na programu více než 100 bodů, které dnes projednávali. Přinášíme vám shrnutí těch nejzajímavějších bodů, které  dnes projednali a schválili.**  
 
 Prvním schváleným bodem je vytvoření Fondu developerských projektů a stanovení zásad pro spolupráci s investory. V Brně se snažíme o trvale udržitelný rozvoj celého území a ochranu veřejných zájmů. Aby byly snahy lépe realizovatelné a jednotlivé části města se lépe koordinovaly, byly schváleny tyto nové nástroje. Zásady pro spolupráci s investory umožní jednotlivým částem města transparentnější jednání a sjednocení podmínek při developerských projektech. Fond developerských projektů pak pomůže k většímu souladu mezi městskými částmi a městem.
 
