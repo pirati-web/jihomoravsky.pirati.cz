@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: "Znojemští piráti se zasadili o návrat navyužívaného areálu do vlastnictví města"
+title: "Znojemští Piráti se zasadili o návrat navyužívaného areálu do vlastnictví města"
 date: 2021-03-22 # formát YYYY-MM-DD
 author: Krajský MO
 tags: znojemsko znojmo veřejný-prostor jatka pavel-nevrkla # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
