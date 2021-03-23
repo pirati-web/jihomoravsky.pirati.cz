@@ -3,10 +3,10 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Aktuality ze zastupitelstva města Brna
+title: Aktuality ze Zastupitelstva města Brna
 date: 2021-03-23   # formát YYYY-MM-DD
 author: Krajský MO
-tags: Brno magistrát zastupitelstvo Tomáš-Koláčný Róbert-Čuma Alena-Pavlasová Lukáš-Mamula # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: Brno magistrát Zastupitelstvo Tomáš-Koláčný Róbert-Čuma Alena-Pavlasová Lukáš-Mamula # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 image: posts/zastupko.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
