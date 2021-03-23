@@ -41,7 +41,7 @@ Místní sdružení ve Znojmě pod vlajkou České Pirátské Strany vzniklo 10.
 
 ## Členové
 <p>
-V současnosti máme 7 členů a 10 registrovaných příznivců. Chcete se k nim připojit i vy? <ins>[Naloďte se k nám](https://nalodeni.pirati.cz/){:target="_blank"}</ins>!
+V současnosti máme 7 členů a 10 registrovaných příznivců. Chcete se k nim připojit i vy? [Naloďte se k nám](https://nalodeni.pirati.cz/){:target="_blank"}!
 
 ## Úspěchy
 <p>
