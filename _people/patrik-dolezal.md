@@ -4,7 +4,7 @@ name:     Patrik Doležal  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zmcstred
 ordzmcstred: 4
-img: people/patrik_dolezal_ctevrec_web.jpg   # 165 x 220
+img: people/patrik-dolezal.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: Nezávislý kandidát, aktivní občan a právník          	# kratký popis, max 160 znaků
 mail:
