@@ -4,7 +4,7 @@ name:     Patrik Doležal  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zmcstred
 ordzmcstred: 4
-img: people/patrik-dolezal.jpg   # 165 x 220
+img: people/patrik_dolezal_ctevrec_web.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: Nezávislý kandidát, aktivní občan a právník          	# kratký popis, max 160 znaků
 mail:
@@ -27,21 +27,27 @@ notsupporting:
 
 ---
 
-Patrik Doležal se narodil ve znamení Vodnáře roku 1972 v Brně. Vystudoval dějiny umění na Filozofické fakultě a právo na Právnické fakultě Masarykovy univerzity.
+Narodil jsem se v roce 1972 v Brně, kde dosud žiji. 
 
-Věnoval se malbě obrazů, umělecké fotografii (dvě samostatné výstavy), divadlu a modernímu baletu v TD Mimi Fortunae. Byl moderátorem studentského Rádia R.
+Vystudoval jsem dějiny umění na Filozofické fakultě a právo na Právnické fakultě Masarykovy univerzity. Při studiu se věnoval malbě obrazů, umělecké fotografii (dvě samostatné výstavy), divadlu a modernímu baletu v TD Mimi Fortunae. Byl jsem moderátorem studentského Rádia R.
 
-Většinu profesního života se pohyboval v IT oboru. Později byl stážistou u senátora Libora Michálka a dnes pracuje v advokátní kanceláři. Je členem bezpečnostní komise RmB.
+Většinu profesního života jsem se pohyboval v IT oboru. Později jsem byl stážistou u senátora Libora Michálka a dnes jsem zastupitelem MČ Brno-střed a komisařem ve Svazu měst a obcí.
 
-Patrik si vzal dvakrát stejnou ženu, poprvé na lodi a o pár let později v kostele. Mají spolu čtyři děti.
+S politikou jsem se poprvé potkal jako člen Sociálního výboru Rady města Brna, v letech 2006 a 2007. V létě 2009 jsem vstoupil do právě vznikající České pirátské strany. V posledních letech se věnuji konkrétním projektům ke zlepšení společenského a politického prostředí. 
 
-Aktivně se účastnil akcí občanských iniciativ už před pádem totality, dlouhou dobu se ale nestal členem žádné organizace. S politikou se poprvé potkal jako člen Sociálního výboru Rady města Brna, v letech 2006 a 2007. V létě 2009 vstoupil do právě vznikající České pirátské strany a za čtyři roky vystoupil. V roce 2013 spoluzaložil tři občanská sdružení zaměřená na omezení exekučního tlaku a pomáhající obětem exekucí. V posledních letech se věnuje konkrétním projektům ke zlepšení společenského a politického prostředí.
+Jsem ženatý a mám čtyři děti.
 
-**Projekty:**
+## Projekty
 
 - Festival alternativní kultury
 - Den přímé demokracie
 - Participativní rozpočet města Brna
 - Občanská deska
-- [Návrh zákona o celostátním referendu](http://www.funkcnireferendum.cz){:target="_blank"}
+- Návrh zákona o celostátním referendu
 - Strategie pro zeleň
+- Ostrov svěžesti
+
+## Vize
+ 
+- Věřím v samostatnost a participaci.
+
