@@ -9,10 +9,10 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - mmb
 ordzmckrpole: 3
 ordmmb: 3
-img: people/marek-fiser.jpg   # 165 x 220
-img2: people/marek-fiser2.jpg
+img: people/marek_fiser_ctverec_web.jpg   # 165 x 220
+img2: people/marek_fiser_ctverec_web.jpg
 heroImg: header/palava_krajina.jpg
-description: Manažer, polyglot a zahrádkář 	# kratký popis, max 160 znaků
+description: Radní města Brna, manažer, polyglot a zahrádkář 	# kratký popis, max 160 znaků
 
 profiles:
   wiki: https://wiki.pirati.cz/lide/marek_fiser
@@ -20,17 +20,36 @@ profiles:
 
 ---
 
-Marek Fišer (* 22. listopadu 1982) je příznivcem Pirátů od roku 2012. Od listopadu 2018 je členem Rady města Brna pro oblast kultury. Na jaře 2019 se stal členem Pirátské strany.
+Narodil jsem se 22. listopadu 1982 v Brně. Po studiu v Praze a angažmá ve státní správě jsem se vrátil a v Brně nyní nadále žiji.
 
-Vystudoval bakalářské studium nizozemštiny na Filozofické fakultě Masarykovy univerzity a Management cestovního ruchu na Univerzitě Jana Amose Komenského v Praze. Mluví plynně anglicky, nizozemsky a portugalsky. Dorozumí se několika dalšími světovými jazyky (německy, španělsky, polsky).
+Vystudoval jsem bakalářské studium nizozemštiny na Filozofické fakultě Masarykovy univerzity a Management cestovního ruchu na Univerzitě Jana Amose Komenského v Praze. Mluvím plynně anglicky, nizozemsky a portugalsky. 
 
-V minulosti působil ve státní správě. Pracoval na ekonomickém oddělení nizozemské ambasády v Praze (2009-2014), kde měl na starosti mezinárodní obchod a veřejnou diplomacii. Předtím pracoval na Úřadu vlády ČR na odboru logistiky a organizace českého předsednictví (2008-2009), kde měl na starosti agendu akreditace účastníků.
+Působil jsem jako sportovní redaktor Brněnského deníku Rovnost (2001-2008), šéfredaktor webu 1.FC Brno (2008) a asistent zahraničního korespondenta nizozemského deníku NRC Handelsblad Stéphana Alonsa (2006-2010). Během působení v Praze jsem pracoval na Úřadu vlády ČR, odbor logistiky a organizace českého předsednictví EU (2008-2009), posléze na ekonomickém oddělení nizozemské ambasády v Praze (2009-2014).
 
-Před odchodem do Prahy se věnoval práci v médiích. Byl sportovním redaktorem Brněnského deníku Rovnost (2001-2008), šéfredaktorem webu 1.FC Brno (2008) a asistentem zahraničního korespondenta nizozemského deníku NRC Handelsblad Stéphana Alonsa (2006-2010).
+Příznivcem Pirátů jsem od roku 2012. Na jaře 2019 jsem se stal členem Pirátské strany.
 
-Angažuje se v komunitních aktivitách a projektech. V roce 2015 hlavním organizátorem dobrovolných brigád vedoucích k částečnému zprovoznění chátrajícího Fotbalového stadionu za Lužánkami a spoluorganizátorem rozlučky Petra Švancary s fotbalovou kariérou.
+V současnosti jsem předsedou komise pro Cestovní ruch, marketing a meziregionální vztahy Jihomoravského kraje a radní města Brna pro oblast kultury
 
-Marek Fišer pochází z Brna. Po městě se dopravuje převážně na kole, a to za každého počasí. Mezi jeho zájmy patří cestování, studium jazyků, sport a kultura.
+Angažuji se v komunitních aktivitách a projektech. Po městě se dopravuji převážně na kole, a to za každého počasí. Mezi mé zájmy patří cestování, studium jazyků, sport a kultura.
 
-Veřejný kalendář:
+**Úspěchy:**
+
+- transparentní dotace a dialog s kulturními aktéry: dotace.brno.cz, Brněnský kulturní parlament,...
+- zpřístupňování dat: socharske.brno.cz
+- zjednodušení povolení pro kulturní akce: plugandplay.brno.cz
+
+**Nejoblíbenější místo v Brně:**
+
+- Fotbalový stadion za Lužánkami. Během covidu zde trénuji každý den.
+
+**Vize:**
+
+- Kde je vůle,  je i cesta.
+
+**Priority:**
+
+- Transparentní a spravedlivé rozdělování veřejných dotací, rozvoj mezinarodní spolupráce, integrace cizinců, udržitelná a bezbarierová doprava, Janáčkovo kulturní centrum.
+
+## Veřejný kalendář:
+
 <iframe src="https://calendar.google.com/calendar/embed?src=jlk2n00jf2rur4fen56p5ihfa0%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
