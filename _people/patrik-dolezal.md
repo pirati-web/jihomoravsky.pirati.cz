@@ -43,7 +43,7 @@ Jsem ženatý a mám čtyři děti.
 - Den přímé demokracie
 - Participativní rozpočet města Brna
 - Občanská deska
-- Návrh zákona o celostátním referendu
+- [Návrh zákona o celostátním referendu](http://www.funkcnireferendum.cz/){:target="_blank"}
 - Strategie pro zeleň
 - Ostrov svěžesti
 
