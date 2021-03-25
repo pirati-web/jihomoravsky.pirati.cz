@@ -15,7 +15,7 @@ image: posts/recyklace_dubnany_odpad.jpg # obrázek ideálně 420x677px minifiko
 
 ---
 
-Dubňany se potýkají s přerušením svozu separovaných odpadů a uzavření sběrného dvora až do odvolání. Důvodem je nakažení zaměstnanců Covidem a karenténní opatření. Zastupitelé za Pirátskou stranu nabídli vedení města řešení, které zajistil zastupitel [Michal Švagerka](https://jihomoravsky.pirati.cz/lide/michal-svagerka/).
+Dubňany se potýkají s přerušením svozu separovaných odpadů a uzavření sběrného dvora až do odvolání. Důvodem je [nakažení velkého množství zaměstnanců Covidem](https://www.dubnany.eu/mesto/aktuality/docastne-preruseni-svozu-separovanych-odpadu-a-uzavreni-sberneho-dvora-774cs.html?fbclid=IwAR2sFELDe8Rxj-EgMsIwrDFwp0nTVctXO1Ttl4c-42jtOTaI0iQKBfMz8wU){:target="_blank"}. Zastupitelé za Pirátskou stranu nabídli vedení města řešení, které zajistil zastupitel [Michal Švagerka](https://jihomoravsky.pirati.cz/lide/michal-svagerka/).
 
 Níže připojujeme otevřený dopis Pirátů zaslaný starostovi Františku Třískovi.
 
