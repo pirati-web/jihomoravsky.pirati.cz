@@ -9,7 +9,7 @@ author: Krajský MO
 tags: boskovice piráti koalice radek-šamšula kristýna-znamenáčková jan-nádvorník # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-authorId: j # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
+authorId: # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: posts/boskovice_radnice.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
