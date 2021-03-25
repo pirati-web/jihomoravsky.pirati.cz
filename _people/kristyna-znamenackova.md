@@ -33,8 +33,10 @@ notsupporting:
 reason: Popudily mě výsledky několika posledních voleb a uvědomila jsem si, že sedět se založenýma rukama v klíně (na klávesnici) a naříkat je přesně to, co nechci dělat. Pirátská strana pro mě představuje mladou perspektivní stranu bez temné minulosti, která staví na principech uplatnitelných nejen na celostátní, ale i komunální úrovni.  
 ---
 
-Mgr.MgA Kristýna Znamenáčková (roz. Sedláková * 1988) je členkou Pirátské strany od roku 2018 a  pochází z Boskovic, kde od dětství žije. Na jaře 2018 iniciovala vznik místní pirátské kandidátky pro komunální volby.
+Narodila jsem se v roce 1988 v Boskovicích, kde dosud žiji. 
 
-Vystudovala boskovické gymnázium, španělštinu na Masarykově univerzitě a hru na klavír na AMU v Praze a JAMU v Brně. Pracuje jako učitelka hudby na brněnské konzervatoři.
+Vystudovala jsem boskovické gymnázium, španělštinu na Masarykově univerzitě a hru na klavír na AMU v Praze a JAMU v Brně. Pracuji jako učitelka hudby na brněnské konzervatoři.
+
+Na jaře 2018 jsem se stala členkou Pirátské strany a iniciovala vznik místní pirátské kandidátky pro komunální volby. Od téhož roku jsem zároveň pirátskou zastupitelkou v boskovickém Zastupitelstvu.
 
 Ve volném čase se věnuje pěší turistice, horolezectví, šifrovacím hrám, organizaci kulturního života v Boskovicích a okolí, dvěma kočkám, veganské kuchyni a hře na theremin.
