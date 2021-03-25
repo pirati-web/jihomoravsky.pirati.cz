@@ -15,7 +15,7 @@ image: posts/cyklo.jpg # obrázek ideálně 420x677px minifikovaný přes https:
 ---
 **Opět se ukázalo, že skvělý projekt a hlas veřejnosti mají ve městě svou váhu. Díky participativnímu rozpočtu Dáme na vás se prosadily projekty cyklostezky Letenská lávka-Přístavní, Bystrc a cyklostezky Slatina-Líšeň.**
 
-10. března vybrala Rada města Brna zhotovitele a schválila smlouvy o vypracování projektové dokumentace cyklostezek. První z uvedených vychází z projektu Pohodlný cyklopříjezd k přehradě.
+Rada města Brna vybrala zhotovitele a schválila smlouvy o vypracování projektové dokumentace cyklostezek. První z uvedených vychází z projektu Pohodlný cyklopříjezd k přehradě.
 
 *„Počátek trasy je plánován u Letenské lávky, poté podél pravého břehu Svratky. Stezka bude dále pokračovat podjezdem pod silničním a tramvajovým mostem až k fotbalovému hřišti, před kterým odbočí podél tramvajové trati k ulici Přístavní. Tam trasa skončí,“* uvedl náš pirát a náměstek primátorky [Tomáš Koláčný](https://jihomoravsky.pirati.cz/lide/tomas-kolacny/){:target="_blank"}.
 
@@ -30,7 +30,7 @@ Participativní rozpočet Dáme na vás právě v březnu spustil kampaň k roč
 Tak co myslíte? Jaké další projekty by zlepšily budoucnost města? Navštivte webovou stránku [damenavas.brno.cz](https://damenavas.brno.cz){:target="_blank"} a navrhnite vlastní projekt!
 
 
-[damenavas.brno.cz](https://damenavas.brno.cz){:target="_blank"}.
+
 
 
 
