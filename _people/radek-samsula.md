@@ -31,12 +31,12 @@ motto: Myslím si, že kdo málo mluví, tím víc umí naslouchat.
 
 ---
 
-Bc. Radek Šamšula (\* 1988) pochází z Boskovic, kde od roku 2018 působí jako zastupitel.
+Narodil jsem se v roce 1988 v Boskovicích, kde od roku 2018 působím jako zastupitel.
 
-Vystudoval boskovické gymnázium a poté obor Informační technologie na VUT v Brně, kde získal titul Bc.
+Vystudoval jsem boskovické gymnázium a poté obor Informační technologie na VUT v Brně, kde jsem získal titul Bc.
 
-Dlouhodbě se věnuje volnočasovým aktivitám mládeže. Od svých devíti let (resp. od patnácti jako vedoucí) působí v místním spolku Vatra Boskovice. Živí se tvorbou a správou webů a iformačních systémů.
+Dlouhodbě se věnuji volnočasovým aktivitám mládeže. Od svých devíti let (resp. od patnácti jako vedoucí) působím v místním spolku Vatra Boskovice. Živím se tvorbou a správou webů a informačních systémů.
 
-Vadí mu netransparentní zadávání veřejných zakázek, chabá podpora volnočasových aktivit pro mládež, která v Boskovicích hledá vyžití, nebo nedostatečný zájem o kulturu a fungování kulturních zařízení.
+Vadí mi netransparentní zadávání veřejných zakázek, chabá podpora volnočasových aktivit pro mládež, která v Boskovicích hledá vyžití, nebo nedostatečný zájem o kulturu a fungování kulturních zařízení.
 
-Osobně se chce zasadit o větší podporu organizací, které nabízejí mladým lidem smysluplné využití volného času, od skautů přes volnočasové spolky (Plán B, Vatra Boskovice) po různé sportovní kluby. Kromě finanční podpory i podporu výstavby projektů, které by mohly sloužit i mládeži, například lezecká stěna nebo skatepark.
+Osobně se chce zasadit o větší podporu organizací, které nabízejí mladým lidem smysluplné využití volného času, od skautů přes volnočasové spolky (Plán B, Vatra Boskovice) po různé sportovní kluby.
