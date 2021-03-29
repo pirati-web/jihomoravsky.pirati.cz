@@ -1,5 +1,5 @@
 ---
-# Název souboru: jmeno-prijmeni.md
+# Název souboru: jana-logrova.md
 
 ### Povinné položky ###
 name: Jana Logrová	# běžně používáné jméno
