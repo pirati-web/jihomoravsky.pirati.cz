@@ -19,23 +19,27 @@ profiles:
   linkedin: https://www.linkedin.com/in/mfiser/
 
 ---
+Narodil jsem se 22. listopadu 1982 v Brně, kde jsem také strávil převážnou část svého života.
 
-Narodil jsem se 22. listopadu 1982 v Brně. Po studiu v Praze a angažmá ve státní správě jsem se vrátil a v Brně nyní nadále žiji.
+Vystudoval jsem bakalářské studium nizozemštiny na Filozofické fakultě Masarykovy univerzity a Management cestovního ruchu na Univerzitě Jana Amose Komenského v Praze. Mluvím plynně anglicky, nizozemsky a portugalsky.
 
-Vystudoval jsem bakalářské studium nizozemštiny na Filozofické fakultě Masarykovy univerzity a Management cestovního ruchu na Univerzitě Jana Amose Komenského v Praze. Mluvím plynně anglicky, nizozemsky a portugalsky. 
+Působil jsem jako sportovní redaktor Brněnského deníku Rovnost (2001-2008), šéfredaktor webu 1.FC Brno (2008) a asistent zahraničního korespondenta nizozemského deníku NRC Handelsblad (2006-2010). 
 
-Působil jsem jako sportovní redaktor Brněnského deníku Rovnost (2001-2008), šéfredaktor webu 1.FC Brno (2008) a asistent zahraničního korespondenta nizozemského deníku NRC Handelsblad Stéphana Alonsa (2006-2010). Během působení v Praze jsem pracoval na Úřadu vlády ČR, odbor logistiky a organizace českého předsednictví EU (2008-2009), posléze na ekonomickém oddělení nizozemské ambasády v Praze (2009-2014).
+Během šestiletého působení v Praze jsem pracoval na Úřadu vlády ČR, kde jsem byl členem organizačního týmu českého předsednictví v Radě EU (2008-2009), posléze na ekonomickém oddělení nizozemské ambasády v Praze (2009-2014).
 
 Příznivcem Pirátů jsem od roku 2012. Na jaře 2019 jsem se stal členem Pirátské strany.
 
-V současnosti jsem předsedou komise pro Cestovní ruch, marketing a meziregionální vztahy Jihomoravského kraje a radní města Brna pro oblast kultury
+V současnosti jsem radním města Brna pro oblast kultury a památkové péče, předsedou Výboru pro národností menšiny Zastupitelstva města Brna a předsedou komise pro Cestovní ruch, marketing a meziregionální vztahy Jihomoravského kraje.  
 
 Angažuji se v komunitních aktivitách a projektech. Po městě se dopravuji převážně na kole, a to za každého počasí. Mezi mé zájmy patří cestování, studium jazyků, sport a kultura.
 
 **Úspěchy:**
 
-- transparentní dotace a dialog s kulturními aktéry: dotace.brno.cz, Brněnský kulturní parlament,...
-- zpřístupňování dat: socharske.brno.cz
+- Zisk světové ceny za nejlepší komunitní projekt roku na Stadium Business Awards v Madridu v roce 2016 za projekt Dejme Lužánkám Švanci.
+
+**Projekty:**
+
+- zpřístupňování dat: dotace.brno.cz, socharske.brno.cz
 - zjednodušení povolení pro kulturní akce: plugandplay.brno.cz
 
 **Nejoblíbenější místo v Brně:**
