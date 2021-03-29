@@ -9,6 +9,7 @@ titles:
 mail:
 - jana.logrova@pirati.cz
 img: people/jana_logrova_ctverec_web.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description: sociální pracovnice, garantkou KET pro sociální politiku	# kratký popis, max 160 znaků
 uid: jana.logrova # identifikátor 
 
