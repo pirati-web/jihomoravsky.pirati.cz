@@ -1,5 +1,6 @@
 ---
 layout: page
+contentClass: content-block
 title: Místní sdružení Znojemsko
 rbar:
   - board
