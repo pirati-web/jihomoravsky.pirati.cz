@@ -6,7 +6,7 @@ category: CLANKY   # nešahat!
 title: "Jihomoravský kraj zapojí své obyvatele kraje do rozhodování"
 date: 2021-03-30  # formát YYYY-MM-DD
 author: Krajský MO
-tags: jmk piráti participace zapojení-občanů lukáš-dube jiří-hlavenka # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: jmk piráti participace zapojení-občanů lukáš-dubec jiří-hlavenka # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 authorId:  # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
@@ -21,4 +21,4 @@ Dostanou opět příležitost rozhodovat o části peněz z krajského rozpočtu
 
 Participativní rozpočet fungoval v Jihomoravském kraji pod názvem „Váš kraj, Váš rozpočet“ každoročně od roku 2012 současně se zpracováním návrhu rozpočtu na následující rok. Počet respondentů se pohyboval v řádu stovek. V roce 2018 tehdejší krajská rada rozhodla o ukončení projektu. Pro nové radní, kteří plánují participaci obnovit, je klíčem profesionalita zpracování,¨.
 
-*„Cílem je pomocí špičkově kompetentního týmu řešit některé z nejsložitějších a nejtíživějších problematik se zapojením velkého množství aktérů, jako je například transformace krajského zdravotnictví. Součástí je samozřejmě i široká účast veřejnosti,”* dodal [Jiří Hlavenka](https://jihomoravsky.pirati.cz/lide/jiri-hlavenka/), jihomoravský radní pro inovace a IT.
+*„Cílem je pomocí špičkově kompetentního týmu řešit některé z nejsložitějších a nejtíživějších problematik se zapojením velkého množství aktérů, jako je například transformace krajského zdravotnictví. Součástí je samozřejmě i široká účast veřejnosti,”* dodal [Jiří Hlavenka](https://jihomoravsky.pirati.cz/lide/jiri-hlavenka/), jihomoravský radní pro inovace a IT.
