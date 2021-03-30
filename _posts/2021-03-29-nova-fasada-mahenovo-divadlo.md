@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Nová fasáda na Mahenovem divadle
+title: Nová fasáda na Mahenově divadle
 date: 2021-03-29   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Brno divadlo památky ochrana Tomáš-Koláčny Marek-Fišer # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
