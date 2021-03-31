@@ -15,9 +15,9 @@ image: posts/aukce.png # obrázek ideálně 420x677px minifikovaný přes https:
 ---
 **Vzhledem ke snížení příjmů v době pandemie koronaviru se Brno snaží získávat prostředky i prodejem nevyužívaného majetku. Nově se díky Pirátům bude nepotřebný majetek prodávat formou online aukce.**
 
-Od dubna se ale prodej přenese do virtuálního prostředí. [Nový způsob](https://www.brno.cz/brno-aktualne/tiskovy-servis/tiskove-zpravy/a/nepotrebny-majetek-bude-mesto-od-dubna-prodavat-formou-elektronicke-aukce/}{:target="_blank"} může oslovit širší skupinu potencionálních kupců i v době koronakrize. Elektronické aukce přinesou větší transparentnost, efektivitu a sníží administrativní zátěž.
+Od dubna se ale prodej přenese do virtuálního prostředí. [Nový způsob](https://www.brno.cz/brno-aktualne/tiskovy-servis/tiskove-zpravy/a/nepotrebny-majetek-bude-mesto-od-dubna-prodavat-formou-elektronicke-aukce/){:target="_blank"} může oslovit širší skupinu potencionálních kupců i v době koronakrize. Elektronické aukce přinesou větší transparentnost, efektivitu a sníží administrativní zátěž.
 
-Výhody projektu popisuje pirátský radní pro oblast majetku[Róbert Čuma](https://jihomoravsky.pirati.cz/lide/robert-cuma/){:target="_blank"}: *„Každý prodej bude inzerován na adrese aukce.brno.cz a bude přístupný neomezenému počtu zájemců. Ze zkušenosti MČ Brno-střed vyplývá, že v elektronických aukcích je obvykle vysoutěžená cena vyšší, než cena odhadnutá znaleckým posudkem. Vedle posílení transparence procesu prodeje lze tudíž očekávat i vyšší příjem pro město.“*
+Výhody projektu popisuje pirátský radní pro oblast majetku [Róbert Čuma](https://jihomoravsky.pirati.cz/lide/robert-cuma/){:target="_blank"}: *„Každý prodej bude inzerován na adrese aukce.brno.cz a bude přístupný neomezenému počtu zájemců. Ze zkušenosti MČ Brno-střed vyplývá, že v elektronických aukcích je obvykle vysoutěžená cena vyšší, než cena odhadnutá znaleckým posudkem. Vedle posílení transparence procesu prodeje lze tudíž očekávat i vyšší příjem pro město.“*
 
 Očekává se, že **prodejem získá město zhruba 850 milionů Kč**, které pak bude možné využít v naplánovaných investicích.
 
