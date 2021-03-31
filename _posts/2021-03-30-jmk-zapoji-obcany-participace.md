@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: "Jihomoravský kraj zapojí své obyvatele kraje do rozhodování"
+title: "Jihomoravský kraj zapojí své obyvatele do rozhodování"
 date: 2021-03-30  # formát YYYY-MM-DD
 author: Krajský MO
 tags: jmk piráti participace zapojení-občanů lukáš-dubec jiří-hlavenka # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
