@@ -1,10 +1,10 @@
 ---
-#název souboru: 2021-04-06-prijmete-pozvani-online-duben1.md
+#název souboru: 2021-04-05-prijmete-pozvani-online-duben1.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: Přijměte pozvání! Pirátské on-line události 5.-11. dubna 2021
-date: 2021-04-06 # formát YYYY-MM-DD
+date: 2021-04-05 # formát YYYY-MM-DD
 author: Krajský MO
 tags: piráti on-line senioři-na-palubě # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
