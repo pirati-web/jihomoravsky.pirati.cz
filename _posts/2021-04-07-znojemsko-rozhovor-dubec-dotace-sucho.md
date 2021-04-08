@@ -30,4 +30,5 @@ Aktuálně máme za sebou první kolo, do něhož dorazily žádosti se zajímav
 Tento dotační program byl vypisován již dříve, ale bylo pro něj vyčleněno méně finančních prostředků. Pro letošní rok je to 20 milionů. Je skvělé, že je o tento dotační program velký zájem, což dokazuje množství žádostí. Do budoucna určitě plánujeme v jeho vypisování pokračovat. Otázkou je však jeho další podoba a objem finančních prostředků. Velmi důležitá je pro mě zpětná vazba, bez které se budoucí nastavení neobejde.
 
 - **Jakým způsobem se mohou zapojit další obce?**
+
 Sběr žádostí do prvního kola, ve kterém chceme přidělit 13 milionů korun, byl ukončen 1. března 2021. Žádosti do druhého kola lze podávat až do 6. srpna 2021. Stále je tedy možnost se do programu přihlásit. Snad ji využijí další obce nejen ze Znojemska, ale z celého Jihomoravského kraje. A já se těším na nové smysluplné projekty, které budu moci podpořit.
