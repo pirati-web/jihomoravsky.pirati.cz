@@ -9,7 +9,7 @@ author: Krajský MO
 tags: muzeum výběrové-řízení Brno Marek-Fišer Tomáš-Koláčný # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/muzeum.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/muzeum2.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
