@@ -1,10 +1,10 @@
 ---
-#název souboru: 2021-04-08-rozhovor-vasicek-jizdni-rady-jmk.md
+#název souboru: 2021-04-09-rozhovor-vasicek-jizdni-rady-jmk.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: "Rozhovor s Ivo Vašíčkem: Jak se pečou jízdní řády v Jihomoravském kraji"
-date: 2021-04-08 # formát YYYY-MM-DD
+date: 2021-04-09 # formát YYYY-MM-DD
 author: Krajský MO
 tags: rozhovor ivo-vašíček jmk jízdní-řády doprava # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
