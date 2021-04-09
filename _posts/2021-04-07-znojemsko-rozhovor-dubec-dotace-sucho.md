@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: "Rozhovor: Zadržení vody v krajině je pro nás prioritou, podpoříme další projekty"
+title: "Rozhovor s Lukášem Dubcem: Zadržení vody v krajině je pro nás prioritou, podpoříme další projekty"
 date: 2021-04-07  # formát YYYY-MM-DD
 author: Krajský MO
 tags: rozhovor znojemsko lukáš-dubec dotace sucho voda # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
