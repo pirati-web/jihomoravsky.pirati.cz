@@ -27,9 +27,7 @@ Působil jsem jako sportovní redaktor Brněnského deníku Rovnost (2001-2008),
 
 Během šestiletého působení v Praze jsem pracoval na Úřadu vlády ČR, kde jsem byl členem organizačního týmu českého předsednictví v Radě EU (2008-2009), posléze na ekonomickém oddělení nizozemské ambasády v Praze (2009-2014).
 
-Příznivcem Pirátů jsem od roku 2012. Na jaře 2019 jsem se stal členem Pirátské strany.
-
-V současnosti jsem radním města Brna pro oblast kultury a památkové péče, předsedou Výboru pro národností menšiny Zastupitelstva města Brna a předsedou komise pro Cestovní ruch, marketing a meziregionální vztahy Jihomoravského kraje.  
+Příznivcem Pirátů jsem od roku 2012. Na jaře 2019 jsem se stal členem Pirátské strany. V současnosti jsem radním města Brna pro oblast kultury a památkové péče, předsedou Výboru pro národností menšiny Zastupitelstva města Brna a předsedou komise pro Cestovní ruch, marketing a meziregionální vztahy Jihomoravského kraje.  
 
 Angažuji se v komunitních aktivitách a projektech. Po městě se dopravuji převážně na kole, a to za každého počasí. Mezi mé zájmy patří cestování, studium jazyků, sport a kultura.
 
@@ -39,8 +37,8 @@ Angažuji se v komunitních aktivitách a projektech. Po městě se dopravuji p�
 
 **Projekty:**
 
-- zpřístupňování dat: dotace.brno.cz, socharske.brno.cz
-- zjednodušení povolení pro kulturní akce: plugandplay.brno.cz
+- Zpřístupňování dat: dotace.brno.cz, socharske.brno.cz
+- Zjednodušení povolení pro kulturní akce: plugandplay.brno.cz
 
 **Nejoblíbenější místo v Brně:**
 
@@ -48,11 +46,13 @@ Angažuji se v komunitních aktivitách a projektech. Po městě se dopravuji p�
 
 **Vize:**
 
-- Kde je vůle,  je i cesta.
+- Kde je vůle, je i cesta.
 
 **Priority:**
 
-- Transparentní a spravedlivé rozdělování veřejných dotací, rozvoj mezinarodní spolupráce, integrace cizinců, udržitelná a bezbarierová doprava, Janáčkovo kulturní centrum.
+- Transparentní a spravedlivé rozdělování veřejných dotací, rozvoj mezinárodní spolupráce, integrace cizinců, udržitelná a bezbariérová doprava, Janáčkovo kulturní centrum.
+
+
 
 ## Veřejný kalendář:
 
