@@ -7,6 +7,7 @@ title: Konec rozkopaným ulicím a kácení stromů kvůli kabelům!
 date: 2021-03-28   # formát YYYY-MM-DD
 author: Michal Marciniszyn
 tags: Brno standard-vedení-tras Michal-Marciniszyn elektromobily ekologie komentář # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 authorId: michal.marciniszyn # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
