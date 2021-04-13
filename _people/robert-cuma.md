@@ -32,10 +32,26 @@ motto: ["Veřejné záležitosti patří do veřejnosti. Co se všech týká ste
 
 ---
 
-Róbert Čuma (* 19. ledna 1977), předseda krajského sdružení Pirátů Jihomoravského kraje, radní města Brna pro oblast majetku
+Narodil jsem se 19. ledna 1977 (v Liptovském Mikuláši, v Československu tehdy..). Více než 30 let ale bydlím v Brně a s manželkou zde vychovávám 2 dcery.
 
-Posledních 10 let pracuje jako ředitel ve firmě AIR SHAPE production s.r.o., která vyrábí venkovní reklamu.
+Vystudoval jsem ekonomiku zahraničního obchodu. Poté jsem pracoval na různých obchodních pozicích. V roce 2005 jsem se stal ředitelem společnosti zaměřené na zakázkovou výrobu specializované venkovní reklamy. 
 
-Inicioval finanční pomoc Pirátské strany nespravedlivě stíhaným growshopům, protože nesouhlasí s účelovou kriminalizací specializovaných prodejců pěstebních pomůcek, které lze běžně koupit v každém nadnárodním hobby marketu. Je přesvědčen, že konopí musí být v ČR co nejdříve legálně dostupné i pro rekreační účely, jako např. v Coloradu (USA).
+V roce 2012 jsem se stal členem České pirátské strany. Téhož roku jsem byl zvolen do předsednictva Jihomoravského krajského sdružení. Několik let jsem byl členem Republikového výboru jako krajský zástupce, ale i jako zástupce Celostátního fóra. Nyní jsem předsedou jihomoravských Pirátů.
 
-Je členem Mensa ČR, hraje tenis, plave a jezdí na kole. Hodně čte. Zbytek volného času tráví ve společnosti svých blízkých a hraním počítačových her.
+V letech 2014-2018 jsem zastupoval Piráty jako předseda dozorčí rady společnosti STAREZ-SPORT a.s., ke konci tohoto období jsem se stal členem Majetkové komise RMB. V roce 2018 jsem přivedl jako lídr Piráty do zastupitelstva MČ Brno-střed, stal se zastupitelem města Brna a byl zvolen radním města Brna pro oblast majetku.
+
+Do aktivní politiky jsem vstoupil, protože je to lepší, než jenom nadávat. Považuji za zásadní, aby se s veřejnými prostředky nakládalo transparentně a hospodárně ve prospěch občanů. 
+
+Jsem členem Mensa ČR.
+
+**Nejoblíbenější místo v Brně/JMK**
+
+- Brno-střed je moje nejoblíbenější místo na světě, nejen v Brně/JMK. Jsou týdny, kdy nepřekročím hranice své městské části a je mi tu vážně dobře.
+
+**Vize**
+
+- Maximální transparence veřejných informací a procesů, ochrana soukromí občana.
+
+**Priority**
+
+- Jednoznačně rodina a work-life balance.
