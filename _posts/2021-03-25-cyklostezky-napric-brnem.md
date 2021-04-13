@@ -7,6 +7,7 @@ title: Cyklostezky napříč Brnem!
 date: 2021-03-25   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Brno cyklodoprava Tomáš-Koláčný Marek-Lahoda participativní-rozpočet # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/cyklo.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
