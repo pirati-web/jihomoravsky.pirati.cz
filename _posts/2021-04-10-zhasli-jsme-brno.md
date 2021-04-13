@@ -7,6 +7,7 @@ title: Zhasli jsme Brno!
 date: 2021-04-10   # formát YYYY-MM-DD
 author: Michal Marciniszyn 
 tags: Brno světelný-smog měření TSB  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/tma.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
