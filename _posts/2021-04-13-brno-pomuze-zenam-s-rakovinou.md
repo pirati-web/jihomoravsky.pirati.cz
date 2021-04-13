@@ -7,6 +7,7 @@ title: Brno pomůže ženám s rakovinou
 date: 2021-04-13   # formát YYYY-MM-DD
 author: Krajský MO
 tags: participativní-rozpočet PARO Brno Tomáš-Koláčný # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/cancer.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
