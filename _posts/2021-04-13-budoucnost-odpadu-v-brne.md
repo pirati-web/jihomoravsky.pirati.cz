@@ -22,7 +22,7 @@ image: posts/odpadweb.jpg # obrázek ideálně 420x677px minifikovaný přes htt
 
 Znovuvyužití plastu je nejekologičtějším způsobem jeho “likvidace”. Recyklovaný plast se dá využít například pro mobiliář města (lavičky, pískoviště, zvýšené záhony nebo květináče) či konstrukční a stavební prvky (ploty, desky, obrubníky, kůly, rošty dešťových vpustí, palety a kabelové žlaby). Možností využití je nespočet. Jediným limitem je, zdá se, naše představivost. 
 
-(Nezanedbatelná výhoda inovativního zpracování plastu je také úspora nákladů spojených s odstraněním jinak nevyužitelných plastových odpadů. Pro městské společnosti by se tak jednalo o ekonomicky výhodný způsob právě pro opětovné využití plastů.)
+Nezanedbatelná výhoda inovativního zpracování plastu je také úspora nákladů spojených s odstraněním jinak nevyužitelných plastových odpadů. Pro městské společnosti by se tak jednalo o ekonomicky výhodný způsob právě pro opětovné využití plastů.
 
 > *„Jakékoliv iniciativy směřující k efektivní likvidaci odpadu vítáme a chceme na nich participovat. V současnosti plastový odpad využíváme a s pomocí moderních metod spalování, dodáváme občanům města teplo a elektrickou energii,”* komentuje [Jiří Kadeřávek](https://jihomoravsky.pirati.cz/lide/jiri-kaderavek/){:target="_blank"}, člen představenstva SAKO Brno. 
 >
