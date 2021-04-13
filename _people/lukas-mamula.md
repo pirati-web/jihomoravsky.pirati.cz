@@ -4,7 +4,7 @@ name:     Lukáš Mamula  	# běžně používáné jméno
 category:                 	# kategorie: kandidat, pks, zastupitel
 - mmb
 ordmmb: 5
-img: people/lukas-mamula.jpg   # 165 x 220
+img: people/lukas_mamula_ctverec_web.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: Java developer se zájmem o robotiku a umělou inteligenci, milovník přírody   	# kratký popis, max 160 znaků
 mail:
@@ -34,15 +34,24 @@ reason: 'Kandiduji proto, protože nechci jen tiše přihlížet, jak se naše r
 motto: ["Nechme budoucnost rozhodnout o pravdě, nechme ji ohodnotit každou pravdu podle vykonané práce a dosáhnutých úspěchů.", "Nikola Tesla"]
 
 ---
-Lukáš Mamula narozen 12.6 1987 v Brandýse nad Labem odkud se s rodinou přestěhoval do Bruntálu. V Bruntále vystudoval střední průmyslovou školu v oboru elektronické počítačové systémy. Po střední škole pokračoval dále na Slezské univerzitě v Opavě jako student oboru informatika a výpočetní technika. Zde úspěšně dokončil bakalářšký a magisterský stupeň vzdělání. Již během magisterského studia se přestěhoval do Brna, kde žije od roku 2012.
 
-Po magisterském studiu ještě chvíli působil na vysoké škole jako doktorand, kde měl možnost vyučovat vysokoškolské studenty a současně analyzovat nedostatky vysokoškolského systému. V průběhu doktorského studia, které bohužel nedokončil, nastoupil do práce na pozici Java developer a na této pozici dále zakládá svou kariéru v oblasti IT. V roce 2017 založil spolu s několika dalšími lidmi nový startup-ový projekt se zaměřením na robotiku a umělou inteligenci. I přes nedokončené doktorské studium navštěvuje se svou prací vědecké konference se zaměřením na umělý život a umělou inteligenci.
+Narodil jsem se 12. června 1987 v Brně, kde žiji dodnes.
 
-Jako člověk si cení přímosti lidí. Nesnáší faleš a přetvářku. Dále jeho životním motivem je svoboda člověka. Což byl také jeden z důvodů proč se stal aktivním pirátem. Politiku sleduje již od mládí a nesouhlasí s postupným ořezáváním svobod v posledních 20 letech a téměř žádného progresu právě v uvolňování "zakázaného ovoce" i přes občanské volání po změně. Nelíbí se mu populismus vysoce postavených lidí. Sledování předvolebních slibů, které se posledních 20 let neustále opakují. Sliby stále nejsou zrealizované stranickými útvary, které se v naši zemi nemění, což je naprosto iritující a pro mnoho z nás i frustrující. Lobbing korporací a jiných menších soukromých subjektů na úkor práv a kvality člověka je pro něj nepřijatelný.
+V roce 2013 jsem získal magisterský titul z informatiky a výpočetní techniky. Následovalo postgraduální studium, kde jsem se zaměřil na tvorbu umělé inteligence a robotiku. Tento stupeň studia jsem nedokončil.
 
-Svůj volný čas věnuje běhání, cyklistice, plavání, horské turistice a když zůstává čas, tak také literatuře. Miluje pobyty v přírodě. Příroda je jeho vášeň, která jej inspiruje i v jeho práci. Proto považuje za velice důležité, abychom se v naší zemi snažili zachovat naše přírodní bohatství i pro další generace lidí, kteří budou žít po nás v této krásné zemi. A samozřejmě v rámci našich možností se starat i o přírodu mimo naše hranice.
+Od roku 2015 pracuji jako Software developer se zaměřením na programovací jazyk Java. 
 
-Díky mnoha letům stráveným v prostředí českého školství si mohl udělat obrázek o tom, jak české školství funguje a co je potřeba upravit a naopak zanechat. Jako politik by chtěl řešit reformy ve školství, v oblasti životního prostředí, ale také například dlouho a mnoha lidmi očekávanou legalizaci konopí. Dále digitalizaci státní správy a s tím spojenou transparenci výběrových řízeních státních zakázek.
+V Pirátské straně jsem od roku 2016. Jsem spoluzakladatel místního sdružení Brno a od roku 2018 působím jako neuvolněný zastupitel města Brna. Působím také v komisi životního prostředí a kontrolním výboru magistrátu města. 
+
+Mým velkým politickým cílem je vést odbor životního prostředí v Brně. Rád bych v tomto město Brno dostal na úroveň evropských měst, které určují trend zelených technologií. 
+
+Rád čtu beletrii, ale také odbornou literaturu. Neustále se něčemu novému učím. Rád komunikuji s lidmi, ale také rád jezdím na několikadenní přechody hor. Miluji hory a sporty, které s nimi souvisí, například snowboarding, hiking. 
+
+**Priority**
+
+- Chci, aby budoucnost města znamenala symbiózu mezi přírodou a městským životem a to bez zbytečných represí vůči lidem. 
+- Příroda jako taková je mi obrovskou inspirací a místo kam si chodím odpočinout. Proto považuji za svůj cíl postarat se o to, aby i budoucí generace měly kam chodit odpočívat. 
+
 
 ## Články autora Lukáš Mamula
 
