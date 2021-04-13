@@ -24,7 +24,7 @@ Znovuvyužití plastu je nejekologičtějším způsobem jeho “likvidace”. R
 
 Nezanedbatelná výhoda inovativního zpracování plastu je také úspora nákladů spojených s odstraněním jinak nevyužitelných plastových odpadů. Pro městské společnosti by se tak jednalo o ekonomicky výhodný způsob právě pro opětovné využití plastů.
 
-> *„Jakékoliv iniciativy směřující k efektivní likvidaci odpadu vítáme a chceme na nich participovat. V současnosti plastový odpad využíváme a s pomocí moderních metod spalování, dodáváme občanům města teplo a elektrickou energii,”* komentuje [Jiří Kadeřávek](https://jihomoravsky.pirati.cz/lide/jiri-kaderavek/){:target="_blank"}, člen představenstva SAKO Brno. 
+> *„Jakékoliv iniciativy směřující k efektivní likvidaci odpadu vítáme a chceme na nich participovat. V současnosti plastový odpad využíváme a s pomocí moderních metod spalování, dodáváme občanům města teplo a elektrickou energii,”* komentuje [Jiří Kadeřávek](https://jihomoravsky.pirati.cz/lide/jiri-kaderavek/){:target="_blank"}, člen představenstva SAKO Brno a zastupitel Jihomoravského kraje. 
 >
 
 **Přírodě blízké kabelovody z recyklátů**
