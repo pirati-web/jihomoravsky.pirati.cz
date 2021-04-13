@@ -15,7 +15,6 @@ uid: jana.logrova # identifikátor
 
 ### Nepovinné položky
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
-- pms
 mob: +420 732 172 786
 profiles:
   facebook: https://www.facebook.com/log.jana
