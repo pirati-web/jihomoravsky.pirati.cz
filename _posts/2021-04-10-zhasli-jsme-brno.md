@@ -10,6 +10,7 @@ tags: Brno světelný-smog měření TSB  # kategorie odděleny mezerami, např.
 important: true
 
 ### Nepovinné položky ###
+authorId: michal.marciniszyn # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: posts/tma.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
