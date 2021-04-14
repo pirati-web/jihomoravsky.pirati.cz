@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Komentář: Dny elektronové mikroskopie jsou důkaz světového postavení Brna na poli high-tech
+title: "Komentář: Dny elektronové mikroskopie jsou důkaz světového postavení Brna na poli high-tech"
 date: 2021-04-14  # formát YYYY-MM-DD
 author: Jiří Hlavenka
 tags: komentář elektronova-mikroskopie brno tomáš-koláčný jiří-hlavenka # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
