@@ -6,7 +6,7 @@ category: CLANKY   # nešahat!
 title: "Radní na cestách: Jana Leitnerová v Hustopečích - očkování a nový domov pro seniory"
 date: 2021-04-15 # formát YYYY-MM-DD
 author: Jana Leitnerová
-tags: archiv # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: jana-leitnerová očkování senioři # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 authorId: jana.leitnerova # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
