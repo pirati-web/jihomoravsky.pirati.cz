@@ -20,7 +20,7 @@ Oddělení GIS městského systému informatiky připravilo několik aplikací, 
 
 Jednou z nich je interaktivní web [bydleni.brno.cz](https://bydleni.brno.cz){:target="_blank"}, který [nedávno město spustilo](https://jihomoravsky.pirati.cz/aktuality/brnenske-mestske-byty-prehledne.html){:target="_blank"}.. Web shromažďuje informace o obecním bydlení v Brně. Užitečným prvkem je interaktivní aplikace dashboard, skrz kterou si každý může najít informace o bytech v jednotlivých městských částech.  Z aplikace lze mimo jiné vyčíst, v jaké městské části má žadatel největší šanci na přidělení obecního bytu, jak se v jednotlivých MČ liší ceny nájemného nebo jaký je celkový počet žadatelů o obecní bydlení.
 
-Poslední dobou také nabývá na důležitosti práce s 3D daty. Na adrese brno.cz/3d-model je pro veřejnost připraven k prohlížení model Brna v trojrozměrném rozměru. Odborníci využijí 3D data ke schvalování nových staveb nebo při designu nových projektů.
+Poslední dobou také nabývá na důležitosti práce s 3D daty. Na adrese [brno.cz/3d-model](https://webmaps.kambrno.cz/webmaps.kambrno.cz/3d-model/){:target="_blank"}  je pro veřejnost připraven k prohlížení model Brna v trojrozměrném rozměru. Odborníci využijí 3D data ke schvalování nových staveb nebo při designu nových projektů.
 
 > „Jednou z aplikací, na kterou jsme obzvlášť pyšní, je 3D model budov.  Oddělení městské informatiky nedávno představilo 3D mapu, kde na několika vybraných územích byly zpracovány prostorové modely budov obsahujících pečlivě vymodelované komíny, římsy, výtahové šachty či jiné prvky. Zbylá území se budou zpracovávat letos a v příštích letech, proto jsou tato místa dočasně doplněna krabicovým modelem budov. Celé město je pak umístěno na aktuální mapu reliéfu z roku 2019,” komentuje noviny náš uvolněný zastupitel pro oblast IT [Ondřej Kotas](https://jihomoravsky.pirati.cz/lide/ondrej-kotas/){:target="_blank"}.
 >
@@ -30,4 +30,6 @@ To ale není vše! Objevit nové lokality v Brně pomůže další stránka od o
 Piráti od svého vzniku podporují otevřená data a projekty na nich stojící. Aktualizace městských datových portálů a jejich aplikací, je další krok z dílny Pirátů, které činí Brno otevřenějším a transparentnějším městem pro své občany.  
 
 Více o našich cílech a plánech v oblasti transparence a digitalizace si můžete přečíst v našem [dlouhodobém programu](https://www.pirati.cz/program/strana.html){:target="_blank"}.
+
+
 
