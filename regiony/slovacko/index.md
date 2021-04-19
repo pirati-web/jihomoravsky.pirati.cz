@@ -34,19 +34,18 @@ profiles:
    mail: vendula.svobodova@pirati.cz
 ---
 
-Místní sdružení Slovácko bylo založeno 29. března 2014. V současnosti má 12 členů z Hodonína, Čejkovic, Dubňan, Vracova, Strážnice, Hovoran a Břeclavi. Podporu má u dalších více než desíti registrovaných příznivců.
+## **Vznik**
 
-<hr>
-<img src="https://sucho.pirati.cz/assets/img/slovacko.png" width="1000">
-<hr>
-<img src="https://sucho.pirati.cz/assets/img/slovacko1.png" width="1000">
-<hr>
-<img src="https://sucho.pirati.cz/assets/img/slovacko2.png" width="1000">
-<hr>
-<img src="https://sucho.pirati.cz/assets/img/slovacko3.png" width="1000">
-<hr>
-<img src="https://sucho.pirati.cz/assets/img/slovacko4.png" width="1000">
-<hr>
-<img src="https://sucho.pirati.cz/assets/img/slovacko0.png" width="1000">
+- Místní sdružení Slovácko vzniklo před sedmi lety 29. března 2014. Sdružuje Piráty a jejich příznivce na Břeclavsku a Hodonínsku. 
 
+## **Členové**
 
+- Aktuálně má 14 členů, mezi kterými najdete jak poslance a krajské zastupitele, tak jedince usilující o lepší život a otevřenou politiku ve městech i malých obcích. Chcete se k nim připojit i vy? [Naloďte se k nám](https://nalodeni.pirati.cz/){:target="_blank"}!
+
+## **Úspěchy**
+
+- Piráti Slovácko mají zastupitele v Břeclavi a v Dubňanech. Další členové se podílejí na obecní správě ve výborech a komisích nebo jako aktivní občané v rámci místních spolků. Nedaleko břeclavského náměstí pak využívají Slovácké pirátské centrum, které slouží pro schůzky i pro různé akce.
+
+## **Vize**
+
+- Piráty na Slovácku spojuje nejen respekt ke křehkým přírodním krásám a hlubokým tradicím Slovácka, ale zejména odvaha tento region posouvat v rámci moderních výzev k úspěšné a atraktivní části naší země, kam rádi zamíří turisté, zaměstnavatelé i lidé hledající ideální místo pro život.
