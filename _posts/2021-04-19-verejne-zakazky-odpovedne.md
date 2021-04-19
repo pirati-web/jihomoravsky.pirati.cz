@@ -7,6 +7,7 @@ title: Veřejné zakázky budou v Brně víc ekologické a sociálně odpovědn�
 date: 2021-04-19   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Brno magistrát veřejné-zakázky ekologie sociální-odpovědnost Tomáš-Koláčný # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/zakazkyeko.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
