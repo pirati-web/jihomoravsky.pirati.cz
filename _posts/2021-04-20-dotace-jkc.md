@@ -21,6 +21,7 @@ Hlavním cílem projektu je vybudování důstojného zázemí pro Brněnskou fi
 >
 
 **Jak pokračuje celý projekt?** 
+
 Projekt Janáčkova kulturního centra se začal realizovat již v roce 2015 a byl rozdělen na 2 etapy. První z nich je v současné době téměř dokončena. V jejím rámci byly vybudovány třípodlažní podzemní garáže se 191 parkovacími místy a bude také obnoven pavilon ve vnitrobloku. Předmětem 2. etapy je vybudování šesti nadzemních podlaží budovy Janáčkova kulturního centra, včetně nového koncertního sálu špičkových akustických parametrů. Janáčkovo kulturní centrum se také využitím podzemních prostor propojí s Besedním domem.
 
 >*„Janáčkovo kulturní centrum nabídne zbrusu nový koncertní sál špičkové úrovně pro Filharmonii Brno. Právě v těchto dnech se model postupně převáží do Brna, na výstavišti budou pod vedením týmu světového akustika Yasuhisu Toyoty probíhat závěrečná akustická měření na miniaturním modelu sálu“,* říká radní pro kulturu [Marek Fišer](https://jihomoravsky.pirati.cz/lide/marek-fiser/){:target="_blank"}
@@ -31,5 +32,6 @@ Druhá etapa byla zahájena už v roce 2016 vypsáním soutěže na zhotovitele 
 >*„Aktuálně máme pravomocné stavební povolení a  zpracováváme projektové dokumentace pro výběr zhotovitele. Také se úspěšně dokončuje akustický model sálu a je zhotovena potřebná dokumentace pro výběrové řízení na varhany,”*  dodává Koláčný.
 > 
 
-**Kolik to ale bude celé stát?**
+**Kolik to ale bude stát?**
+
 Celkové výdaje na realizaci projektu se odhadují ve výši 1 997 263 000 Kč. Dotace z národního programu se předpokládá ve výši 600 000 000 Kč. Realizace projektu bude financována z více zdrojů dle podepsaného Memoranda z roku 2016 o spolufinancování mezi Ministerstvem kultury, Jihomoravským krajem a městem Brnem. 
