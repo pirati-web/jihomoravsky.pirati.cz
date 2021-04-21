@@ -16,7 +16,7 @@ image: posts/stred.jpg # obrázek ideálně 420x677px minifikovaný přes https:
 ---
 **Dubnové jednání zastupitelstva městské části Brno-střed se neslo ve znamení pomoci podnikatelům. Zastupitelé se nakonec shodli na odpuštění 50% nájemného po dobu tří měsíců.** 
 
-[Před pár týdny jsme vás informovali](hhttps://www.facebook.com/CPS.JMK/posts/10158275163581589){:target="_blank"} o tom, že se jednání o podpoře nájemců nebytových prostor zasekla na mrtvém bodě.
+[Před pár týdny jsme vás informovali](https://www.facebook.com/CPS.JMK/posts/10158275163581589){:target="_blank"} o tom, že se jednání o podpoře nájemců nebytových prostor zasekla na mrtvém bodě.
 
 >*„Lidi nezajímají naše spory, které řešení jenom oddalují. Teď opravdu není čas na vzájemné ignorování a politikaření. Vyzval jsem proto zástupce koaličních i opozičních stran k širšímu dialogu. Jsem rád, že se naše iniciativa setkala s pozitivním ohlasem. Doufám, že se v krizi dokážeme povznést nad vzájemné rozdíly a shodnout se na pomoci, bez které hrozí konec celé řadě oblíbených restaurací, kaváren, obchodů, barů a klubů,”* komentoval tehdy předseda zastupitelského klubu Pirátů MČ Brno - střed [Róbert Čuma](https://jihomoravsky.pirati.cz/lide/robert-cuma/){:target="_blank"}. 
 >
