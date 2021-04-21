@@ -4,7 +4,7 @@
 
 category: CLANKY   # nešahat!
 title: "Jižní Morava je na technologické špici a konkuruje nejvyspělejším evropským regionům"
-date: 22021-04-21 # formát YYYY-MM-DD
+date: 2021-04-21 # formát YYYY-MM-DD
 author: Krajský MO
 tags: jmk jic datová-zpráva věda výzkum jiří-hlavenka tomáš-koláčný # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
