@@ -7,6 +7,7 @@ title: Město odpustí 50% nájemného nájemcům nebytových prostor
 date: 2021-04-21   # formát YYYY-MM-DD
 author: Krajský MO
 tags: covid-podpora nájemné Brno-střed Róbert-Čuma Brno Tomáš-Koláčný # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/stred.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
