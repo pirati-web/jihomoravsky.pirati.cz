@@ -25,7 +25,7 @@ Právě Regionální inovační strategie kraje, která je základním kompasem 
  
 **Čísla mluví jasně**
  
-Díky unikátní [datové zprávě analytiků Jihomoravského inovačního centra](https://brnoregion.brandcloud.pro/#/document/35379/103833){:target="_blank"}, které spadá pod kraj, víme, že firmy na jižní Moravě do výzkumu a vývoje investovaly přes deset miliard korun. To je o jednu miliardu korun více než v roce 2018. Není překvapením, že největšími investory do výzkumu a vývoje jsou především velké společnosti. Stranou však nestojí ani malé a střední firmy. Naopak - těch s vlastním výzkumem a vývojem je v Jihomoravském kraji nejvíce v celé republice. 
+Díky unikátní datové zprávě analytiků Jihomoravského inovačního centra (JIC), které spadá pod kraj, víme, že firmy na jižní Moravě do výzkumu a vývoje investovaly přes deset miliard korun. To je o jednu miliardu korun více než v roce 2018. Není překvapením, že největšími investory do výzkumu a vývoje jsou především velké společnosti. Stranou však nestojí ani malé a střední firmy. Naopak - těch s vlastním výzkumem a vývojem je v Jihomoravském kraji nejvíce v celé republice. 
  
 Nezanedbatelnou částkou přispěl i Jihomoravský kraj. Ten ve srovnání s rokem 2018 investoval do vědy a výzkumu o dvě miliardy korun více. Jedná se tak o vůbec největší podíl veřejných peněz investovaných do této oblasti mezi českými kraji. Celkově šlo do oblasti výzkumu a vývoje v Jihomoravském kraji 18,8 miliardy korun, což odpovídá hodnotě 3,1 % na HDP regionu. Právě podíl na hrubém domácím produktu řadí jižní Moravu na první místo mezi kraji České republiky. Navíc jde o srovnatelné číslo s nejvyspělejšími regiony Evropy.
  
