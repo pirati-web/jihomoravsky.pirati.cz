@@ -12,7 +12,7 @@ ordmmb: 3
 img: people/mara-fiser-new.jpg   # 165 x 220
 img2: people/mara-fiser-new.jpg 
 heroImg: header/palava_krajina.jpg
-description: Radní města Brna, manažer, polyglot a zahrádkář 	# kratký popis, max 160 znaků
+description: Radní města Brna pro oblast kultury, manažer, polyglot a zahrádkář 	# kratký popis, max 160 znaků
 
 profiles:
   wiki: https://wiki.pirati.cz/lide/marek_fiser
