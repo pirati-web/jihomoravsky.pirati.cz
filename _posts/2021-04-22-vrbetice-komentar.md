@@ -25,4 +25,4 @@ Myslím tím nejen tolikrát zmiňovaný tendr na Dukovany II, ale i nákupy IT 
 
 Jako piráti často voláme po důsledném zvažování bezpečnostních rizik spojených se strategickými nákupy. Oblast kyberbezpečnosti považuji za velmi důležitou. Je to také mé hlavní téma, se kterým kandiduji do Poslanecké sněmovny. Budu se zasazovat o robustní a bezpečnou IT infrastrukturu schopnou odolávat hrozbám jiných státních aktérů. Především v situacích, kdy se jedná o kritické systémy, bez nichž náš stát není schopen plnohodnotně fungovat. Věřím, že společně máme šanci vytvořit bezpečné prostředí pro naše občany i v kyberprostoru. 
 
-Michal Marciniszyn
+[Michal Marciniszyn](https://jihomoravsky.pirati.cz/lide/michal-marciniszyn/){:target="_blank"}
