@@ -10,7 +10,6 @@ tags: Vrbětice GRU kyberbezpečnost Brno Michal-Marciniszyn  # kategorie odděl
 important: true
 
 ### Nepovinné položky ###
-authorId: michal.marciniszyn # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: posts/gru_nove.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Informace o zapojení GRU do výbuchu muničního skladu ve Vrběticích jsou velmi závažné a znepokojující. Od nástupu Vladimíra Putina k moci vidíme stále častější využívání metod hybridní války Ruskem. U nás se jedná především o podporu fake news, lépe možná říct fake news servers. Velmi často se také zmiňuje ruská stopa v kyberútocích. 
 
