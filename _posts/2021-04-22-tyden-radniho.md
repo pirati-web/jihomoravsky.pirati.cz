@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Marek Fišer: Nejen kulturou je radní pro kulturu živ. Téma dopravy je brněnský evergreen.
+title: Marek Fišer ":" Nejen kulturou je radní pro kulturu živ. Téma dopravy je brněnský evergreen.
 date: 2021-04-22   # formát YYYY-MM-DD
 author: Marek Fišer
 tags: doprava kultura Brno cyklodoprava Marek-Fišer  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
