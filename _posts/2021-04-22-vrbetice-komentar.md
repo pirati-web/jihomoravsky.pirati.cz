@@ -7,6 +7,7 @@ title: "Komentář: Vrbětice a kyberbezpečnost"
 date: 2021-04-22   # formát YYYY-MM-DD
 author: Michal Marciniszyn
 tags: Vrbětice GRU kyberbezpečnost Michal-Marciniszyn # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 authorId: michal.marciniszyn # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
