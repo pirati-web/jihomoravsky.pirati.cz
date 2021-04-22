@@ -9,8 +9,8 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - mmb
 ordzmckrpole: 3
 ordmmb: 3
-img: people/marek_fiser_ctverec_web.jpg   # 165 x 220
-img2: people/marek_fiser_ctverec_web.jpg
+img: people/mara-fiser-new.jpg   # 165 x 220
+img2: people/mara-fiser-new.jpg 
 heroImg: header/palava_krajina.jpg
 description: Radní města Brna, manažer, polyglot a zahrádkář 	# kratký popis, max 160 znaků
 
