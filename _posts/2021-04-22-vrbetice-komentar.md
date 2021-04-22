@@ -9,7 +9,7 @@ author: Krajský MO
 tags: Vrbětice GRU kyberbezpečnost Michal-Marciniszyn # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/gru.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/kolacny_resp.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Informace o zapojení GRU do výbuchu muničního skladu ve Vrběticích jsou velmi závažné a znepokojující. Od nástupu Vladimíra Putina k moci vidíme stále častější využívání metod hybridní války Ruskem. U nás se jedná především o podporu fake news, lépe možná říct fake news servers. Velmi často se také zmiňuje ruská stopa v kyberútocích. 
 
 ---
