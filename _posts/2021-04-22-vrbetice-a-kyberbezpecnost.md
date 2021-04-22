@@ -6,7 +6,7 @@ category: CLANKY   # nešahat!
 title: Komentář: Vrbětice a kyberbezpečnost
 date: 2021-04-22   # formát YYYY-MM-DD
 author: Michal Marciniszyn
-tags: Vrbětice GRU kyberbezpečnost Brno Michal-Marciniszyn  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: Vrbětice GRU kyberbezpečnost Brno Michal-Marciniszyn komentář # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 important: true
 
 ### Nepovinné položky ###
