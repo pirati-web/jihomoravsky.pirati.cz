@@ -16,11 +16,11 @@ ordumczidenice: 1
 mob: 773 661 244
 img: people/new_tomas_kolacny.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
-description: Radní města Brna a předseda brněnského sdružení # kratký popis, max 160 znaků
+description: Náměstek primátorky a předseda brněnského místního sdružení # kratký popis, max 160 znaků
 mail:
 - tomas.kolacny@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/kolacnyt23
+  facebook: https://www.facebook.com/kolacnytomas
   wiki: https://wiki.pirati.cz/lide/tomas_kolacny
   compass: https://www.politicalcompass.org/printablegraph?ec=-3.25&soc=-4.62
 
