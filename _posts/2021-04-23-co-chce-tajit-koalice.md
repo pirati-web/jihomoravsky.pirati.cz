@@ -15,7 +15,7 @@ image: posts/zabinymin.jpg # obrázek ideálně 420x677px minifikovaný přes ht
 ---
 **Pouhý jeden hlas. Tolik chybělo na včerejším zastupitelstvu MČ Brno-Žabovřesky k prosazení pirátského návrhu na zavedení online přenosu zasedání. Zastupitelé z ANO, ODS, a KDU-ČSL se zdrželi u podstatného hlasování.** 
 
->*„Demokracie se kvůli pandemii nezastaví. Považovali jsme za samozřejmost, umožnit lidem sledovat jimi zvolené zástupce alespoň online formou i v čase, kdy to epidemiologická situace nedovoluje. Bohužel zase vyhrálo politikaření nad zájmy občanů. Někteří asi nechtějí, aby někdo viděl jak hlasují,” * říká pirátská zastupitelka, [Silvie Mrkvanová](https://jihomoravsky.pirati.cz/lide/silvie-mrkvanova/){:target="_blank"}. 
+>„Demokracie se kvůli pandemii nezastaví. Považovali jsme za samozřejmost, umožnit lidem sledovat jimi zvolené zástupce alespoň online formou i v čase, kdy to epidemiologická situace nedovoluje. Bohužel zase vyhrálo politikaření nad zájmy občanů. Někteří asi nechtějí, aby někdo viděl jak hlasují,” říká pirátská zastupitelka, [Silvie Mrkvanová](https://jihomoravsky.pirati.cz/lide/silvie-mrkvanova/){:target="_blank"}. 
 >
 
 Návrh na zavedení online zastupitelstva nepodpořilo ANO, KDU-ČSL, většina "opoziční" ODS a jeden ze tří zastupitelů za ČSSD. Během pandemie koronaviru mají občané ztíženou možnost účastnit se zastupitelstva městské části prezenčně. Online přenos je proto jedinou formou, jak se může veřejnost bezpečně dozvědět informace o dění na zastupitelstvu. 
