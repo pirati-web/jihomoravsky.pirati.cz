@@ -7,6 +7,7 @@ title: "Marek Fišer: Nejen kulturou je radní pro kulturu živ. Téma dopravy j
 date: 2021-04-23   # formát YYYY-MM-DD
 author: Marek Fišer
 tags: doprava kultura Brno cyklodoprava Marek-Fišer  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 authorId: marek.fiser # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
