@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: ¨Rozhovor: Moje zkušenost u Pirátů¨
+title: "Rozhovor: Moje zkušenost u Pirátů"
 date: 2021-04-26   # formát YYYY-MM-DD
 author: Krajský MO
 tags: stáž rozhovor zkušenost # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
