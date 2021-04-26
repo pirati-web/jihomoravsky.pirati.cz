@@ -21,9 +21,7 @@ V kybersvětě je často těžké přesně určit původce útoku. Existuje vša
 
 Vrbětice nám ukázaly, že Putinův autoritativní režim se nezastaví před ničím. Je třeba důsledně zohledňovat otázky národní bezpečnosti u strategických nákupů a projektů. 
 
-Myslím tím nejen tolikrát zmiňovaný tendr na Dukovany II, ale i nákupy IT systémů pro kritickou infrastrukturu států a jiných organizací spadajících pod krizový zákon nebo zákon o kybernetické bezpečnosti. Jak silný je vliv Ruska a Číny se ukázalo při odchodu šéfa NÚKIBu Dušana Navrátila, které přišlo po vydání varování před užíváním produktů firmy Huawei. Rád bych připomněl, že firma Huawei byla založena armádními důstojníky čínské armády. Vrbětice by pro nás měly být mementem, že geopolitická bezpečnost musí být základní podmínkou v účasti na tendrech do kritických systémů.
+Myslím tím nejen tolikrát zmiňovaný tendr na Dukovany II, ale i nákupy IT systémů pro kritickou infrastrukturu států a jiných organizací spadajících pod krizový zákon nebo zákon o kybernetické bezpečnosti. Jak silný je vliv Ruska a Číny se ukázalo při odchodu šéfa NÚKIBu Dušana Navrátila, které přišlo po vydání varování před užíváním produktů firmy Huawei. Rád bych připomněl, že firma Huawei byla založena armádními důstojníky čínské armády. Vrbětice by pro nás měly být mementem, že geopolitická bezpečnost musí být základní podmínkou v účasti na tendrech do kritických systémů. Především v situacích kdy se jedná o kritické systémy, bez nichž náš stát není schopen plnohodnotně fungovat. 
 
-
-Jako piráti často voláme po důsledném zvažování bezpečnostních rizik spojených se strategickými nákupy. Oblast kyberbezpečnosti považuji za velmi důležitou. Je to také mé hlavní téma, se kterým kandiduji do Poslanecké sněmovny. Budu se zasazovat o robustní a bezpečnou IT infrastrukturu schopnou odolávat hrozbám jiných státních aktérů. Především v situacích, kdy se jedná o kritické systémy, bez nichž náš stát není schopen plnohodnotně fungovat. Věřím, že společně máme šanci vytvořit bezpečné prostředí pro naše občany i v kyberprostoru. 
 
 [Michal Marciniszyn](https://jihomoravsky.pirati.cz/lide/michal-marciniszyn/){:target="_blank"}
