@@ -7,7 +7,7 @@ title: "Rozhovor: Moje zkušenost u Pirátů"
 date: 2021-04-26   # formát YYYY-MM-DD
 author: Krajský MO
 tags: stáž rozhovor zkušenost # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
-important: true
+
 
 ### Nepovinné položky ###
 image: posts/1.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
