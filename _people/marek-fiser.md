@@ -3,7 +3,7 @@ uid: marek.fiser
 name:     Marek Fišer  	# běžně používáné jméno
 mail:
 - fiser.marek@brno.cz
-mob: 770 195 327
+mob: 776 146 622
 category:                 	# kategorie: kandidat, pks, zastupitel
 - zmckrpole
 - mmb
@@ -12,7 +12,7 @@ ordmmb: 3
 img: people/mara-fiser-new.jpg   # 165 x 220
 img2: people/mara-fiser-new.jpg 
 heroImg: header/palava_krajina.jpg
-description: Radní města Brna pro oblast kultury, manažer, polyglot a zahrádkář 	# kratký popis, max 160 znaků
+description: Radní města Brna pro oblast kultury; předseda výboru Zastupitelstva pro národnostní menšiny; předseda komise pro cestovní ruch, marketing a meziregionální vztahy JMK; místopředseda MS Brno	# kratký popis, max 160 znaků
 
 profiles:
   wiki: https://wiki.pirati.cz/lide/marek_fiser
