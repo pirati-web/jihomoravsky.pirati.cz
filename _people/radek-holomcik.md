@@ -45,3 +45,7 @@ Od roku 2006 do svého zvolení poslancem se zabýval marketingem, pracoval v n�
 Od roku 2010 se pohybuje ve strážnické komunální politice. V rámci spolupráce s několika sdruženími pořádal (či spolupořádal) celou řadu kulturních a společenských akcí.  Osobní motivace ho přivedla ke dvěma velkým tématům - sucho a finanční šmejdi.
 
 Ve volném čase vaří, věnuje se své dceři, hraje na basu a píše.
+
+## Veřejný kalendář
+
+<iframe src="https://calendar.google.com/calendar/embed?src=cj117si2n7ctbjuqn0pddq4c24%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
