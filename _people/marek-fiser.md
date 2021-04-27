@@ -12,7 +12,7 @@ ordmmb: 3
 img: people/mara-fiser-new.jpg   # 165 x 220
 img2: people/mara-fiser-new.jpg 
 heroImg: header/palava_krajina.jpg
-description: Brněnský radní pro kulturu; předseda výboru pro národnostní menšiny; přředseda komise pro cestovní ruch a marketing JMK; místopředseda MS Brno	# kratký popis, max 160 znaků
+description: Brněnský radní pro kulturu; předseda výboru pro národnostní menšiny; předseda komise pro cestovní ruch a marketing JMK; místopředseda MS Brno	# kratký popis, max 160 znaků
 
 profiles:
   wiki: https://wiki.pirati.cz/lide/marek_fiser
