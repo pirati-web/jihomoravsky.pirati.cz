@@ -7,6 +7,7 @@ title: Nový web města - spolehlivější, rychlejší a přehlednější
 date: 2021-04-28   # formát YYYY-MM-DD
 author: Krajský MO
 tags: web Brno digitalizace Tomáš-Koláčný Ondřej-Kotas  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/brnowebfoto.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
