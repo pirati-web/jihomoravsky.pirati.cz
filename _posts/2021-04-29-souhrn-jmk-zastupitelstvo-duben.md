@@ -15,7 +15,7 @@ image: posts/web_zastupitelstvo_jmk.jpg # obrázek ideálně 420x677px minifikov
 
 ---
 
-Dubnové zastupitelstvo nabídlo velké množství atraktivních témat. Pod mnohými jsou podepsáni pirátští zastupitelé a zastupitelky. Vedle mediálně vděčných bodů dotací do životního prostředí a sociální oblasti bychom chtěli vypíchnout i srdcovku Petra Springinfelda v podobě změny jednacího řádu. Ten nyní umožňujel jednání distanční formou. 
+Dubnové zastupitelstvo nabídlo velké množství atraktivních témat. Pod mnohými jsou podepsáni pirátští zastupitelé a zastupitelky. Vedle mediálně vděčných bodů dotací do životního prostředí a sociální oblasti bychom chtěli vypíchnout i srdcovku Petra Springinfelda v podobě změny jednacího řádu. Ten nyní umožňuje jednání distanční formou. 
 
 Pirátský klub se před zasedáním tradičně otestoval a trochu netradičně naplnil charitativní foodboxy trvanlivými potravinami. A my nyní z dubnového zasednání předkládáme TOP výběr naší práce!
 
@@ -27,7 +27,7 @@ Jihomoravský kraj umožnil po startu pandemie velmi bryskně pracovat z domu v�
 
 *„Komu se nelení, tomu se zelení.“*, *„V mělkém rybníce se nedaří velkým rybám.“* To si vzali k srdci jihomoravské obce a rozhodli se využít hozené rukavice v podobě 13 milionového balíku na boj se suchem. Výsledkem je impozantní seznam více než stovky projektů na revitalizace rybníků a výstavby nádrží, péče o vzrostlé stromy i zavádění zavlažovacích systémů po celém kraji. *„První kolo výzvy ukázalo, že obce mají velký zájem s krajem spolupracovat na boji proti suchu, což mě nesmírně těší. Tuto spolupráci chci v oblasti životního prostředí do budoucna určitě dál prohlubovat a obce více vtahovat do řešení sucha v našem kraji,“* říká náměstek pro lidi a přírodu [Lukáš Dubec](https://jihomoravsky.pirati.cz/lide/lukas-dubec/){:target="_blank"}. A hned obeslal jihomoravské obce s originálním dotazníkem: *„Máte zájem ve své obci vybudovat malé vodní plochy? A máte pro ně vhodné umístění?“* Odpovědí dostal několik set. Zájem obcí o tůně, mokřady i obnovy rybníčků potvrdil i on-line seminář kraje, kterého se zúčastnilo na 50 starostek a starostů. 
 
-## **Jednoznačná podpora pro projekty na podporu seniorů, rodin i neformálně pečujících**
+## **Jednoznačné ANO pro projekty na podporu seniorů, rodin i neformálně pečujících**
 
 Zastupitelky a zastupitelé odsouhlasili přidělení balíku dotací na projekty pro seniory, rodiny i pečující. *„Celkem kraj na dotacích rozdělí 7,5 milionu korun mezi 166 úspěšných žadatelů,“* uvedla [Jana Leitnerová](https://jihomoravsky.pirati.cz/lide/jana-leitnerova){:target="_blank"}, radní pro sociální a rodinnou politiku JMK. Finance mají podle Jany směřovat jak na služby rodinných a komunitních center, tak na podporu klubů seniorů a dobrovolnických center. Z dotací míří pobídky v celkové výši 1,5 milionu na projekty pro neformálně pečující. *„Tyto prostředky míří na podporu a poradenství pro ty, kteří se rozhodli pečovat o potřebné například v domácím prostředí. Mým cílem je, aby tato částka do budoucna rostla,“* dodala Jana. Více [ZDE](https://www.kr-jihomoravsky.cz/Default.aspx?ID=436212&TypeID=2){:target="_blank"}.
 
