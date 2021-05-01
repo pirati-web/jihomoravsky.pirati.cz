@@ -15,13 +15,13 @@ image: posts/web_zastupitelstvo_jmk.jpg # obrázek ideálně 420x677px minifikov
 
 ---
 
-Dubnové zastupitelstvo nabídlo velké množství atraktivních témat. Pod mnohými jsou podepsáni pirátští zastupitelé a zastupitelky. Vedle mediálně vděčných bodů dotací do životního prostředí a sociální oblasti bychom chtěli vypíchnout i srdcovku Petra Springinfelda v podobě změny jednacího řádu. Ten nyní umožňuje jednání distanční formou. 
+Dubnové zastupitelstvo nabídlo velké množství atraktivních témat. Pod mnohými jsou podepsáni pirátští zastupitelé a zastupitelky. Vedle mediálně vděčných bodů dotací do životního prostředí a sociální oblasti bychom chtěli vypíchnout i srdcovku Petra Springinsfelda v podobě změny jednacího řádu. Ten nyní umožňuje jednání distanční formou. 
 
 Pirátský klub se před zasedáním tradičně otestoval a trochu netradičně naplnil charitativní foodboxy trvanlivými potravinami. A my nyní z dubnového zasednání předkládáme TOP výběr naší práce!
 
 ## **Distanční účast na jednáních dostala zelenou**
 
-Jihomoravský kraj umožnil po startu pandemie velmi bryskně pracovat z domu všem svým 700 zaměstnancům. Zasedání výborů a komisí ale distanční formou možné nebylo - chyběla příslušná změna Jednacího řádu. Proto se v uplynulém půlroce rušily prakticky všechny schůze. Náš zastupitel Petr Springinsfeld[Petr Springinsfeld](https://jihomoravsky.pirati.cz/lide/petr-springinsfeld){:target="_blank"} se s tím ale nesmířil. Nejprve zajistil dálkový přístup na jednání Výboru pro meziregionální vztahy a následně pomohl vyladit i příslušnou úpravu pravidel. Nepřítomným zastupitelkám a zastupitelům teď budou stačit kartičky “PRO”, “PROTI”, “ZDRŽEL/A SE” a stabilní wi-fi. Více [ZDE](https://jihomoravsky.pirati.cz/aktuality/springinsfeld-kraj-musi-umoznit-dalkove-jednani.html){:target="_blank"}.
+Jihomoravský kraj umožnil po startu pandemie velmi bryskně pracovat z domu všem svým 700 zaměstnancům. Zasedání výborů a komisí ale distanční formou možné nebylo - chyběla příslušná změna Jednacího řádu. Proto se v uplynulém půlroce rušily prakticky všechny schůze. Náš zastupitel [Petr Springinsfeld](https://jihomoravsky.pirati.cz/lide/petr-springinsfeld){:target="_blank"} se s tím ale nesmířil. Nejprve zajistil dálkový přístup na jednání Výboru pro meziregionální vztahy a následně pomohl vyladit i příslušnou úpravu pravidel. Nepřítomným zastupitelkám a zastupitelům teď budou stačit kartičky “PRO”, “PROTI”, “ZDRŽEL/A SE” a stabilní wi-fi. Více [ZDE](https://jihomoravsky.pirati.cz/aktuality/springinsfeld-kraj-musi-umoznit-dalkove-jednani.html){:target="_blank"}.
 
 ## **13 milionů proti suchu: na rybníky i zeleň společně se starosty**
 
