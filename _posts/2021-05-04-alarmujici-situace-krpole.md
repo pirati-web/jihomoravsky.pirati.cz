@@ -13,11 +13,11 @@ image: posts/krpoleweb.jpg # obrázek ideálně 420x677px minifikovaný přes ht
 #description: Na středečním jednání Zastupitelstva městské části Královo Pole jsme projednávali několik sporných bodů, které v nás vyvolávají obavy. Sepsali jsme proto  tento komentář s cílem přiblížit vám aktuální situaci v Králově Poli.
 
 ---
-Na středečním jednání Zastupitelstva městské části Královo Pole jsme projednávali několik sporných bodů, které v nás vyvolávají obavy. Sepsali jsme proto  tento komentář s cílem přiblížit vám aktuální situaci v Králově Poli.
+**Na středečním jednání Zastupitelstva městské části Královo Pole jsme projednávali několik sporných bodů, které v nás vyvolávají obavy. Sepsali jsme proto  tento komentář s cílem přiblížit vám aktuální situaci v Králově Poli.**
 
 # **Chybějící záměr**
 
-Rada předložila zastupitelstvu souhlas s prodejem parcely č. 1205 k.ú. Královo Pole společnosti Kénig Haus, a.s. na základě územní studie od SENNA ARCHITEKTI, s.r.o. Ta měla obsahovat investiční záměr úpravy ulice Veleslavínova. Tato **studie nám však nebyla nikdy předložena**. Na zasedání zastupitelstva nedokázal radní Šolc, ani starostka Karasová vysvětlit, jak hodlá společnost Kénig Haus se získanou parcelou naložit.
+Rada předložila zastupitelstvu souhlas s prodejem parcely č. 1205 k.ú. Královo Pole společnosti Kénig Haus, a.s. na základě územní studie od SENNA ARCHITEKTI, s.r.o. Ta měla obsahovat investiční záměr úpravy ulice Veleslavínova. **Tato studie nám však nebyla nikdy předložena**. Na zasedání zastupitelstva nedokázal radní Šolc, ani starostka Karasová vysvětlit, jak hodlá společnost Kénig Haus se získanou parcelou naložit.
 
 **Tento bod jsme z důvodu chybějící dokumentace navrhli stáhnout z jednání zastupitelstva, dokud nedojde k předložení zmiňované studie.** Koalice nás ignorovala a prodej odhlasovala.  
 
