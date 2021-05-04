@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Alarmující situace v Králově Poli!
+title: Chybějící dokumentace i prodej bytů za směšné ceny. Co tají královopolská koalice?
 date: 2021-05-04   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Brno Královo-Pole zastupitelstvo prodej-bytů Miroslav-Bárta # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
