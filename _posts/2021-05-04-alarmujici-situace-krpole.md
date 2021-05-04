@@ -48,7 +48,7 @@ Dlouhodobým problémem koalice je také nedostatečné informování zastupitel
 
 Na jiných radnicích města Brna je běžnou praxí dodat všechny materiály několik dní před jednáním zastupitelstva. **Proč bychom nemohli aplikovat dobrou praxi i v Králově Poli?** Brání tomu lenost, neznalost či úmysl? 
 
-**Dlouhodobě také prosazujeme jmenovité hlasování jednotlivých radních a zastupitelů**. Zatím neúspěšně. Každý volič má podle nás právo vědět, jak jeho volení zástupci hlasují. Proč se vedení radnice brání větší otevřenosti? Co chce koalice tajit? 
+**Dlouhodobě také prosazujeme jmenovité hlasování jednotlivých radních a zastupitelů**. Zatím neúspěšně. Každý volič má podle nás právo vědět, jak jeho volení zástupci hlasují. **Proč se vedení radnice brání větší otevřenosti? Co chce koalice tajit?** 
 
 
 [Miroslav Bárta](https://jihomoravsky.pirati.cz/lide/miroslav-barta/){:target="_blank"}
