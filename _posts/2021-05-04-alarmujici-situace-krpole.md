@@ -19,13 +19,13 @@ Na středečním jednání Zastupitelstva městské části Královo Pole jsme p
 
 Rada předložila zastupitelstvu souhlas s prodejem parcely č. 1205 k.ú. Královo Pole společnosti Kénig Haus, a.s. na základě územní studie od SENNA ARCHITEKTI, s.r.o. Ta měla obsahovat investiční záměr úpravy ulice Veleslavínova. Tato **studie nám však nebyla nikdy předložena**. Na zasedání zastupitelstva nedokázal radní Šolc, ani starostka Karasová vysvětlit, jak hodlá společnost Kénig Haus se získanou parcelou naložit.
 
-Tento bod jsme z důvodu chybějící dokumentace navrhli stáhnout z jednání zastupitelstva, dokud nedojde k předložení zmiňované studie. Koalice nás ignorovala a prodej odhlasovala.  
+**Tento bod jsme z důvodu chybějící dokumentace navrhli stáhnout z jednání zastupitelstva, dokud nedojde k předložení zmiňované studie.** Koalice nás ignorovala a prodej odhlasovala.  
 
 #**Nevýhodný prodej bytů**
 
 Dalším sporným bodem byl prodej městských bytů. Koalice odhlasovala rozprodání 31 bytů na ulici Pešinova, a to za velmi nevýhodných podmínek. Prodejní cena, za kterou chce městská část byty prodat, je cca 44.000 Kč/m2. Tato částka se ani zdaleka neblíží obvyklé prodejní ceně bytů v naší městské části. Uvolněné byty v tomto domě se navíc rada rozhodla prodat formou nabídkového řízení, tzv. obálkovou metodou. 
 
-Paní Karasová prodej obhajuje tím, že není v zájmu městské části být ve společenství vlastníků jednotek (SVJ). Toto tvrzení je z mého pohledu velice zavádějící. Pokud je z celku 32 bytů prodán pouze jeden byt, tak se SVJ zakládat nemusí. Zákon stanovuje povinnost založit SVJ pouze tehdy, když je v domě vymezeno alespoň pět jednotek, z nichž alespoň tři jednotky jsou ve vlastnictví tří různých vlastníků. To znamená, že tento argument vedení městské části je přinejmenším lichý, pokud ne přímo lživý. Proč se současná koalice v Králově poli snaží zbavit městských bytů s podivným odůvodněním a za podezřele nízké ceny?
+Paní Karasová prodej obhajuje tím, že není v zájmu městské části být ve společenství vlastníků jednotek (SVJ). Toto tvrzení je z mého pohledu velice zavádějící. Pokud je z celku 32 bytů prodán pouze jeden byt, tak se SVJ zakládat nemusí. Zákon stanovuje povinnost založit SVJ pouze tehdy, když je v domě vymezeno alespoň pět jednotek, z nichž alespoň tři jednotky jsou ve vlastnictví tří různých vlastníků. To znamená, že tento **argument vedení městské části je přinejmenším lichý, pokud ne přímo lživý.** Proč se současná koalice v Králově poli snaží zbavit městských bytů s podivným odůvodněním a za podezřele nízké ceny?
 
 Prodej se táhne již od roku 2018, kdy byla vybrána firma na rozprodej těchto městských bytů. Již tendr na výběr firmy byl vyšetřován ÚOHS, v té době byl prodán jednom jeden jediný byt. Druhý byt k prodeji byl koalici umožněn v prosinci 2020, a to shodou okolností bratrovi místostarosty Šolce. Abychom byli féroví je nutno říci, že pan místostarosta se při hlasování v této věci zdržel. Deklaroval svůj střet zájmů, a to jak v radě MČ, tak na zastupitelstvu. 
 
@@ -44,9 +44,9 @@ Naštěstí **se nám tento bod podařilo stáhnout z jednání zastupitelstva**
 
 #**Netransparentní radnice**
 
-Dlouhodobým problémem koalice je také nedostatečné informování zastupitelů. To se opakovalo i na středečním zastupitelstvu, kdy **u několika bodů nebyly dodány důvodové zprávy**, které by vysvětlovaly návrh usnesení. Opakovaně upozorňujeme, že zastupitelé musí mít kompletní informace, aby mohli hlasovat informovaně a zodpovědně.
+Dlouhodobým problémem koalice je také nedostatečné informování zastupitelů. To se opakovalo i na středečním zastupitelstvu, kdy u několika bodů **nebyly dodány důvodové zprávy**, které by vysvětlovaly návrh usnesení. Opakovaně **upozorňujeme, že zastupitelé musí mít kompletní informace**, aby mohli hlasovat informovaně a zodpovědně.
 
-Na jiných radnicích města Brna je běžnou praxí dodat všechny materiály několik dní před jednáním zastupitelstva. Proč bychom nemohli aplikovat dobrou praxi i v Králově Poli? Brání tomu lenost, neznalost či úmysl? 
+Na jiných radnicích města Brna je běžnou praxí dodat všechny materiály několik dní před jednáním zastupitelstva. **Proč bychom nemohli aplikovat dobrou praxi i v Králově Poli?** Brání tomu lenost, neznalost či úmysl? 
 
 **Dlouhodobě také prosazujeme jmenovité hlasování jednotlivých radních a zastupitelů**. Zatím neúspěšně. Každý volič má podle nás právo vědět, jak jeho volení zástupci hlasují. Proč se vedení radnice brání větší otevřenosti? Co chce koalice tajit? 
 
