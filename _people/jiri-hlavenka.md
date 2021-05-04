@@ -45,3 +45,7 @@ Ve volném čase mě zajímá hudba (hlavně jazz, rock a etnická hudba) a biol
 **Priority:**
 
 - Posílení inovativního lídrovství Jihomoravského kraje; proměna regionálního vzdělávání, moderně fungující a digitalizovaná veřejná správa.
+
+## Veřejný kalendář
+
+<iframe src="https://outlook.office365.com/owa/calendar/c3b37951fbba444d99c78ffa1ab6ff0f@kr-jihomoravsky.cz/90dd216fc8fd4a19846f6148072e39e89765342487764736008/S-1-8-1347729853-2895498558-2704589864-3971436485/reachcalendar.html" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
