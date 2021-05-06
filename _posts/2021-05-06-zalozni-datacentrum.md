@@ -24,6 +24,7 @@ Projekt budování druhého datacentra započal již před několika lety a i d�
 <img src="https://a.pirati.cz/jihomoravsky/img/posts/datacentrum2.jpg" alt="Nové datacentrum">
 </a></div>
 
+
 Každé datacentrum je samo o sobě velmi odolné. U počítačových systémů je zásadním problémem výpadek elektrické energie. V obou případech jsou instalovány baterie s kapacitou více než 30 minut a diesel generátor. V případě déletrvajících problémů s dodávkou energie máme možnost připojení i dalších externích zdrojů. Samotné stavby jsou vytvořeny tak, aby odolaly tisícileté povodni. Samozřejmostí pak jsou dvě na sobě nezávislá připojení do metropolitní optické sítě. Dostupnost služeb každého datacentra je tak chráněna i proti narušení optických kabelů na jedné trase. Jde o moderní systém vyhovující standardům pro provoz kritických informačních systémů.
 
 Dokončením tohoto klíčového prvku byl položen další kamínek do mozaiky odolného a kyberneticky bezpečného Brna. Pro mě osobně šlo o klíčový projekt v rámci mého dosavadního působení na pozici předsedy představenstva Technických sítí Brno. Datacentrum umožní další rozšíření služeb, které TSB mohou poskytovat městu a jeho občanům. Bezpečnost a schopnost odolávat katastrofám a útokům je klíčová a jsem rád, že alespoň v oblasti IT jsme se opět posunuli o velký kus dále. Cena vybudování datacentra byla přes 25 milionů korun a ze čtvrtiny ji pokrývá dotace z programu EU OP PIK.
