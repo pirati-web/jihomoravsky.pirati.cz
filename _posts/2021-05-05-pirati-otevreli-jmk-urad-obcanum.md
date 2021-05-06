@@ -7,6 +7,7 @@ title: "Piráti otevřeli Jihomoravský kraj a nabídli občanům otevřená dat
 date: 2021-05-05 # formát YYYY-MM-DD
 author: Krajský MO
 tags: jmk otevřený-úřad lukáš-dubec jiří-hlavenka participace open-data # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 authorId: # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
