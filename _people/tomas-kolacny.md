@@ -40,3 +40,6 @@ Ve svém volném čase se věnuje ochraně přírody, cestování, turistice, fo
 
 Je projaderně zaměřený, zabývá se šířením technologické a informační osvěty. Podporuje plnou legalizaci samopěstování, držení a užívání konopí a ostatních rostlin, které jsou na seznamu zakázaných návykových látek. Podporuje povinné zveřejňování výukových materiálů, které vzniknou na státních středních a vysokých školách za veřejné finanční prostředky.
 
+## Veřejný kalendář:
+
+<iframe src="https://calendar.google.com/calendar/embed?src=48j1q03ib8sslq1go8tst0v2oo%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
