@@ -9,7 +9,7 @@ author: Krajský MO
 tags: Brno cykloopatření Marek-Lahoda cyklodoprava   # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/cyklopodjezd.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/cyklopodjezd.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
@@ -21,9 +21,11 @@ Vybudováním cyklopodjezdu pod silničním mostem tak dojde nejen ke spojení d
 
 Prosadit a dovést k realizaci řešení, která ulehčí život cyklistům, je někdy náročné a o nic lehčí to nebylo ani tady. Pro získání stavebního povolení bylo třeba získat téměř 50 stanovisek, vyjádření a souhlasů od různých subjektů - Povodí Moravy a Českých drah počínaje a všemi správci nejrůznějších kabelů, vodovodních, odpadních a jiných trubek konče. Právě proto příprava tohoto projektu zabrala téměř celou jednu dekádu. 
 
-<div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/planik.jpg" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/planik.jpg" alt="Nové datacentrum">
+
+<div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/planik.png" target="_blank">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/planik.png" alt="Nové datacentrum">
 </a></div>
+
 
 Svou zásluhu na tom mají i Piráti, a to prostřednictvím [Marka Lahody](https://jihomoravsky.pirati.cz/lide/marek-lahoda/){:target="_blank"}. Marek se cykloopatřením věnoval dlouhodobě jako člen spolku Brno na kole a poslední dva roky pokračuje v této práci jako místopředseda městské dopravní komise. Pravidelně se účastní jednání cykloskupin na odboru dopravy a schůzí k chystaným rekonstrukcím ulic. Markovým hlavním tématem je udržitelná doprava a v koaliční smlouvě je díky němu kladen důraz také na rozvoj cyklistické dopravy.
 
