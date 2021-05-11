@@ -7,6 +7,7 @@ title: "Komentář Petra Vlasáka: Město Břeclav i krajský pirátský klub po
 date: 2021-05-10 # formát YYYY-MM-DD
 author: Petr Vlasák
 tags: komentář petr-vlasák národní-plán-obnovy kultura # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 authorId: petr.vlasak # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
