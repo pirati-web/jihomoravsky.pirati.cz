@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Aktuality z Rady města Brna: kultura v létě, architektonický návrh podoby náměstí Míru, ale i studie městského prostředí v době pandemie
+title: "Aktuality z Rady města Brna: kultura v létě, architektonický návrh podoby náměstí Míru, ale i studie městského prostředí v době pandemie"
 date: 2021-05-12   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Rada Brno Tomáš-Koláčný Marek-Fišer aktuality # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
