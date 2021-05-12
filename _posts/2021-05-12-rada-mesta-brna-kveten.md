@@ -10,7 +10,7 @@ tags: Rada Brno Tomáš-Koláčný Marek-Fišer aktuality # kategorie odděleny 
 important: true
 
 ### Nepovinné položky ###
-image: posts/mmb_vchod.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/foto0.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Přinášíme vám shrnutí těch nejzajímavějších bodů, které dnes projednávala Rada města Brna. O mnohá témata se zasadili naši radní, kteří již nyní pracují na podkladech pro následující schůzi. 
 
 ---
