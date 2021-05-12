@@ -7,10 +7,7 @@ mail:
 - filip.vitek@pirati.cz
 img: people/filip_vitek_ctverec_web.jpg   # 165x220px
 heroImg: header/palava_krajina.jpg
-description: vedoucí Mediálního odboru JMK  	# kratký popis, max 160 znaků
-category:  
-- kontaktni_osoba
-contactType: Média
+description:  Trenér osobního rozvoje, expediční průvodce	# kratký popis, max 160 znaků
 
 ### Nepovinné položky
 uid: filip.vitek # identifikátor pro spojení se články (authorId)
