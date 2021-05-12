@@ -21,7 +21,7 @@ image: posts/foto0.jpg # obrázek ideálně 420x677px minifikovaný přes https:
 <img src="https://a.pirati.cz/jihomoravsky/img/posts/foto1.png" alt="Nové datacentrum">
 </a></div>
 
-Brňané se v letních měsících mohou navzdory covidové situaci těšit na bohatý kulturní program, který rozezvučí snad každou ulici. Rada města dnes podpořila čtyři neziskové kulturní organizace a jejich letní open air projekty. Vybranými subjekty se stali BRNO ŽIVĚ, Letní scéna Divadla Bolka Polívky, INDUSTRA OPEN STAGE a BuranTeatr/Error 404. 
+Brňané se v letních měsících mohou navzdory covidové situaci těšit na bohatý kulturní program. Rada města dnes podpořila čtyři letní open air projekty. O hudbu v brněnských ulicích se postará projekt BRNO ŽIVĚ, nezávislá divadla se představí hned na třech letních scénách. Divadlo Bolka Polívky postaví své jeviště na Kraví hoře, INDUSTRA chystá svoji OPEN STAGE v areálu Nové Zbrojovky a BuranTeatr představí svůj projekt Error 404 v areálu minigolfu v Kounicově ulici.
 
 > *„Společenský život se za doby covidu přesunul především k obrazovkám, ale ani sebekvalitnější stream nám nezajistí kulturní zážitek tak, jak ho zažíváme na vlastní kůži. Na druhou stranu, i pro divadelníky, herce, zpěváky nebo jiné performery je neskutečně těžké hrát pro prázdná sedadla. Živá kultura je mikrokosmos sám o sobě a interakce mezi jevištěm a hledištěm je naprosto nenahraditelná. Vznik nových kulturních platforem pod širým nebem vnímám jako jedinečný krok k tomu být spolu a zároveň udělat všechno co můžeme k dodržení hygienických zásad,“ uvedl náš radní pro kulturu [Marek Fišer](https://jihomoravsky.pirati.cz/lide/marek-fiser/){:target="_blank"}.*
 >
