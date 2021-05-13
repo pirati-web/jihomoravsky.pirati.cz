@@ -23,7 +23,7 @@ Za zmínku stojí i to, že z [veřejně přístupných zdrojů ](https://or.jus
 Z výše uvedených důvodů jsme navrhovali bod z jednání zastupitelstva stáhnout do dodání všech podkladů. Koalice i přes to nakonec prodej odhlasovala.
 Pirátům pro Královo Pole ani jako nejsilnější opoziční straně přitom koalice neumožnila účast v komisích týkajících se majetku, investic a bytů. V reakci na naše žádosti o větší transparentnost jen navýšila počet členů v Kontrolním výboru a Redakční radě, čímž potvrdila svou plnou kontrolu a ovládnutí Královopolských listů.
 
-Ptáme se: je to vůbec legitimní přístup k správě věcí veřejných? Jelikož ctíme zásadu transparentnosti, tam, kde jsou ve vedení Piráti, je vždy umožněno zasednout všem stranám ve všech orgánech rady a zastupitelstva. Abychom předešli podobným případům, na Magistrátu města Brna již pracujeme na nových pravidlech prodeje majetku. My se totiž kontroly nebojíme. 
+Ptáme se: je to vůbec legitimní přístup k správě věcí veřejných? Jelikož ctíme zásadu transparentnosti, tam, kde jsou ve vedení Piráti, se vždy snažíme, aby bylo umožněno zasednout všem stranám ve všech orgánech rady a zastupitelstva. Abychom předešli podobným případům, na Magistrátu města Brna již pracujeme na nových pravidlech prodeje majetku. My se totiž kontroly nebojíme. 
 
 [Miroslav Bárta](https://jihomoravsky.pirati.cz/lide/miroslav-barta/){:target="_blank"}
 
