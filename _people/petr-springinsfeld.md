@@ -1,43 +1,48 @@
 ---
-uid: petr.springinsfeld
-name:     Petr Springinsfeld  	# běžně používáné jméno
-category:                 	# kategorie: kandidat, pks, zastupitel
-- pks
+# Název souboru: petr-springinsfeld.md
+
+### Povinné položky ###
+name: Petr Springinsfeld 	# běžně používáné jméno
+mail:
+- petr.springinsfeld@pirati.cz
+img: people/petr_springinsfeld_ctverec_web.jpg   # 165 x 220
+heroImg: header/palava_krajina.jpg
+description: 1. místopředseda krajského sdružení a zastupitel Jihomoravského kraje 	# kratký popis, max 160 znaků
+category: 
+- pks 
 - zjmk
 ordzjmk: 5
 ordpks: 2
 
-img: people/petr_springinsfeld_ctverec_web.jpg   # 165 x 220
-heroImg: header/palava_krajina.jpg
-description: 1. místopředseda krajského sdružení a zastupitel Jihomoravského kraje        	# kratký popis, max 160 znaků
-mail:
-- petr.springinsfeld@pirati.cz
+### Nepovinné položky
+uid: petr.springinsfeld # identifikátor pro spojení se články (authorId)
+
 mob: +420 608 366 554
 profiles:
-  wiki: https://wiki.pirati.cz/lide/petr_springinsfeld
   facebook: https://www.facebook.com/petr.springinsfeld
   instagram: https://www.instagram.com/petr.springinsfeld/
-  compass: https://www.politicalcompass.org/yourpoliticalcompass?ec=0.5&soc=-7.23
   linkedin: https://www.linkedin.com/in/petr-spring/
-  values8: https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=41.5&d=72.3&g=84.2&s=85.3
 
 ---
 
-Petr Springinsfeld (* 12. dubna 1998) je členem Pirátské strany od září 2017. Pochází z Holasic, dlouhodobě žil v Moutnicích, ale od roku 2018 žije v Brně.
+Narodil jsem se 12. dubna 1998 v Brně. Vyrůstal jsem v Holasicích a Moutnicích.
 
-Vystudoval Městské víceleté gymnázium v Kloboukách u Brna a nyní studuje na Právnické fakultě Masarykovy univerzity v Brně.
+Po absolvování víceletého gymnázia v Kloboukách u Brna jsem začal studovat Právnickou fakultu Masarykovy univerzity v Brně. V Brně jsem se také v létě 2017 zapojil do činnosti Pirátské strany, jejímž příznivcem jsem od roku 2015.
 
-Do činnosti Pirátské strany se poprvé zapojil v létě 2017 před volbami do Poslanecké sněmovny. Aktivně se účastnil výjezdů po kraji – rozdával Pirátské listy, bavil se s voliči a fotil.
+Od roku 2017 jsem spolupracoval na všech kampaních Pirátů v Jihomoravském kraji. Piráti si mě zvolili místopředsedou jihomoravského krajského sdružení a také předsedou rozhodčí komise strany.
 
-Od listopadu 2017 do září 2020 pracoval jako asistent poslance Radka Holomčíka.
+V od listopadu 2017 do září 2020 jsem pracoval jako asistent pirátského poslance Radka Holomčíka.
 
-Po komunálních volbách v roce 2018 byl jmenován místopředsedou Komise legislativně organizační Rady města Brna a členem Komise legislativní a organizační Rady MČ Brno-střed. Zároveň se stal členem dozorčí rady společnosti Veletrhy Brno, a.s., která ho zvolila předsedou. V průběhu volebního období byl také jmenován členem Komise Rady města Brna pro chytré a otevřené město.
+V krajských volbách v roce 2020 jsem byl z pozice pětky pirátské kandidátní listiny zvolen zastupitelem Jihomoravského kraje a následně pak předsedou Výboru pro meziregionální vztahy.
 
-V krajských volbách v roce 2020 byl z pozice pětky pirátské kandidátní listiny zvolen do Zastupitelstva Jihomoravského kraje. Na ustavujícím zastupitelstvu byl pak zvolen předsedou Výboru pro meziregionální vztahy.
+Ve volném čase se zajímám o hudbu (hlavně rock a metal), videohry, larp, filmy a karetní triky. Rád čtu knihy a komiksy, vzdělávám se v právu a cestuji. Mám rád zelené čaje a skotskou.
 
-V Pirátské straně je aktuálně předsedou Rozhodčí komise a 1. místopředsedou krajského sdružení Jihomoravského kraje.
+- **Nejoblíbenější místo v Jihomoravském kraji:** Rajhradský klášter, brněnské výstaviště a Jakubské náměstí
 
-Ve volném čase se věnuje karetním trikům a focení. Baví ho také videohry, četba knih a předsedání.
+- **Vize:** Chci, aby Jihomoravský kraj spolupracoval s regiony demokratických zemí, se kterými si může být ve společných tématech vzájemně prospěšný.
 
-Veřejný kalendář:
+- **Priority:** Tvorba koncepce vnějších vztahů Jihomoravského kraje, talent attraction management, smysluplné přeshraniční projekty
+
+## Veřejný kalendář
+
 <iframe src="https://calendar.google.com/calendar/embed?src=ddv8gs5e1q5358gd54g3vt6s74%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
