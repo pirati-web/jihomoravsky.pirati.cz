@@ -14,7 +14,7 @@ image: posts/radnicekrpole.jpg # obrázek ideálně 420x677px minifikovaný pře
 #description: Minulý týden jsme vás informovali o pochybném chování koalice na radnici městské části Královo Pole. Jednalo se o nedoložení veškerých podkladů pro jednání zastupitelstva a o netransparentnost prodeje bytů. Dnes vám přinášíme aktuální informace o vývoji situace.
 
 ---
-**Minulý týden jsme vás informovali o pochybném chování koalice na radnici městské části Královo Pole. Jednalo se o nedoložení veškerých podkladů pro jednání zastupitelstva a o netransparentnost prodeje obecních nemovitostí. Dnes vám přinášíme další informace.**
+**[Minulý týden jsme vás informovali o pochybném chování koalice](https://jihomoravsky.pirati.cz/aktuality/alarmujici-situace-krpole.html){:target="_blank"} týden  na radnici městské části Královo Pole. Jednalo se o nedoložení veškerých podkladů pro jednání zastupitelstva a o netransparentnost prodeje obecních nemovitostí. Dnes vám přinášíme další informace.**
 
 
 Rada městské části svévolně odsouhlasila prodej městského pozemku parc. č. 1205 k. ú. Královo Pole společnosti Kénig Haus, a.s. Tento souhlas měl být udělen na základě územní studie od architektonického ateliéru SENAA ARCHITEKTI, s.r.o., která se však v přiložené dokumentaci pro zastupitele nenacházela. Současně v dokumentových podkladech nebyl zanesen investiční záměr na úpravu ulice Veleslavínova, nenachází se však ani v elektronickém úložišti podkladů pro radu či majetkovou komisi. Na zasedání zastupitelstva nedokázalo vedení radnice vysvětlit, jak hodlá společnost Kénig Haus, a.s., se získaným pozemkem naložit. Rada doporučila prodej parcely jedné konkrétní firmě za cenu určenou znalcem, jehož posudek taktéž nebyl zpřístupněn. A to i přesto, že je všeobecně známo, že dražba bývá zpravidla výhodnější a transparentnější. 
@@ -27,4 +27,6 @@ Pirátům pro Královo Pole ani jako nejsilnější opoziční straně přitom k
 Ptáme se: je to vůbec legitimní přístup k správě věcí veřejných? Jelikož ctíme zásadu transparentnosti, tam, kde jsou ve vedení Piráti, se vždy snažíme, aby bylo umožněno zasednout všem stranám ve všech orgánech rady a zastupitelstva. Abychom předešli podobným případům, na Magistrátu města Brna již pracujeme na nových pravidlech prodeje majetku. My se totiž kontroly nebojíme. 
 
 [Miroslav Bárta](https://jihomoravsky.pirati.cz/lide/miroslav-barta/){:target="_blank"}
+
+
 
