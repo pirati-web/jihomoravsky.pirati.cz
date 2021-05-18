@@ -6,7 +6,7 @@ category: CLANKY   # nešahat!
 title: "Vraťme zemi budoucnost: Piráti a Starostové zahájili kampaň do sněmovny"
 date: 2021-05-18 # formát YYYY-MM-DD
 author: Krajský MO
-tags: pirát-starostové kampaň psp # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: piráti-starostové kampaň volby-2021 # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 authorId: # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
