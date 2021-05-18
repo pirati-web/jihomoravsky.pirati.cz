@@ -27,4 +27,4 @@ Koaliční smlouva mezi Piráty a Starosty byla podepsána 21. ledna tohoto roku
 > *„Ve spojení se STAN vidím velkou naději pro tuto zemi. Chceme společně nabídnout férový, moderní a bezpečný stát 21. století, stát stojící na ekonomice s přidanou hodnotou, který již nebude montovnou, nýbrž mozkovnou. Stát, který nenechá lidi padnout na dno, ale zároveň nebude přespříliš zasahovat do jejich života, pokud si to lidé nebudou sami přát,”* stručně shrnul společné cíle předseda České pirátské strany Ivan Bartoš.
 >
 
-Celé znění programu, které obsahuje téměř sedm desítek bodů, je k vidění na oficiálním koaličním webu [www.piratiastarostove.cz](http://piratiastarostove.cz/){:target="_blank"}.
+Celé znění programu, které obsahuje téměř sedm desítek bodů, je k vidění na oficiálním koaličním webu [www.piratiastarostove.cz](https://www.piratiastarostove.cz/program/){:target="_blank"}.
