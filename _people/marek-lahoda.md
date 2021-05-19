@@ -60,3 +60,8 @@ Jinak mezi jeho hlavní témata patří:
 - evidence-based policy = rozhodování na základě dat, analýz a studií, ne na základě dojmů, peněz a klientelistických vazeb
 
 Máte jakýkoliv dotaz? Chcete se potkat a probrat něco konkrétního? Neváhejte napsat nebo zavolat! :-)
+
+## Veřejný kalendář:
+
+<iframe src="https://calendar.google.com/calendar/embed?src=12e8b9qkiht3b7rn20h66unack%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
