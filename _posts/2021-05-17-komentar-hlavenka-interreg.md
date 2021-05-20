@@ -7,6 +7,7 @@ title: "Komentář Jiřího Hlavenky: Projekty přeshraniční spolupráce pomá
 date: 2021-05-17  # formát YYYY-MM-DD
 author: Jiří Hlavenka
 tags: komentář jiří-hlavenka interreg spolupráce rakousko # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true 
 
 ### Nepovinné položky ###
 authorId: jiri.hlavenka # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
