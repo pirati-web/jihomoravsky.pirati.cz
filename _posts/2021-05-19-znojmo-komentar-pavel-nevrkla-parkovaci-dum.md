@@ -7,6 +7,7 @@ title: "Komentář Pavla Nevrkly: Nekoncepční návrh parkovacího domu na znoj
 date: 2021-05-19  # formát YYYY-MM-DD
 author: Pavel Nevrkla
 tags: komentář znojemsko znojmo pavel-nevrkla parkovací-dům # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 authorId: pavel.nevrkla # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
