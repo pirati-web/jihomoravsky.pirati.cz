@@ -7,6 +7,7 @@ title: První digitální letní kino v Brně
 date: 2021-05-21   # formát YYYY-MM-DD
 author: Krajský MO
 tags: léto kultura kino Brno Marek-Fišer # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/zbrojka.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
