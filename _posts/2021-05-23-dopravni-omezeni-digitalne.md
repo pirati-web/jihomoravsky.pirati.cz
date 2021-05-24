@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Životní cyklus dopravních omezení digitálně!
+title: Životní cyklus dopravních omezení digitálně
 date: 2021-05-23   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Brno Magistrát digitalizace Tomáš-Koláčny Ondřej-Kotas  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
