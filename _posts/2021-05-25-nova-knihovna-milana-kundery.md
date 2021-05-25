@@ -9,7 +9,6 @@ author: Krajský MO
 tags: Brno zastupitelstvo Kundera knihovna Tomáš-Koláčny Marek-Fišer kultura # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-authorId: jana.leitnerova # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: posts/foto2.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Milan Kundera se vrací do Brna! Tedy alespoň částečně – se svojí manželkou chtějí Moravské zemské knihovně věnovat rozsáhlý archiv jeho prací, který se kromě knih pyšní i jeho kresbami. Tato neocenitelná sbírka byla předmětem i dnešního jednání brněnského zastupitelstva, na němž bylo odhlasováno uzavření memoranda s Moravskou zemskou knihovnou.
 
@@ -28,4 +27,4 @@ Pokud jste příznivci autora, který s humorem a kritikou nahlíží na minulý
 > „Velice si vážíme kroku Kunderových věnovat archiv Moravské zemské knihovně. Jako město chceme být samozřejmě u toho a plně se podílet na realizaci návrhu. Proto jsme ani na chvíli neváhali a nabídli jsme naši plnou spolupráci i finanční účast na tomto unikátním projektu. Kundera nepochybně patří k nejvýznamnějším a nejoblíbenějším moderním českým autorům. Za svůj přínos světové literatuře obdržel mnoho ocenění, jeho knihy se dočkaly mnoha překladů a my chceme zajistit, aby si jej pamatovaly i příští generace. Zřízení speciální knihovny pomůže dále pochopit jeho pohled na svět, myšlení a problematiku zachycenou v jeho dílech,“ komentuje pirátský radní pro kulturu [Marek Fišer](https://jihomoravsky.pirati.cz/lide/marek-fiser/){:target="_blank"}. 
 > 
 
-Jako Piráti  [podporujeme rozsáhlou digitalizaci](https://www.pirati.cz/program/dlouhodoby/e-government/){:target="_blank"}. v širokém spektru veřejného života. Na druhou stranu si stále uvědomujeme, že některé hodnoty zkrátka do nul a jedniček převést nejdou. 
+
