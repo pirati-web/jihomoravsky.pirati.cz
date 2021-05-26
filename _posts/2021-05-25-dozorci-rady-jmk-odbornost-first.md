@@ -15,11 +15,11 @@ image: posts/vyberove_rizeni.jpg # obrázek ideálně 420x677px minifikovaný p�
 
 ---
 
-Na post v dozorčí radě firem nebo podniků s majetkovou účastí obcí nebo krajů se stále často díváme skrz prsty. Není se čemu divit. Jedná se totiž většinou o šedou zónu. V rámci ní politické strany obsazují posty členů dozorčích rad, kteří nemusí být odborníci na danou problematiku nebo oblast podnikání konkrétního podniku. Často stačí být za dobře s konkrétními lidmi nebo politickou stranou.
+Na post v dozorčí radě firem nebo podniků s majetkovou účastí obcí nebo krajů se stále často díváme skrz prsty. Existuje ale i jiný přístup.
 
-**Pirátská cesta: transparentně a odborně**
+Piráti v Jihomoravském kraji nominanty do přidělených dozorčích rad vybrali transparentně, v otevřených výběrových řízeních a s důrazem na odbornost. 
 
-Existuje ale i jiná cesta. Piráti v Jihomoravském kraji nominanty do přidělených dozorčích rad vybrali transparentně, v otevřených výběrových řízeních a s důrazem na odbornost. Na základě deseti takových konkurzů se do těchto orgánů dostali odborníci, kteří budou pro fungování dozorčích rad přínosem.
+Na základě konkurzů se do těchto orgánů dostali odborníci, kteří sice často sdílejí pirátské hodnoty, ale do fungování dozorčích rad přinášejí své odborné vize.
 
 **O koho jde? Na tomto místě vám je krátce představíme:**
 
