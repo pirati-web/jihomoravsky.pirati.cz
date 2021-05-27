@@ -10,10 +10,10 @@ tags: Brno světelný-smog data TSB Michal-Marciniszyn Ondřej-Kotas # kategorie
 
 ### Nepovinné položky ###
 image: posts/titulkaweb.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
-#description: ýpadek proudu? Šetření energií? Nikoli! Před měsícem se celé Brno ponořilo do tmy. Zhasli jsme více než 40 tisíc lamp veřejného osvětlení, abychom zjistili, jak se město podílí na světelném znečištění.
+#description: Před měsícem se celé Brno ponořilo do tmy. Výpadek proudu? Šetření energií? Nikoli! Zhasli jsme více než 40 tisíc lamp veřejného osvětlení, abychom zjistili, jak se město podílí na světelném znečištění.
 
 ---
-**Výpadek proudu? Šetření energií? Nikoli! Před měsícem se celé Brno ponořilo do tmy. Zhasli jsme více než 40 tisíc lamp veřejného osvětlení, abychom zjistili, jak se město podílí na světelném znečištění.** 
+**Před měsícem se celé Brno ponořilo do tmy. Výpadek proudu? Šetření energií? Nikoli! Zhasli jsme více než 40 tisíc lamp veřejného osvětlení, abychom zjistili, jak se město podílí na světelném znečištění.** 
 
 Zhasnutí veřejného osvětlení a následné snímkování nočního Brna pomocí letadla poskytlo magistrátu a odborníkům cenné poznatky, včetně specializované ortofotomapy. V průběhu noci se snížil světelný jas až o 55 % a ukázalo se, že úroveň nočního světla více ovlivňují subjekty mimo správu města Brna. Skutečného nulového osvětnění nelze v Brně dosáhnout, ale město se chce alespoň částečně přiblížit čisté noční obloze. 
 
