@@ -67,7 +67,7 @@ Na základě konkurzů se do těchto orgánů dostali odborníci, kteří sice �
 >
 
 ## Adam Zemek
-člen dozorčí rady společnosti Kordis JMK
+člen představenstva společnosti Kordis JMK
 
 >Díky Kordis JMK se každý den veřejnou linkovou dopravou přepraví tisíce lidí. Veřejná doprava je celoživotním tématem i Adama Zemka, který spravuje několik velkých dopravních webů a dlouhodobě brigádně pracuje v brněnském Dopravním podniku. Zkušenosti sbíral i přímo v Kordisu, kde pomáhal s dopravními průzkumy a s tvorbou informačních a marketingových materiálů. Stál také u zrodu první mobilní aplikace pro on-line sledování polohy vozů IDS JMK iRIS. V posledních více jak dvou letech je členem Představenstva Dopravního podniku města Brna a členem Pirátské strany.
 >
