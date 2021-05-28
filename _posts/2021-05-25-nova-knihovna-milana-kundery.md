@@ -7,6 +7,7 @@ title: Vznikne nová Knihovna Milana Kundery
 date: 2021-05-25   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Brno zastupitelstvo Kundera knihovna Tomáš-Koláčny Marek-Fišer kultura # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/foto2.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
