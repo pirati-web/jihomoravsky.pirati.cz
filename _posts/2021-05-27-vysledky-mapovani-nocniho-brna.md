@@ -7,6 +7,7 @@ title: Máme výsledky nočního snímkování světelného smogu
 date: 2021-05-27   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Brno světelný-smog data TSB Michal-Marciniszyn Ondřej-Kotas # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/titulkaweb.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
