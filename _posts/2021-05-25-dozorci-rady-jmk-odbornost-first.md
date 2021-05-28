@@ -7,7 +7,7 @@ title: "Představujeme členy dozorčích rad v jihomoravských krajských firm�
 date: 2021-05-25  # formát YYYY-MM-DD
 author: Krajský MO
 tags: jmk dozorčí-rady transparentnost # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
-important: true
+
 
 ### Nepovinné položky ###
 authorId:  # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
