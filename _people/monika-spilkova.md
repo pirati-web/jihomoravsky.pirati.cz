@@ -30,15 +30,19 @@ notsupporting:
 reason: O veřejné dění se zajímám dlouhodobě, avšak vývoj na politické scéně posledních let a zkušenosti s podnikatelskou realitou mne posunuly k bodu, v němž cítím, že již nestačí diskutovat a kritizovat, ale začít se na příběhu naší země aktivně podílet.
 ---
 
-Monika Spilková (\* 11. ledna 1987 v Brně) je členkou krajského sdružení Pirátů v Jihomoravském kraji a místního sdružení Brno.
+Monika Lukášová Spilková (*1987 v Brně) je 1. místopředsedkyní místního sdružení Brno a členkou krajského sdružení Pirátů v Jihomoravském kraji.
 
-Je absolventkou Právnické fakulty MU, a to specializací Právo a podnikání, Mezinárodní obchod a Právní vztahy k nemovitostem a také Filozofické fakulty MU, kde v současné době dokončuje doktorské studium na katedře Dějin umění, specializuje se na fotografii. Ve svých publikacích se věnovala tématu graffiti a street artu z pohledu uměleckohistorického a legislativního, zejména situaci po zavedení tzv. sprejerského paragrafu, dále etickým otázkám zobrazení osob v dokumentární a žurnalistické fotografii i problematice zpravodajské a umělecké licence v kontrastu svobody projevu na straně jedné a ochraně osobnosti na straně druhé. Ve své dizertační práci se zaměřila na českou dokumentární fotografii.
+V roce 2018 byla za Piráty zvolena zastupitelkou městské části Brno-střed, kde působí jako předsedkyně kontrolního výboru. Piráty reprezentuje také jako předsedkyně kulturní komise. 
 
-Jako OSVČ se věnuje grafice a fotografii, v současné době zejména postprodukci snímků, dále několik let provozuje v Brně malou vinárnu.
+Jako OSVČ se věnuje grafice a fotografii a od roku 2013 také provozuje v Brně malou vinárnu.
 
-V rámci svých aktivit v Pirátské straně se chce věnovat zejména problematice podnikání a neveselé legislativní i praktické situaci, v níž se podnikatelé v současné době nacházejí, a to jak na komunální, tak celostátní úrovni. Konkrétně se hlouběji zajímá o komplikace spojené s novelou vinařského zákona, obecně dále o téma omezování svobody podnikání, daňové otázky či povinnou evidenci tržeb, nebo o fenomén zneužívání zajišťovacích příkazů současnou finanční správou. Chladnou ji nenechává ani problematika autorských práv a subjektů, pověřených k výběru výpalného, přičemž se jí samotné podařilo ve své provozovně vyhrát souboj s Intergramem a získat posvěcení pro licenci Jamendo. Obrátit se na ni ale můžete s jakoukoliv komplikací či šikanou v podnikatelské sféře ve všech oborech. Vzhledem ke svému letitému zájmu o výtvarné umění se má v plánu věnovat také tématům z kultury.
+Je absolventkou Právnické fakulty MU (specializací Právo a podnikání, Mezinárodní obchod a Právní vztahy k nemovitostem) a Filozofické fakulty MU, kde absolvovala obor Dějiny umění a také získala ve stejném oboru doktorský titul.Ve své dizertační práci se věnovala české dokumentární fotografii. 
 
-Mimo pracovní úkoly svůj čas nejraději věnuje senzorické analýze vína, nejlépe v dobré společnosti, cestování v co největší možné míře a politickým diskuzím, ideálně pak kombinaci těchto aktivit. V Brně také často sportuje a navštěvuje výstavy a kina.
+Ve dalších publikacích pracovala s tématy jako graffiti a street art z pohledu uměleckohistorického a legislativního, zejména se zaměřovala na situaci po zavedení tzv. sprejerského paragrafu. K dalším tématům patřily etické otázky zobrazení osob v dokumentární a žurnalistické fotografii i problematika zpravodajské a umělecké licence v kontrastu svobody projevu na straně jedné a ochraně osobnosti na straně druhé. 
 
+Mimo již zmíněné aktivity v Pirátské straně se zajímá o problematiku podnikání, a to jak na komunální, tak celostátní úrovni. Chladnou ji nenechávají zejména komplikace spojené s novelou vinařského zákona, dále téma omezování svobody podnikání obecně a v neposlední řadě problematika autorských práv a subjektů, pověřených výběrem výpalného, přičemž jí samotné se podařilo ve své provozovně vyhrát souboj s Intergramem a získat posvěcení pro licenci Jamendo. 
 
-Má ráda suché Ryzlinky, jízdu na skútru a Davida Bowieho.
+Mimo pracovní úkoly svůj čas nejraději věnuje senzorické analýze vína, nejlépe v dobré společnosti, cestování kdykoliv jí to práce dovolí a politickým diskuzím, ideálně pak kombinaci těchto aktivit. Často také sportuje a navštěvuje výstavy a kina.
+
+Má ráda suché ryzlinky, jízdu na skútru a Davida Bowieho.
+
