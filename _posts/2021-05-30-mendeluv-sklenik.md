@@ -23,7 +23,7 @@ I proto se tento společný česko-rakouský projekt přeshraniční spolupráce
 > „Projekt Mendelova skleníku je nejen uctěním památky otce genetiky, ale současně vytvoří v Brně místo s pestrým a hlavně trvalým společensko-vědním využitím, které zde dosti chybělo," dodal [Jiří Hlavenka](https://jihomoravsky.pirati.cz/lide/jiri-hlavenka/){:target="_blank"}, který je zástupcem Jihomoravského kraje v Interregu.
 > 
 
-> „Výstupem měkkých aktivit projektu bude strategický plán využití skleníku. Ve spolupráci se všemi partnery bude postupně tento plán rozpracován do detailů se záměrem zajistit udržitelnost projektu a komplexní celospolečenské zapojení obyvatelstva příhraničních regionů do naplňování jeho cílů. Počítáme také s realizací workshopů k vytvoření tohoto strategického plánu,“ uvedl náš náměstek [Tomáš Koláčny](https://jihomoravsky.pirati.cz/lide/tomas-kolacny/){:target="_blank"}.
+> „Výstupem měkkých aktivit projektu bude strategický plán využití skleníku. Ve spolupráci se všemi partnery bude postupně tento plán rozpracován do detailů se záměrem zajistit udržitelnost projektu a komplexní celospolečenské zapojení obyvatelstva příhraničních regionů do naplňování jeho cílů. Počítáme také s realizací workshopů k vytvoření tohoto strategického plánu,“ uvedl náš náměstek primátorky [Tomáš Koláčny](https://jihomoravsky.pirati.cz/lide/tomas-kolacny/){:target="_blank"}.
 >
 
 Hlavní atrakcí celého projektu bude obnovený Mendelův skleník. Bude se jednat  o unikátní místo, které bude Brňanům sloužit jako prostor pro [vzdělávací a společenské akce](https://www.brno.cz/brno-aktualne/tiskovy-servis/tiskove-zpravy/a/brno-se-stane-soucasti-preshranicniho-projektu-pripominajiciho-odkaz-gregora-johanna-mendela-vysled/){:target="_blank"}.
