@@ -2,7 +2,7 @@
 # Název souboru: jmeno-prijmeni.md
 
 ### Povinné položky ###
-name:     Anna Pivodová  	# běžně používáné jméno
+name:     Anna Kraus 	# běžně používáné jméno
 titles:
   before: 
   after:
