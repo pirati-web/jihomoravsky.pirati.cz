@@ -29,6 +29,6 @@ I proto se tento společný česko-rakouský projekt přeshraniční spolupráce
 
 Hlavní atrakcí celého projektu bude obnovený Mendelův skleník. Bude se jednat  o unikátní místo, které bude Brňanům sloužit jako prostor pro [vzdělávací a společenské akce](https://www.brno.cz/brno-aktualne/tiskovy-servis/tiskove-zpravy/a/brno-se-stane-soucasti-preshranicniho-projektu-pripominajiciho-odkaz-gregora-johanna-mendela-vysled/){:target="_blank"}.
 
-> „Věda je jedna z klíčových oblastí, které je nutné prosazovat i na obecní úrovni. K tomu jsme se zavázali i v našem [v našem volebním programu do komunálních voleb v roce 2018](https://a.pirati.cz/jihomoravsky/pdf/brno-program.pdf){:target="_blank"} a jsem rád, že se nám daří tento bod prosazovat,“ uzavřel Tomáš.
+> „Věda je jedna z klíčových oblastí, které je nutné prosazovat i na obecní úrovni. K tomu jsme se zavázali i [v našem volebním programu do komunálních voleb v roce 2018](https://a.pirati.cz/jihomoravsky/pdf/brno-program.pdf){:target="_blank"} a jsem rád, že se nám daří tento bod prosazovat,“ uzavřel Tomáš.
 > 
 
