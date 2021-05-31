@@ -7,6 +7,7 @@ title: Mendelův skleník opět ožije!
 date: 2021-05-31   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Brno Mendel Jiří-Hlavenka Tomáš-Koláčný # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/sklenik.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
