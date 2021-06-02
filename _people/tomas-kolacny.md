@@ -14,6 +14,7 @@ ordpms: 3
 ordmmb: 1
 ordmsbrno: 1
 ordumczidenice: 1
+contactType: Média
 mob: 773 661 244
 img: people/new_tomas_kolacny.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
