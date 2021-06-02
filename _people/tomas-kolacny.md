@@ -9,6 +9,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - mmb
 - msbrno
 - zmczidenice
+- kontaktni_osoba
 ordpms: 3
 ordmmb: 1
 ordmsbrno: 1
@@ -17,9 +18,6 @@ mob: 773 661 244
 img: people/new_tomas_kolacny.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: Náměstek primátorky, předseda brněnského místního sdružení a vedoucí Mediálního odboru JMK # kratký popis, max 160 znaků
-category:  
-- kontaktni_osoba
-contactType: Média
 mail:
 - tomas.kolacny@pirati.cz
 profiles:
