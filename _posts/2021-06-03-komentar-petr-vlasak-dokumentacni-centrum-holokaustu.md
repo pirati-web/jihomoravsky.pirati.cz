@@ -15,9 +15,9 @@ image: posts/jed_vasem.png # obrázek ideálně 420x677px minifikovaný přes ht
 
 ---
 
-Na jižní Moravě se něco chystá. Něco, co kraj dalece přesahuje a má ambici mazat hranice mezi minulostí, porozuměním současnosti a vnímáním budoucnosti. Konkrétně hovořím o plánovaném Dokumentačním centru holocaustu na Moravě. 
+Na jižní Moravě se něco chystá. Něco, co kraj dalece přesahuje a má ambici mazat hranice mezi minulostí, porozuměním současnosti a vnímáním budoucnosti. Konkrétně hovořím o plánovaném Dokumentačním centru holokaustu na Moravě. 
 
-Toto téma totiž rozhodně není vyčerpané zaprášenou expozicí věnující se hrůzám holocaustu. Jsem přesvědčený, že je extrémně důležité období holokaustu připomínat právě na Moravě, která je s historickou přítomností Židů pevně spojena, ale až na pár pionýrských projektů není příliš zmapována. Právě díky židovské komunitě jižní Morava zažila v minulosti nevídaný růst a rozvoj, o kterém ale není v širším povědomí Jihomoravanů stopa. A právě to chce tento projekt změnit.
+Toto téma totiž rozhodně není vyčerpané zaprášenou expozicí věnující se hrůzám holokaustu. Jsem přesvědčený, že je extrémně důležité období holokaustu připomínat právě na Moravě, která je s historickou přítomností Židů pevně spojena, ale až na pár pionýrských projektů není příliš zmapována. Právě díky židovské komunitě jižní Morava zažila v minulosti nevídaný růst a rozvoj, o kterém ale není v širším povědomí Jihomoravanů stopa. A právě to chce tento projekt změnit.
 
 Na projekt se lze dívat různou optikou. Coby předseda kulturní komise na kraji vnímám jako zásadní plánovaný přístup k expozici, která má být pro návštěvníky, a to zejména pro mladé ročníky, nezapomenutelnym prožitkem. 
 
@@ -33,6 +33,6 @@ Teď před námi leží praktičtější otázky - a to zejména zafinancování
 
 V případě Jihomoravského kraje by se mělo jednat o spolupráci na uspořádání mezinárodní architektonické soutěže částkou 5 milionů Kč z rozpočtu pro rok 2022. Posléze by pak mělo jít o finanční závazek 500.000 Kč ročně na provozní náklady spojené bezprostředně s činností směřující k zbudování Dokumentačního centra holokaustu na Moravě. 
 
-Za pirátský zastupitelský klub i kulturní komisi mohu říct, že tento projekt rádi podpoříme. Díky Dokumentačnímu centru holocaustu a židovské přítomnosti na Moravě totiž můžeme pochopit své kořeny v minulosti, jejich vliv na současnost a lépe se starat o to, jak bude vypadat naše budoucnost.
+Za pirátský zastupitelský klub mohu říct, že tento projekt rádi podpoříme. Díky Dokumentačnímu centru holokaustu a židovské přítomnosti na Moravě totiž můžeme pochopit své kořeny v minulosti, jejich vliv na současnost a lépe se starat o to, jak bude vypadat naše budoucnost.
 
 
