@@ -7,6 +7,7 @@ title: "Menstruační chudoba? Dotknout se může každé ženy na světě"
 date: 2021-06-04 # formát YYYY-MM-DD
 author: Jana Leitnerová
 tags: až-na-krev menstruační-chudoba jana-leitnerová # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 authorId: jana.leitnerova # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
