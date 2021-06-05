@@ -7,6 +7,7 @@ title: "Komentář Petra Vlasáka: Dokumentační centrum holocaustu na jižní 
 date: 2021-06-03 # formát YYYY-MM-DD
 author: Petr Vlasák
 tags: komentář petr-vlasák muzeum holokaust # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 authorId: petr.vlasak # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
