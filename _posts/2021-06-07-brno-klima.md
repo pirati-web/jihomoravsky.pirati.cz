@@ -10,7 +10,7 @@ tags: klima ochrana Brno životní-prostředí Tomáš-Koláčný # kategorie od
 
 ### Nepovinné položky ###
 image: posts/klimaweb.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
-#description: Brno bude v následujících letech spolupracovat s Akademií věd ČR na výzkumu klimatických dopadů na prostředí města. Pirátský záměr na zmírnění klimatické změny a kvalitní zpracování dat se setkal s kladnou odezvou u dalších radních a spolupráce bude potvrzena během následujících týdnů.Našim cílem je z Brna vytvořit moderní město, kde se jeho obyvatelům bude žít dobře. 
+#description: Brno bude v následujících letech spolupracovat s Akademií věd ČR na výzkumu klimatických dopadů na prostředí města. Pirátský záměr na zmírnění klimatické změny a kvalitní zpracování dat se setkal s kladnou odezvou a spolupráce bude potvrzena během následujících týdnů.Našim cílem je z Brna vytvořit moderní město, kde se jeho obyvatelům bude žít dobře. 
 
 ---
 **Brno bude v následujících letech spolupracovat s Akademií věd ČR na výzkumu klimatických dopadů na prostředí města. Pirátský záměr na zmírnění klimatické změny a kvalitní zpracování dat se setkal s kladnou odezvou u dalších radních a spolupráce bude potvrzena během následujících týdnů. Našim cílem je z Brna vytvořit moderní město, kde se jeho obyvatelům bude žít dobře.** 
