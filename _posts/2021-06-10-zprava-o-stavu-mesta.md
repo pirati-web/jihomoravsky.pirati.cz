@@ -22,13 +22,17 @@ Brno každoročně vydává souhrnou Zprávu o stavu města s cílem předat ve�
 
 Poprvé budou moci návštěvníci venkovní interaktivní výstavu rozpohybovat díky použití rozšířené reality, kdy více než polovina obrázků za pomoci chytrého telefonu ožije nebo se zájemcům zobrazí doplňující informace. Pokud budete chtít znát detailní přehled statistik a ponořit se do všech čísel ještě hlouběji, než nabízí venkovní výstava, navštivte [nový web Zprávy o stavu města.](https://storymaps.arcgis.com/stories/315d31b0b008452a955eabde7d094963){:target="_blank"}.
 
-Jak si tedy Brno loni vedlo? Přečetli jsme za vás
+Jak si tedy Brno loni vedlo? 
 - Oficiálně ve městě žije celkem 382 405 Brňanů a Brňanek. 
 - Počet vysokoškolských studentů poprvé od roku 2011 stoupl. Nyní jich v Brně studuje téměř 65 tisíc.
 - Významně poklesla kriminalita. Trestných činů bylo nejméně od roku 1989.
 - Počet dopravních nehod se snížil i přes velký pokles dopravy jen mírně. V roce 2020 bylo v Brně 2 388 dopravních nehod.
 - Požárů bylo v roce 2020 celkem 456, což je nejméně za 5 let. 
 - Loňský rok byl pátý nejteplejší v historii měření (od roku 1961). Byl však rovněž třetí nejdeštivější a z vláhy se tak mohlo těšit 69 nových zelených střech o celkové výměře 9 348 m2. 
+
+<div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/zpravadata.png" target="_blank">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/zpravadata.png" alt="Nové datacentrum">
+</a></div>
 
 > „Chtěl bych Vás všechny srdečně pozvat na venkovní výstavu Zprávy o stavu města Brna. Expozice nabízí mnoho zajímavých a důležitých informací o fungování  a kondici města v uplynulém roce. Velká část vizualizovaných statistik jsou zároveň ukazatele sledující pokrok ve schválené strategii města Brno #brno2050. Jedná se tak i o kontrolní indikátor naší práce pro občany. Novinkou je vizualizace pomocí tzv. rozšířené reality, kterou mohou návštěvníci vyzkoušet na Moravském náměstí,” zmínil náměstek primátorky [Tomáš Koláčný](https://jihomoravsky.pirati.cz/lide/tomas-kolacny/){:target="_blank"}.
 > 
