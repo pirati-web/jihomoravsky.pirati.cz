@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: "Podnikavost do škol: Jihomoravský kraj prosazuje "měkké dovednosti" ve školních osnovách"
+title: "Podnikavost do škol: Jihomoravský kraj prosazuje „měkké dovednosti“ ve školních osnovách"
 date: 2021-06-10 # formát YYYY-MM-DD
 author: Krajský MO
 tags: podnikavost jiří-hlavenka lipka vzdělávání # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
