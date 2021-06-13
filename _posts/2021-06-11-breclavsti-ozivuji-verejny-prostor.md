@@ -7,6 +7,7 @@ title: "Břeclavští Piráti oživují veřejný prostor: svépomocí opravili 
 date: 2021-06-11 # formát YYYY-MM-DD
 author: Krajský MO
 tags: slovácko břeclav veřejný-prostor magda-lengálová dušan-hanuš romana-němcová # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 authorId:  # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
