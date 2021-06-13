@@ -7,6 +7,7 @@ title: "Podnikavost do škol: Jihomoravský kraj prosazuje „měkké dovednosti
 date: 2021-06-10 # formát YYYY-MM-DD
 author: Krajský MO
 tags: podnikavost jiří-hlavenka lipka vzdělávání # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 authorId: # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
