@@ -30,7 +30,7 @@ mapIframeLink: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2606.652223
 
 - společenská a školící místnost
 - kancelář poslance Tomáše Vymazala
-- kanceláře europoslanců Markéty Gregorové, Marcela Kolaje a Mikuláše Peksy
+- kanceláře europoslanců Markéty Gregorové, Marcela Kolaji a Mikuláše Peksy
 
 ## Akce
 
