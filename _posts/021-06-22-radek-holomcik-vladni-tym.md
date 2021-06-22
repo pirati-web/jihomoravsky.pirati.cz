@@ -7,6 +7,7 @@ title: "Radek Holomčík: Konec šikany zemědělců, důraz na udržitelnost a 
 date: 2021-06-22   # formát YYYY-MM-DD
 author: Krajský MO
 tags: volby-2021 vládní-tým Piráti zemědělství Radek-Holomčík # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/radekweb.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
