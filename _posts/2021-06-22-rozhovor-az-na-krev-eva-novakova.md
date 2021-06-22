@@ -7,7 +7,7 @@ title: "#Rozhovor AŽNAKREV: 10 dní sbírky zajistilo kalíšek 100 ženám v n
 date: 2021-06-22  # formát YYYY-MM-DD
 author: Krajský MO
 tags: rozhovor až-na-krev eva-nováková # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
-important: true
+
 
 ### Nepovinné položky ###
 authorId:  # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
