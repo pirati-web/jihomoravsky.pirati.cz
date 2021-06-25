@@ -15,7 +15,7 @@ address: |
   60200 Brno
 addressNote:
 contactPersons:
-  - id: vendula.svobodova
+  - id: marketa.tvrda
     description: Správce co-worku
 residenceImg: header/spice_residence_brno.jpg
 calendarId: aab301nnugmna65grbnt6jv18k@group.calendar.google.com
