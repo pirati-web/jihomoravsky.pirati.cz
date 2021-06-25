@@ -10,7 +10,7 @@ heroDescription: V Brně jsme otevřeli nové pirátské centrum pod zkratkou Š
 heroImg: header/spice_jmk_1.jpg
 img: header/spice_jmk_1.jpg
 address: |
-  Pirate Space Brno
+  Pirátské centrum Brno - ŠPiCe
   Lidická 81 (3. patro)
   60200 Brno
 addressNote:
