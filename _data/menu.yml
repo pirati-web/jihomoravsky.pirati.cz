@@ -25,6 +25,17 @@ main:
   - link: /regiony/
     name: Místní sdružení
     match: regiony
+  - name: Volby 2021
+    submenu:
+    - link: "https://www.piratiastarostove.cz"
+      name: Piráti a Starostové
+      match: kandidatka
+    - link: "https://www.piratiastarostove.cz/kandidati/kraj/jihomoravsky/"
+      name: Krajská kandidátní listina
+      match: kandidatka
+    - link: /volby-2021/
+      name: Cesta k Parlamentu
+      match: volby-2021
   - link: /kontakt/
     name: Kontakt
     match: kontakt
@@ -34,7 +45,7 @@ bottom:
     links:
        - link: /lide/
          name: Naši lidé
-       - link: /regiony/ 
+       - link: /regiony/
          name: Místní sdružení
 #       - link: /program/
 #         name: Dlouhodobý program
@@ -46,7 +57,7 @@ bottom:
       - link: /aktuality/
         name: Aktuality
       - link: https://calendar.google.com/calendar/embed?src=aab301nnugmna65grbnt6jv18k%40group.calendar.google.com&ctz=Europe%2FPrague
-        name: Kalendář 
+        name: Kalendář
   - class: small-12 medium-4
     title: Otevřenost
     links:
