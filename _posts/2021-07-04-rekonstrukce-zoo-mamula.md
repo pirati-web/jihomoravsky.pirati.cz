@@ -11,7 +11,7 @@ important: true
 
 ### Nepovinné položky ###
 authorId: lukas.mamula # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-image: posts/zoomamula.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/mamulkazoo.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Pamatujete si na ty typické víkendové rodinné výlety do ZOO za zvířaty a poté k vodě na přehradu? Vzpomínky na dětství však zůstaly v časech minulých stejně tak jako podoba naší ZOO.
 ---
 Pamatujete si na ty typické víkendové rodinné výlety do ZOO za zvířaty a poté k vodě na přehradu? Vzpomínky na dětství však zůstaly v časech minulých stejně tak jako podoba naší ZOO.
