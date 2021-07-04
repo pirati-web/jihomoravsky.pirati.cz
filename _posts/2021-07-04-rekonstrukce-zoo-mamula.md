@@ -7,6 +7,7 @@ title: "Komentář Lukáše Mamuly: Brněnská ZOO se dočká velkých změn"
 date: 2021-07-04   # formát YYYY-MM-DD
 author: Lukáš Mamula
 tags: komentář ZOO rekonstrukce Lukáš-Mamula # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 authorId: lukas.mamula # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
