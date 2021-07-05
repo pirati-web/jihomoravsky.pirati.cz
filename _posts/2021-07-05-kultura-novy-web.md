@@ -21,6 +21,4 @@ Odbor kultury pod jeho vedením koordinuje řadu vlastních projektů. Ať už j
 
 *„Důležitou součástí nového webu je interaktivní mapa Kam za kulturou. Ta obsahuje několik tematických vrstev, které návštěvníkovi umožní si zvolit interaktivní kulturní trasu a mapu následně vytisknout, uložit nebo sdílet. Do mapy jsou zaneseny nejen městské, ale i soukromé instituce ze všech kulturních odvětví. Používáme gisové mapy a různé vrstvy. Můžete si tak navolit například i bezbariérovou kulturní procházku městem,”* popisuje [Marek Fišer](https://jihomoravsky.pirati.cz/lide/marek-fiser/){:target="_blank"} a dodává, že všechny aplikace odbor kultury ve spolupráci s odborem městské informatiky a dalšími subjekty stále vyvíjí.
 
-*„V zásobě máme spoustu dalších nápadů a věcí, na kterých průběžně pracujeme. Budeme rádi, když se na stránkách přihlásíte k odběru našeho měsíčního newsletteru, případně nás budete sledovat na Facebooku Kultura Brno,”* uzavírá radní [Fišer](https://jihomoravsky.pirati.cz/lide/marek-fiser/){:target="_blank"}. 
-
-
+*„V zásobě máme spoustu dalších nápadů a věcí, na kterých průběžně pracujeme. Budeme rádi, když se na stránkách přihlásíte k odběru našeho měsíčního newsletteru, případně nás budete sledovat na Facebooku [Kultura Brno](https://www.facebook.com/brnoculture){:target="_blank"},”* uzavírá radní [Fišer](https://jihomoravsky.pirati.cz/lide/marek-fiser/){:target="_blank"}. 
