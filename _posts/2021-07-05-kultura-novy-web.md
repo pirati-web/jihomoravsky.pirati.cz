@@ -9,7 +9,7 @@ author: Krajský MO
 tags: kultura Brno web Marek-Fišer # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/kulturaweb.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/kulturnimapa.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Přinášíme  dobrou zprávu pro všechny milovníky kultury. Odbor kultury Magistrátu města Brna, jež má v gesci náš radní Marek Fišer, spouští nový web kultura.brno.cz. Naleznete zde nejen veškeré informace o projektech, které Odbor kultury v našem městě spravuje. Díky nové interaktivní mapě si budete moci třeba ušít na míru vlastní kulturní procházku Brnem.  
 
 ---
