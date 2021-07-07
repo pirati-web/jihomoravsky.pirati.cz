@@ -6,7 +6,7 @@ category: CLANKY   # nešahat!
 title: Rozhovor s lídry Jihomoravského kraje Radkem Holomčíkem a Janou Krutákovou
 date: 2021-07-07   # formát YYYY-MM-DD
 author: Krajský MO
-tags: rozhovor kandidáti JMK Radek-Holomčík Jana-Krutáková # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: rozhovor kandidáti JMK volby2021 Radek-Holomčík Jana-Krutáková # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 important: true
 
 ### Nepovinné položky ###
