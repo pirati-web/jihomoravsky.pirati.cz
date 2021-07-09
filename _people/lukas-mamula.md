@@ -35,7 +35,7 @@ motto: ["Nechme budoucnost rozhodnout o pravdě, nechme ji ohodnotit každou pra
 
 ---
 
-Narodil jsem se 12. června 1987 v Brně, kde žiji dodnes.
+Narodil jsem se 12. června 1987 v Brandýse nad Labem a do Brna jsem se přistěhoval v roce 2012.
 
 V roce 2013 jsem získal magisterský titul z informatiky a výpočetní techniky. Následovalo postgraduální studium, kde jsem se zaměřil na tvorbu umělé inteligence a robotiku. Tento stupeň studia jsem nedokončil.
 
