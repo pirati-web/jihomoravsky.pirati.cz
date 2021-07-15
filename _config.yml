@@ -56,7 +56,7 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/cps.jmk
+  profilePage: https://www.facebook.com/PiratiJMK
   profilePageName: Piráti - Jihomoravský kraj
   appId: 1526197851008996
 
