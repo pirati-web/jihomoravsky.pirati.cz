@@ -5,7 +5,7 @@ category: CLANKY   # nešahat!
 title: Využijeme potenciál českého dřeva a pomůžeme krachujícím pilám, uvedli Piráti a Starostové
 date: 2021-07-22   # formát YYYY-MM-DD
 author: Krajský MO
-tags: archiv # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: zemědelství životní-prostředí dřevo Radek-Holomčík Jana-Krutáková volby2021 # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 important: true
 
 ### Nepovinné položky ###
