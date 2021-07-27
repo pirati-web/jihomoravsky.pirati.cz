@@ -1,0 +1,8 @@
+{% if include.team.size > 0 %}
+<h2 class="head-heavy-base mb-4">{{ include.teamName }}
+  {% for page in include.teamPages %}
+   - <a href="{{ page.url }}" style="text-decoration: underline;">{{ page.title }}</a>
+  {% endfor %}
+</h2>
+{% include people/list-responsive.html team=team %}
+{% endif %}
