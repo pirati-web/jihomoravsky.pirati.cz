@@ -717,4 +717,4 @@ taková řešení, která povedou k větší míře kybernetické bezpečnosti.<
 seniorů a starších občanů, kteří se také stávají oběťmi kyberkriminality.</li>
 </ul>
 </li>
-</ul>
+</ul> 
