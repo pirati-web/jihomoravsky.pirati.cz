@@ -6,23 +6,23 @@ title: Program Pirátů pro krajské volby 2020 v Jihomoravském kraji
 <h2 class="head-heavy-base" id="kapitoly">Kapitoly</h2><br />
 
 <ol class="ordered-list leading-snug">
-<li>Životní prostředí</li>
-<li>Zdravotnictví</li>
-<li>Sociální a prorodinná politika</li>
-<li>Vzdělání</li>
-<li>Kontrola, transparence a participace</li>
-<li>Doprava</li>
-<li>Prosperující a inovativní kraj</li>
-<li>IT a krajská informatika pro 21.století</li>
-<li>Kultura, památková péče a cestovní ruch</li>
-<li>Sport a práce s mládeží</li>
-<li>Vnější vztahy a spolupráce</li>
-<li>Územní plánování</li>
-<li>Bezpečný kraj</li>
+<li><a href="#zivotni-prostredi">Životní prostředí</a></li>
+<li><a href="#zdravotnictvi">Zdravotnictví</a></li>
+<li><a href="#socialni-a-rodinna-politika">Sociální a prorodinná politika</a></li>
+<li><a href="#vzdelani">Vzdělání</a></li>
+<li><a href="#kontrola-transparence-a-participace">Kontrola, transparence a participace</a></li>
+<li><a href="#doprava">Doprava</a></li>
+<li><a href="#prosperujici-a-inovativni-kraj">Prosperující a inovativní kraj</a></li>
+<li><a href="#it-a-krajska-informatika-pro-21-stoleti">IT a krajská informatika pro 21.století</a></li>
+<li><a href="#kultura-pamatkova-pece-a-cestovni-ruch">Kultura, památková péče a cestovní ruch</a></li>
+<li><a href="#sport-a-prace-s-mladezi">Sport a práce s mládeží</a></li>
+<li><a href="#vnejsi-vztahy-a-spoluprace">Vnější vztahy a spolupráce</a></li>
+<li><a href="#uzemni-planovani">Územní plánování</a></li>
+<li><a href="#bezpecny-kraj">Bezpečný kraj</a></li>
 </ol>
 <br />
 
-<h2 class="head-heavy-base" id="-ivotn-prost-ed-">Životní prostředí</h2><br />
+<h2 class="head-heavy-base" id="zivotni-prostredi">Životní prostředí</h2><br />
 
 <ul class="unordered-list leading-snug">
 <li>Prolomíme sucho a ochráníme krajinu<ul class="unordered-list leading-snug">
@@ -109,7 +109,7 @@ zpracovatelských kapacit,podpoříme také nezbytnou mechanizaci.</li>
 </ul>
 <br />
 
-<h2 class="head-heavy-base" id="zdravotnictv-">Zdravotnictví</h2><br />
+<h2 class="head-heavy-base" id="zdravotnictvi">Zdravotnictví</h2><br />
 
 <ul class="unordered-list leading-snug">
 <li>Efektivnější a transparentní zdravotnictví<ul class="unordered-list leading-snug">
@@ -161,7 +161,7 @@ kterou budeme sdílet v zařízeních napříč krajem i státem.</li>
 </ul>
 <br />
 
-<h2 class="head-heavy-base" id="soci-ln-a-rodinn-politika">Sociální a rodinná politika</h2><br />
+<h2 class="head-heavy-base" id="socialni-a-rodinna-politika">Sociální a rodinná politika</h2><br />
 
 <ul class="unordered-list leading-snug">
 <li>Rodinná politika<ul class="unordered-list leading-snug">
@@ -218,7 +218,7 @@ online.</li>
 </ul>
 <br />
 
-<h2 class="head-heavy-base" id="vzd-l-v-n-">Vzdělávání</h2><br />
+<h2 class="head-heavy-base" id="vzdelani">Vzdělávání</h2><br />
 
 <ul class="unordered-list leading-snug">
 <li>Moderní odborné školství propojené s praxí<ul class="unordered-list leading-snug">
@@ -358,7 +358,7 @@ Hodonín–Otrokovice.</li>
 </ul>
 <br />
 
-<h2 class="head-heavy-base" id="prosperuj-c-a-inovativn-kraj">Prosperující a inovativní kraj</h2><br />
+<h2 class="head-heavy-base" id="prosperujici-a-inovativni-kraj">Prosperující a inovativní kraj</h2><br />
 
 <ul class="unordered-list leading-snug">
 <li>Investice do podnikání s vysokou přidanou hodnotou<ul class="unordered-list leading-snug">
@@ -426,7 +426,7 @@ charakter.</li>
 </ul>
 <br />
 
-<h2 class="head-heavy-base" id="it-a-krajsk-informatika-pro-21-stolet-">IT a krajská informatika pro 21. století</h2><br />
+<h2 class="head-heavy-base" id="it-a-krajska-informatika-pro-21-stoleti">IT a krajská informatika pro 21. století</h2><br />
 
 <ul class="unordered-list leading-snug">
 <li>IT a krajská informatika jako politická priorita<ul class="unordered-list leading-snug">
@@ -479,7 +479,7 @@ zaškolíme.</li>
 </ul>
 <br />
 
-<h2 class="head-heavy-base" id="kultura-pam-tkov-p-e-a-cestovn-ruch">Kultura, památková péče a cestovní ruch</h2><br />
+<h2 class="head-heavy-base" id="kultura-pamatkova-pece-a-cestovni-ruch">Kultura, památková péče a cestovní ruch</h2><br />
 
 <ul class="unordered-list leading-snug">
 <li>Kultura s tradicí pro 21. století<ul class="unordered-list leading-snug">
@@ -531,7 +531,7 @@ přeplněné Lednice do neznámé Květnice).</li>
 </ul>
 <br />
 
-<h2 class="head-heavy-base" id="vn-j-vztahy-a-spolupr-ce">Vnější vztahy a spolupráce</h2><br />
+<h2 class="head-heavy-base" id="vnejsi-vztahy-a-spoluprace">Vnější vztahy a spolupráce</h2><br />
 
 <ul class="unordered-list leading-snug">
 <li>Jihomoravský kraj jako partner pro sousední státy<ul class="unordered-list leading-snug">
@@ -572,7 +572,7 @@ partnerským regionům.</li>
 </ul>
 <br />
 
-<h2 class="head-heavy-base" id="sport-a-prace-a-mladezi">Sport a práce s mládeží</h2><br />
+<h2 class="head-heavy-base" id="sport-a-prace-s-mladezi">Sport a práce s mládeží</h2><br />
 
 <ul class="unordered-list leading-snug">
 <li>Transparentní financování<ul class="unordered-list leading-snug">
