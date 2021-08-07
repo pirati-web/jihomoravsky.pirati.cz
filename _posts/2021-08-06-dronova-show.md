@@ -10,10 +10,9 @@ tags: dronová-show Brno Kraví-Hora Tomáš-Koláčný Jiří-Hlavenka # katego
 
 ### Nepovinné položky ###
 image: posts/dronky.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
-#description: Chcete zažít podívanou budoucnosti, jakou mohli vidět diváci na olympiádě v Tokiu?  Díky Pirátům se v Brně představí budoucnost světelných show, která sleduje ty nejmodernější trendy. Je ekologická a šetrná k přírodě i zvířatům. V sobotu 7. srpna se proto na Kraví Hoře uskuteční první dronová show na Moravě.  
-
+#description: Chcete zažít podívanou budoucnosti, jakou mohli vidět diváci na olympiádě v Tokiu?  Díky Pirátům se v Brně představí budoucnost světelných show, která sleduje ty nejmodernější trendy. V porovnání s ohňostroji je ekologická a šetrná k přírodě i zvířatům. V sobotu 7. srpna se proto na Kraví Hoře uskuteční první dronová show na Moravě.  
 ---
-Chcete zažít podívanou budoucnosti, jakou mohli vidět diváci na olympiádě v Tokiu?  Díky Pirátům se v Brně představí budoucnost světelných show, která sleduje ty nejmodernější trendy. Je ekologická a šetrná k přírodě i zvířatům. V sobotu 7. srpna se proto na Kraví Hoře uskuteční první dronová show na Moravě.  
+Chcete zažít podívanou budoucnosti, jakou mohli vidět diváci na olympiádě v Tokiu?  Díky Pirátům se v Brně představí budoucnost světelných show, která sleduje ty nejmodernější trendy. V porovnání s ohňostroji je ekologická a šetrná k přírodě i zvířatům. V sobotu 7. srpna se proto na Kraví Hoře uskuteční první dronová show na Moravě.  
 
 Není tajemstvím, že se Piráti budoucnosti nebojí a podporují stále větší využívání moderních technologií, a to v rozličných aspektech našeho života. Dlouhodobě prosazujeme inovativní agendu, jako je digitalizace státní správy, transparentnost a podpora moderních technologií. 
 
