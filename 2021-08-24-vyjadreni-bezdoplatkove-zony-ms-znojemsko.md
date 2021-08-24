@@ -25,4 +25,4 @@ Z hlediska účinnosti jsou pak nejefektivnější programy [prevence kriminalit
 
 Pirátská členka MS Znojemsko [Jana Logrová](https://www.facebook.com/log.jana){:target="_blank"} dokonce navrhla zařadit bezdoplatkové zóny na bod programu další sociální komise. Plánuje také exkurzi do Jihlavy, na které se může vedení města společně s opozicí inspirovat ohledně řešení bytové nouze. O těchto návrzích se v současné době stále jedná. O výsledcích vás budeme informovat.
 
-Závěrem chceme podotknout, že radnice se snaží najít až příliš jednoduché řešení na složitý problém. Naše řešení jsou sice složitější, narozdíl od bezdoplatkových zón však problémy pomohou zmírnit nebo vyřešit a neposunou je jen o kousek dál od centra.
+Závěrem chceme podotknout, že radnice se snaží najít až příliš jednoduché řešení na složitý problém. Naše řešení jsou sice složitější, narozdíl od bezdoplatkových zón však problémy pomohou zmírnit nebo vyřešit a neposunou je jen o kousek dál od centra. 
