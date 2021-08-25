@@ -171,4 +171,4 @@ assets:
     - assets/img
     - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/assets/img
 
-styleguide_base_url: 'https://styleguide.pir-test.eu/latest'
+styleguide_base_url: 'https://styleguide.pirati.cz/latest'
