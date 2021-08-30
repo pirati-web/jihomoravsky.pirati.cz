@@ -7,6 +7,7 @@ title: Ekologické vytápění bazénu v Lužánkách přinese úspory až 2,5 m
 date: 2021-08-30   # formát YYYY-MM-DD
 author: Krajský MO
 tags: ekologie vytápění Brno Tomáš-Koláčný Lukáš-Mamula # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/bazenik.png# obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
