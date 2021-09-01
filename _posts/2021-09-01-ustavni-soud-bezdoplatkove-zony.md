@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Ústavní soud zrušil bezdoplatkové zóny!
+title: Ústavní soud potvrdil postoj Pirátů! Zrušil bezdoplatkové zóny.
 date: 2021-09-01   # formát YYYY-MM-DD
 author: Krajský MO
 tags: bezdoplatkové-zôny Znojmo Ústavní-soud Pavel-Nevrkla Jana-Logrová # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
