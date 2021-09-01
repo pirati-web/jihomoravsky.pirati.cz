@@ -26,7 +26,6 @@ V mnohých městech České republiky bylo potvrzeno, že zavedení zón žádn�
 
 <div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/janagrafika.jpg" target="_blank">
 <img src="https://a.pirati.cz/jihomoravsky/img/posts/anagrafika.jpg" alt="bezdoplatky">
-
 </a></div>
 
 
