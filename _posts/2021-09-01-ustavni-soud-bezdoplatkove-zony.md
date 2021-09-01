@@ -25,7 +25,7 @@ image: posts/znojmicko.png # obrázek ideálně 420x677px minifikovaný přes ht
 V mnohých městech České republiky bylo potvrzeno, že zavedení zón žádné radikální zlepšení nepřineslo a úbytek sociálně vyloučených lokalit se taktéž neprokázal. Bezdoplatkové zóny ve Znojmě by se tak nejvíce dotkly těch lidí, kteří pobírají doplatek na bydlení, ale nijak se na současné situaci nepodílí. 
 
 <div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/janagrafika.jpg" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/anagrafika.jpg" alt="bezdoplatky">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/janagrafika.jpg" alt="bezdoplatky">
 </a></div>
 
 
