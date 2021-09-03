@@ -7,6 +7,7 @@ title: Brněnské tématické miniweby budou přehlednější!
 date: 2021-09-03   # formát YYYY-MM-DD
 author: Krajský MO
 tags: weby-města digitalizace Brno Tomáš-Koláčný Ondřej-Kotas # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/miniwebisky.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
