@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Brno na špici v počítačových hrách! Podpoříme mistrovství ČR v Brně. 
+title: Brno na špici v počítačových hrách! Podpoříme Mistrovství ČR v Brně. 
 date: 2021-09-07   # formát YYYY-MM-DD
 author: Krajský MO
 tags: pc-hry pirati digitalizace Brno Tomáš-Koláčný Marek-Fišer # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
