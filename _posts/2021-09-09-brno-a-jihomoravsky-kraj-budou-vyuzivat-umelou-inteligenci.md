@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Brno a Jihomoravský kraj budou ještě chytřejší – s umělou inteligencí!
+title: "Brno a Jihomoravský kraj budou ještě chytřejší – s umělou inteligencí!"
 date: 2021-09-09   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Brno Jihomoravký-kraj umělá-inteligence technologie Tomáš-Koláčný Jiří-Hlavenka # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
