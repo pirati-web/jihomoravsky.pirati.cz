@@ -32,10 +32,10 @@ Během testování proběhlo hned několik měření, jejichž výsledky byly ve
 
 # Janáčkovo kulturní centrum v číslech
 -	1 špičkový koncertní sál s přirozenou akustikou
--	4 bary
 -	6 zkušeben
 -	16 uvaděček
 -	118 hudebníků
+-	4 bary
 -	254 čtverečních metrů černého teraca
 -	315 čtverečních metrů pódia ze žlutého cedru
 -	612 čtverečních metrů obkladů z dubu evropského
