@@ -26,11 +26,11 @@ Během testování proběhlo hned několik měření, jejichž výsledky byly ve
 > 
 
 <div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/infograficka.png" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/infograficka.png" alt="Mapa nadzemky">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/infograficka.png" alt="JKC">
 
 </a></div>
 
-# Janáčkovo kulturní centrum v číslech:
+# Janáčkovo kulturní centrum v číslech
 -	1 špičkový koncertní sál s přirozenou akustikou
 -	4 bary
 -	6 zkušeben
