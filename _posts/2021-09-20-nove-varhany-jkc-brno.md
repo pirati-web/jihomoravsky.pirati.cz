@@ -1,10 +1,10 @@
 ---
-#název souboru: 2021-09-2O-nove-varhany-jkc-brno.md
+#název souboru: 2021-09-20-nove-varhany-jkc-brno.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: Nové varhany pro Janáčkovo kulturní centrum. Přispět můžete i vy! 
-date: 2021-09-2O   # formát YYYY-MM-DD
+date: 2021-09-20   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Janáčkovo-kulturní-centrum JKC Brno Tomáš-Koláčný Marek-Fišer kultura # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
