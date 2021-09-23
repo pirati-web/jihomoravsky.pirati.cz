@@ -29,7 +29,7 @@ Projekt nového webu patří mezi moderní elektronickou agendu, kterou Piráti 
 
 
 <div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/ondraweb.jpg" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/kasarna2.png" alt="Mapa nadzemky">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/ondraweb.jpg" alt="Mapa nadzemky">
 
 </a></div>
 
