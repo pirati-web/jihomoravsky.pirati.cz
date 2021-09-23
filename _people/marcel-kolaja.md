@@ -6,7 +6,7 @@ titles:
   after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - ep
-img: people/marcel-kolaja.jpg   # 165 x 220
+img: people/kolajadva.png   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: Místopředseda Evropského parlamentu   	# kratký popis, max 160 znaků
 mail:
@@ -17,21 +17,21 @@ profiles:
 
 ordep: 1
 ---
-Marcel Kolaja (* 29. června 1980) je odborníkem na svobodný software a svobodnou kulturu. Je členem Pirátské strany a v roce 2014 byl ve volbách do Evropského parlamentu dvojkou kandidátky Pirátské strany. V minulosti působil mimo jiné jako místopředseda a mezinárodní koordinátor. Byl spolupředsedou Pirate Parties International. Pochází z Lanškrouna a od roku 1998 žije v Brně.
+Marcel Kolaja je členem Pirátské strany od roku 2010. V roce 2019 byl zvolen poslancem Evropského parlamentu. Od téhož roku je také místopředsedou Evropského parlamentu. Vystudoval informatiku na Fakultě informatiky Masarykovy univerzity v Brně.
 
-Vystudoval informatiku na Fakultě informatiky MU v Brně, kde získal titul Bc. V průběhu studia se specializoval na svobodný software a pracoval jako systémový administrátor v Laboratoři zpracování přirozeného jazyka.
+V Evropském parlamentu působí kromě předsednictva také ve výboru pro vnitřní trh a ochranu spotřebitelů (IMCO), ve výboru pro kulturu a vzdělávání (CULT) a ve zvláštním výboru pro umělou inteligenci v digitálním věku (AIDA). Dále pak v delegacích pro vztahy se Spojenými státy americkými (D-US) a s Indií (D-IN).
 
-Během studia se stal spolumajitelem softwarové firmy, kde později vykonával funkci obchodního ředitele. V současnosti pracuje jako technický produktový manažer v mezinárodní společnosti, která vyvíjí a podporuje svobodný software.
+Věnuje se zejména tématům spojeným s fungováním společnosti v digitálním věku. Prosazuje otevřené technologie, svobodu na Internetu, nezávislost médií, transparentnost a sjednocenou Evropu.
 
-V roce 2003 se začal zabývat legislativou EU, aby o dva roky později jako aktivista přispěl k odmítnutí zavedení softwarových patentů Evropským parlamentem. Od roku 2010 do roku 2014 se v Pirátské straně věnoval zejména mezinárodním záležitostem a v Pirátské straně zanechal značný otisk. V roce 2014 se jeho působení přesunulo spíše na aktivity týkající se komunální politiky. Od roku 2016 je předsedou spolku Otevřená města. Podílí se jak na vnějších projektech, tak i na vnitřních záležitostech za účelem zvýšení efektivity Pirátské strany a vytvoření pravidel, která znesnadňují korupci. Mimo jiné lze jmenovat následující aktivity:
+Narodil se 29. června 1980 a vyrůstal v Lanškrouně. Od vysokoškolských studií je jeho útočištěm Brno. V minulosti pracoval v oboru informačních technologií na různých pracovních pozicích, v době před zvolením do Evropského parlamentu jako produktový manažer.
 
-* Formuloval myšlenku vytvoření Personálního odboru a konceptu průvodců nováčků.
-* Jeho návrh na změnu složení republikového výboru vedl k důslednějšímu oddělení výkonné a zákonodárné moci v Pirátské straně.
-* Inicioval projekt proti OSA/Intergram Hrajeme svobodnou hudbu!
-* Vytvořil stránku pro zveřejňování odměn Pirátů hrazených z veřejných peněz.
-* Podílel se na založení spolku Otevřená města, z.s.
+Ve volném čase běhá, jezdí na kole či na motorce a vyráží na výlety se psím parťákem Freddiem. Je velkým milovníkem hor a přírody obecně.
+
+* Člen BURO Předsednictvo Evropského parlamentu
+* Člen IMCO Výbor pro vnitřní trh a ochranu spotřebitelů
+* Člen D-US Delegace pro vztahy se Spojenými státy americkými
+* Náhradník CULT Výbor pro kulturu a vzdělávání
+* Náhradník D-IN Delegace pro vztahy s Indií
+* Náhradník AIDA Zvláštní výbor pro umělou inteligenci v digitálním věku
 * Komunikuje plynně anglicky (CEFR C1) a zvládá základy němčiny.
 
-Ve volném čase lyžuje, chodí po horách, běhá, jezdí na kole, hraje basketbal a fotí. Poslouchá rock a heavy metal. Baví ho hra na kytaru, kterou však příliš neovládá :-) Je vegetarián.
-
-V roce 2019 byl za Piráty zvolen do Evropského parlamentu, kde se následně stal místopředou EP.
