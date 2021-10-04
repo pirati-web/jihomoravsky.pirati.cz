@@ -27,6 +27,7 @@ Cyklus Náměstí Změn vytvořil umělec Jauhen Atcecki jako neuzavřený, čas
 
 </a></div>
 
+
 V kině Scala pak měli diváci možnost spatřit film Kuráž. Bělorusko prožívá těžké časy, vytrvalost a odvaha tisíců protestujících je zkoušena stejně vytrvalým státním zatýkáním. Země se dostává na rozcestí a stává se jevištěm, v němž je každý donucen zaujmout roli v zápase o vše. O lektorský úvod k tomuto německo-běloruskému koprodukčnímu filmu se postaral novinář a filmový kritik Maxim Žbankov.
 
 Přestože nám není Bělorusko příliš vzdálené geograficky, víme o něm jen velmi málo. Proto byla tato návštěva běloruských umělců jedinečnou příležitostí k seznámení se s běloruskou kulturou. Věříme, že podobně jako v Brně dokáží umělci oslovit i publikum na dalších místech, kam mají namířeno. 
