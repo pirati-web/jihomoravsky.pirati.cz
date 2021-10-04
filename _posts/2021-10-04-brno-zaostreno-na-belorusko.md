@@ -7,6 +7,7 @@ title: Brno zaostřilo na běloruské umělce!
 date: 2021-10-04   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Bělorusko Brno Marek-Fišer kultura # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/beloruskomara.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
