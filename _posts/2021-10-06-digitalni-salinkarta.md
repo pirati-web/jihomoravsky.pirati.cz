@@ -29,6 +29,6 @@ Bez nutnosti osobní návštěvy prodejního místa a bez prodlení lze předpla
 Piráti tak v Brně ukazují, že digitalizace může fungovat, přinést reálnou změnu a zkvalitnit život našich občanů. Doufáme, že nám úspěch ve volbách umožní prosadit podobné modernizační reformy také na celostátní úrovni. Že budeme moci vrátit zemi budoucnost.
 
 <div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/michalsockydigi.png" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/ichalsockydigi.png" alt="Mapa nadzemky">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/michalsockydigi.png" alt="Mapa nadzemky">
 
 </a></div>
