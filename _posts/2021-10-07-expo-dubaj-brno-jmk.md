@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: EXPO 2020 bude i v Jihomoravském kraji!
+title: EXPO 2020 v Jihomoravském kraji!
 date: 2021-10-07   # formát YYYY-MM-DD
 author: Krajský MO
 tags: EXPO2020 Dubaj vesmír mikroskopy technologie Tomáš-Koláčný Petr-Springinsfeld # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
@@ -17,7 +17,7 @@ image: posts/expo1.png # obrázek ideálně 420x677px minifikovaný přes https:
 
 Své zastoupení v českém pavilonu bude mít také Jihomoravský kraj a statutární město Brno, a to v rámci rotační expozice od 15 do 29 března 2022. Podle našeho krajského radního pro vědu, výzkum a inovace Jiřího Hlavenky má česká expozice ambici stát se „oázou v poušti“ a „chytrým“ pavilonem, k čemuž jihomoravská účast zásadně přispěje. V některých oborech, jako je například elektronová mikroskopie, totiž patří Jihomoravský kraj mezi světovou špičku: v Brně se vyrábí zhruba třetina všech elektronových mikroskopů na světě. Brno je také sídlem ESA BIC kosmického inkubátoru, který podporuje inovativní firmy a projekty v oblastech kosmických technologiích a průmyslu. Není náhoda, že právě v Brně vznikl družicový nosič a vypouštěč Dispenser rakety Vega evropské agentury. Za Brno se tak výstavy EXPO 2020 zúčastní celkem devět firem: tři firmy zabývající se elektronovou mikroskopií a šest za vesmírný průmysl (například SAB Aerospace).
 
-Byla by však škoda, kdyby byly výsledky těch nejperspektivnějších jihomoravských firem k vidění jen v Dubaji. V říjnu proto začne speciální roadshow po jihomoravských městech, „Věda a technika jede!”. 
+Výsledky těch nejperspektivnějších jihomoravských firem budou k vidění nejen v Dubaji. V říjnu začne speciální roadshow po jihomoravských městech, „Věda a technika jede!”
 
 > Motivace k uskutečnění projektu vysvětluje pirátský náměstek primátorky, [Tomáš Koláčný](https://jihomoravsky.pirati.cz/lide/tomas-kolacny/){:target="_blank"}: „Cílem této akce je informovat obyvatele Brna i regionu o dvou klíčových oborech zaměřujících se na vesmírný průmysl a elektronovou mikroskopii. Konkrétně budeme obyvatelům kraje představovat exponát, reps. jeho menší verzi, který chystáme pro výstavu EXPO v Dubaji. Jsem velmi rád, že se mou ideu, přivést vjem, který bude v Dubaji blíže obyvatelům kraje, daří realizovat.”
 > 
