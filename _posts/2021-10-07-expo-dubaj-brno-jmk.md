@@ -23,7 +23,7 @@ Byla by však škoda, kdyby byly výsledky těch nejperspektivnějších jihomor
 > 
 
 <div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/expo2.png" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/expo2.png" alt="Mapa nadzemky">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/expo2.png" alt="Mapa nadzemky">
 
 </a></div>
 
