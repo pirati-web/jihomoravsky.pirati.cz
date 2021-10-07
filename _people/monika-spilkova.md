@@ -8,6 +8,11 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - zmcstred
 ordzmcstred: 2
 
+### Nepovinné položky
+uid: monika.spilkova # identifikátor pro spojení se články (authorId)
+
+mob: +420 775 351 483
+
 img: people/monika-spilkova.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: Provozovatelka vinárny a freelancer v oblasti fotografie a grafiky 	# kratký popis, max 160 znaků
