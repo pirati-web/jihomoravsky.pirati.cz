@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: EXPO2021
+title: EXPO 2020 bude i v Jihomoravském kraji!
 date: 2021-10-07   # formát YYYY-MM-DD
 author: Krajský MO
 tags: EXPO2020 Dubaj vesmír mikroskopy technologie Tomáš-Koláčný Petr-Springinsfeld # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
