@@ -4,6 +4,8 @@ name:     Monika Lukášová Spilková  	# běžně používáné jméno
 titles:
   before: Mgr. 
   after: Ph.D.
+
+mob: +420 775 351 483
 category:                 	# kategorie: kandidat, pks, zastupitel
 - zmcstred
 ordzmcstred: 2
