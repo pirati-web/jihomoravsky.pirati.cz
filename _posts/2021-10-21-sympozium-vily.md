@@ -7,6 +7,7 @@ title: Co se to děje ve vilách v Černých polích?
 date: 2021-10-21   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Tugendhat Arnoldova-vila kultura Marek-Fišer # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/tugenik.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
