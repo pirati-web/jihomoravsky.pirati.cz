@@ -8,7 +8,7 @@ author: Krajský MO
 tags: Pavel-Nevrkla Milostové-léto exekuce advokacie # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/pavlicek.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/pavlicek2.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Už je to nějaký ten pátek, co jsem naposledy psal právnický sloupek, ale „Milostivé léto“ si teď zaslouží co největší pozornost. V rámci novely občanského soudního řádu a exekučního řádu se totiž do přechodných ustanovení podařilo poslaneckou iniciativou zavést částečnou dluhovou amnestii. Sám název Milostivé léto je odkaz na biblické odpuštění dluhů.
 ---
 **Už je to nějaký ten pátek, co jsem naposledy psal právnický sloupek, ale „Milostivé léto“ si teď zaslouží co největší pozornost. V rámci novely občanského soudního řádu a exekučního řádu se totiž do přechodných ustanovení podařilo poslaneckou iniciativou zavést částečnou dluhovou amnestii. Sám název Milostivé léto je odkaz na biblické odpuštění dluhů.** 
@@ -21,6 +21,6 @@ Milostivé léto má však několik úskalí. Předně musíte striktně dodrže
 
 Považuji za důležité ještě dodat, že leckdy i jednorázová úhrada jistiny dluhu může být pro některé velký problém, ale jsou i programy, které nabízejí k úhradě Milostivého léta bezúročnou půjčku. Pokud máte tedy možnost této příležitosti využít, neváhejte. Pro více informací se lze obrátit například na Oblastní Charitu Znojmo nebo na dluhovou linku Člověka v tísni: 770 600 800, kde vám pracovníci se vším trpělivě a ochotně pomohou Využijte tedy možnosti ukončit své trápení a začnete nový život s čistým stolem. 
  
-[Pavel Nevrkla](https://jihomoravsky.pirati.cz/lide/pavel-nevrkla/){:target="_blank"}.
+[Pavel Nevrkla](https://jihomoravsky.pirati.cz/lide/pavel-nevrkla/){:target="_blank"}
 
 
