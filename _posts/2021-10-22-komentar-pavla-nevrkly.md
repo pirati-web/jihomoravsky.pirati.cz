@@ -8,7 +8,7 @@ author: Krajský MO
 tags: Pavel-Nevrkla Milostové-léto exekuce advokacie # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/pavlicek2.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/pavlik3.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Už je to nějaký ten pátek, co jsem naposledy psal právnický sloupek, ale „Milostivé léto“ si teď zaslouží co největší pozornost. V rámci novely občanského soudního řádu a exekučního řádu se totiž do přechodných ustanovení podařilo poslaneckou iniciativou zavést částečnou dluhovou amnestii. Sám název Milostivé léto je odkaz na biblické odpuštění dluhů.
 ---
 **Už je to nějaký ten pátek, co jsem naposledy psal právnický sloupek, ale „Milostivé léto“ si teď zaslouží co největší pozornost. V rámci novely občanského soudního řádu a exekučního řádu se totiž do přechodných ustanovení podařilo poslaneckou iniciativou zavést částečnou dluhovou amnestii. Sám název Milostivé léto je odkaz na biblické odpuštění dluhů.** 
