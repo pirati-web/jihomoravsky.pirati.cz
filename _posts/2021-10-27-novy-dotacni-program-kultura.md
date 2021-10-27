@@ -7,6 +7,7 @@ title: Dotace pro kulturu řešíme transparentně!
 date: 2021-10-27   # formát YYYY-MM-DD
 author: Krajský MO
 tags: kultura Brno dotace Marek-Fišer Tomáš-Koláčný # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/dotacky.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
