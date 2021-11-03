@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Moderní město potrebuje moderní dopravu
+title: Moderní město potřebuje moderní dopravu
 date: 2021-09-29   # formát YYYY-MM-DD
 author: Krajský MO
 tags: doprava Brno Piráti Monika-Lukášová-Spilková Adam-Zemek Marek-lahoda Filip-Havlíček # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
