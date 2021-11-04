@@ -2,7 +2,7 @@
 uid: tomas.vymazal
 name:     Tomáš Vymazal  	# běžně používáné jméno
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+- rv
 img: people/tomas-vymazal.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: softwarový analytik, zahrádkář a propagátor 3D tisku          	# kratký popis, max 160 znaků
