@@ -5,7 +5,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 img: people/tomas-vymazal.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
-description: Poslanec, softwarový analytik, zahrádkář a propagátor 3D tisku          	# kratký popis, max 160 znaků
+description: softwarový analytik, zahrádkář a propagátor 3D tisku          	# kratký popis, max 160 znaků
 mail:
 - tomas.vymazal@pirati.cz
 mob:			  +420 774 363 736
@@ -30,11 +30,11 @@ notsupporting:
 motto: 'Za padesát let prohibice konopí se nepodařilo prokázat žádný z argumentů, které k jejímu zavedení vedly. Od začátku za ní stálo jen pokrytectví a osobní zájem zainteresovaných podnikavých jedinců. Chci to napravit, chci regulovanou legalizaci pěstování a komerčního nakládání s konopím.'
 ---
 
-Tomáš Vymazal je informatik, zahrádkář a nadšenec do robotiky. Členem Pirátské strany je od roku 2010. Od září 2016 byl členem Komise informatiky a otevřenosti radnice Rady města Brna, kde se zaměřoval na odstraňování závislosti na jednom dodavateli a prosazení používání svobodného software. V říjnu 2016 kandidoval na třetím místě koaliční kandidátky do krajského zastupitelstva jihomoravského kraje, avšak díky volebnímu výsledku 5.11 % na mandát těsně nedosáhl. Od října 2017, kdy se stal poslancem Poslanecké sněmovny PČR, se zdržuje v Praze. Do té doby působil především v Brně, kde se narodil, studoval a byl čtyři roky zaměstnán v softwarové společnosti zabývající se telekomunikacemi.
+Tomáš Vymazal je informatik, zahrádkář a nadšenec do robotiky a zdržuje se v Praze. Členem Pirátské strany je od roku 2010. Od září 2016 byl členem Komise informatiky a otevřenosti radnice Rady města Brna, kde se zaměřoval na odstraňování závislosti na jednom dodavateli a prosazení používání svobodného software. V říjnu 2016 kandidoval na třetím místě koaliční kandidátky do krajského zastupitelstva jihomoravského kraje, avšak díky volebnímu výsledku 5.11 % na mandát těsně nedosáhl. Od října 2017, byl poslancem Poslanecké sněmovny PČR. Působil především v Brně, kde se narodil, studoval a byl čtyři roky zaměstnán v softwarové společnosti zabývající se telekomunikacemi.
 
 Už od vstupu k Pirátům je Tomášovou prioritou legislativa upravující nakládání s konopím a hledání vhodného způsobu nápravy současného nepříznivého stavu, kdy stát bez racionálního důvodu konopí staví mimo zákon a jeho uživatele kriminalizuje. Od počátku působení ve funkci poslance se věnoval práci na věcném zámeru zákona o regulované legalizaci samopěstování psychoaktivního konopí pro osobní potřebu a též dostupnosti léčebného konopí v českých lékárnách.
 
-V rámci poslaneckého mandátu je členem Výboru pro bezpečnost, Petičního výboru, Podvýboru pro vězeňství, Podvýboru pro lékovou politiku, racionální využití farmakoterapie a přístrojové techniky, Podvýboru pro ochranu práv osob omezených na svobodě, Stálé komise pro kontrolu činnosti Generální inspekce bezpečnostních sborů a předsedá Stálé komisi pro kontrolu použití odposlechu a záznamu telekomunikačního provozu, použití sledování osob a věcí a rušení provozu elektronických komunikací.
+V rámci poslaneckého mandátu byl členem Výboru pro bezpečnost, Petičního výboru, Podvýboru pro vězeňství, Podvýboru pro lékovou politiku, racionální využití farmakoterapie a přístrojové techniky, Podvýboru pro ochranu práv osob omezených na svobodě, Stálé komise pro kontrolu činnosti Generální inspekce bezpečnostních sborů a předsedá Stálé komisi pro kontrolu použití odposlechu a záznamu telekomunikačního provozu, použití sledování osob a věcí a rušení provozu elektronických komunikací.
 
 * [Profil poslance](
 https://www.pirati.cz/lide/tomas-vymazal/){:target="_blank"}
