@@ -9,7 +9,7 @@ author: Krajský MO
 tags: zastupitestvo Jihomoravský-kraj Jana-Leitnerová Lukáš-Dubec Petr-Vlasák sociální-služky ekologie sport # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/zst.jpeg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/zst.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Ve čtvrtek jsme se sešli s ostatními kolegy na pravidelném jednání zastupitelstva Jihomoravského kraje. Na pořadu jednání bylo 91 bodů a v tomto článku naleznete nejdůležitější novinky z krajského úřadu! 
 ---
 **Ve čtvrtek jsme se sešli s ostatními kolegy na pravidelném jednání zastupitelstva Jihomoravského kraje. Na pořadu jednání bylo 91 bodů a v tomto článku naleznete nejdůležitější novinky z krajského úřadu!** 
