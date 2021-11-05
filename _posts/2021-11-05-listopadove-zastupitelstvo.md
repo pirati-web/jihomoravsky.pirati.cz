@@ -6,7 +6,7 @@ category: CLANKY   # nešahat!
 title: Listopadové zastupitelstvo Jihomoravského kraje! 
 date: 2021-11-05   # formát YYYY-MM-DD
 author: Krajský MO
-tags: zastupitestvo Jihomoravský-kraj Jana-Leitnerová Lukáš-Dubec Petr-Vlasák sociální-služky ekologie sport # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: zastupitestvo Jihomoravský-kraj Jana-Leitnerová Lukáš-Dubec Petr-Vlasák sociální-služby ekologie sport # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 image: posts/zst.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
