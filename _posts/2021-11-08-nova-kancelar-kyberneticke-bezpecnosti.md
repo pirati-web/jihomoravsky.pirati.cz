@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Kybernetický prostor Brna uchráníme! 
+title: Kybernetický prostor Brna ochráníme! 
 date: 2021-11-08   # formát YYYY-MM-DD
 author: Krajský MO
 tags: digitalizace kybernetická-bezpečnost Tomáš-Koláčny Brno magistrát  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
