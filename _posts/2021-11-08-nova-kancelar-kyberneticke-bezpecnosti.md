@@ -10,7 +10,7 @@ tags: digitalizace kybernetická-bezpečnost Tomáš-Koláčny Brno magistrát  
 important: true
 
 ### Nepovinné položky ###
-image: posts/cyberko-png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/cyberko.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
