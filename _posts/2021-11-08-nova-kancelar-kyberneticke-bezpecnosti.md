@@ -11,10 +11,10 @@ important: true
 
 ### Nepovinné položky ###
 image: posts/cyberko.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
-#description: Popis který se zobrazí v náhledu v přehledů článků.
+#description: **S rostoucí mírou digitalizace je třeba dbát na bezpečnost zpracovávaných dat, protože je s tím spojeno i vyšší riziko kybernetických útoků. Jejich cílem se v poslední době stávají nejen úřady, ale třeba i nemocnice a další strategické instituce. Ve snaze těmto kybernetickým hrozbám a útokům předcházet, rozhodli jsme se posílit své kapacity v oblasti kybernetické bezpečnosti.** 
 
 ---
-**S rostoucí mírou digitalizace je třeba dbát na bezpečnost zpracovávaných dat, protožeje s tím spojeno i vyšší riziko kybernetických útoků. Jejich cílem se v poslední době stávají nejen úřady, ale třeba i nemocnice a další strategické instituce. Ve snaze těmto kybernetickým hrozbám a útokům přecházet, rozhodli jsme se posílit své kapacity v oblasti kybernetické bezpečnosti.** 
+**S rostoucí mírou digitalizace je třeba dbát na bezpečnost zpracovávaných dat, protože je s tím spojeno i vyšší riziko kybernetických útoků. Jejich cílem se v poslední době stávají nejen úřady, ale třeba i nemocnice a další strategické instituce. Ve snaze těmto kybernetickým hrozbám a útokům předcházet, rozhodli jsme se posílit své kapacity v oblasti kybernetické bezpečnosti.** 
 
 > „Koordinace přístupu ke kyberbezpečnosti magistrátu, městských částí, ale i společností a příspěvkových organizací bude od 1. 1. 2022 zajišťovat nově zřízená Kancelář kybernetické bezpečnosti, a nahradí tak současnou Kancelář rozvoje kybernetické bezpečnosti. Nově zřízený útvar bude disponovat širšími pravomocemi a vyšším personálním obsazením. Hlavními cíli bude především nastavení jednotné metodiky v rámci celého městského ekosystému a zajištění nákupu kompatibilních technologií a tím i podstatnou úsporu finančních prostředků. Konkrétně dojde od 1. 1. 2022 ke zrušení 1 a vytvoření 2 nových funkčních míst na Úseku 2. náměstka primátorky,“ dodal náš náměstek [Tomáš Koláčný](https://jihomoravsky.pirati.cz/lide/tomas-kolacny/){:target="_blank"}.
 >
