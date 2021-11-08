@@ -7,6 +7,7 @@ title: Kybernetický prostor Brna uchráníme!
 date: 2021-11-08   # formát YYYY-MM-DD
 author: Krajský MO
 tags: digitalizace kybernetická-bezpečnost Tomáš-Koláčny Brno magistrát  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/cyberko-png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
