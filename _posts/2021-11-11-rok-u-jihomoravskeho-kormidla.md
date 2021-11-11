@@ -1,7 +1,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Rok u jihomoravského kormidla!
+title: "Rok u jihomoravského kormidla!"
 date: 2021-11-11  # formát YYYY-MM-DD
 author: Krajský MO
 tags: Krajský-úřad Jihomoravský-kraj Lukáš-Dubec Jiří-Hlavenka Jana-Leitnerová zastupitelé práce # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
