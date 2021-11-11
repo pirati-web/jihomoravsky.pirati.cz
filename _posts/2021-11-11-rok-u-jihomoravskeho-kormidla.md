@@ -1,3 +1,5 @@
+---
+#název souboru: 2021-11-11-rok-u-jihomoravskeho-kormidla.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
