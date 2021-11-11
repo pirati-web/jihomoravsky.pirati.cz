@@ -9,7 +9,7 @@ author: Krajský MO
 tags: Krajský-úřad Jihomoravský-kraj Lukáš-Dubec Jiří-Hlavenka Jana-Leitnerová zastupitelé práce # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/kr.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/kraj_web.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Dnes je tomu přesně jeden rok od první společné schůze zastupitelstva Jihomoravského kraje po volbách v roce 2020. Aby však těch “poprvé” nebylo málo, tak je to přesně i rok ode dne, kdy Piráti poprvé zasedli v krajském zastupitelstvu, a hned dokonce i ve vedení Jihomoravského kraje. Připravili jsme si proto pro vás ohlédnutí a rekapitulaci naší práce na krajském úřadu v uplynulém roce. 
 ---
 **Dnes je tomu přesně jeden rok od první společné schůze zastupitelstva Jihomoravského kraje po volbách v roce 2020. Aby však těch “poprvé” nebylo málo, tak je to přesně i rok ode dne, kdy Piráti poprvé zasedli v krajském zastupitelstvu, a hned dokonce i ve vedení Jihomoravského kraje. Připravili jsme si proto pro vás ohlédnutí a rekapitulaci naší práce na krajském úřadu v uplynulém roce.** 
