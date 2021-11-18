@@ -40,7 +40,7 @@ profiles:
 
 ## **Členové**
 
-- Aktuálně má 16 členů, mezi kterými najdete jak komunální a krajské zastupitele, tak jedince usilující usilující o lepší život a otevřenou politiku ve městech i malých obcích. Chcete se k nim připojit i vy? [Naloďte se k nám](https://nalodeni.pirati.cz/){:target="_blank"}!
+- Aktuálně má 16 členů, mezi kterými najdete jak obecní a krajské zastupitele, tak jedince usilující usilující o lepší život a otevřenou politiku ve městech i malých obcích. Chcete se k nim připojit i vy? [Naloďte se k nám](https://nalodeni.pirati.cz/){:target="_blank"}!
 
 ## **Úspěchy**
 
