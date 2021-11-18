@@ -44,7 +44,7 @@ profiles:
 
 ## **Členové**
 
-- V současnosti máme 7 členů a 10 registrovaných příznivců. Chcete se k nim připojit i vy? [Naloďte se k nám](https://nalodeni.pirati.cz/){:target="_blank"}!
+- V současnosti máme 8 členů a 10 registrovaných příznivců. Chcete se k nim připojit i vy? [Naloďte se k nám](https://nalodeni.pirati.cz/){:target="_blank"}!
 
 ## **Úspěchy**
 
