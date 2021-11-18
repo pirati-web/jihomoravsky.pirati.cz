@@ -29,7 +29,7 @@ board:
    - position: 4. místopředseda
      name: Josef Bárta 
 profiles:
-   facebook: "https://www.facebook.com/PiratiJMK"
+   facebook: "https://www.facebook.com/piratislovacko"
    forum: "https://forum.pirati.cz/viewforum.php?f=900"
    mail: vendula.svobodova@pirati.cz
 ---
