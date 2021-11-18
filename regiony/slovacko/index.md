@@ -21,7 +21,7 @@ board:
    - position: Předseda
      uid: petr.vlasak
    - position: 1. místopředseda
-     uid: Michal Švagerka
+     uid: MichalŠvagerka
    - position: 2. místopředsedkyně
      name: Martina Hanáčková
    - position: 3. místopředseda
