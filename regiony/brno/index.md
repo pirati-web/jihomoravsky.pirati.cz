@@ -23,22 +23,22 @@ boardName: Předsednictvo
 #    endDate: 01.02.2021
 board:
    - position: Předseda
-     uid: tomas.kolacny
+     uid: michal.marciniszyn
    - position: 1. místopředsedkyně
      uid: monika.spilkova
    - position: 2. místopředseda
-     uid: marek.fiser
-   - position: 3. místopředseda
-     uid: michal.marciniszyn
-   - position: 4. místopředseda
      uid: jan.wagner
+   - position: 3. místopředseda
+     uid: marek.lahoda
+   - position: 4. místopředseda
+     uid: tomas.kolacny
 contactPersons:
    - position: Předseda
-     uid: tomas.kolacny
+     uid: michal.marciniszyn
    - position: Krajský koordinátor
      uid: vendula.svobodova
 profiles:
-   facebook: "https://www.facebook.com/CPS.JMK/"
+   facebook: "https://www.facebook.com/PiratiBrno"
    forum: "https://forum.pirati.cz/viewforum.php?f=900"
    mail: vendula.svobodova@pirati.cz
 
