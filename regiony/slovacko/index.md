@@ -20,16 +20,16 @@ boardName: Předsednictvo
 board:
    - position: Předseda
      uid: petr.vlasak
-   - position: 1. místopředsedkyně
-     uid: magda.lengalova
-   - position: 2. místopředseda
-     name: Zbyněk Janoška
+   - position: 1. místopředseda
+     uid: Michal Švagerka
+   - position: 2. místopředsedkyně
+     name: Martina Hanáčková
    - position: 3. místopředseda
-     name: Dušan Hanuš
+     name: Zbyněk Němeček 
    - position: 4. místopředseda
-     name: Michal Švagerka
+     name: Josef Bárta 
 profiles:
-   facebook: "https://www.facebook.com/CPS.JMK/"
+   facebook: "https://www.facebook.com/PiratiJMK"
    forum: "https://forum.pirati.cz/viewforum.php?f=900"
    mail: vendula.svobodova@pirati.cz
 ---
