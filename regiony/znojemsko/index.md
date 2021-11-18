@@ -19,14 +19,16 @@ boardName: Předsednictvo
 #    endDate: 01.02.2021
 board:
    - position: Předseda
+     uid: pavel.nevrkla
+   - position: 1. místopředseda
      uid: lukas.dubec
-   - position: 1. místopředsedkyně
+   - position: 2. místopředsedkyně
+     uid: jana.logrova
+   - position: 3. místopředsedkyně
      uid: vitezslava.rosecka
-   - position: 2. místopředseda
-     uid: simon.foucek
 contactPersons:
    - position: Předseda
-     uid: lukas.dubec
+     uid: pavel.nevrkla
 profiles:
    facebook: "https://www.facebook.com/CPS.JMK/"
    forum: "https://forum.pirati.cz/viewforum.php?f=900"
