@@ -30,7 +30,7 @@ contactPersons:
    - position: Předseda
      uid: pavel.nevrkla
 profiles:
-   facebook: "https://www.facebook.com/CPS.JMK/"
+   facebook: "https://www.facebook.com/PiratiZnojemsko"
    forum: "https://forum.pirati.cz/viewforum.php?f=900"
    mail: vendula.svobodova@pirati.cz
 
