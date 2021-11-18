@@ -31,7 +31,7 @@ contactPersons:
      uid: pavel.nevrkla
 profiles:
    facebook: "https://www.facebook.com/PiratiZnojemsko"
-   forum: "https://forum.pirati.cz/viewforum.php?f=900"
+   forum: "https://forum.pirati.cz/viewforum.php?f=590"
    mail: vendula.svobodova@pirati.cz
 
 ---
