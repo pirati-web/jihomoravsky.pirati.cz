@@ -30,7 +30,7 @@ board:
      name: Josef Bárta 
 profiles:
    facebook: "https://www.facebook.com/piratislovacko"
-   forum: "https://forum.pirati.cz/viewforum.php?f=900"
+   forum: "https://forum.pirati.cz/viewforum.php?f=700"
    mail: vendula.svobodova@pirati.cz
 ---
 
@@ -40,11 +40,11 @@ profiles:
 
 ## **Členové**
 
-- Aktuálně má 16 členů, mezi kterými najdete jak obecní a krajské zastupitele, tak jedince usilující usilující o lepší život a otevřenou politiku ve městech i malých obcích. Chcete se k nim připojit i vy? [Naloďte se k nám](https://nalodeni.pirati.cz/){:target="_blank"}!
+- Aktuálně má 16 členů, mezi kterými najdete jak obecní a krajské zastupitele, tak jedince usilující o lepší život a otevřenou politiku ve městech i malých obcích. Chcete se k nim připojit i vy? [Naloďte se k nám](https://nalodeni.pirati.cz/){:target="_blank"}!
 
 ## **Úspěchy**
 
-- Piráti Slovácko mají zastupitele v Břeclavi a v Dubňanech. Další členové se podílejí na obecní správě ve výborech a komisích nebo jako aktivní občané v rámci místních spolků. Nedaleko břeclavského náměstí pak využívají Slovácké pirátské centrum, které slouží pro schůzky i pro různé akce.
+- Piráti Slovácko mají zastupitele v Břeclavi a v Dubňanech. Další členové se podílejí na obecní správě ve výborech a komisích nebo jako aktivní občané v rámci místních spolků. 
 
 ## **Vize**
 
