@@ -1,5 +1,3 @@
-### Povinné položky ###
-
 category: CLANKY   # nešahat!
 title: Do přípravy zákona o sociálním podnikání zapojujeme regiony
 date: 2021-11-19   # formát YYYY-MM-DD
