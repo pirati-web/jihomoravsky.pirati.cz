@@ -10,7 +10,7 @@ tags: Zdeněk-Kosour Olga-Richterová Adéla-Šípová sociální-podnikání # 
 important: true
 
 ### Nepovinné položky ###
-image: posts/kosourfoto.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/kosourfoto2.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Sociální podnikání je důležitou součástí sociální politiky našeho státu. Po dlouhých letech se konečně připravuje jeho legislativní rámec. Ten přinese mj. nové pracovní pozice pro občany se zdravotním i sociálním hendikepem. Přípravu nového zákona spustili poslankyně Olga Richterová, senátorka Adéla Šípová a člen MS Znojemsko Zdeněk Kosour. Zapojit do příprav plánují také subjekty širšího politického spektra.
 ---
 
