@@ -1,3 +1,5 @@
+---
+#název souboru: YYYY-MM-DD-nazev-clanku-bez-mezer-a-diakritiky.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
