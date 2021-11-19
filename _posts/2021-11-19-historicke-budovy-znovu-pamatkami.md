@@ -9,7 +9,6 @@ author: Krajský MO
 tags: památky ochrana Brno Tomáš-Koláčný kultura historie # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-authorId: jana.leitnerova # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: posts/pamatkabudova.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: V Brně se nachází značné množství staveb  staveb, které v minulosti byly považovány za kulturní památky, avšak kulturní památkou nejsou, protože byly do seznamu kulturních památek zapsány opožděně či lidskou chybou
 
