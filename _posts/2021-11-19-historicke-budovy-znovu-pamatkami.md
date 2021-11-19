@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Brno prohlásí historické budovy kulturními památkami
+title: Historické budovy Brna se stanou kulturními památkami
 date: 2021-11-19   # formát YYYY-MM-DD
 author: Krajský MO 
 tags: památky ochrana Brno Tomáš-Koláčný kultura historie # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
