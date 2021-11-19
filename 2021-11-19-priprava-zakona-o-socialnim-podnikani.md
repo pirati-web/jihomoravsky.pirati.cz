@@ -13,6 +13,7 @@ important: true
 image: posts/kosourfoto.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Sociální podnikání je důležitou součástí sociální politiky našeho státu. Po dlouhých letech se konečně připravuje jeho legislativní rámec. Ten přinese mj. nové pracovní pozice pro občany se zdravotním i sociálním hendikepem. Přípravu nového zákona spustili poslankyně Olga Richterová, senátorka Adéla Šípová a člen MS Znojemsko Zdeněk Kosour. Zapojit do příprav plánují také subjekty širšího politického spektra.
 ---
+
 **Sociální podnikání je důležitou součástí sociální politiky našeho státu. Po dlouhých letech se konečně připravuje jeho legislativní rámec. Ten přinese mj. nové pracovní pozice pro občany se zdravotním i sociálním hendikepem. Přípravu nového zákona spustili poslankyně Olga Richterová, senátorka Adéla Šípová a člen MS Znojemsko Zdeněk Kosour. Zapojit do příprav plánují také subjekty širšího politického spektra.** 
 
 >*„Je pro nás důležité vyslechnout názory na připravovaný návrh zákona přímo od sociálních podniků Česka. Zároveň jde o téma, které budeme následně diskutovat v rámci ostatních stran nové koalice, jsem moc ráda, že aktuálně poznáváme své nové kolegyně a kolegy“*, uvedla k připravované iniciativě místopředsedkyně PSP [Olga Richerová](https://www.pirati.cz/lide/olga-richterova/){:target="_blank"}. 
