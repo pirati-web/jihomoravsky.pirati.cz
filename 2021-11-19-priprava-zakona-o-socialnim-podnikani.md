@@ -1,5 +1,5 @@
 ---
-#název souboru: YYYY-MM-DD-nazev-clanku-bez-mezer-a-diakritiky.md
+#název souboru: 2021-11-19-priprava-zakona-o-socialnim-podnikani.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
