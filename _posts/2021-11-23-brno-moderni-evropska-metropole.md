@@ -26,4 +26,4 @@ Hlavní témata konference byla hlavně o tom, jak podpořit klimaticky neutrál
 
 >*„Fórum EMA (European metropolitan authorities) se tedy zabývalo postavením metropolitních oblastí v rámci veřejné správy a jejich zapojením do přípravy a řízení Národních plánů obnovy a zelené transformace. Metropolitní oblasti budou hrát v tomto směru klíčovou roli a je proto potřeba apelovat na národní i evropské instituce, aby při svém rozhodování metropolitní problematiku náležitě reflektovaly,“* komentuje konferenci v Portu pirátský náměstek [Tomáš koláčný](https://jihomoravsky.pirati.cz/lide/tomas-kolacny/){:target="_blank"}.
 
-Více se  o Brněnská metropolitní oblasti dozvíte na stránkách: https://metropolitni.brno.cz/zakladni-informace/zakladni-informace-brnenska-metropolitni-oblast/. 
+Více se o Brněnské metropolitní oblasti dozvíte na stránkách [metropoliltni.brno.cz.](https://metropolitni.brno.cz/zakladni-informace/zakladni-informace-brnenska-metropolitni-oblast/){:target="_blank"}
