@@ -6,7 +6,7 @@ category: CLANKY   # nešahat!
 title: Šetříme, zrychlujeme, digitalizujeme! 
 date: 2021-11-25   # formát YYYY-MM-DD
 author: Krajský MO
-tags: digitalizace Brno hvezdárna BrnoID # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: digitalizace Brno hvezdárna BrnoID Tomáš-Koláčný # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 important: true
 
 ### Nepovinné položky ###
