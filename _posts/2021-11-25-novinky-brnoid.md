@@ -9,7 +9,7 @@ author: Krajský MO
 tags: digitalizace Brno hvezdárna BrnoID # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/brnoidcover.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/brnoidcover2.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Po měsících příprav byl připojen na e-shopu městských služeb brnoid.cz nový modul - hvězdárna. Brno iD tak opět zrychlí a usnadní nákup služeb města Brna z domova. V nabídce jsou tak na jednom místě k dispozici šalinkarty, vstupenky do zoo či podpora veřejné zeleně. Zcela nově si najdou v eshopu své i zájemci o vesmír a  kosmické záležitosti -  mohou si totiž pořídit online nejen vstupenky, ale také dárkové poukazy do brněnské hvězdárny a planetária.
 
 ---
@@ -43,8 +43,8 @@ Nový modul na Brno iD nabízí také adopci stromů, která podpoří údržbu 
 Všichni registrovaní čtenáři mohou nově platit poplatky v Knihovně Jiřího Mahena v Brně online v e-shopu Brno iD. Všechny platby (dluhy, registrace, vklady na konto čtenáře) je možné uskutečnit přímo ze čtenářského konta v katalogu IPAC KJM. Platby kartou přes platební bránu Brno iD jsou obratem zaznamenány v knihovním systému KJM a čtenáři tak mohou bez čekání nebo z pohodlí domova pokračovat v čerpání služeb knihovny. 
 
 ## Rozšíření využití modulu Sport
-<div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/brnoidksport.png" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/brnoidksport.png" alt="Mapa nadzemky">
+<div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/brnoidsport.png" target="_blank">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/brnoidsport.png" alt="Mapa nadzemky">
 
 </a></div>
 
