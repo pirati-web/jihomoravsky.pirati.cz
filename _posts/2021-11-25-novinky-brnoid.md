@@ -24,7 +24,7 @@ image: posts/brnoidcover2.png # obrázek ideálně 420x677px minifikovaný přes
 
 </a></div>
 
-Od 1. 1. 2022 se v Brně přestanou platnost předplatních šalinkaret. Předplacené karty budou dostupné pouze v elektronické podobě, kterou si mohou lidé zakoupit v e-shopu Brno iD. Další možnost je nákup  šalinkarty v dopravním podniku na pobočce. Je nutné si vzít s sebou průkaz totožnosti a bezkontaktní bankovní kartu jako nosič pro šalinkartu. 
+Od 1. 1. 2022 se v Brně přestanou prodávat papírové šalinkarty.. Předplacené karty budou dostupné pouze v elektronické podobě, kterou si mohou lidé zakoupit v e-shopu Brno iD. Další možnost je nákup  šalinkarty v dopravním podniku na pobočce. Je nutné si vzít s sebou průkaz totožnosti a bezkontaktní bankovní kartu jako nosič pro šalinkartu. 
 
 ## Podpoř svůj strom
 <div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/brnoidstrom.png" target="_blank">
