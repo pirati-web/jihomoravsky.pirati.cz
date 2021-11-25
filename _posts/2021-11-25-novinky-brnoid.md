@@ -51,8 +51,8 @@ Všichni registrovaní čtenáři mohou nově platit poplatky v Knihovně Jiří
 V modulu Sport je nově v sekci Práce s kreditem u STAREZ-SPORT možnost si nechat vypsat historii čerpání kreditu čipových hodinek. Je možné si nastavit i počet vypisovaných záznamů.
 
 ## Prodej bez nutnosti přihlášení
-<div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/brnoidposledni.png" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/brnoidposledni.png" alt="Mapa nadzemky">
+<div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/brnoidposledni2.png" target="_blank">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/brnoidposledni2.png" alt="Mapa nadzemky">
 
 </a></div>
 
