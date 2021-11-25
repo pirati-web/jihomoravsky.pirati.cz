@@ -15,7 +15,7 @@ image: posts/brnoidcover2.png # obrázek ideálně 420x677px minifikovaný přes
 ---
 **Po měsících příprav byl připojen na e-shopu městských služeb brnoid.cz nový modul - hvězdárna. Brno iD tak opět zrychlí a usnadní nákup služeb města Brna z domova. V nabídce jsou tak na jednom místě k dispozici šalinkarty, vstupenky do zoo či podpora veřejné zeleně. Zcela nově si najdou v eshopu své i zájemci o vesmír a  kosmické záležitosti -  mohou si totiž pořídit online nejen vstupenky, ale také dárkové poukazy do brněnské hvězdárny a planetária..** 
 
-> „Jedním z žádoucích dopadů digitalizace brněnských městských služeb je úspora peněz. Ty šetříme i díky tomu, že postupně nahrazujeme externí řešení prodeje vstupenek v jednotlivých příspěvkových organizacích města Brna systémem vlastním. Po Zoo Brno jsme do rodiny Brno iD dnes s radostí přivítali také Hvězdárnu a planetáriem Brno,“ uvedl náš náměstek primátorky města Brna [Tomáš Koláčný](https://jihomoravsky.pirati.cz/lide/tomas-kolacny/){:target="_blank"}
+> „Jedním z žádoucích dopadů digitalizace brněnských městských služeb je úspora peněz. Ty šetříme i díky tomu, že postupně nahrazujeme externí řešení prodeje vstupenek v jednotlivých příspěvkových organizacích města Brna systémem vlastním. Po Zoo Brno jsme do rodiny Brno iD dnes s radostí přivítali také Hvězdárnu a planetáriem Brno,“ uvedl náš náměstek primátorky [Tomáš Koláčný](https://jihomoravsky.pirati.cz/lide/tomas-kolacny/){:target="_blank"}
 
 ## Online nákup šalinkaret v Brně
 <div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/brnoidsalina.png" target="_blank">
