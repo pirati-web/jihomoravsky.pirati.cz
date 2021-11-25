@@ -7,6 +7,7 @@ title: Šetříme, zrychlujeme, digitalizujeme!
 date: 2021-11-25   # formát YYYY-MM-DD
 author: Krajský MO
 tags: digitalizace Brno hvezdárna BrnoID # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/brnoidcover2.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
