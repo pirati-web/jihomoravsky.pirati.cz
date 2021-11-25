@@ -7,7 +7,7 @@ title: Novinky z Rady Jihomoravského kraje
 date: 2021-11-25   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Rada JMK Lukáš-Dubec Jana-Leitnerová ekologie sociální-oblast sport # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
-important: true
+
 
 ### Nepovinné položky ###
 image: posts/vever.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
