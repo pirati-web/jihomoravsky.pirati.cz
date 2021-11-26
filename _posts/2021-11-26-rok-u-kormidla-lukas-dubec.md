@@ -7,6 +7,7 @@ title: Rok u kormidla - Lukáš Dubec
 date: 2021-11-26   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Lukáš-Dubec ekologie transparentnost otevřenost životní-prostředí # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/podch.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
