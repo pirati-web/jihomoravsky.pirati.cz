@@ -2,6 +2,7 @@
 uid: michal.marciniszyn
 name:     Michal Marciniszyn  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- pms
 - zmcstred
 ordzmcstred: 5
 img: people/michal_marciniszyn_ctverec_web.jpg   # 165 x 220
