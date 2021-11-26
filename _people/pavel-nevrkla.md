@@ -5,6 +5,7 @@ titles:
   before: Mgr. 
   after:
 category:                 	# kategorie: kandidat, pks, zastupitel
+- pms
 - pks
 - zmznojmo
 ordpks: 3
