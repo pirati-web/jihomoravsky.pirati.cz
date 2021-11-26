@@ -5,11 +5,9 @@ titles:
   before: Bc. 
   after:
 category:                 	# kategorie: kandidat, pks, zastupitel
-- pms
 - mmb
 - msbrno
 - zmczidenice
-- kontaktni_osoba
 ordpms: 3
 ordmmb: 1
 ordmsbrno: 1
