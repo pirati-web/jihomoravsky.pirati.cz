@@ -29,4 +29,5 @@ Vydali jsme se proto na cestu boje s tímto znečištěním a v dalším díle v
 Leteckou mapu z měření si můžete prohlédnout sami na [brno.cz/nocni-brno](https://brno.cz/nocni-brno ){:target="_blank"}
 
 [Michal Marciniszyn](https://jihomoravsky.pirati.cz/lide/michal-marciniszyn/){:target="_blank"}
+
 Zastupitel MČ Brno-střed a předseda představenstva TSB, a.s.
