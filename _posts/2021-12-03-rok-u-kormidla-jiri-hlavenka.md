@@ -22,7 +22,7 @@ V Jihomoravském kraji běží už několik let podpora podnikavosti na školác
 Mým hlavním zadáním pro aktéry v oblasti podnikavosti (Lipka, JIC, příslušné odbory na kraji) je, že musíme dosáhnout větší plošnosti. Není přijatelné, aby podnikavost byla trénována na jedné škole a na jiné ne (v současnosti jsme asi na 20% pokrytí). Všude jsou talenti a všichni žáci i studenti, v Brně nebo ve Velké nad Veličkou si to zaslouží stejně dobrý přístup. Podnikavost se musí stát součástí vzdělání, nikoli jen volbou pro vybrané.
 
 <div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/jiri2.jpg" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/brnoidsalina.png" alt="Mapa nadzemky">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/jiri2.jpg" alt="Mapa nadzemky">
 
 </a></div>
 
@@ -31,7 +31,7 @@ Mým hlavním zadáním pro aktéry v oblasti podnikavosti (Lipka, JIC, příslu
 Otevírá se nám možnost dramaticky posílit špičkové výrobní průmysly v kraji s dopadem, který může být až kolosální. Plán, primárně aktivovaný Holandskem a jejich provincií Horní Brabantsko (centrální město Eindhoven - jedná se o území dosti podobné Jižní Moravě, velikostně i populací, Eindhoven je podobné centrum high-techu jako Brno, uvažují i postupují velmi podobně) usiluje o zřízení jakéhosi „zlatého kruhu” napříč nejpokročilejšími regiony Evropy, který se spojí v silnou vědecko-výzkumno-výrobní-technologickou základnu, která bude sdílet lidi i kapacity a vytvoří postupně celek, který bude schopen například konkurovat Číně a vracet výrobu postupně zpět do Evropy. Holandsko vyniká v inovacích (jsou přece jen o trochu dál než my, ale ne zásadně), jsou skvělí v obchodu a finančně stabilní. Naše silná pozice je v dosud neztracených výrobních, zejména strojírenských kompetencích, v kvalitním softwarovém průmyslu a taktéž v inovacích. Plán je teprve na svém začátku, ale považuji to za největší šanci pro náš kraj a možnost “doskočit” nejvyspělejší západoevropské regiony.
 
 <div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/jiri3.jpg" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/brnoidsalina.png" alt="Mapa nadzemky">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/jiri3.jpg" alt="Mapa nadzemky">
 
 </a></div>
 
@@ -41,7 +41,7 @@ Může se kamarádit podnikání s uměním? Chceme dokázat, že ano - oblast z
 Letos na podzim jsme otevřeli kreativní centrum Kumst, které bude naší laboratoří i poloprovozem kreativních průmyslů. Již se zabydluje drobnými podnikateli, jejichž činnost v sobě právě spojuje kreativitu, umění (kumšt!) i byznys; pořádáme setkání a semináře, propojujeme komunity a ukazujeme i zralým firmám, jak je důležité se opřít o uměleckou tvořivost. Jednou z nejdůležitějších a už dobře zabydlených oblastí je „gaming industry”, tvorba herního software, která už dnes v Brně zaměstnává mnoho set špičkových lidí (!) a plánuje vzrůst během několika let na nízké tisíce - to je nejlepší ukázka, jak obrovský potenciál mohou kreativní průmysly mít.
 
 <div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/jiri4.jpg" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/brnoidsalina.png" alt="Mapa nadzemky">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/jiri4.jpg" alt="Mapa nadzemky">
 
 </a></div>
 
