@@ -7,6 +7,7 @@ title: Rok u kormidla - Jiří Hlavenka
 date: 2021-12-03   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Jiří-Hlavenka věda výzkum inovace technologie Kumst Holandsko # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+impartant: true
 
 ### Nepovinné položky ###
 image: posts/jiri1.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
