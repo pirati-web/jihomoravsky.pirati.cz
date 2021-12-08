@@ -7,7 +7,7 @@ title: Brownfields v Brně budou mít environmentální využití
 date: 2021-12-08   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Tomáš-Koláčný brownfields enviro revitalizace Brno # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
-important:true
+important: true
 
 ### Nepovinné položky ###
 image: posts/brownf.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
