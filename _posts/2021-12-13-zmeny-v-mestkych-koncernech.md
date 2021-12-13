@@ -9,7 +9,7 @@ author: Krajský MO
 tags: Tomáš-Koláčný městké-firmy piráti  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/gold.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/rucka.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Město reaguje na aktuální situaci - hlasování a projednávání představenstev nyní možné i distančně, za neúčast adekvátní snížení odměn. 
 
 ---
