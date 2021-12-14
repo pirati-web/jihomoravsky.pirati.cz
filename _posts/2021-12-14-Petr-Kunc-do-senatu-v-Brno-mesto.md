@@ -6,7 +6,8 @@ category: CLANKY   # nešahat!
 title: V senátním obvodu č. 58 Brno-město bude za Piráty kandidovat Petr Kunc
 date: 2021-12-14   # formát YYYY-MM-DD
 author: Krajský MO
-tags: Petr-Kunc senátní-volby Brno-město kandidát archiv # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: Petr-Kunc senátní-volby Brno-město kandidát # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/PK.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
