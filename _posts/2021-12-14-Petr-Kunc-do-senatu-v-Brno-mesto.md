@@ -27,7 +27,7 @@ Intenzivně se zabývá i děním v sousedních městských částech, které js
 
 Podobných témat je však více, není to tedy jen jedna oblast, ve které by chtěl obyvatelům pomoci chránit jejich práva a zájmy. Klíčovým tématem dnešní doby je dostupnost bydlení a doprava, což jsou témata, které odpovídají jeho profesi.
 
-V současné době není členem žádné politické strany ani hnutí, kandidovat bude s podporou brněnských Pirátů. Hlavním důvodem je fakt, že Pirátská strana nejlépe rezonuje s jeho liberálním politickým směrem a na obsazení míst vypisuje veřejná výběrová řízení. 
+V současné době není členem žádné politické strany ani hnutí, kandidovat bude s podporou jihomoravských Pirátů. Hlavním důvodem je fakt, že Pirátská strana nejlépe rezonuje s jeho liberálním politickým směrem a na obsazení míst vypisuje veřejná výběrová řízení. 
 
 Ing. Petr Kunc (43 let) je ženatý, má dvě děti a psa. Ve volném čase se věnuje cyklistice, turistice a historii Židenic. 
 
