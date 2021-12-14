@@ -21,7 +21,7 @@ Vítek se profesně věnuje oboru vzdělávání dospělých od roku 2005. Je ko
 >*„Ve své práci vlastně učím lidi vést dialog posouvám je k otevřené komunikaci. Totéž chci dělat i jako senátor. Protože – ať už se jedná o politiku nebo každodenní život – společné problémy můžeme řešit jen, když jsme schopni diskutovat a umíme respektovat své kolegy, přátele i nepřátele,“* uvedl Filip Vítek, kandidát do Senátu za volební obvod 49.
 >
 
-Vítek chce posílit pirátský tým, aby byl v Senátu více slyšet liberální hlas a pirátské hodnoty. „Potřebujeme, aby tu fungovala otevřenost a férovost. Potřebujeme spojovat a zakopávat příkopy. Na to česká politika dlouhá léta zapomíná a je nejvyšší čas se tomu začít věnovat,“ dodal Vítek.
+Vítek chce posílit pirátský tým, aby byl v Senátu více slyšet liberální hlas a pirátské hodnoty. *„Potřebujeme, aby tu fungovala otevřenost a férovost. Potřebujeme spojovat a zakopávat příkopy. Na to česká politika dlouhá léta zapomíná a je nejvyšší čas se tomu začít věnovat,“* dodal Vítek.
 
 >*„Generačně jsem jinde než většina senátorů a senátorek, což vnímám jako výzvu, ale zároveň výhodu. Mám dvě malé děti a potřebujeme, aby v Senátu byla zastoupena i mladší generace, která může svět vidět z trochu jiného úhlu,“* dodal Vítek. 
 >
