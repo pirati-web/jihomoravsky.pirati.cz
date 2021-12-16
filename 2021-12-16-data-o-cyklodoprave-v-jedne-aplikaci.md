@@ -1,4 +1,3 @@
-
 ---
 #název souboru: 2021-12-16-data-o-cyklodoprave-v-jedne-aplikaci.md
 ### Povinné položky ###
