@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Data o cyklodopravě  nundou integrovány do jedné aplikace
+title: Data o cyklodopravě  budou integrovány do jedné aplikace
 date: 2021-12-16  # formát YYYY-MM-DD
 author: Krajský MO
 tags: Tomáš-Koláčný Marek-Lahoda cyklodoprava data aplikace # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
