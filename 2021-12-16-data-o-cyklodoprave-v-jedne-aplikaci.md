@@ -31,10 +31,10 @@ Měření intenzit pěší a cyklo dopravy bylo a je spojeno s mnoha obtížemi 
 Datové podklady k cyklointenzitě naleznete v následujících odkazech:
 
 **Aplikace o intenzitách cyklodopravy:**
-https://data.brno.cz/apps/b16ea85c2de24898bc7cec52366db957 nebo https://t.co/Q2FHGJxtD2?amp=1
+[https://data.brno.cz/apps/b16ea85c2de24898bc7cec52366db957](https://data.brno.cz/apps/b16ea85c2de24898bc7cec52366db957){:target="_blank"} nebo [https://t.co/Q2FHGJxtD2?amp=1]( https://t.co/Q2FHGJxtD2?amp=1){:target="_blank"} 
 
 **Senzor průchodu chodců** 
-https://data.brno.cz/pages/masarycka
+[https://data.brno.cz/pages/masarycka](https://data.brno.cz/pages/masarycka){:target="_blank"}
 
 **Navrhovaná cykloopatření:**
-https://gis.brno.cz/mapa/cykloopatreni/?c=-595523.35%3A-1160140.2&z=4&lb=zm-brno-seda-all&ly=cyklo-navrh%2Cad%2Culn&lbo=1&lyo=
+[https://gis.brno.cz/mapa/cykloopatreni/?c=-595523.35%3A-1160140.2&z=4&lb=zm-brno-seda-all&ly=cyklo-navrh%2Cad%2Culn&lbo=1&lyo=](https://gis.brno.cz/mapa/cykloopatreni/?c=-595523.35%3A-1160140.2&z=4&lb=zm-brno-seda-all&ly=cyklo-navrh%2Cad%2Culn&lbo=1&lyo=){:target="_blank"}. 
