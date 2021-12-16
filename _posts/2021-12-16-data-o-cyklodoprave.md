@@ -7,6 +7,7 @@ title: Data o cyklodopravě  nundou integrovány do jedné aplikace
 date: 2021-12-16  # formát YYYY-MM-DD
 author: Krajský MO
 tags: Tomáš-Koláčný Marek-Lahoda cyklodoprava data aplikace # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/cy.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
