@@ -8,7 +8,7 @@ title: Statistická data o cyklodopravě integrovány do jedné aplikace
 date: 2021-12-16   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Tomáš-Koláčný Marek-Lahoda cyklodoprava aplikace data # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
-impartant: true
+important: true
 
 ### Nepovinné položky ###
 image: posts/Cyklointenzita.jpeg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
