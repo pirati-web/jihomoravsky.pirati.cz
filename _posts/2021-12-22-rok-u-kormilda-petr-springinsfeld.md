@@ -9,7 +9,7 @@ author: Krajský MO
 tags: Petr-Springinsfeld rok-u-kormidla krajský-výbor Trnavský-kraj Mersin EU # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/DSC.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/PTS.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Jak udělat z Jihomoravského kraje světoznámý region? No, na to existuje jen jeden recept – jednání, jednání a zase jednání. Na krajském úřadě, na různých místech České republiky a samozřejmě i v zahraničí. Jedině tak se staneme atraktivním místem pro zahraniční zaměstnance, společnosti a turisty. V uplynulém roce nám plány částečně narušil covid, přesto se toho hodně povedlo!  
 
 ---
