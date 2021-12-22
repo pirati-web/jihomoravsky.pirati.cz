@@ -24,4 +24,4 @@ Tím však určitě ještě nekončíme! S Jirkou Hlavenkou se zabýváme proble
  
 Tvoříme kraj vhodný pro 21. století – sebevědomý, známý v zahraničí a spolehlivý pro partnery ze státního i soukromého sektoru. Stále více regionů a společností s námi chce spolupracovat, čímž vytváříme nové a nové pracovní příležitosti po celém kraji. Nemohu proto vždy skrývat upřímnou radost, když se vracím z každého úspěšného jednání, které přinese viditelné výsledky mnoha obyvatelům jižní Moravy. 
 
- [Petr Springinsfeld](https://jihomoravsky.pirati.cz/lide/petr-springinsfeld/?ltclid=){:target="_blank"}
+ [Petr Springinsfeld](https://jihomoravsky.pirati.cz/lide/petr-springinsfeld/?ltclid=){:target="_blank"} 
