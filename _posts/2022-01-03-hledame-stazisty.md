@@ -56,8 +56,8 @@ Výběrové řízení bude dvoukolové – vyhodnocení podkladů a následný p
 
 **Členové hodnotící komise**
 
--[Petr Springinsfeld](https://jihomoravsky.pirati.cz/lide/petr-springinsfeld/){:target="_blank"}
--[Jakub Šuster](https://lide.pirati.cz/osoba/2277/){:target="_blank"}
--KoKS
+- [Petr Springinsfeld](https://jihomoravsky.pirati.cz/lide/petr-springinsfeld/){:target="_blank"}
+- [Jakub Šuster](https://lide.pirati.cz/osoba/2277/){:target="_blank"}
+- KoKS
 
 Přidej se k nám! Protože jenom společně máme šanci změnit budoucnost.
