@@ -11,7 +11,7 @@ important: true
 
 ### Nepovinné položky ###
 image: posts/stazi.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
-#description: Baví tě sledovat politiku? Chceš vědět, jak to chodí v politické straně a jak se dělá politický marketing? Chceš se podílet na činnosti České pirátské strany a přispět tak ke změně na české politické scéně? Pokud je tvoje odpověď třikrát ano, tak je to stáž přesně pro tebe! Na dobu 3-12 měsíců nabízíme zajímavé stáže pro studenty.
+#description: Baví tě politika nebo PR a marketing? Chceš vědět, jak to chodí v politické straně a jak se dělá politický marketing? Chceš se podílet na činnosti České pirátské strany a přispět tak ke změně na české politické scéně? Pokud je tvoje odpověď třikrát ano, tak je to stáž přesně pro tebe!
 
 ---
 
@@ -50,7 +50,7 @@ image: posts/stazi.png # obrázek ideálně 420x677px minifikovaný přes https:
 - Znalosti chodu politického marketingu a další užitečné zkušenosti
 - Pirátský merch
 
-Stáž by měla trvat minimálně měsíc, ale přesná délka je na vzájemné dohodě. Pokud tě naše nabídka zaujala, pošli svoje CV a motivační dopis. Napiš nám, proč jsi pro tuto stáž ta pravá/ten pravý do konce ledna 2022 na e-mailovou adresu jakub.suster@pirati.cz.  Nezapomeň také říct, jaké činnosti bys sse během stáže věnoval/a nejraději. Pokud máš více otázek, tak nám neváhej napsat i na [Facebook](https://www.facebook.com/PiratiBrno){:target="_blank"} nebo [Instagram](https://www.instagram.com/piratijmk/){:target="_blank"}. 
+Stáž by měla trvat minimálně měsíc, ale přesná délka je na vzájemné dohodě. Pokud tě naše nabídka zaujala, pošli svoje CV a motivační dopis. Napiš nám, proč jsi pro tuto stáž ta pravá/ten pravý **do konce ledna 2022** na e-mailovou adresu **jakub.suster@pirati.cz**.  Nezapomeň také říct, jaké činnosti by ses během stáže věnoval/a nejraději. Pokud máš více otázek, tak nám neváhej napsat i na **[Facebook]**(https://www.facebook.com/PiratiBrno){:target="_blank"} nebo **[Instagram]**(https://www.instagram.com/piratijmk/){:target="_blank"}. 
 
 
 Přidej se k nám! Protože jenom společně máme šanci změnit budoucnost.
