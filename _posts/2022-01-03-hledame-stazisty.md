@@ -15,7 +15,7 @@ image: posts/stazi.png # obrázek ideálně 420x677px minifikovaný přes https:
 
 ---
 
-**Baví tě politika nebo PR a marketing? Chceš vědět, jak to chodí v politické straně a jak se dělá politický marketing? Chceš se podílet na činnosti České pirátské strany a přispět tak ke změně na české politické scéně? Pokud je tvoje odpověď třikrát ano, tak je to stáž přesně pro tebe! **
+**Baví tě politika nebo PR a marketing? Chceš vědět, jak to chodí v politické straně a jak se dělá politický marketing? Chceš se podílet na činnosti České pirátské strany a přispět tak ke změně na české politické scéně? Pokud je tvoje odpověď třikrát ano, tak je to stáž přesně pro tebe!**
 
 # Co tě čeká? 
 
