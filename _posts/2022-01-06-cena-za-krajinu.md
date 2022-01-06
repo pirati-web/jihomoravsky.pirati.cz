@@ -10,11 +10,11 @@ tags: Lukáš-Dubec enviro soutěž projekty vodní-plochy remízky vysazování
 
 ### Nepovinné položky ###
 image: posts/wine.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
-#description: Na začátku byla vaše myšlenka - podpořit jihomoravskou krajinu v boji s klimatickými změnami pomocí rozvoje krajinných prvků. Úspěšný dotační program již existoval. Jediné, co ještě chybělo bylo ocenění, kterým bychom vám za tuto práci a inspiraci mnoha dalších poděkovali.
+#description: Na začátku byla vaše myšlenka - podpořit jihomoravskou krajinu v boji s klimatickými změnami pomocí rozvoje krajinných prvků. Úspěšný dotační program již existoval. Jediné, co ještě chybělo, bylo ocenění, kterým bychom vám za tuto práci a inspiraci mnoha dalších poděkovali.
 
 ---
 
-**Na začátku byla vaše myšlenka - podpořit jihomoravskou krajinu v boji s klimatickými změnami pomocí rozvoje krajinných prvků. Úspěšný dotační program již existoval. Jediné, co ještě chybělo bylo ocenění, kterým bychom vám za tuto práci a inspiraci mnoha dalších poděkovali.**
+**Na začátku byla vaše myšlenka - podpořit jihomoravskou krajinu v boji s klimatickými změnami pomocí rozvoje krajinných prvků. Úspěšný dotační program již existoval. Jediné, co ještě chybělo, bylo ocenění, kterým bychom vám za tuto práci a inspiraci mnoha dalších poděkovali.**
  
 A tak vznikla soutěž nejlepších environmentálních projektů „Cena za krajinu”. Doputovalo k nám hned 43 projektů, z nichž je většina rozeseta po celém kraji. Projekty pomáhají navrátit jihomoravské přírodě rovnováhu. Budují a udržují nové a stávající vodní plochy. Snaží se bojovat s erozí půdy vlivem přetrvávajícího sucha. Staví mokřady, remízky. Vysazují zeleň, stromy, keře a mnoho dalšího.
  
