@@ -38,9 +38,9 @@ Překvapilo mě, kolik práce a času stojí za jediným statusem na Facebooku, 
 
 Rozhodně, dovedu si představit, že bych takhle v budoucnu pracovala. Pokud máte možnost, určitě jděte do toho!
 
-[Zaujala tě naše nabídka na stáž?](https://jihomoravsky.pirati.cz/aktuality/staz.html){:target="_blank"} Pokud ano, tak nám pošli svoje CV a motivační dopis. Napiš nám, proč jsi pro tuto stáž ta pravá/ten pravý na e-mailovou adresu **jakub.suster@pirati.cz**. Čas máš už jenom **do 30. dubna 2021!**
+[Zaujala tě naše nabídka na stáž?](https://jihomoravsky.pirati.cz/aktuality/hledame-stazisty.html){:target="_blank"} Pokud ano, tak nám pošli svoje CV a motivační dopis. Napiš nám, proč jsi pro tuto stáž ta pravá/ten pravý na e-mailovou adresu **jakub.suster@pirati.cz**. Čas máš už jenom **do konce ledna 2022!**
 
-Pokud máš více otázek, tak nám neváhej napsat i na [Facebook](https://www.facebook.com/CPS.JMK){:target="_blank"} nebo [Instagram](https://www.instagram.com/piratijmk/){:target="_blank"}. Budeme se těšit! :) 
+Pokud máš více otázek, tak nám neváhej napsat i na [Facebook](https://www.facebook.com/PiratiBrno){:target="_blank"} nebo [Instagram](https://www.instagram.com/piratijmk/){:target="_blank"}. Budeme se těšit! :) 
 
 
 
