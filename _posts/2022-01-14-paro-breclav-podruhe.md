@@ -28,6 +28,8 @@ Loni město provedlo doplnění autobusových zastávek o květinovou výzdobu a
 </a></div>
 
 
-*„Autobusové zastávky sklidily u lidí značně pozitivní ohlas a další vítězný nápad ho podle mě sklidí rovněž. Rozvíjet zapojení místních lidí do rozpočtovaných akcí je tedy pozitivní jak pro město, tak v tomto případě i pro studenty, kteří si díky tomu mohou vyzkoušet základní projektovou přípravu. Ta trvá i několik měsíců a mohou při ní vidět, kolik problémů se v jejím průběhu musí řešit. O to víc se ale pak mohou s ostatními kolem sebe radovat z výsledku,“* vyzdvihl klady takovýchto projektů radní města a krajský pirátský zastupitel [Petr Vlasák](https://jihomoravsky.pirati.cz/lide/petr-vlasak/){:target="_blank"}.
+
+>*„Autobusové zastávky sklidily u lidí značně pozitivní ohlas a další vítězný nápad ho podle mě sklidí rovněž. Rozvíjet zapojení místních lidí do rozpočtovaných akcí je tedy pozitivní jak pro město, tak v tomto případě i pro studenty, kteří si díky tomu mohou vyzkoušet základní projektovou přípravu. Ta trvá i několik měsíců a mohou při ní vidět, kolik problémů se v jejím průběhu musí řešit. O to víc se ale pak mohou s ostatními kolem sebe radovat z výsledku,“* vyzdvihl klady takovýchto projektů radní města a krajský pirátský zastupitel [Petr Vlasák](https://jihomoravsky.pirati.cz/lide/petr-vlasak/){:target="_blank"}.
+>
 
 Na výzvu [Petra Vlasáka](https://jihomoravsky.pirati.cz/lide/petr-vlasak/){:target="_blank"} navíc Břeclav zdvojnásobí participativní rozpočet na 200 000 Kč! 
