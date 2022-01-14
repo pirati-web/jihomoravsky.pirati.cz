@@ -8,6 +8,7 @@ title: V Břeclavi díky participativnímu rozpočtu nahlédnou do minulosti
 date: 2022-01-14   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Petr-Vlasák Břeclav participativní-rozpočet  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/ParoA.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
