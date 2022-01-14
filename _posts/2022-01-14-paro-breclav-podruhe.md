@@ -1,6 +1,5 @@
-
 ---
-#název souboru: 2022-01-14-paro-breclav.md
+#název souboru: 2022-01-14-paro-breclav-podruhe.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
