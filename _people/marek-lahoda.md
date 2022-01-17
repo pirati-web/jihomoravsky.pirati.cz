@@ -7,8 +7,8 @@ titles:
   before: Mgr. 
   after:
 mail:
-- mara.lahoda@gmail.com
-img: people/marek-lahoda.jpg   # 165x220px
+- marek.lahoda@pirati.cz
+img: people/lahodacrop.jpg   # 165x220px
 heroImg: header/palava_krajina.jpg
 description: Geograf, klimatolog, datový analytik, propagátor udržitelné dopravy, zastupitel za Piráty na MČ KrPole 	# kratký popis, max 160 znaků
 
@@ -36,30 +36,37 @@ motto: Kdo, když ne my? Kdy, když ne teď! - Květoslava Morávková, účastn
 
 ---
 
-Marek Lahoda (*1992) pochází z Brna, konkrétně z MČ Komín. Poslední dva roky žije v Králově Poli, které si velmi oblíbil. V komunálních volbách 2018 zde byl zvolen zastupitelem za Piráty.
+**Marek Lahoda (*1992)** je místopředsedou místního sdružení Brno a garantem [KET Doprava, infrastruktura, územní rozvoj a plánování.](https://forum.pirati.cz/viewforum.php?f=1158){:target="_blank"}
 
-V Brně absolvoval osm let v matematické třídě na Gymnáziu na tř. Kpt. Jaroše a následně vystudoval obor Fyzická geografie na Geografickém ústavu Přirodovědecké fakulty Masarykovy univerzity. Půl roku studoval také na University of Oslo díky programu Erasmus a život v Norsku ho mnohým inspiroval. Na PřF MU se tři roky angažoval jako předseda Studentské komory Akademického senátu. Na brněnské Geografii nyní pokračuje v doktorském studiu, v rámci kterého zkoumá dlouhodobé změny globálního slunečního záření.
+**Marek pochází z Brna**, konkrétně z MČ Komín. Je absolventem matematické třídy Gymnázia na tř. Kpt. Jaroše a následně vystudoval obor Fyzická geografie na Geografickém ústavu Přirodovědecké fakulty Masarykovy univerzity. Na PřF MU se tři roky angažoval jako předseda Studentské komory Akademického senátu. Půl roku studoval také na University of Oslo díky programu Erasmus.
 
-Už od středoškolského studia si přivydělával na brigádách a vyzkoušel tak řadu profesí od prodavače v outdoorovém obchodě, přes kluka pro všechno v neziskovce až po GIS Specialistu. V roce 2018 působil jako datový analytik v rámci projektu datové žurnalistiky Česko v datech. Nyní pracuje na částečný úvazek na Akademii věd na Ústavu výzkumu globální změny (CzechGlobe), kde zpracovává a analyzuje data z 250m meteorologického stožáru pro Oddělení atmosférických toků a dálkového transportu látek.
+Jeho **odborné zaměření je na klimatologii**, o změny klimatu se začal zajímat už před 15 lety (dřív, než to bylo “cool”, resp. “hot”) a byl také u zrodu projektu Fakta o klimatu. Má však rozhled i v humanitních vědách a na rozdíl od řady přírodovědců je nepovažuje za něco méněcenného, právě naopak. Pro řešení globálních i lokálních problémů dnešního světa jsou podle něj naprosto zásadní. Globální dění však jednotlivec ovlivní jen těžko, řídí se proto heslem “Mysli globálně, jednej lokálně” a svou troškou do mlýna transformace naší společnosti směrem k udržitelnosti přispívá na komunální úrovni.
 
-Ve volném čase lozí, tancuje, chodí po horách a poznává cizí země i tu vlastní.
+Jeho **profesí je analýza dat**. Rok pracoval pro Česko v datech a nyní čtyři roky na CzechGlobe (Ústav výzkumu globální změny Akademie věd ČR). Postupně se mu daří čím dál tím víc věnovat své dlouhodobé největší vášni, kterou je doprava a urbanismus.
 
-Kandidatura v komunálních volbách je logickým vyústěním jeho dlouhodobého zájmu o veřejné a především brněnské dění. Protože nadávání u piva moc nefungovalo, zapojil se v roce 2013 do spolku Brno na kole za účelem zkvalitňování veřejného prostoru a rozvoje cyklodopravy v Brně. Po pár letech vyšší aktivity však dospěl ke zjištění, že z pozice prostého aktivního občana se podoba vlastního města ovlivňuje dost těžko a že co si člověk sám neudělá, to nemá. A on ty cyklostezky v Brně chce mít opravdu hodně.
+Od roku 2013 byl **7 let členem spolku Brno na kole**, několik let i v jeho čele. Zlomovým okamžikem byla kauza rušení cykloobousměrek, kterou se bohužel nepodařilo vyřešit rozumnou domluvou, takže [musela skončit až u soudu](https://brnonakole.cz/anatomie-selhani-cyklooobousmerky/){:target="_blank"}. Dospěl tak k závěru, že se v Brně nic reálně nezmění, dokud ve vedení města nebude politik, pro kterého kvalitní veřejný prostor, udržitelná doprava, ochrana životního prostředí a prosperující město budou skutečné priority. **Rozhodl se, že se tím politikem stane.** A protože byl již delší dobu příznivcem jediné politické strany u nás, která neusnula v minulém tisíciletí, nalodil se k Pirátům.
 
-Voličem a příznivcem Pirátů je už řadu let, do brněnského místního sdružení se zapojil na začátku roku 2018 inspirován pražskými a celostátními vzory a také svou účastí v brněnském úspěšném Participativním rozpočtu. Pirátská politika pro něj znamená především:
+V komunálních volbách 2018 byl zvolen **zastupitelem za Piráty v MČ Královo Pole a stal se také místopředsedou Komise dopravní Rady města Brna**. Od dubna 2021 řeší za Piráty dopravu v Brně i z pozice člena představenstva městské společnosti Brněnské komunikace. Aby se mohl více věnovat politice, přerušil v únoru své doktorské studium.
+
+Ve volném čase lozí, tancuje, chodí po horách a poznává cizí země i tu vlastní. Na četných cestách poznal řadu jiných měst od Tokia po Dublin, ve kterých některé věci fungují lépe a tuto dobrou zahraniční praxi se snaží přenášet do svého rodného města.
+
+Pirátská politika pro něj znamená především:
+
 - transparentnost, otevřenost a komunikaci jako základy důvěry občanů ve stát a politiky
 - moderní stát, který život člověku usnadňuje, ne komplikuje
-- informační společnost, tj. snadný přístup všech k informacím, které jsou dnes pomyslným zlatem
+informační společnost, tj. snadný přístup všech k informacím, které jsou dnes pomyslným zlatem
 - boj s korupcí a klientelismem, které okrádají nás všechny ve prospěch mocných
 - participaci, tj. aktivní zapojování občanů do dění v obci
 
-Jinak mezi jeho hlavní témata patří:
-- udržitelná doprava = MHD jako základ (> 50 % podíl na přepravní práci) + zajištění svobody volby dopravního prostředku pro všechny skupiny obyvatel (muže, ženy, seniory, děti, ...) prostřednictvím zajištění bezpečné infrastruktury pro lidi dopravující se na kole a pěšky + zajištění dostupnosti parkování (občas jezdí i autem, takže situaci zná z obou často až příliš vyhrocených úhlů pohledu)
-- životní prostředí = zajištění základního lidského práva na čisté ovzduší (jak se ukazuje, velký význam mají lokální topeniště, tj. čím a jak lidé topí u sebe doma - je potřeba je vzdělávat a motivovat k topení plynem nebo přechodu na CZT) + více zeleně ve městě jako té nejúčinější klimatizace, která jediná nás může efektivně ochránit před vlnami veder
-- kvalitní veřejný prostor = město pro lidi, ve kterém se snadno a dobře žije všem, i tělesně nebo jinak znevýhodněným, ne pouze rychle dopravuje těm nejsilnějším, nejúspěšnějším a nejbohatším
-- evidence-based policy = rozhodování na základě dat, analýz a studií, ne na základě dojmů, peněz a klientelistických vazeb
+Mezi jeho politické priority patří:
+
+- **udržitelná doprava** = MHD jako základ (> 50 % podíl na přepravní práci) + zajištění svobody volby dopravního prostředku pro všechny skupiny obyvatel (muže, ženy, seniory, děti, …) prostřednictvím zajištění bezpečné infrastruktury pro lidi dopravující se na kole a pěšky + zajištění dostupnosti parkování (jezdí i autem, takže situaci zná z obou často až příliš vyhrocených úhlů pohledu)
+- **kvalitní veřejný prostor** = město pro lidi, ve kterém se snadno a dobře žije všem, i tělesně nebo jinak znevýhodněným, ne pouze rychle dopravuje těm nejsilnějším, nejúspěšnějším a nejbohatším
+- **životní prostředí** = zajištění základního lidského práva na čisté ovzduší (jak se ukazuje, velký význam mají lokální topeniště, tj. čím a jak lidé topí u sebe doma - je potřeba je vzdělávat a motivovat k topení plynem nebo přechodu na CZT) + více zeleně ve městě jako té nejúčinnější klimatizace, která jediná nás může efektivně chránit před vlnami veder
+- **evidence-based policy** = rozhodování na základě dat, analýz a studií, ne na základě dojmů, peněz a klientelistických vazeb
 
 Máte jakýkoliv dotaz? Chcete se potkat a probrat něco konkrétního? Neváhejte napsat nebo zavolat! :-)
+
 
 ## Veřejný kalendář:
 
