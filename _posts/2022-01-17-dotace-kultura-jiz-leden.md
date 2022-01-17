@@ -9,7 +9,7 @@ author: Krajský MO
 tags: kultura dotace Brno Magistrát Marek-Fišer Tomáš-Koláčny # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/dotacekultu.jpeg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/dotacekultu.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: **Naši radní dnes doporučili zastupitelstvu schválit dotace pro nezřizovanou kulturu. 
 V devíti dotačních programech a osmi individuálních dotacích letos Brno rozdělí 61 316 000 Kč. Poprvé bude o kulturních dotacích rozhodovat již lednové zastupitelstvo.**
 
