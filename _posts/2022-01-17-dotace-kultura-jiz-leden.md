@@ -10,8 +10,7 @@ tags: kultura dotace Brno Magistrát Marek-Fišer Tomáš-Koláčny # kategorie 
 
 ### Nepovinné položky ###
 image: posts/dotacekultu.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
-#description: **Naši radní dnes doporučili zastupitelstvu schválit dotace pro nezřizovanou kulturu. 
-V devíti dotačních programech a osmi individuálních dotacích letos Brno rozdělí 61 316 000 Kč. Poprvé bude o kulturních dotacích rozhodovat již lednové zastupitelstvo.**
+#description: **Naši radní dnes doporučili zastupitelstvu schválit dotace pro nezřizovanou kulturu. V devíti dotačních programech a osmi individuálních dotacích letos Brno rozdělí 61 316 000 Kč. Poprvé bude o kulturních dotacích rozhodovat již lednové zastupitelstvo.**
 
 ---
 **Naši radní dnes doporučili zastupitelstvu schválit dotace pro nezřizovanou kulturu. 
