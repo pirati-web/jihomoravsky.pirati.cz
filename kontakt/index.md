@@ -11,6 +11,7 @@ contactPersons:
   - id: vendula.svobodova
   - id: marketa.tvrda
     position: Koordinátorky dobrovolníků
+  - id: vendula.svobodova
   - id: robert.cuma
     position: Krajské sdružení JMK
   - id: michal.marciniszyn
