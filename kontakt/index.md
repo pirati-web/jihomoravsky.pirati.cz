@@ -8,7 +8,6 @@ contentSize: even
 contactPersons:
   - id: filip.vitek
     position: Média
-  - id: vendula.svobodova
   - id: marketa.tvrda
     position: Koordinátorky dobrovolníků
   - id: vendula.svobodova
