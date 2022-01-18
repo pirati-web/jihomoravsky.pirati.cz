@@ -12,10 +12,12 @@ contactPersons:
     position: Koordinátorka dobrovolníků
   - id: robert.cuma
     position: Krajské sdružení JMK
-  - id: tomas.kolacny
-    position: Místní sdružení
+  - id: michal.marciniszyn
+    position: Místní sdružení Brno
   - id: petr.vlasak
-  - id: lukas.dubec
+    position: Místní sdružení Slovácko
+  - id: pavel.nevrkla
+    position: Místní sdružení Znojemsko
 ---
 
 <div class="o-section-header o-section-header--indented">
