@@ -9,7 +9,8 @@ contactPersons:
   - id: filip.vitek
     position: Média
   - id: vendula.svobodova
-    position: Koordinátorka dobrovolníků
+  - id: marketa.tvrda
+    position: Koordinátorky dobrovolníků
   - id: robert.cuma
     position: Krajské sdružení JMK
   - id: michal.marciniszyn
