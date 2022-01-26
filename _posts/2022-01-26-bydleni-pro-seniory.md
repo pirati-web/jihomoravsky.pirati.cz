@@ -9,6 +9,7 @@ author: Jana Leitnerová
 tags: Jana-Leinerová seniorské-bydlení senioři sociální-politika  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
+authorId: jana.leitnerova # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: posts/jana3.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Odbor sociálních věcí JMK pod vedením pirátské radní Jany Leitnerové spolu s Odborem regionálního rozvoje vyhlásil nový dotační program na projektové práce a výstavbu dostupného bezbariérového bydlení pro seniory a další skupiny obyvatel. V letošním roce je v něm vyčleněno celkem 30 milionů korun, z toho 5 milionů na projekty a 25 milionů na výstavbu. 
 
