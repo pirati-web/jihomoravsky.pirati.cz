@@ -6,7 +6,7 @@ category: CLANKY   # nešahat!
 title: "Jana Leitnerová: bydlení pro seniory bude v Jihomoravském kraji dostupnější"
 date: 2022-01-26   # formát YYYY-MM-DD
 author: Jana Leitnerová
-tags: Jana-Leinerová seniorské-bydlení senioři sociální-politika  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: Jana-Leitnerová seniorské-bydlení senioři sociální-politika  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 authorId: jana.leitnerova # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
