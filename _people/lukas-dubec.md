@@ -23,7 +23,7 @@ V roce 2013 jsem spoluzakládal pirátské místní sdružení Znojmo (později 
 
 Na podzim roku 2020 jsem byl zvolen do funkce 1. náměstka hejtmana Jihomoravského kraje pro životní prostředí, otevřenost a participaci. Jsem také členem Finančního výboru obce Vranovská Ves.
 
-Mezi mé záliby patří dlouhodobě sport (aktivně – fotbal, jugger…) a práce s mládeží, larp (aktivně účastí na různých akcích a organizací larpového festivalu Helmáč), film, kultura, internet, PC, ŠD tisk a sledování politického dění ve světě a v ČR. Dále jsem zapojen do různých dobrovolnických aktivit a do spolkového života, např. do činnoati Sdružení hasičů Čech , Moravy a Slezska (v současné době jako velitel jednotky požární ochrany SDH ve Vranovské Vsi).“
+Mezi mé záliby patří dlouhodobě sport (aktivně – fotbal, jugger…) a práce s mládeží, larp (aktivně účastí na různých akcích a organizací larpového festivalu Helmáč), film, kultura, internet, PC, ŠD tisk a sledování politického dění ve světě a v ČR. Dále jsem zapojen do různých dobrovolnických aktivit a do spolkového života, např. do činnoati Sdružení hasičů Čech , Moravy a Slezska (v současné době jako velitel jednotky požární ochrany SDH ve Vranovské Vsi).
 
 **Nejoblíbenější místo v Jihomoravském kraji:** 
 
