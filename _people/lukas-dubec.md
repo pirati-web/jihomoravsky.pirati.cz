@@ -15,15 +15,15 @@ profiles:
 
 ---
 
-Narodil jsem se 22. května 1984 ve městě Most. Žiji ve Vranovské Vsi, kde jsem se zapojil do komunální politiky.
+Narodil jsem se 22. května 1984 ve městě Most. Žiji ve Vranovské Vsi se svou rodinou a jsem zde zapojen do komunální politiky.
 
-Vystudoval jsem SOŠ Podyjí s.r.o. ve Znojmě, obor Pozemní stavitelství. Po ukončení studia jsem nastoupil do zaměstnání několika zaměstnání. Poslední z nich bylo jako projektant a CNC programátor v soukromé firmě zabývající se projekcí, výrobou a montáží interiérů a nábytkového vybavení.
+Vystudoval jsem SOŠ Podyjí s.r.o. ve Znojmě, obor Pozemní stavitelství. Po skončení studia jsem nastoupil do několika zaměstnání. Poslední z nich bylo jako projektant a CNC programátor v soukromé firmě zabývající se projekcí, výrobou a montáží interiérů a nábytkového vybavení.
 
-V roce 2013 jsem spoluzakládal pirátské místní sdružení Znojmo (později přejmenováno na MS Znojemsko), jehož jsem předsedou. Jsem zároveň členem krajského sdružení Pirátů Jihomoravského kraje.
+V roce 2013 jsem spoluzakládal pirátské místní sdružení Znojmo (později přejmenováno na MS Znojemsko), jehož jsem byl dlouholetým předsedou. V současnosti jsem 1. místopředsedou tohoto sdružení. Jsem zároveň členem krajského sdružení Pirátů Jihomoravského kraje.
 
-Na podzim roku 2020 jsem byl zvolen do funkce 1. náměstka hejtama Jihomoravského kraje pro životní prostředí, otevřenost a participaci. Jsem také členem Finančního výboru obce Vranovská Ves.
+Na podzim roku 2020 jsem byl zvolen do funkce 1. náměstka hejtmana Jihomoravského kraje pro životní prostředí, otevřenost a participaci. Jsem také členem Finančního výboru obce Vranovská Ves.
 
-Mezi mé záliby patří dlouhodobě sport (aktivně - fotbal, jugger…) a práce s mládeží, larp (aktivně účastí na různých akcích a organizací larpového festivalu Helmáč), film, kultura, internet, PC, 3D tisk a sledování politického dění ve světě a v ČR. Dále jsem zapojen do různých dobrovolnických aktivit a do spolkového života, např. do činnosti Sdružení hasičů Čech, Moravy a Slezska (v současné době jako velitel jednotky SDH - JPO ve Vranovské Vsi).
+Mezi mé záliby patří dlouhodobě sport (aktivně – fotbal, jugger…) a práce s mládeží, larp (aktivně účastí na různých akcích a organizací larpového festivalu Helmáč), film, kultura, internet, PC, ŠD tisk a sledování politického dění ve světě a v ČR. Dále jsem zapojen do různých dobrovolnických aktivit a do spolkového života, např. do činnoati Sdružení hasičů Čech , Moravy a Slezska (v současné době jako velitel jednotky požární ochrany SDH ve Vranovské Vsi).“
 
 **Nejoblíbenější místo v Jihomoravském kraji:** 
 
