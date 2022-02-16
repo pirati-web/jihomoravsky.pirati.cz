@@ -40,4 +40,4 @@ Aktuálně se spíš než koníčkům věnuji svojí malé dceři, ve volném č
 
 ## Veřejný kalendář
 
-<iframe src="https://calendar.google.com/calendar/embed?src=j4nje8p548425p27pkp5n06mrg%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://outlook.office365.com/owa/calendar/09e3631c87c5490c8ed72e056c97fa3f@kr-jihomoravsky.cz/8d476955e9434e84b0d2835136f05feb4108997362035788269/calendar.html" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
