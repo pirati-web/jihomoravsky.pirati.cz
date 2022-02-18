@@ -26,7 +26,7 @@ profiles:
 
 ---
 
-Tomáš Koláčný (*27.06.1992) pochází z Brna. V Pirátské straně působil například v republikovém výboru, nyní je předsedou [místního sdružení](https://wiki.pirati.cz/regiony/jiznimorava/brno/start) Brno. 
+Tomáš Koláčný (*27.06.1992) pochází z Brna. V Pirátské straně působil například v republikovém výboru, nyní je místopředsedou [místního sdružení](https://wiki.pirati.cz/regiony/jiznimorava/brno/start) Brno. 
 
 Vystudoval obor Technické lyceum na SPŠ Sokolská. Na VUT v Brně získal titul bakalář v oboru silnoproudá elektrotechnika a elektroenergetika. Ve studiu elektroenergetiky na VUT pokračoval i na magisterském stupni, ovšem po zvolení do Zastupitelstva města Brna (2014) se rozhodl studium přerušit a naplno se věnovat výkonu mandátu.
 
