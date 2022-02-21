@@ -11,7 +11,6 @@ tags: Marek-Lahoda rozhovor cyklodoprava doprava lídr budoucnost # kategorie od
 ### Nepovinné položky ###
 image: posts/klrt.jpeg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: O tom, že se Marek Lahoda stal našim lídrem do komunálních voleb v Brně, jsme vám už psali. Ne všichni však Marka znáte, a proto jsme na něm nenechali nit suchou!Proč šel vlastně do politiky? Co jsou Markovy priority do nadcházejících voleb? Na jakou pirátskou práci chce navázat? Co dělá ve volném čase? A jaký je jeho oblíbený seriál? 
-
 ---
 
 **O tom, že se Marek Lahoda stal našim lídrem do komunálních voleb v Brně, jsme vám už psali. Ne všichni však Marka znáte, a proto jsme na něm nenechali nit suchou!Proč šel vlastně do politiky? Co jsou Markovy priority do nadcházejících voleb? Na jakou pirátskou práci chce navázat? Co dělá ve volném čase? A jaký je jeho oblíbený seriál?**
