@@ -3,10 +3,11 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Rozhovor: Marek Lahoda 
+title: Rozhovor s Markem Lahodou
 date: 2022-02-21   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Marek-Lahoda rozhovor cyklodoprava doprava lídr budoucnost # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/klrt.jpeg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
