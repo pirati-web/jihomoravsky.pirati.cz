@@ -6,6 +6,7 @@ titles:
   after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - rp
+- pks
 img: people/radek_holomcik_ctverec_web.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: 3. místopředseda Pirátské strany, textař a marketér          	# kratký popis, max 160 znaků
@@ -19,6 +20,7 @@ profiles:
   linkedin: https://www.linkedin.com/in/radek-holom%C4%8D%C3%ADk-b0ab9391/?ppe=1
   twitter: https://twitter.com/RadekHolomcik
 ordpsp: 1
+ordpks: 1
 
 supporting:
 - Stát, který hájí zájmy svých občanů
