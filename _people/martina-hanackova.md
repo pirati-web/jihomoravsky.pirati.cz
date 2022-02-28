@@ -3,6 +3,9 @@
 
 ### Povinné položky ###
 name:     Martina Hanáčková 	# běžně používáné jméno
+category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
+- pks
+ordpks: 4
 titles:
   before:  
   after:
@@ -14,9 +17,6 @@ description: Neřízený střelec 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky
 uid: martina.hanackova # identifikátor pro spojení se články (authorId)
-category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
-- brnostred
-ordbrnostred: 6
 supporting:
 - recyklaci
 - relaxaci (nepodmíněný příjem, kratší pracovní úvazky)
