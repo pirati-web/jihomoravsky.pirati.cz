@@ -3,6 +3,10 @@
 
 ### Povinné položky ###
 name: Filip Vítek  	# běžně používáné jméno
+category:  
+- pks
+
+ordpks:3
 mail:
 - filip.vitek@pirati.cz
 img: people/filip_vitek_ctverec_web.jpg   # 165x220px
