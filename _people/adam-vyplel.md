@@ -10,13 +10,11 @@ mail:
 - adam.vyplel@pirati.cz
 img: people/ejdy-vyplel.jpg   # 165x220px
 heroImg: header/palava_krajina.jpg
-description: 4. místopředseda KS JmK a člen kontrolního a stavebního výboru v Říčanech
+description: Člen kontrolního a stavebního výboru v Říčanech
 uid: adam.vyplel # identifikátor 
 
 ### Nepovinné položky
 category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
-- pks
-ordpks: 5
 profiles:
 
 ---
