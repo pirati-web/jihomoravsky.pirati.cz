@@ -4,14 +4,12 @@ name:     Miroslav Bárta  	# běžně používáné jméno
 category:                 	# kategorie: kandidat, pks, zastupitel
 - zjmk
 - zmckrpole
-- pks
 ordzjmk: 9
 ordzmckrpole: 1
-ordpks: 4
 img: people/miroslav_barta_ctverec_web.jpg   # 165 x 220
 img2: people/miroslav_barta_ctverec_web.jpg   
 heroImg: header/palava_krajina.jpg
-description: 3. místopředseda krajského sdružení, předseda kontrolního výboru a zastupitel v Králově Poli 	# kratký popis, max 160 znaků
+description: Předseda kontrolního výboru a zastupitel v Králově Poli 	# kratký popis, max 160 znaků
 mail:
 - miroslav.barta@pirati.cz
 mob: 730 896 278
