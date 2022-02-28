@@ -3,6 +3,9 @@ uid: lukas.dubec
 name:     Lukáš Dubec  	# běžně používáné jméno
 category:                 	# kategorie: kandidat, pks, zastupitel
 - zjmk
+- pks
+
+ordpks:2
 ordzjmk: 1
 ordpms: 2
 img: people/lukas_dubec_ctverec_web.jpg   # 165 x 220
