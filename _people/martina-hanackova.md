@@ -13,7 +13,7 @@ mail:
 - martina.hanackova@pirati.cz
 img: people/martina-hanackova.png   # 165x220px
 heroImg: header/palava_krajina.jpg
-description: Neřízený střelec 	# kratký popis, max 160 znaků
+description: Expertka na cirkulární ekonomiku a životní prostředí	# kratký popis, max 160 znaků
 
 ### Nepovinné položky
 uid: martina.hanackova # identifikátor pro spojení se články (authorId)
