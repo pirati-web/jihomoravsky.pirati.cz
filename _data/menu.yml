@@ -25,17 +25,6 @@ main:
   - link: /regiony/
     name: Místní sdružení
     match: regiony
-  - name: Volby 2021
-    submenu:
-    - link: "https://www.piratiastarostove.cz"
-      name: Piráti a Starostové
-      match: kandidatka
-    - link: "https://www.piratiastarostove.cz/kandidati/kraj/jihomoravsky/"
-      name: Krajská kandidátní listina
-      match: kandidatka
-    - link: /volby-2021/
-      name: Cesta k Parlamentu
-      match: volby-2021
   - link: /kontakt/
     name: Kontakt
     match: kontakt
