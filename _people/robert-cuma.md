@@ -3,16 +3,14 @@ uid: robert.cuma
 name:     Róbert Čuma  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mmb
-- pks
 - zmcstred
 - kontaktni_osoba
-ordpks: 1
 ordmmb: 2
 ordzmcstred: 1
 contactType: Jihomoravský kraj
 img: people/robert_cuma_ctverec_web.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
-description: Předseda krajského sdružení Jihomoravského kraje a radní města Brna pro oblast majetku          	# kratký popis, max 160 znaků
+description: Radní města Brna pro oblast majetku          	# kratký popis, max 160 znaků
 mail:
 - robert.cuma@pirati.cz
 mob:			  
