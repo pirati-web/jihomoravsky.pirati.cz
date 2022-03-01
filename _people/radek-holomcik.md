@@ -9,7 +9,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
 img: people/radek_holomcik_ctverec_web.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
-description: 3. místopředseda Pirátské strany, textař a marketér          	# kratký popis, max 160 znaků
+description: Předseda krajského sdružení, textař a marketér          	# kratký popis, max 160 znaků
 mail:
 - radek.holomcik@pirati.cz
 mob:			  +420 728 034 460
