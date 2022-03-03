@@ -5,7 +5,7 @@
 name: Petr Springinsfeld 	# běžně používáné jméno
 mail:
 - petr.springinsfeld@pirati.cz
-img: people/petr_springinsfeld_ctverec_web.jpg   # 165 x 220
+img: people/pepe.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: 2. místopředseda krajského sdružení a zastupitel Jihomoravského kraje 	# kratký popis, max 160 znaků
 category: 
