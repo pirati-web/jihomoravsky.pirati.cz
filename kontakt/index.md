@@ -11,7 +11,7 @@ contactPersons:
   - id: marketa.tvrda
     position: Koordinátorky dobrovolníků
   - id: vendula.svobodova
-  - id: robert.cuma
+  - id: radek.holomcik
     position: Krajské sdružení JMK
   - id: michal.marciniszyn
     position: Místní sdružení Brno
