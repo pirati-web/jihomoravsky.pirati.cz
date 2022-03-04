@@ -4,7 +4,6 @@ name:     Róbert Čuma  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mmb
 - zmcstred
-- kontaktni_osoba
 ordmmb: 2
 ordzmcstred: 1
 contactType: Jihomoravský kraj
