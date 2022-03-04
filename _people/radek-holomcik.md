@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - rp
 - pks
+- kontaktni_osoba
 img: people/radek_holomcik_ctverec_web.jpg   # 165 x 220
 heroImg: header/palava_krajina.jpg
 description: Předseda krajského sdružení, textař a marketér          	# kratký popis, max 160 znaků
