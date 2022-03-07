@@ -17,13 +17,13 @@ profiles:
 
 ordep: 1
 ---
-Marcel Kolaja je členem Pirátské strany od roku 2010. V roce 2019 byl zvolen poslancem Evropského parlamentu. Od téhož roku je také místopředsedou Evropského parlamentu. Vystudoval informatiku na Fakultě informatiky Masarykovy univerzity v Brně.
+Marcel Kolaja je členem [Pirátské strany](https://www.pirati.cz/){:target="_blank"} od roku 2010. V roce 2019 byl zvolen poslancem Evropského parlamentu, kde do roku 2022 působil také jako jeho místopředseda. Nyní v předsednictvu Parlamentu působí jako kvestor. Má tak na starosti administrativu a finanční záležitosti spojené s chodem instituce. Marcel Kolaja je též 1. místopředsedou Pirátské strany. Vystudoval informatiku na Fakultě informatiky Masarykovy univerzity v Brně.
 
 V Evropském parlamentu působí kromě předsednictva také ve výboru pro vnitřní trh a ochranu spotřebitelů (IMCO), ve výboru pro kulturu a vzdělávání (CULT) a ve zvláštním výboru pro umělou inteligenci v digitálním věku (AIDA). Dále pak v delegacích pro vztahy se Spojenými státy americkými (D-US) a s Indií (D-IN).
 
 Věnuje se zejména tématům spojeným s fungováním společnosti v digitálním věku. Prosazuje otevřené technologie, svobodu na Internetu, nezávislost médií, transparentnost a sjednocenou Evropu.
 
-Narodil se 29. června 1980 a vyrůstal v Lanškrouně. Od vysokoškolských studií je jeho útočištěm Brno. V minulosti pracoval v oboru informačních technologií na různých pracovních pozicích, v době před zvolením do Evropského parlamentu jako produktový manažer.
+Narodil se 29. června 1980 a vyrůstal v Lanškrouně. Od vysokoškolských studií bylo jeho útočištěm Brno. V roce 2021 ho ale osud zavedl do Českého Brodu, kde pobývá, když je zrovna v Česku. V minulosti pracoval v oboru informačních technologií na různých pracovních pozicích, v době před zvolením do Evropského parlamentu jako produktový manažer.
 
 Ve volném čase běhá, jezdí na kole či na motorce a vyráží na výlety se psím parťákem Freddiem. Je velkým milovníkem hor a přírody obecně.
 
