@@ -17,7 +17,7 @@ profiles:
 
 ordep: 1
 ---
-Marcel Kolaja je členem [Pirátské strany](https://www.pirati.cz/) {:target="_blank"} od roku 2010. V roce 2019 byl zvolen poslancem Evropského parlamentu, kde do roku 2022 působil také jako jeho místopředseda. Nyní v předsednictvu Parlamentu působí jako kvestor. Má tak na starosti administrativu a finanční záležitosti spojené s chodem instituce. Marcel Kolaja je též 1. místopředsedou Pirátské strany. Vystudoval informatiku na Fakultě informatiky Masarykovy univerzity v Brně.
+Marcel Kolaja je členem [Pirátské strany](https://www.pirati.cz/){:target="_blank"} od roku 2010. V roce 2019 byl zvolen poslancem Evropského parlamentu, kde do roku 2022 působil také jako jeho místopředseda. Nyní v předsednictvu Parlamentu působí jako kvestor. Má tak na starosti administrativu a finanční záležitosti spojené s chodem instituce. Marcel Kolaja je též 1. místopředsedou Pirátské strany. Vystudoval informatiku na Fakultě informatiky Masarykovy univerzity v Brně.
 
 V Evropském parlamentu působí kromě předsednictva také ve výboru pro vnitřní trh a ochranu spotřebitelů (IMCO), ve výboru pro kulturu a vzdělávání (CULT) a ve zvláštním výboru pro umělou inteligenci v digitálním věku (AIDA). Dále pak v delegacích pro vztahy se Spojenými státy americkými (D-US) a s Indií (D-IN).
 
