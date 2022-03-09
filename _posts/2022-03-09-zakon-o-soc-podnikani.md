@@ -1,4 +1,3 @@
-
 ---
 #název souboru: 2022-03-09-zakon-o-soc-podnikani.md
 ### Povinné položky ###
@@ -26,7 +25,7 @@ Doposud se sociální podniky, potažmo celý chráněný trh práce, zabývali 
 
 # JAKÉ JSOU CÍLE VAŠEHO PRACOVNÍHO TÝMU?
 
-Sociální podniky dlouhá léta pomáhají s integrací OZP a OZZ a bohužel oproti jiným zemím Evropy doposud nemají legislativní rámec. To se chystáme změnit. V zemích EU je také běžné zapojovat tyto podniky více do společensky odpovědného zadávání veřejných zakázek. I tento deficit máme v plánu dohnat. Na aktivitě pracuji se sociálními podniky z mnoha oborů a regionů Česka a především s místopředsedkyní sněmovny [Olgou Richterovou](https://www.olgarichterova.cz/){:target="_blank"}, senátorkou [Adélou Šípovou](https://www.adelasipova.cz/){:target="_blank"}a radní JMK [Janou Leitnerovou](https://jihomoravsky.pirati.cz/lide/jana-leitnerova/){:target="_blank"}.
+Sociální podniky dlouhá léta pomáhají s integrací OZP a OZZ a bohužel oproti jiným zemím Evropy doposud nemají legislativní rámec. To se chystáme změnit. V zemích EU je také běžné zapojovat tyto podniky více do společensky odpovědného zadávání veřejných zakázek. I tento deficit máme v plánu dohnat. Na aktivitě pracuji se sociálními podniky z mnoha oborů a regionů Česka a především s místopředsedkyní sněmovny [Olgou Richterovou](https://www.olgarichterova.cz/){:target="_blank"}, senátorkou [Adélou Šípovou](https://www.adelasipova.cz/){:target="_blank"} a radní JMK [Janou Leitnerovou](https://jihomoravsky.pirati.cz/lide/jana-leitnerova/){:target="_blank"}.
 
 # CO PŘINESE NOVÝ ZÁKON NAŠIM OBČANŮM S HENDIKEPEM?
 
