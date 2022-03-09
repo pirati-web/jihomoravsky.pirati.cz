@@ -10,10 +10,10 @@ tags: Zdeňek-Kosour sociální-podnikání sociální-sllužby zákon # kategor
 
 ### Nepovinné položky ###
 image: posts/zdeny.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
-#description: **Zdeněk Kosour z Místního sdružení Znojmesko se s námi podělil o zkušenosti a novinky z koordinace tohoto zákona. Ten  může nabídnout i pomoc v případě podobných krizí jako je ta současná na Ukrajině.**
+#description: **Zdeněk Kosour z Místního sdružení Znojmesko se s námi podělil o zkušenosti a novinky z koordinace zákona o sociálním podnikání. Ten  může nabídnout i pomoc v případě podobných krizí jako je ta současná na Ukrajině.**
 
 ---
-**Zdeněk Kosour z Místního sdružení Znojmesko se s námi podělil o zkušenosti a novinky z koordinace tohoto zákona. Ten  může nabídnout i pomoc v případě podobných krizí jako je ta současná na Ukrajině.**
+**Zdeněk Kosour z Místního sdružení Znojmesko se s námi podělil o zkušenosti a novinky z koordinace zákona o sociálním podnikání. Ten  může nabídnout i pomoc v případě podobných krizí jako je ta současná na Ukrajině.**
 
 # ČÍM SE ZABÝVÁ SOCIÁLNÍ PODNIKÁNÍ A V ČEM JE PŘÍNOSNÉ?
 
