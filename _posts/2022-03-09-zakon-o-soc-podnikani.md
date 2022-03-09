@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title:  Proč je důležitý zákon o sociálním podnikání?
+title:  Proč je zákon o sociálním podnikání důležitý?
 date: 2022-03-09   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Zdeňek-Kosour sociální-podnikání sociální-sllužby zákon # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
