@@ -36,7 +36,7 @@ motto: Kdo, když ne my? Kdy, když ne teď! - Květoslava Morávková, účastn
 
 ---
 
-**Marek Lahoda (*1992)** je lídr do komunálních voleb v Brně, místopředseda místního sdružení Brno a garantem [KET Doprava, infrastruktura, územní rozvoj a plánování.](https://forum.pirati.cz/viewforum.php?f=1158){:target="_blank"}
+**Marek Lahoda (*1992)** je lídr do komunálních voleb v Brně, místopředseda místního sdružení Brno a garant [KET Doprava, infrastruktura, územní rozvoj a plánování.](https://forum.pirati.cz/viewforum.php?f=1158){:target="_blank"}
 
 **Marek pochází z Brna**, konkrétně z MČ Komín. Je absolventem matematické třídy Gymnázia na tř. Kpt. Jaroše a následně vystudoval obor Fyzická geografie na Geografickém ústavu Přirodovědecké fakulty Masarykovy univerzity. Na PřF MU se tři roky angažoval jako předseda Studentské komory Akademického senátu. Půl roku studoval také na University of Oslo díky programu Erasmus.
 
