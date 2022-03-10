@@ -39,5 +39,6 @@ Podobných případů, které si zahrávají s důvěrou v celý systém přidě
 
 4. Je třeba najít politickou shodu nad úpravou procesu přidělování a užívání tak, abychom mohli všichni s čistým svědomím označit postup samosprávy za transparentní a předvídatelný pro občany!
 
-[Mgr. Monika Lukášová Spilková, Ph. D.](https://jihomoravsky.pirati.cz/lide/monika-spilkova/){:target="_blank"}, předsedkyně kontrolního výboru ZMČ BS 
+[Mgr. Monika Lukášová Spilková, Ph. D.](https://jihomoravsky.pirati.cz/lide/monika-spilkova/){:target="_blank"}, předsedkyně kontrolního výboru ZMČ BS
+
 [Mgr. Lenka Brodzáková](https://lide.pirati.cz/profil/2705/){:target="_blank"}, členka komise bytové RMČ BS 
