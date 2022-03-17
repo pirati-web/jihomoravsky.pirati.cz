@@ -2,12 +2,12 @@
 # Název souboru: ales-senk.md
 
 ### Povinné položky ###
-name:     Aleš Šenk 	# běžně používáné jméno
+name: Aleš Šenk 	# běžně používáné jméno
 titles:
   before: 
   after:
 mail:
-- ales.senkn@pirati.cz
+- ales.senk@pirati.cz
 img: people/AVS.jpg   # 165x220px
 description: PR a mediální spojka pro Jihomoravský kraj # kratký popis, max 160 znaků
 uid: ales.senk # identifikátor 
