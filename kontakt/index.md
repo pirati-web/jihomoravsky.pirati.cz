@@ -6,7 +6,7 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 # noresidence: yes
 contentSize: even
 contactPersons:
-  - id: Aleš Šenk
+  - id: ales.senk
     position: Média
   - id: marketa.tvrda
     position: Koordinátorky dobrovolníků
