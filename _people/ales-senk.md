@@ -9,11 +9,11 @@ titles:
 mail:
 - ales.senkn@pirati.cz
 img: people/AVS.jpg   # 165x220px
-description: Webový a herní vývojář, 2. místopředseda MS Brno 	# kratký popis, max 160 znaků
+description: PR a mediální spojka pro Jihomoravský kraj # kratký popis, max 160 znaků
 uid: ales.senk # identifikátor 
 
 ### Nepovinné položky
-category: 	# v odrážkách stejně jako mail (psp, pks, pms, zast)
+category: # v odrážkách stejně jako mail (psp, pks, pms, zast)
 - media
 mob: +420 ´773 179 506
 profiles:
