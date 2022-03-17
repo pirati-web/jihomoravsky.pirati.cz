@@ -8,7 +8,7 @@ titles:
   after:
 mail:
 - ales.senk@pirati.cz
-img: people/ales_senk.jpg   # 165x220px
+img: people/ales_senk.jpg # 165x220px
 description: PR a mediální spojka pro Jihomoravský kraj # kratký popis, max 160 znaků
 uid: ales.senk # identifikátor 
 
