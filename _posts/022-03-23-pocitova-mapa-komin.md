@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Radní Fišer: Pocitovou mapu vyplnilo přes tisíc Brňanů
+title: Radní Fišer - Pocitovou mapu vyplnilo přes tisíc Brňanů
 date: 2022-03-23   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Marek-Fišer Marek-Lahoda Brno Komín pocitová-mapa # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
