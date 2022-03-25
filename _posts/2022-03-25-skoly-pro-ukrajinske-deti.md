@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Petr Vlasák – ukrajinské děti nastoupí do škol a školek 
+title: Petr Vlasák – školy čeká ještě větší výzva než výuka v době covidu
 date: 2022-03-25   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Petr-Vlasák školství Jihomoravký-kraj Ukrajina # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
