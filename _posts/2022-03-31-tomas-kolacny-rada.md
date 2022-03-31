@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Tomáš koláčný – novinky z Rady města Brna 
+title: Náměstek Tomáš koláčný – novinky z Rady města Brna 
 date: 2022-03-31   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Tomáš-Koláčný RMB novinky Brno  # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
