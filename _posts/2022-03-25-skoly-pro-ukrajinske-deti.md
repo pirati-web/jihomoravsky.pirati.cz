@@ -7,6 +7,7 @@ title: Petr Vlasák – školy čeká ještě větší výzva než výuka v dob�
 date: 2022-03-25   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Petr-Vlasák školství Jihomoravký-kraj Ukrajina # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/skola1.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
