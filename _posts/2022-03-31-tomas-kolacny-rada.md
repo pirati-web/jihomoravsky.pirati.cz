@@ -30,7 +30,7 @@ Radní doporučili schválit zastupitelům prodloužení podpory Brno Expat Cent
 
 *„Projekt Brno Expat Centre nám pomáhá přitáhnout a udržet ve městě vysoce kvalifikované cizince, kteří mohou v Brně pokračovat ve svých úspěšných expertních, podnikatelských, tvůrčích či vědeckých kariérách. Brno se tímto stává atraktivním pro investory v odvětvích s vysokou přidanou hodnotou, zajišťuje vysokou úroveň výzkumných a vývojových center, silné mezinárodní vazby a vůbec vytváření kosmopolitního prostředí. V neposlední řadě nám spolek pomáhá zprostředkovat cennou zpětnou vazbu k službám města tím, že vytváří platformu mezi zahraničními expaty a Brňany,“* shrnul přínosy spolupráce města s Brno Expat Centrem Tomáš Koláčný. 
 
- ## Akční plán PROJEKTY 21+ 
+## Akční plán PROJEKTY 21+ 
 
 Schválili jsme Akční plán PROJEKTY 2021+, třetí a poslední část dlouhodobé vize #Brno2050. Projekty v rámci akčního plánu budou úzce konzultovány s veřejností a následně vyhodnoceny. Zároveň město předpokládá intenzivní komunikaci s veřejností ve vztahu ke konkrétním projektům a následné vyhodnocení plnění akčního plánu.
 
