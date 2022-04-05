@@ -9,7 +9,7 @@ author: Krajský MO
 tags: Brno Janáčkovo-kulturní-centrum # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/jkc.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/jkc2.jpeg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Zastupitelstvo města Brna dnes odsouhlasilo majetkoprávní vypořádání se s hotelem Internacional a podobu náměstí Ludvíka Kundery. Výstavbě nového koncertního sálu Janáčkova kulturního centra po 19 letech příprav již nic nebrání. 
 
 ---
