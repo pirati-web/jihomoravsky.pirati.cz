@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Stavbě Janáčkova kulturního centra může již nic nebrání!
+title: Stavbě Janáčkova kulturního centra již nic nebrání!
 date: 2022-04-05   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Brno Janáčkovo-kulturní-centrum # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
