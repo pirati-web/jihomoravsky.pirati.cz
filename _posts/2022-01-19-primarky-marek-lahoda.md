@@ -27,7 +27,7 @@ Od roku 2013 byl 7 let členem spolku Brno na kole, několik let působil i v je
 Současný náměstek primátorky pro oblast majetku, kultury, participace a IT [Tomáš Koláčný](https://jihomoravsky.pirati.cz/lide/tomas-kolacny/){:target="_blank"} tak po osmi letech končí v čele Pirátské kandidátky na Magistrát města Brna. *„Gratuluji Markovi ke zvolení lídrem pirátské kandidátky, přeji mu hodně sil v kampani a především po volbách při prosazování Pirátského programu,”* uzavřel Koláčný. 
 
 Kontaktní údaje Marka Lahody
-- Mail: [marek.lahoda@pirati.cz](url)
+- Mail: [marek.lahoda@pirati.cz](url)  
 - Mob.: +420 732 732 490
-- Facebook: [https://www.facebook.com/LahodaMarek/](url)
-- Twitter: [https://twitter.com/MarekLahoda](url) 
+- Facebook: [https://www.facebook.com/LahodaMarek](https://www.facebook.com/LahodaMarek){:target="_blank"}
+- Twitter: [https://twitter.com/MarekLahoda](https://twitter.com/MarekLahoda){:target="_blank"}
