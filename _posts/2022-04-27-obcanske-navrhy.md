@@ -9,7 +9,7 @@ author: Krajský MO
 tags: Tomáš-Koláčný PARO občanské-návrhy particpace Brno magistrát # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/MMB_web.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/CLV3.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Radní dnes schválili projekt občanské návrhy, který doplní úspěšný participativní rozpočet Dáme na vás. Prostřednictvím občanských návrhů budou moci Brňané podávat Radě města Brna návrhy na projednání podnětů na zlepšení života ve městě. Samotný vznik občanských návrhů vycházel z několikaleté praxe s participativním rozpočtem a ze spolupráce s obyvateli a občany Brna.
 
 ---
@@ -23,8 +23,8 @@ Občanské návrhy navazují na participativní rozpočet a rozšiřují portfol
 
 Občanský návrh může podat libovolný obyvatel města, a to prostřednictvím elektronického formuláře na webových stránkách. V případě úspěšného posouzení vhodnosti návrhu je takový návrh zveřejněn v galerii projektů (nejdéle po dobu 24 měsíců), kde mohou občané udělovat podporu či odmítnutí. Pokud projekt přesáhne hranici 10 000 podporujících, dojde k zahájení přípravy materiálu k projednání v Radě města Brna. 
 
-<div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/CLV3.png" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/CLV3.png" alt="Mapa nadzemky">
+<div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/CLV2.jpg" target="_blank">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/CLV2.jpg" alt="Mapa nadzemky">
 
 </a></div>
 
