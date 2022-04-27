@@ -3,7 +3,7 @@
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Tomáš Koláčný - Participativní rozpočet se rozšíří o občanské návrhy!
+title: Tomáš Koláčný - Participativní rozpočet se rozroste o občanské návrhy!
 date: 2022-04-27   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Tomáš-Koláčný PARO občanské-návrhy particpace Brno magistrát # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
