@@ -23,8 +23,8 @@ Občanské návrhy navazují na participativní rozpočet a rozšiřují portfol
 
 Občanský návrh může podat libovolný obyvatel města, a to prostřednictvím elektronického formuláře na webových stránkách. V případě úspěšného posouzení vhodnosti návrhu je takový návrh zveřejněn v galerii projektů (nejdéle po dobu 24 měsíců), kde mohou občané udělovat podporu či odmítnutí. Pokud projekt přesáhne hranici 10 000 podporujících, dojde k zahájení přípravy materiálu k projednání v Radě města Brna. 
 
-<div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/CLV2.jpg" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/CLV2.jpg" alt="Mapa nadzemky">
+<div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/CLV3.png" target="_blank">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/CLV3.png" alt="Mapa nadzemky">
 
 </a></div>
 
