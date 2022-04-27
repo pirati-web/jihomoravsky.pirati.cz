@@ -6,7 +6,7 @@ category: CLANKY   # nešahat!
 title: Tomáš Koláčný - Participativní rozpočet se rozšíří o občanské návrhy!
 date: 2022-04-27   # formát YYYY-MM-DD
 author: Krajský MO
-tags: archiv # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: Tomáš-Koláčný PARO občanské-návrhy particpace Brno magistrát # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
 image: posts/MMB_web.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
@@ -24,7 +24,7 @@ Občanské návrhy navazují na participativní rozpočet a rozšiřují portfol
 Občanský návrh může podat libovolný obyvatel města, a to prostřednictvím elektronického formuláře na webových stránkách. V případě úspěšného posouzení vhodnosti návrhu je takový návrh zveřejněn v galerii projektů (nejdéle po dobu 24 měsíců), kde mohou občané udělovat podporu či odmítnutí. Pokud projekt přesáhne hranici 10 000 podporujících, dojde k zahájení přípravy materiálu k projednání v Radě města Brna. 
 
 <div style="text-align:center"><a href="https://a.pirati.cz/jihomoravsky/img/posts/CLV_1.jpg" target="_blank">
-<img src="https://a.pirati.cz/jihomoravsky/img/posts/CLV_1.jpg" alt="CLV_1.jpg">
+<img src="https://a.pirati.cz/jihomoravsky/img/posts/CLV_1.jpg" alt="Mapa nadzemky">
 
 </a></div>
 
