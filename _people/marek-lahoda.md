@@ -65,7 +65,7 @@ Mezi jeho politické priority patří:
 - **životní prostředí** = zajištění základního lidského práva na čisté ovzduší (jak se ukazuje, velký význam mají lokální topeniště, tj. čím a jak lidé topí u sebe doma - je potřeba je vzdělávat a motivovat k topení plynem nebo přechodu na CZT) + více zeleně ve městě jako té nejúčinnější klimatizace, která jediná nás může efektivně chránit před vlnami veder
 - **evidence-based policy** = rozhodování na základě dat, analýz a studií, ne na základě dojmů, peněz a klientelistických vazeb
 
-Máte jakýkoliv dotaz? Chcete se potkat a probrat něco konkrétního? Neváhejte napsat nebo zavolat! :-)
+Máte jakýkoliv dotaz? Chcete se potkat a probrat něco konkrétního? Neváhejte napsat nebo zavolat! :-) 
 
 
 ## Veřejný kalendář:
