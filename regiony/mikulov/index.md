@@ -39,7 +39,6 @@ profiles:
    forum: "https://forum.pirati.cz/viewforum.php?f=900"
    mail: vendula.svobodova@pirati.cz
 
-
 ---
 
 # Máme odvahu dělat, co je správné!
