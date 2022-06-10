@@ -8,7 +8,7 @@ titles:
   after:
 mail: 
 - marek.lahoda@pirati.cz
-img: people/profimara.jpg   # 165x220px
+img: people/maraprofi.jpg   # 165x220px
 heroImg: header/palava_krajina.jpg
 description: Kandidát na primátora Brna, geograf, místopředseda MS Brno 	# kratký popis, max 160 znaků
 
