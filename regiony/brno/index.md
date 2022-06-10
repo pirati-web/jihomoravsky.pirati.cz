@@ -47,10 +47,28 @@ profiles:
 
 # Máme odvahu dělat, co je správné!
 
-Místní sdružení Brno bylo založeno 21. prosince 2017. 
+Místní sdružení Brno bylo založeno 21. prosince 2017. V současnosti máme 52 členů! 
 
-* [Programové priority Brno 2022 (PDF)](https://a.pirati.cz/jihomoravsky/pdf/brno-priority.pdf)
+* [Programové priority Brno (PDF)](https://a.pirati.cz/jihomoravsky/pdf/brno-priority.pdf)
 * [Program Brno 2018 (PDF)](https://a.pirati.cz/jihomoravsky/pdf/brno-program.pdf)
+
+## Kandidátní listina na magistrát 
+
+**1.** Marek Lahoda
+**2.** Monika Lukášová Spilková
+**3.** Adam Zemek
+**4.** Tomáš Koláčný
+**5.** Marek Fišer
+**6.** Tereza Pazdírková
+
+## Lídři v městských částech 
+
+**Brno-jih** Antonín Trčálek
+**Brno-Královo Pole** Marek Fišer
+**Brno-sever** Anna Hrabovská
+**Brno-střed** Monika Lukášová Spilková
+**Brno-Žabovřesky** Silvie Mrkvanová
+**Brno-Židenice** Tomáš Koláčný
 
 <hr>
 
