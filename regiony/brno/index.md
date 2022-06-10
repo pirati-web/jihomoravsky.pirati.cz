@@ -52,5 +52,5 @@ Místní sdružení Brno bylo založeno 21. prosince 2017. V současnosti má 44
 
 <hr>
 
-<img src="https://a.pirati.cz/crop/1200x675/jihomoravsky/img/posts/Brno-stred2_web.png" width="1000">
+<img src="https://a.pirati.cz/crop/1200x675/jihomoravsky/img/posts/zahajeni1.jpg" width="1000">
 
