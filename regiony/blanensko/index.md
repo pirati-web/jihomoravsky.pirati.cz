@@ -1,7 +1,7 @@
 ---
 layout: page
 contentClass: content-block
-title: Místní sdružení Mikulov
+title: Místní sdružení Blanensko
 rbar:
   - board
   - pageContacts
