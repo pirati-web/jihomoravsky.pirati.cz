@@ -47,6 +47,10 @@ profiles:
 
 # Máme odvahu dělat, co je správné!
 
+<hr>
+
+<img src="https://a.pirati.cz/crop/1200x675/jihomoravsky/img/posts/zahajeni1.jpg" width="1000">
+
 Místní sdružení Brno bylo založeno 21. prosince 2017. V současnosti máme 52 členů! 
 
 * [Programové priority Brno (PDF)](https://a.pirati.cz/jihomoravsky/pdf/brno-priority.pdf)
@@ -80,10 +84,6 @@ Místní sdružení Brno bylo založeno 21. prosince 2017. V současnosti máme 
 
 **Brno-Židenice** - Tomáš Koláčný
 
-<hr>
-
-<img src="https://a.pirati.cz/crop/1200x675/jihomoravsky/img/posts/zahajeni1.jpg" width="1000">
-*Zahájení kampaně do komunálních voleb 2022* 
 
 <hr>
 
