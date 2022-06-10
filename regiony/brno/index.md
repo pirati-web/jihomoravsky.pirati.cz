@@ -58,6 +58,11 @@ Místní sdružení Brno bylo založeno 21. prosince 2017. V současnosti máme 
 
 ## Kandidátní listina na magistrát 
 
+<hr>
+
+<img src="https://a.pirati.cz/crop/1200x675/jihomoravsky/img/posts/top61.JPG" width="1000">
+*Hlavní pirátští kandidáti na magistrát (zleva Adam Zemek, Monika Lukášová Spilková, Marek Lahoda, Tereza Pazdírková, Tomáš Koláčný, Marek Fišer)* 
+
 **1.** Marek Lahoda
 
 **2.** Monika Lukášová Spilková
@@ -69,6 +74,14 @@ Místní sdružení Brno bylo založeno 21. prosince 2017. V současnosti máme 
 **5.** Marek Fišer
 
 **6.** Tereza Pazdírková
+
+**7.** Michal Marciniszyn
+
+**8.** Róbert Čuma
+
+**9.** Tonda Trčálek
+
+**10.** Petr Kubeš
 
 ## Lídři v městských částech 
 
@@ -83,9 +96,3 @@ Místní sdružení Brno bylo založeno 21. prosince 2017. V současnosti máme 
 **Brno-Žabovřesky** - Silvie Mrkvanová
 
 **Brno-Židenice** - Tomáš Koláčný
-
-
-<hr>
-
-<img src="https://a.pirati.cz/crop/1200x675/jihomoravsky/img/posts/top61.JPG" width="1000">
-*Hlavní pirátští kandidáti na magistrát (zleva Adam Zemek, Monika Lukášová Spilková, Marek Lahoda, Tereza Pazdírková, Tomáš Koláčný, Marek Fišer)* 
