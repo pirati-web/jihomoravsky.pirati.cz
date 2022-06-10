@@ -88,4 +88,4 @@ Místní sdružení Brno bylo založeno 21. prosince 2017. V současnosti máme 
 <hr>
 
 <img src="https://a.pirati.cz/crop/1200x675/jihomoravsky/img/posts/top61.JPG" width="1000">
-*Hlavní pirátští kandidáti na magistrát* 
+*Hlavní pirátští kandidáti na magistrát (zleva Adam Zemek, Monika Lukášová Spilková, Marek Lahoda, Tereza Pazdírková, Tomáš Koláčný, Marek Fišer)* 
