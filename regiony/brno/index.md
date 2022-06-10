@@ -85,6 +85,10 @@ Místní sdružení Brno bylo založeno 21. prosince 2017. V současnosti máme 
 <img src="https://a.pirati.cz/crop/1200x675/jihomoravsky/img/posts/zahajeni1.jpg" width="1000">
 *Zahájení kampaně do komunálních voleb 2022* 
 
+<hr>
+
+<img src="https://a.pirati.cz/crop/1200x675/jihomoravsky/img/posts/top61.JPG" width="1000">
+*Hlavní pirátští kandidáti na magistrát* 
 
 <img class="hlavni"src="https://a.pirati.cz/crop/1200x675/jihomoravsky/img/posts/top61.JPG" width="600">
 *Hlavní pirátští kandidáti na magistrát* 
