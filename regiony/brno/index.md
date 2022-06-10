@@ -90,3 +90,6 @@ Místní sdružení Brno bylo založeno 21. prosince 2017. V současnosti máme 
 
 <img src="https://a.pirati.cz/crop/1200x675/jihomoravsky/img/posts/top61.JPG" width="1000">
 *Hlavní pirátští kandidáti na magistrát* 
+
+
+<img class="hlavni"src="https://a.pirati.cz/crop/1200x675/jihomoravsky/img/posts/top61.JPG"alt="Tomáš Vymazal"title="Tomáš Vymazal" width="600">
