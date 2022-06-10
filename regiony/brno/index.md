@@ -45,12 +45,12 @@ profiles:
 
 ---
 
-# Máme odvahu dělat, co je správné!#
+# Máme odvahu dělat, co je správné!
 
 Místní sdružení Brno bylo založeno 21. prosince 2017. 
 
-* [Programové priority Brno (PDF)](https://a.pirati.cz/jihomoravsky/pdf/brno-priority.pdf)
-* [Program Brno (PDF)](https://a.pirati.cz/jihomoravsky/pdf/brno-program.pdf)
+* [Programové priority Brno 2022 (PDF)](https://a.pirati.cz/jihomoravsky/pdf/brno-priority.pdf)
+* [Program Brno 2018 (PDF)](https://a.pirati.cz/jihomoravsky/pdf/brno-program.pdf)
 
 <hr>
 
