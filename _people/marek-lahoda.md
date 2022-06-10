@@ -6,9 +6,9 @@ name:     Marek Lahoda  	# běžně používáné jméno
 titles:
   before: Mgr. 
   after:
-mail:
+mail: 
 - marek.lahoda@pirati.cz
-img: people/ML1.jpg   # 165x220px
+img: people/profimara.jpg   # 165x220px
 heroImg: header/palava_krajina.jpg
 description: Kandidát na primátora Brna, geograf, místopředseda MS Brno 	# kratký popis, max 160 znaků
 
