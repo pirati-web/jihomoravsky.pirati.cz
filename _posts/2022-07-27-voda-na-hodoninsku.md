@@ -10,10 +10,10 @@ tags: Iva-Vašíček voda Jihomoravský-kraj Hodonínsko # kategorie odděleny m
 
 ### Nepovinné položky ###
 image: posts/vodahod.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
-#description: Popis který se zobrazí v náhledu v přehledů článků.
+#description: U hranic hodonínského okresu, mezi Moravským Pískem a Uherským Ostrohem, chce těžařská firma začít těžit a zpracovávat štěrkopísek. Pár let po zveřejnění záměru v roce 2006 začali protestovat lidé i obce. V lokalitě je totiž značné riziko, že těžba ovlivní podzemní vody a tím ohrozí pitnou vodu pro tisíce lidí na Hodonínsku. I přes nesouhlas veřejnosti v roce 2015 ministerstvo životního prostředí (MŽP) vydalo souhlasné stanovisko a o těžbě měl rozhodovat příslušný báňský úřad.
 
 ---
-U hranic hodonínského okresu, mezi Moravským Pískem a Uherským Ostrohem, chce těžařská firma začít těžit a zpracovávat štěrkopísek. Pár let po zveřejnění záměru v roce 2006 začali protestovat lidé i obce. V lokalitě je totiž značné riziko, že těžba ovlivní podzemní vody a tím ohrozí pitnou vodu pro tisíce lidí na Hodonínsku. I přes nesouhlas veřejnosti v roce 2015 ministerstvo životního prostředí (MŽP) vydalo souhlasné stanovisko a o těžbě měl rozhodovat příslušný báňský úřad.
+**U hranic hodonínského okresu, mezi Moravským Pískem a Uherským Ostrohem, chce těžařská firma začít těžit a zpracovávat štěrkopísek. Pár let po zveřejnění záměru v roce 2006 začali protestovat lidé i obce. V lokalitě je totiž značné riziko, že těžba ovlivní podzemní vody a tím ohrozí pitnou vodu pro tisíce lidí na Hodonínsku. I přes nesouhlas veřejnosti v roce 2015 ministerstvo životního prostředí (MŽP) vydalo souhlasné stanovisko a o těžbě měl rozhodovat příslušný báňský úřad.**
 
 Přes protesty občanů a obcí byl rozhodnutím Báňského úřadu v Brně v lednu 2019 stanoven dobývací prostor pro těžbu štěrku u Uherského Ostrohu.
 
