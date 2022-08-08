@@ -54,7 +54,6 @@ profiles:
 Místní sdružení Brno bylo založeno 21. prosince 2017. V současnosti máme 52 členů! 
 
 * [Programové priority Brno (PDF)](https://a.pirati.cz/jihomoravsky/pdf/brno-priority.pdf)
-* [Program Brno 2018 (PDF)](https://a.pirati.cz/jihomoravsky/pdf/brno-program.pdf)
 
 <hr>
 
