@@ -17,7 +17,7 @@ image: posts/znojmoweb.jpg # obrázek ideálně 420x677px minifikovaný přes ht
 
 ## I. Životní prostředí a veřejný prostor ##
  
- # Kvalita života ve městě 
+# Kvalita života ve městě 
  
  Všichni obyvatelé města mají právo na příjemný veřejný prostor a zdravé životní prostředí. Budeme jednat se všemi institucemi, abychom zajistili dodržování hygienických podmínek týkající se prachu a hluku ve městě. V praxi to třeba bude znamenat častější čištění ulic okolo vytížených silnic nebo lepší péči o zeleň a její vysazování kolem nich, jako jednoduchých protihlukových stěn. Při opravách nebo budování nového městského osvětlení budeme dbát na to, aby ozařovalo jen nezbytně nutné oblasti a nesvítilo zbytečně lidem do oken nebo ptákům do hnízd. 
  
