@@ -38,7 +38,8 @@ profiles:
 <hr>
 <img src="https://sucho.pirati.cz/assets/img/znojemsko.png" width="900">
 
-## **Program pro komunální volby 2022**
+## **[Program pro komunální volby 2022](https://jihomoravsky.pirati.cz/aktuality/program-2022-znojmo.html){:target="_blank"}**
+
 
 ## **Vznik**
 
