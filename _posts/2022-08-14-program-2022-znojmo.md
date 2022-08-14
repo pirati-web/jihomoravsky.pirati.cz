@@ -15,7 +15,7 @@ image: posts/znojmoweb.jpg # obrázek ideálně 420x677px minifikovaný přes ht
 ---
 **Program Pirátů do zastupitestva města Znojma 2022**
 
- ## I. Životní prostředí a veřejný prostor ##
+## I. Životní prostředí a veřejný prostor ##
  
  # Kvalita života ve městě 
  
