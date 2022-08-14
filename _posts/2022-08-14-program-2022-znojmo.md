@@ -9,13 +9,13 @@ author: Krajský MO
 tags: Znojmo Pavel-Nevrkla program komunalni-volby # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
 ### Nepovinné položky ###
-image: posts/stred.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/znojmoweb.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Program Pirátů do zastupitestva města Znojma 2022
 
 ---
 **Program Pirátů do zastupitestva města Znojma 2022**
 
- ## I. Životní prostředí a veřejný prostor 
+ ## I. Životní prostředí a veřejný prostor ##
  
  # Kvalita života ve městě 
  
